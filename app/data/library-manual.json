@@ -1,5 +1,140 @@
 [
   {
+    "id": "unsr:A/81/346",
+    "title": "Situation of human rights in the Democratic People's Republic of Korea: report of the Special Rapporteur (A/81/346)",
+    "url": "https://seoul.ohchr.org/sites/default/files/2026-10/A_81_346-EN.pdf",
+    "date": "2026-08-25",
+    "category": "report",
+    "publisher": "유엔 북한인권 특별보고관",
+    "note": "제81차 유엔 총회 제출 · 2025.6.~2026.5."
+  },
+  {
+    "id": "unhrc:A/HRC/RES/61/27",
+    "title": "Situation of human rights in the Democratic People's Republic of Korea (A/HRC/RES/61/27)",
+    "url": "https://undocs.org/A/HRC/RES/61/27",
+    "date": "2026-03-30",
+    "category": "resolution",
+    "publisher": "유엔 인권이사회",
+    "note": "표결 없이 채택"
+  },
+  {
+    "id": "unhc:A/HRC/60/58",
+    "title": "Situation of human rights in the Democratic People's Republic of Korea: report of the United Nations High Commissioner for Human Rights (A/HRC/60/58)",
+    "url": "https://www.ohchr.org/en/documents/country-reports/ahrc6058-situation-human-rights-democratic-peoples-republic-korea-report",
+    "date": "2025-09-12",
+    "category": "report",
+    "publisher": "유엔 인권최고대표사무소",
+    "note": "2014년 이후 상황 종합 보고서(결의 55/21) · 피해자·목격자 314명 면담"
+  },
+  {
+    "id": "unsr:A/80/149",
+    "title": "Situation of human rights in the Democratic People's Republic of Korea: report of the Special Rapporteur (A/80/149)",
+    "url": "https://documents.un.org/doc/undoc/gen/n25/196/24/pdf/n2519624.pdf",
+    "date": "2025-07-21",
+    "category": "report",
+    "publisher": "유엔 북한인권 특별보고관",
+    "note": "제80차 유엔 총회 제출 · 국외 납치·강제실종"
+  },
+  {
+    "id": "unhrc:A/HRC/RES/58/17",
+    "title": "Situation of human rights in the Democratic People's Republic of Korea (A/HRC/RES/58/17)",
+    "url": "https://undocs.org/A/HRC/RES/58/17",
+    "date": "2025-04-03",
+    "category": "resolution",
+    "publisher": "유엔 인권이사회",
+    "note": "표결 없이 채택 · 특별보고관 임무 연장"
+  },
+  {
+    "id": "unupr:A/HRC/DEC/58/108",
+    "title": "Outcome of the universal periodic review: Democratic People's Republic of Korea (A/HRC/DEC/58/108)",
+    "url": "https://undocs.org/A/HRC/DEC/58/108",
+    "date": "2025-03-25",
+    "category": "resolution",
+    "publisher": "유엔 보편적 정례검토(UPR)",
+    "note": "제4주기 UPR 결과 채택(결정)"
+  },
+  {
+    "id": "unsr:A/HRC/58/65",
+    "title": "Situation of human rights in the Democratic People's Republic of Korea: report of the Special Rapporteur (A/HRC/58/65)",
+    "url": "https://reliefweb.int/report/democratic-peoples-republic-korea/report-special-rapporteur-situation-human-rights-democratic-peoples-republic-korea-elizabeth-salmon-ahrc5865-enarruzh",
+    "date": "2025-03",
+    "category": "report",
+    "publisher": "유엔 북한인권 특별보고관",
+    "note": "제58차 인권이사회(2025.3.19. 상호대화) · 경제적·사회적·문화적 권리"
+  },
+  {
+    "id": "unhc:A/HRC/58/61",
+    "title": "Promoting accountability in the Democratic People's Republic of Korea: report of the United Nations High Commissioner for Human Rights (A/HRC/58/61)",
+    "url": "https://undocs.org/A/HRC/58/61",
+    "date": "2025-01-14",
+    "category": "report",
+    "publisher": "유엔 인권최고대표사무소",
+    "note": "2022.11.~2024.10. 책임규명 활동"
+  },
+  {
+    "id": "unupr:A/HRC/58/11",
+    "title": "Report of the Working Group on the Universal Periodic Review: Democratic People's Republic of Korea (A/HRC/58/11)",
+    "url": "https://undocs.org/A/HRC/58/11",
+    "date": "2024-12-19",
+    "category": "report",
+    "publisher": "유엔 보편적 정례검토(UPR)",
+    "note": "제4주기 UPR(2024.11. 심의)"
+  },
+  {
+    "id": "undl:4071983",
+    "title": "Situation of human rights in the Democratic People's Republic of Korea: resolution adopted by the General Assembly (A/RES/79/181)",
+    "url": "https://digitallibrary.un.org/record/4071983",
+    "date": "2024-12-17",
+    "category": "resolution",
+    "publisher": "유엔 총회",
+    "note": "표결 없이 채택"
+  },
+  {
+    "id": "unsr:A/79/235",
+    "title": "Situation of human rights in the Democratic People's Republic of Korea: report of the Special Rapporteur (A/79/235)",
+    "url": "https://undocs.org/A/79/235",
+    "date": "2024-09",
+    "category": "report",
+    "publisher": "유엔 북한인권 특별보고관",
+    "note": "제79차 유엔 총회 제출"
+  },
+  {
+    "id": "unhrc:A/HRC/RES/55/21",
+    "title": "Situation of human rights in the Democratic People's Republic of Korea (A/HRC/RES/55/21)",
+    "url": "https://undocs.org/A/HRC/RES/55/21",
+    "date": "2024-04",
+    "category": "resolution",
+    "publisher": "유엔 인권이사회",
+    "note": "표결 없이 채택 · 2014년 이후 상황에 대한 고등판무관 종합보고서 요청"
+  },
+  {
+    "id": "unsr:A/HRC/55/63",
+    "title": "Situation of human rights in the Democratic People's Republic of Korea: report of the Special Rapporteur (A/HRC/55/63)",
+    "url": "https://undocs.org/A/HRC/55/63",
+    "date": "2024-03",
+    "category": "report",
+    "publisher": "유엔 북한인권 특별보고관",
+    "note": "제55차 인권이사회 · COI 보고서 이후 10년의 책임규명 점검"
+  },
+  {
+    "id": "undl:4033011",
+    "title": "Situation of human rights in the Democratic People's Republic of Korea: resolution adopted by the General Assembly (A/RES/78/218)",
+    "url": "https://digitallibrary.un.org/record/4033011",
+    "date": "2023-12-19",
+    "category": "resolution",
+    "publisher": "유엔 총회",
+    "note": "표결 없이 채택"
+  },
+  {
+    "id": "unsr:A/HRC/52/65",
+    "title": "Situation of human rights in the Democratic People's Republic of Korea: report of the Special Rapporteur (A/HRC/52/65)",
+    "url": "https://undocs.org/A/HRC/52/65",
+    "date": "2023-03",
+    "category": "report",
+    "publisher": "유엔 북한인권 특별보고관",
+    "note": "제52차 인권이사회 · 여성과 여아의 권리"
+  },
+  {
     "id": "law:kr-nkhra-2016",
     "title": "북한인권법 (법률 제14070호)",
     "url": "https://www.law.go.kr/법령/북한인권법",
@@ -7,6 +142,23 @@
     "category": "law",
     "publisher": "대한민국 국회",
     "note": "2016.9.4. 시행"
+  },
+  {
+    "id": "undl:766464",
+    "title": "Report of the Commission of Inquiry on Human Rights in the Democratic People's Republic of Korea (A/HRC/25/63)",
+    "url": "https://digitallibrary.un.org/record/766464",
+    "date": "2014-02-07",
+    "category": "report",
+    "publisher": "유엔 북한인권 조사위원회(COI)"
+  },
+  {
+    "id": "unhrc:A/HRC/RES/22/13",
+    "title": "Situation of human rights in the Democratic People's Republic of Korea (A/HRC/RES/22/13)",
+    "url": "https://undocs.org/A/HRC/RES/22/13",
+    "date": "2013-03-21",
+    "category": "resolution",
+    "publisher": "유엔 인권이사회",
+    "note": "북한인권 조사위원회(COI) 설치"
   },
   {
     "id": "law:us-nkhra-2004",
@@ -17,11 +169,12 @@
     "publisher": "미국 의회"
   },
   {
-    "id": "undl:766464",
-    "title": "Report of the Commission of Inquiry on Human Rights in the Democratic People's Republic of Korea (A/HRC/25/63)",
-    "url": "https://digitallibrary.un.org/record/766464",
-    "date": "2014-02-07",
-    "category": "report",
-    "publisher": "유엔 북한인권 조사위원회(COI)"
+    "id": "unchr:E/CN.4/RES/2004/13",
+    "title": "Situation of human rights in the Democratic People's Republic of Korea (E/CN.4/RES/2004/13)",
+    "url": "https://undocs.org/E/CN.4/RES/2004/13",
+    "date": "2004-04-15",
+    "category": "resolution",
+    "publisher": "유엔 인권위원회",
+    "note": "북한인권 특별보고관 임무 신설"
   }
 ]

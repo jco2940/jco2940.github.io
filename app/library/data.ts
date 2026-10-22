@@ -14,7 +14,7 @@ export type Doc = {
   id: string;
   title: string;
   url: string;
-  date: string; // YYYY-MM-DD
+  date: string; // YYYY-MM-DD, 날짜를 확인하지 못한 문서는 YYYY-MM
   category: string;
   publisher: string;
   note?: string;
