@@ -9,6 +9,16 @@
 
 import { readFile, writeFile } from "node:fs/promises";
 
+// GitHub Actions 에서는 실패 이유를 주석(annotation)으로도 남긴다
+const fail = (e) => {
+  if (process.env.GITHUB_ACTIONS) console.log(`::error::${String(e?.message ?? e).replace(/\r?\n/g, " ")}`);
+  console.error(e);
+  process.exit(1);
+};
+process.on("uncaughtException", fail);
+process.on("unhandledRejection", fail);
+const report = (msg) => console.log(process.env.GITHUB_ACTIONS ? `::notice::${msg}` : msg);
+
 const DATA = new URL("../app/data/library.json", import.meta.url);
 const EXCLUDE = new URL("../app/data/library-exclude.json", import.meta.url);
 
@@ -43,7 +53,7 @@ async function getJSON(url) {
   for (let attempt = 1; ; attempt++) {
     const res = await fetch(url, { headers: { "User-Agent": "jco2940.github.io research library" } });
     if (res.ok) return res.json();
-    if (attempt >= 4 || (res.status < 500 && res.status !== 429)) throw new Error(`${res.status} ${url}`);
+    if (attempt >= 4 || (res.status < 500 && res.status !== 429)) throw new Error(`${res.status} ${(await res.text()).slice(0, 300)} ${url}`);
     await new Promise((r) => setTimeout(r, 2000 * attempt));
   }
 }
@@ -157,4 +167,4 @@ const items = [...byKey.values()].sort((a, b) => (b.date || "").localeCompare(a.
 const added = items.length - data.items.filter((i) => !exclude.has(i.id)).length;
 const changed = JSON.stringify(items) !== JSON.stringify(data.items);
 if (changed) await writeFile(DATA, JSON.stringify({ updated: new Date().toISOString().slice(0, 10), items }, null, 1) + "\n");
-console.log(`since ${since}: ${found.length} found, ${added} new, ${items.length} total${changed ? "" : " (no change)"}`);
+report(`since ${since}: ${found.length} found, ${added} new, ${items.length} total${changed ? "" : " (no change)"}`);
