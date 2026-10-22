@@ -8,7 +8,9 @@
    "source": "MBC 뉴스",
    "country": "KR",
    "published": "2026-10-22T09:11:23.000Z",
-   "fields": []
+   "fields": [
+    "economy"
+   ]
   },
   {
    "id": "정부유엔에北지뢰서한발송확성기엔비례적조치",
@@ -17,7 +19,10 @@
    "source": "연합뉴스TV",
    "country": "KR",
    "published": "2026-10-22T09:11:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "사설대남확성기방송경고한북한mdl긴장높일일말라",
@@ -26,7 +31,10 @@
    "source": "경향신문",
    "country": "KR",
    "published": "2026-10-22T09:10:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "국힘北지뢰도발에정부대응맹공외교안보라인경질촉구",
@@ -67,7 +75,10 @@
    "source": "한겨레",
    "country": "KR",
    "published": "2026-10-22T09:04:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "韩国未发现朝鲜在边境部署新武器迹象",
@@ -76,7 +87,9 @@
    "source": "诗华日报",
    "country": "CN",
    "published": "2026-10-22T09:01:33.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "u17女足世界杯最新积分榜阿根廷20战胜新西兰朝鲜61横扫波兰",
@@ -85,7 +98,11 @@
    "source": "搜狐",
    "country": "CN",
    "published": "2026-10-22T09:01:23.000Z",
-   "fields": []
+   "fields": [
+    "society",
+    "women",
+    "youth"
+   ]
   },
   {
    "id": "jangdaljungkimsallianceadherencebroughtstability",
@@ -94,7 +111,9 @@
    "source": "조선일보",
    "country": "US",
    "published": "2026-10-22T09:01:08.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "2战全胜狂轰12球朝鲜女足狂热表现提前晋级瞄准u17世界杯三连冠",
@@ -103,7 +122,11 @@
    "source": "搜狐",
    "country": "CN",
    "published": "2026-10-22T09:00:55.000Z",
-   "fields": []
+   "fields": [
+    "society",
+    "women",
+    "youth"
+   ]
   },
   {
    "id": "韩国国防部朝鲜必须回到对话桌前",
@@ -172,7 +195,10 @@
    "source": "Yahoo!ニュース",
    "country": "JP",
    "published": "2026-10-22T08:48:23.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "나흘간세차례김여정의확성기새대응수단위협외교부한달여만에유엔안보리에서한",
@@ -182,7 +208,8 @@
    "country": "KR",
    "published": "2026-10-22T08:48:00.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -192,7 +219,9 @@
    "source": "YTN",
    "country": "KR",
    "published": "2026-10-22T08:45:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreamobilisesarmytofiringpositionsaskimjongundeathrumourslinger",
@@ -202,7 +231,8 @@
    "country": "GB",
    "published": "2026-10-22T08:44:00.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -232,7 +262,9 @@
    "source": "매일경제",
    "country": "US",
    "published": "2026-10-22T08:42:42.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "北朝鮮の金与正キムヨジョン労働党総務部長が22日韓国大統領府と政府軍を非難し全国境線で新たな対応手段が任務待機態勢に入り対韓国拡声器も数日内に待機状態に入るだろ",
@@ -286,7 +318,10 @@
    "source": "upi",
    "country": "US",
    "published": "2026-10-22T08:41:30.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "northkoreaskimyojongsaysborderloudspeakersreadywithindays",
@@ -295,7 +330,10 @@
    "source": "upi",
    "country": "GB",
    "published": "2026-10-22T08:41:30.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "北확성기예고에도국방부비례적대응통일부대화촉구엇박자",
@@ -304,7 +342,10 @@
    "source": "아시아투데이",
    "country": "KR",
    "published": "2026-10-22T08:40:22.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "northkoreasignalspossibleresumptionofantisouthloudspeakercampaign",
@@ -313,7 +354,9 @@
    "source": "Hankyoreh : English Edition",
    "country": "US",
    "published": "2026-10-22T08:38:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreasignalspossibleresumptionofantisouthloudspeakercampaign",
@@ -322,7 +365,9 @@
    "source": "Hankyoreh : English Edition",
    "country": "GB",
    "published": "2026-10-22T08:38:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "민주당이재명대통령명예훼손혐의로장동혁고발",
@@ -340,7 +385,9 @@
    "source": "Hankyoreh : English Edition",
    "country": "US",
    "published": "2026-10-22T08:29:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "60년남북확성기의역사김여정의노림수는rfa자유아시아방송",
@@ -349,7 +396,10 @@
    "source": "Radio Free Asia",
    "country": "KR",
    "published": "2026-10-22T08:24:29.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "skoreatosendlettertounscurgingnkoreatotakeresponsibilityfordmzmineblast",
@@ -386,6 +436,7 @@
    "country": "KR",
    "published": "2026-10-22T08:16:14.000Z",
    "fields": [
+    "politics",
     "humanRights"
    ]
   },
@@ -397,7 +448,8 @@
    "country": "KR",
    "published": "2026-10-22T08:16:00.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -407,7 +459,9 @@
    "source": "Vietnam.vn",
    "country": "JP",
    "published": "2026-10-22T08:14:09.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "북한전국피복신발전시회2026개막",
@@ -464,7 +518,9 @@
    "source": "뉴시스",
    "country": "KR",
    "published": "2026-10-22T08:06:05.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "김정은사망설에북인터넷대규모접속장애까지도대체무슨일이",
@@ -508,7 +564,9 @@
    "source": "경기일보",
    "country": "KR",
    "published": "2026-10-22T08:01:44.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "2026年10月22日韩联社要闻简报",
@@ -536,7 +594,8 @@
    "country": "KR",
    "published": "2026-10-22T07:58:10.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -547,6 +606,7 @@
    "country": "KR",
    "published": "2026-10-22T07:57:16.000Z",
    "fields": [
+    "politics",
     "security"
    ]
   },
@@ -557,7 +617,9 @@
    "source": "Stars and Stripes",
    "country": "US",
    "published": "2026-10-22T07:56:44.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "legendarycombatleadertakeskeyeightharmypostastensionsrisewithnorthkorea",
@@ -566,7 +628,9 @@
    "source": "Stars and Stripes",
    "country": "GB",
    "published": "2026-10-22T07:56:44.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "unificationministrylinksnorthkorearesponsetosouthsactions",
@@ -593,7 +657,9 @@
    "source": "The Korea Times",
    "country": "US",
    "published": "2026-10-22T07:54:03.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "seoulmullsproportionatemeasureoverpyongyangsloudspeakerthreat",
@@ -602,7 +668,9 @@
    "source": "The Korea Times",
    "country": "GB",
    "published": "2026-10-22T07:54:03.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "イムジョンソク氏脱北漁民強制送還判決に北の凶悪犯も無条件で受け入れるのか",
@@ -622,7 +690,10 @@
    "source": "애드뉴스인천",
    "country": "KR",
    "published": "2026-10-22T07:52:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "北새대응수단확성기대기정부비례대응안보리서한맞불머니투데이",
@@ -631,7 +702,9 @@
    "source": "머니투데이",
    "country": "KR",
    "published": "2026-10-22T07:51:18.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "北朝鮮金正恩総書記は沈黙妹の金与正氏が韓国米国を猛批判鮮明になる外交の役割分担",
@@ -651,7 +724,9 @@
    "source": "Latest news from Azerbaijan",
    "country": "US",
    "published": "2026-10-22T07:49:06.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreawarnssouthkoreaasbordertensionsescalate",
@@ -660,7 +735,9 @@
    "source": "Latest news from Azerbaijan",
    "country": "GB",
    "published": "2026-10-22T07:49:06.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "대남확성기재가동예고한북한",
@@ -669,7 +746,10 @@
    "source": "뉴스핌",
    "country": "KR",
    "published": "2026-10-22T07:47:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "북한대남확성기재가동예고깊어지는남북갈등",
@@ -678,7 +758,10 @@
    "source": "뉴스핌",
    "country": "KR",
    "published": "2026-10-22T07:46:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "地雷爆発から1カ月国連安保理議長に書簡実効性欠如の対応に批判も中央日報日本語版",
@@ -687,7 +770,10 @@
    "source": "Yahoo!ニュース",
    "country": "JP",
    "published": "2026-10-22T07:45:13.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "地雷爆発から1カ月国連安保理議長に書簡実効性欠如の対応に批判も",
@@ -696,7 +782,10 @@
    "source": "中央日報",
    "country": "JP",
    "published": "2026-10-22T07:45:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "김여정새대응수단확성기대기연이틀경고",
@@ -705,7 +794,10 @@
    "source": "연합뉴스TV",
    "country": "KR",
    "published": "2026-10-22T07:44:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "다시지옥시작인가요북한대남방송공포덮인강화도",
@@ -714,7 +806,9 @@
    "source": "뉴시스",
    "country": "KR",
    "published": "2026-10-22T07:43:58.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "北朝鮮金正恩総書記は沈黙妹の金与正氏が韓国米国を猛批判鮮明になる外交の役割分担koreawave",
@@ -752,7 +846,9 @@
    "source": "조선일보",
    "country": "US",
    "published": "2026-10-22T07:40:58.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "southkoreacondemnsnorthsdmzlandmineprovocation",
@@ -761,7 +857,9 @@
    "source": "조선일보",
    "country": "GB",
    "published": "2026-10-22T07:40:58.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "特朗普推动年内会见朝鲜金正恩11月apec会面可能性",
@@ -782,7 +880,8 @@
    "country": "US",
    "published": "2026-10-22T07:38:44.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -793,7 +892,8 @@
    "country": "GB",
    "published": "2026-10-22T07:38:44.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -814,7 +914,10 @@
    "source": "투데이신문",
    "country": "KR",
    "published": "2026-10-22T07:35:26.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "朝鲜或重启对韩扩音喊话",
@@ -832,7 +935,9 @@
    "source": "UA.NEWS",
    "country": "US",
    "published": "2026-10-22T07:33:02.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "seoultoappealtounsecuritycouncilovernorthkoreamineallegationskoreaherald",
@@ -841,7 +946,9 @@
    "source": "UA.NEWS",
    "country": "GB",
    "published": "2026-10-22T07:33:02.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "familiesleftwithoutanswersthreeyearsafterforcedreturnstonorthkoreafromchina",
@@ -892,7 +999,9 @@
    "source": "韩联社",
    "country": "CN",
    "published": "2026-10-22T07:26:23.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "韩政府就朝鲜拟重启对韩喊话吁以对话解决问题",
@@ -910,7 +1019,10 @@
    "source": "光明日报",
    "country": "CN",
    "published": "2026-10-22T07:22:40.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "金与正对韩扩音器数日内准备就绪",
@@ -919,7 +1031,9 @@
    "source": "TDM",
    "country": "CN",
    "published": "2026-10-22T07:15:00.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "southkoreatoraiseallegednorthkoreanarmisticeviolationatunsecuritycouncil",
@@ -928,7 +1042,9 @@
    "source": "The Star",
    "country": "GB",
    "published": "2026-10-22T07:12:00.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "сеулобратитсявсовбезоониззаобвиненийкндрвминированииkoreaherald",
@@ -937,7 +1053,10 @@
    "source": "UA.NEWS",
    "country": "RU",
    "published": "2026-10-22T07:11:42.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "윤석열북한간첩지령과민주당정치적행보일치",
@@ -955,7 +1074,9 @@
    "source": "조선일보",
    "country": "KR",
    "published": "2026-10-22T07:06:18.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "이런적은처음북한전문가가본김여정의이례적행보y녹취록",
@@ -964,7 +1085,9 @@
    "source": "YTN",
    "country": "KR",
    "published": "2026-10-22T07:04:00.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "北朝鮮の新型兵器配備兆候なし韓国軍",
@@ -984,7 +1107,9 @@
    "source": "ｄメニューニュース",
    "country": "JP",
    "published": "2026-10-22T06:58:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "북한강원도대표단中장쑤성방문지방정부교류재개주목",
@@ -1011,7 +1136,9 @@
    "source": "Daily Excelsior",
    "country": "GB",
    "published": "2026-10-22T06:55:29.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "정부北지뢰도발한달만에규탄서한안보리의장에게발송예정",
@@ -1031,7 +1158,9 @@
    "source": "조선일보",
    "country": "JP",
    "published": "2026-10-22T06:54:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "美国拒绝国情院长访问朝鲜监视机构",
@@ -1049,7 +1178,9 @@
    "source": "The Korea Times",
    "country": "US",
    "published": "2026-10-22T06:53:07.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "pppurgesgovttoresumeloudspeakerbroadcastsagainstnkoreasmineblast",
@@ -1058,7 +1189,9 @@
    "source": "The Korea Times",
    "country": "GB",
    "published": "2026-10-22T06:53:07.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "韩国国防部为避免意外冲突朝鲜必须回到对话桌前",
@@ -1085,7 +1218,9 @@
    "source": "Рамблер",
    "country": "RU",
    "published": "2026-10-22T06:50:59.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "北朝鮮の拡声器放送再開表明韓国政府偶発衝突防止のため対話すべき",
@@ -1094,7 +1229,9 @@
    "source": "Yahoo!ニュース",
    "country": "JP",
    "published": "2026-10-22T06:48:04.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "군비례적조치있어야상응조치결정된건없어",
@@ -1134,7 +1271,10 @@
    "source": "IDNFinancials",
    "country": "GB",
    "published": "2026-10-22T06:40:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "金与正威胁韩国将在边境启动扩音器",
@@ -1143,7 +1283,10 @@
    "source": "IDNFinancials",
    "country": "CN",
    "published": "2026-10-22T06:40:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "金与正氏韓国に国境での拡声器稼働で警告",
@@ -1152,7 +1295,10 @@
    "source": "IDNFinancials",
    "country": "JP",
    "published": "2026-10-22T06:40:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "한국정부유엔안보리의장에서한dmz지뢰폭발은정전협정위반북한사과긴장고조방지촉구",
@@ -1161,7 +1307,10 @@
    "source": "VOA 한국어 홈페이지",
    "country": "KR",
    "published": "2026-10-22T06:39:07.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "정부유엔안보리의장에서한발송북한지뢰폭발대응조치",
@@ -1170,7 +1319,10 @@
    "source": "뉴스핌",
    "country": "KR",
    "published": "2026-10-22T06:38:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "northkoreaskimyojongwarnssouthkoreasaysborderloudspeakerstobereadywithindays",
@@ -1179,7 +1331,10 @@
    "source": "Devdiscourse",
    "country": "GB",
    "published": "2026-10-22T06:37:07.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "윤석열내란재판서또궤변북한간첩지령이민주당정책과일치",
@@ -1197,7 +1352,9 @@
    "source": "The Korea Herald",
    "country": "US",
    "published": "2026-10-22T06:36:28.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "seoultoraisenklandminearmisticeviolationwithunsecuritycouncil",
@@ -1206,7 +1363,9 @@
    "source": "The Korea Herald",
    "country": "GB",
    "published": "2026-10-22T06:36:28.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "northkoreasaysitwillresumepropagandabroadcastsacrossborderintosouthkorea",
@@ -1215,7 +1374,9 @@
    "source": "NPR",
    "country": "US",
    "published": "2026-10-22T06:36:07.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "북한남침게임에북한군불쌍동정론암살자들때와다른내로남불",
@@ -1233,7 +1394,9 @@
    "source": "Yahoo!ニュース",
    "country": "JP",
    "published": "2026-10-22T06:27:06.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "북한대남확성기재개준비정황포착군신형무기전방배치는아직",
@@ -1243,6 +1406,7 @@
    "country": "KR",
    "published": "2026-10-22T06:25:08.000Z",
    "fields": [
+    "politics",
     "security"
    ]
   },
@@ -1253,7 +1417,9 @@
    "source": "韩联社",
    "country": "CN",
    "published": "2026-10-22T06:25:08.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "외교부북한dmz지뢰폭발에유엔안보리서한발송정전협정위반",
@@ -1263,7 +1429,8 @@
    "country": "KR",
    "published": "2026-10-22T06:24:17.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -1273,7 +1440,10 @@
    "source": "Informat.ro",
    "country": "GB",
    "published": "2026-10-22T06:23:34.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "대남방송예고한북한",
@@ -1282,7 +1452,9 @@
    "source": "뉴스1",
    "country": "KR",
    "published": "2026-10-22T06:23:11.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "북한바라보는관광객",
@@ -1302,7 +1474,9 @@
    "source": "Around Prague",
    "country": "US",
    "published": "2026-10-22T06:22:32.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreasaysborderloudspeakerswillbereadywithindaysastensionsrise",
@@ -1311,7 +1485,9 @@
    "source": "Around Prague",
    "country": "GB",
    "published": "2026-10-22T06:22:32.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "rokurgesdprktoreturntodialogue",
@@ -1339,7 +1515,8 @@
    "country": "US",
    "published": "2026-10-22T06:16:40.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -1350,7 +1527,8 @@
    "country": "GB",
    "published": "2026-10-22T06:16:40.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -1360,7 +1538,10 @@
    "source": "The Korea Herald",
    "country": "US",
    "published": "2026-10-22T06:15:23.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "nkoreaskimyojongescalatesborderthreatsinapparentpressuretactic",
@@ -1369,7 +1550,10 @@
    "source": "The Korea Herald",
    "country": "GB",
    "published": "2026-10-22T06:15:23.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "skoreatosendlettertounscurgingnkoreatoapologizefordmzmineblast",
@@ -1396,7 +1580,10 @@
    "source": "뉴시스",
    "country": "KR",
    "published": "2026-10-22T06:11:41.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "임종석북한흉악범도무조건받아들여야하나분노넘어참담",
@@ -1414,7 +1601,9 @@
    "source": "연합뉴스",
    "country": "KR",
    "published": "2026-10-22T06:07:42.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "정부북한dmz지뢰폭발유엔안보리제기사과책임조치촉구",
@@ -1423,7 +1612,10 @@
    "source": "BBS불교방송",
    "country": "KR",
    "published": "2026-10-22T06:07:22.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "exofficialsdefend2019repatriationofnkfishermenascriminaldeportation",
@@ -1462,7 +1654,8 @@
    "country": "KR",
    "published": "2026-10-22T06:03:00.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -1473,7 +1666,8 @@
    "country": "KR",
    "published": "2026-10-22T06:03:00.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -1501,7 +1695,9 @@
    "source": "연합뉴스",
    "country": "KR",
    "published": "2026-10-22T06:01:48.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "강화도건너편에보이는북한대남확성기",
@@ -1510,7 +1706,10 @@
    "source": "연합뉴스",
    "country": "KR",
    "published": "2026-10-22T06:01:19.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "сицзиньпинзаявилоготовностикитаяукреплятьстратегическоесотрудничествоскндр",
@@ -1519,7 +1718,9 @@
    "source": "Armiya.az",
    "country": "RU",
    "published": "2026-10-22T06:01:00.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "인천강화접경주민들北대남방송재개예고에불안",
@@ -1529,6 +1730,7 @@
    "country": "KR",
    "published": "2026-10-22T05:58:32.000Z",
    "fields": [
+    "politics",
     "society"
    ]
   },
@@ -1551,7 +1753,8 @@
    "country": "CN",
    "published": "2026-10-22T05:54:41.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -1584,7 +1787,8 @@
    "country": "KR",
    "published": "2026-10-22T05:46:01.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -1605,7 +1809,9 @@
    "source": "매일신문",
    "country": "KR",
    "published": "2026-10-22T05:45:21.000Z",
-   "fields": []
+   "fields": [
+    "society"
+   ]
   },
   {
    "id": "习近平接见朝鲜朴泰成铭记中国志愿军的功绩峰会1个月后举行高级别会晤",
@@ -1615,6 +1821,7 @@
    "country": "CN",
    "published": "2026-10-22T05:44:10.000Z",
    "fields": [
+    "politics",
     "security"
    ]
   },
@@ -1636,7 +1843,10 @@
    "source": "NK News",
    "country": "US",
    "published": "2026-10-22T05:34:53.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "韩国人权委应将乌克兰的朝鲜战俘带回来",
@@ -1656,7 +1866,10 @@
    "source": "搜狐",
    "country": "CN",
    "published": "2026-10-22T05:05:45.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "金正恩氏死亡説が浮上した後北朝鮮のウェブサイトが2日連続で接続不能中央日報日本語版",
@@ -1688,7 +1901,10 @@
    "source": "조선일보",
    "country": "US",
    "published": "2026-10-22T04:57:37.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "金正恩氏死亡説が浮上した後北朝鮮のウェブサイトが2日連続で接続不能",
@@ -1708,7 +1924,9 @@
    "source": "朝鲜日报",
    "country": "CN",
    "published": "2026-10-22T04:53:56.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "сеулпредложилпхеньянуобсудитьситуациюнагранице",
@@ -1717,7 +1935,9 @@
    "source": "Caliber.Az",
    "country": "RU",
    "published": "2026-10-22T04:53:37.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreaskimyojongrespondstosouthkoreanlawmakersfacebookpostwithastatement",
@@ -1726,7 +1946,9 @@
    "source": "NK경제",
    "country": "US",
    "published": "2026-10-22T04:50:52.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "朝鲜几乎所有官方网站已断线超24小时",
@@ -1744,7 +1966,9 @@
    "source": "Japan Wire by Kyodo News",
    "country": "US",
    "published": "2026-10-22T04:44:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "nkoreawarnsofcountermeasuresloudspeakerbroadcastsagainstskorea",
@@ -1753,7 +1977,9 @@
    "source": "Japan Wire by Kyodo News",
    "country": "GB",
    "published": "2026-10-22T04:44:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "疯传金正恩死亡同时北韩网站连续两天无法访问",
@@ -1773,7 +1999,9 @@
    "source": "The Business Standard",
    "country": "US",
    "published": "2026-10-22T04:40:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreatoresumepropagandabroadcastsalongborderwithsouthkorea",
@@ -1782,7 +2010,9 @@
    "source": "The Business Standard",
    "country": "GB",
    "published": "2026-10-22T04:40:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "сестракимченынанашиновыеответныесредствабудутнаходитьсявполнойбоеготовности",
@@ -1802,7 +2032,10 @@
    "source": "韩联社",
    "country": "CN",
    "published": "2026-10-22T04:37:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "northkoreatoresumeantiseoulpropagandabroadcastsatborder",
@@ -1811,7 +2044,9 @@
    "source": "Ratopati",
    "country": "US",
    "published": "2026-10-22T04:36:33.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "whatkimyojongsborderwarningsrevealaboutinterkoreanescalationrisk",
@@ -1820,7 +2055,10 @@
    "source": "South China Morning Post",
    "country": "GB",
    "published": "2026-10-22T04:35:54.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "northkoreaplanstorestartloudspeakercampaignagainstseoul",
@@ -1829,7 +2067,9 @@
    "source": "Bangladesh Post",
    "country": "GB",
    "published": "2026-10-22T04:33:34.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "金正恩の妹が国境を視察する",
@@ -1839,7 +2079,8 @@
    "country": "JP",
    "published": "2026-10-22T04:31:47.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -1849,7 +2090,9 @@
    "source": "조선일보",
    "country": "US",
    "published": "2026-10-22T04:25:47.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "北朝鮮金与正氏新たな対抗手段が任務待機態勢に韓国に警告拡声器も再開準備",
@@ -1858,7 +2101,10 @@
    "source": "FNNプライムオンライン",
    "country": "JP",
    "published": "2026-10-22T04:24:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "southkoreawarnsnorthagainstescalatingtensionsalongmilitarizedborder",
@@ -1867,7 +2113,9 @@
    "source": "Koreabizwire",
    "country": "US",
    "published": "2026-10-22T04:23:49.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "southkoreawarnsnorthagainstescalatingtensionsalongmilitarizedborder",
@@ -1876,7 +2124,9 @@
    "source": "Koreabizwire",
    "country": "GB",
    "published": "2026-10-22T04:23:49.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "кндрпригрозилаюжнойкореесамымиужаснымипоследствиями",
@@ -1895,7 +2145,8 @@
    "country": "US",
    "published": "2026-10-22T04:17:07.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -1906,7 +2157,8 @@
    "country": "GB",
    "published": "2026-10-22T04:17:07.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -1917,6 +2169,7 @@
    "country": "JP",
    "published": "2026-10-22T04:12:27.000Z",
    "fields": [
+    "politics",
     "security"
    ]
   },
@@ -1938,7 +2191,9 @@
    "source": "Anadolu Ajansı",
    "country": "US",
    "published": "2026-10-22T04:10:28.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreathreatenssouthwithmosthorribleconsequencesannouncesbordercountermeasur",
@@ -1947,7 +2202,9 @@
    "source": "Anadolu Ajansı",
    "country": "GB",
    "published": "2026-10-22T04:10:28.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "金与正朝鲜的战术猎人组已占据新阵地对韩国心理战扩音器本月将在边境全线投入运行",
@@ -1956,7 +2213,10 @@
    "source": "搜狐",
    "country": "CN",
    "published": "2026-10-22T04:09:09.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "northkoreatoresumepropagandabroadcaststhroughloudspeaker",
@@ -1965,7 +2225,9 @@
    "source": "VOI.ID",
    "country": "GB",
    "published": "2026-10-22T04:05:17.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "北朝鮮は音声増幅器を通じて宣伝放送を継続する",
@@ -1993,7 +2255,8 @@
    "country": "US",
    "published": "2026-10-22T04:03:00.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -2004,7 +2267,8 @@
    "country": "GB",
    "published": "2026-10-22T04:03:00.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -2014,7 +2278,9 @@
    "source": "inkl",
    "country": "US",
    "published": "2026-10-22T04:00:32.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreapreparestorestartpropagandaloudspeakersastiessourwithsouth",
@@ -2023,7 +2289,9 @@
    "source": "inkl",
    "country": "GB",
    "published": "2026-10-22T04:00:32.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreadailylife",
@@ -2099,7 +2367,10 @@
    "source": "TRT World",
    "country": "US",
    "published": "2026-10-22T03:45:13.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "southkoreaseeksbordertalksasnorthkoreathreatenstodeployloudspeakers",
@@ -2108,7 +2379,10 @@
    "source": "TRT World",
    "country": "GB",
    "published": "2026-10-22T03:45:13.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "fateunknownformanyreturnedtonorthkoreafromchina",
@@ -2146,7 +2420,10 @@
    "source": "手机网易网",
    "country": "CN",
    "published": "2026-10-22T03:15:06.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "社论脱北渔民北送有罪判决是对文政权违宪的审判",
@@ -2199,7 +2476,10 @@
    "source": "Daily Maverick",
    "country": "US",
    "published": "2026-10-22T02:57:10.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "northkoreaskimyojongwarnssouthkoreasaysborderloudspeakerstobeready",
@@ -2208,7 +2488,10 @@
    "source": "Daily Maverick",
    "country": "GB",
    "published": "2026-10-22T02:57:10.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "金与正氏拡声器は数日内に待機状態に韓国の呼びかけに反発",
@@ -2217,7 +2500,10 @@
    "source": "毎日新聞",
    "country": "JP",
    "published": "2026-10-22T02:54:10.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "俄罗斯要求遣返2名朝军俘虏",
@@ -2237,7 +2523,10 @@
    "source": "AFPBB News",
    "country": "JP",
    "published": "2026-10-22T02:49:33.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "金与正督战朝韩边境要塞化李在明被说不清的边界难住",
@@ -2246,7 +2535,10 @@
    "source": "view.inews.qq.com",
    "country": "CN",
    "published": "2026-10-22T02:49:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "skoreaurgesnktostopborderescalationactsamidpyongyangsloudspeakerthreat",
@@ -2255,7 +2547,9 @@
    "source": "The Korea Times",
    "country": "US",
    "published": "2026-10-22T02:45:03.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "skoreaurgesnktostopborderescalationactsamidpyongyangsloudspeakerthreat",
@@ -2264,7 +2558,9 @@
    "source": "The Korea Times",
    "country": "GB",
    "published": "2026-10-22T02:45:03.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "金与正韩国制造边境地雷爆炸事故甩锅推责转嫁矛盾还要干涉朝鲜在边境筑墙这是嘴硬朝鲜新的反制手段将待命",
@@ -2273,7 +2569,10 @@
    "source": "21财经",
    "country": "CN",
    "published": "2026-10-22T02:39:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "日韓の防空網を脅かし始めた北朝鮮のミサイル技術金賢エキスパート",
@@ -2293,7 +2592,10 @@
    "source": "Yahoo!ニュース",
    "country": "JP",
    "published": "2026-10-22T02:33:15.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "在地雷挑衅发生一个月后金与正称本月内将启动扩音器",
@@ -2302,7 +2604,9 @@
    "source": "朝鲜日报",
    "country": "CN",
    "published": "2026-10-22T02:33:13.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "串串柿饼映秋色",
@@ -2331,7 +2635,10 @@
    "source": "Devdiscourse",
    "country": "US",
    "published": "2026-10-22T02:10:20.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "社论朝再对俄派兵3万名要坐等安保灾难临头吗",
@@ -2340,7 +2647,9 @@
    "source": "朝鲜日报",
    "country": "CN",
    "published": "2026-10-22T02:07:30.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "首尔将就朝鲜被指布雷一事致函联合国安理会韩国先驱报",
@@ -2349,7 +2658,9 @@
    "source": "UA.NEWS",
    "country": "CN",
    "published": "2026-10-22T02:07:00.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "共に民主党の金秉柱キムビョンジュ議員は22日北朝鮮が軍事境界線mdlの越境に対応した韓国軍の警告射撃に反発し新しい対応手段が任務待機態勢に入ったと明らかにしたこ",
@@ -2409,7 +2720,10 @@
    "source": "韩民族日报",
    "country": "CN",
    "published": "2026-10-22T02:02:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "northkoreachinatradegrowsasnewborderbridgeopens",
@@ -2419,6 +2733,7 @@
    "country": "US",
    "published": "2026-10-22T01:56:14.000Z",
    "fields": [
+    "security",
     "economy"
    ]
   },
@@ -2430,6 +2745,7 @@
    "country": "GB",
    "published": "2026-10-22T01:56:14.000Z",
    "fields": [
+    "security",
     "economy"
    ]
   },
@@ -2440,7 +2756,10 @@
    "source": "Yahoo!ニュース",
    "country": "JP",
    "published": "2026-10-22T01:55:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "黄海で合同島しょ防衛訓練",
@@ -2467,7 +2786,9 @@
    "source": "朝鲜日报",
    "country": "CN",
    "published": "2026-10-22T01:43:14.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "northkoreanathletewinssilverintabletennisatasianparagames",
@@ -2485,7 +2806,9 @@
    "source": "TradingView",
    "country": "US",
    "published": "2026-10-22T01:39:00.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "southkoreaurgesnorthkoreatoholdtalkstopreventanaccidentalclash",
@@ -2494,7 +2817,9 @@
    "source": "TradingView",
    "country": "GB",
    "published": "2026-10-22T01:39:00.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "каятьсяневчемкакналадитьотношениясюжнойкореейкотораяэскалируетконфликтесливиныук",
@@ -2534,7 +2859,9 @@
    "source": "Bloomberg.com",
    "country": "US",
    "published": "2026-10-22T01:23:58.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreasaysloudspeakerswillbereadynearborderindays",
@@ -2543,7 +2870,9 @@
    "source": "Bloomberg.com",
    "country": "GB",
    "published": "2026-10-22T01:23:58.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "乒乓球亚锦赛朝鲜队退赛添变数",
@@ -2594,7 +2923,9 @@
    "source": "Aju Press",
    "country": "US",
    "published": "2026-10-22T01:00:08.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "loudspeakerstobeonstandbynorthkoreanleaderssistersays",
@@ -2603,7 +2934,9 @@
    "source": "Aju Press",
    "country": "GB",
    "published": "2026-10-22T01:00:08.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "北朝鮮対韓国の任務待機",
@@ -2645,6 +2978,7 @@
    "published": "2026-10-22T00:54:00.000Z",
    "fields": [
     "politics",
+    "security",
     "society"
    ]
   },
@@ -2666,7 +3000,9 @@
    "source": "联合早报",
    "country": "CN",
    "published": "2026-10-22T00:50:30.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "习近平今日访问朝鲜朝鲜无论谁承认与否拥核国地位都绝不会退让",
@@ -2676,6 +3012,7 @@
    "country": "CN",
    "published": "2026-10-22T00:48:10.000Z",
    "fields": [
+    "politics",
     "security"
    ]
   },
@@ -2697,7 +3034,10 @@
    "source": "聯合ニュース",
    "country": "JP",
    "published": "2026-10-22T00:46:45.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "韩驻华大使卢载宪关注新鸭绿江大桥看对朝制裁是否出现漏洞",
@@ -2737,7 +3077,10 @@
    "source": "朝鮮日報",
    "country": "JP",
    "published": "2026-10-22T00:30:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "对奇特的装扮加强管控制作和销售服装的百姓也成为管控对象dailynkchinese",
@@ -2791,7 +3134,10 @@
    "source": "조선일보",
    "country": "US",
    "published": "2026-10-22T00:06:59.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "kimyojongannouncesresumptionofloudspeakerbroadcaststowardsouth",
@@ -2800,7 +3146,10 @@
    "source": "조선일보",
    "country": "GB",
    "published": "2026-10-22T00:06:59.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "kimyojongwarnsofnewcountermeasuresatborder",
@@ -2809,7 +3158,10 @@
    "source": "Korea JoongAng Daily",
    "country": "GB",
    "published": "2026-10-22T00:01:27.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "北朝鮮拡声器放送今月中にも再開へ去年6月以来金与正氏が国境要塞化の複数現場を視察",
@@ -2818,7 +3170,10 @@
    "source": "Yahoo!ニュース",
    "country": "JP",
    "published": "2026-10-21T23:57:46.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "朝称在维护领土主权上不能有半点犹豫令敌人畏惧的火力部署",
@@ -2847,7 +3202,10 @@
    "source": "聯合ニュース",
    "country": "JP",
    "published": "2026-10-21T23:52:59.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "金与正发表谈话",
@@ -2856,7 +3214,9 @@
    "source": "搜狐",
    "country": "CN",
    "published": "2026-10-21T23:47:55.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "北朝鮮拘束中の韓国人宣教師3人について犯罪者の処罰は司法上の権利国連で主張中央日報日本語版",
@@ -2865,7 +3225,10 @@
    "source": "Yahoo!ニュース",
    "country": "JP",
    "published": "2026-10-21T23:44:32.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "humanRights"
+   ]
   },
   {
    "id": "北朝鮮拘束中の韓国人宣教師3人について犯罪者の処罰は司法上の権利国連で主張",
@@ -2874,7 +3237,10 @@
    "source": "中央日報",
    "country": "JP",
    "published": "2026-10-21T23:44:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "humanRights"
+   ]
   },
   {
    "id": "韩方进一步撤回驻乌克兰使领馆人员",
@@ -2892,7 +3258,11 @@
    "source": "搜狐",
    "country": "CN",
    "published": "2026-10-21T23:36:43.000Z",
-   "fields": []
+   "fields": [
+    "society",
+    "women",
+    "youth"
+   ]
   },
   {
    "id": "кимёчжонвновьпредупредиласеуложёсткомответевслучаеугрозы",
@@ -2901,7 +3271,9 @@
    "source": "Life.ru",
    "country": "RU",
    "published": "2026-10-21T23:35:51.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "апелляционныйсудпризналпринудительнуюрепатриациювкндрнезаконнойчоныйёнисохунприг",
@@ -2919,7 +3291,10 @@
    "source": "FNNプライムオンライン",
    "country": "JP",
    "published": "2026-10-21T23:30:00.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "朝批量发射导弹官媒再度沉默",
@@ -2950,7 +3325,9 @@
    "source": "동아일보",
    "country": "GB",
    "published": "2026-10-21T23:25:21.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "要塞化作業現場を視察",
@@ -2988,7 +3365,9 @@
    "source": "Интерфакс",
    "country": "RU",
    "published": "2026-10-21T22:54:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "金与正氏全境界線で対応手段を待機対南拡声器も近く稼働準備中央日報日本語版",
@@ -2997,7 +3376,10 @@
    "source": "Yahoo!ニュース",
    "country": "JP",
    "published": "2026-10-21T22:51:40.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "北朝鮮で大型焼き肉店が続々開業33日間で12店新中間層の消費狙う",
@@ -3126,7 +3508,9 @@
    "source": "UN News",
    "country": "RU",
    "published": "2026-10-21T16:08:10.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "вновойcallofdutyроссияиспользуеткндрдлявойныпротивсшаиподготовкизахватаукраины",
@@ -3135,7 +3519,9 @@
    "source": "АНТИКОР",
    "country": "RU",
    "published": "2026-10-21T16:00:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "впхеньянеоткрылсяцентробучениярусскомуязыку",
@@ -3144,7 +3530,9 @@
    "source": "Русский век",
    "country": "RU",
    "published": "2026-10-21T15:30:26.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "послетогокаккиевнепубличноизвинилсяпередсеуломзараскрытиесекретнойинформацииопер",

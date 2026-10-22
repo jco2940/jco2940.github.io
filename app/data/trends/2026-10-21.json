@@ -30,7 +30,9 @@
    "source": "https://saomos.news/",
    "country": "RU",
    "published": "2026-10-21T14:52:12.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "сестракимченынапригрозилауничтожатьюжнокорейскихвоенных",
@@ -74,6 +76,7 @@
    "country": "CN",
    "published": "2026-10-21T14:35:23.000Z",
    "fields": [
+    "security",
     "economy"
    ]
   },
@@ -84,7 +87,9 @@
    "source": "新浪网",
    "country": "CN",
    "published": "2026-10-21T14:35:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "едванеказнилизаоднословоэксдипломаткндррассказалкакпроходятвстречискимченыном",
@@ -153,7 +158,9 @@
    "source": "prospect.com.ru",
    "country": "RU",
    "published": "2026-10-21T14:09:35.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "экспертыназвали12000рабочихизкндрназаводеповыпускудроноввроссиижертвамиторговлил",
@@ -163,6 +170,7 @@
    "country": "RU",
    "published": "2026-10-21T14:05:40.000Z",
    "fields": [
+    "security",
     "economy"
    ]
   },
@@ -173,7 +181,9 @@
    "source": "中国新闻网",
    "country": "CN",
    "published": "2026-10-21T14:03:55.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "北朝鮮の金与正キムヨジョン労働党総務部長が21日10月中に対韓国心理戦拡声器が全国境線で稼動状態に入ると明らかにした北朝鮮軍の軍事境界線mdl侵犯に対応した韓国",
@@ -194,7 +204,10 @@
    "source": "凤凰网",
    "country": "CN",
    "published": "2026-10-21T14:01:19.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "江苏省委书记信长星省长刘小涛会见朝鲜江原道代表团",
@@ -212,7 +225,9 @@
    "source": "Vietnam.vn",
    "country": "JP",
    "published": "2026-10-21T13:44:46.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreathreatensacounterattackimmediatelywarningnomercytoseoul",
@@ -221,7 +236,9 @@
    "source": "London Business News",
    "country": "GB",
    "published": "2026-10-21T13:43:12.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreasmajorwebsiteshitbyseconddayofoutagesabrokenlineoracyberattack",
@@ -230,7 +247,9 @@
    "source": "BigGo Finance",
    "country": "GB",
    "published": "2026-10-21T13:35:00.000Z",
-   "fields": []
+   "fields": [
+    "economy"
+   ]
   },
   {
    "id": "北朝鮮の主要ウェブサイトが2日連続で接続障害回線故障かサイバー攻撃か",
@@ -260,7 +279,9 @@
    "source": "London Now",
    "country": "GB",
    "published": "2026-10-21T13:22:16.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "кндрготовитпсихологическуюатакунаграницесюжнойкореей",
@@ -269,7 +290,9 @@
    "source": "Caliber.Az",
    "country": "RU",
    "published": "2026-10-21T13:18:34.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "金与正朝鲜本月内恢复对韩国宣传扩音广播",
@@ -278,7 +301,9 @@
    "source": "8world",
    "country": "CN",
    "published": "2026-10-21T13:18:27.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "сестракимченынапредупредилаюжнуюкореюопоследствияхпровокаций",
@@ -309,7 +334,9 @@
    "source": "Newser",
    "country": "US",
    "published": "2026-10-21T13:15:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "kimssistersaysthenorthwillturnitsloudspeakerson",
@@ -318,7 +345,9 @@
    "source": "Newser",
    "country": "GB",
    "published": "2026-10-21T13:15:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "北朝鮮韓宣伝放送を10月中に開始戦術部隊が新たな配置にロイター",
@@ -336,7 +365,9 @@
    "source": "ВКонтакте",
    "country": "RU",
    "published": "2026-10-21T13:06:10.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "обновленноесоглашениеосотрудничествеподписалигенпрокурорыроссииикндрвидеоотizru",
@@ -345,7 +376,9 @@
    "source": "ВКонтакте",
    "country": "RU",
    "published": "2026-10-21T13:06:06.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "южнаякореяотзываетчастьсвоихдипломатовизукраиныиззаспораотносительнопленныхизкнд",
@@ -363,7 +396,9 @@
    "source": "Українські Національні Новини (УНН)",
    "country": "US",
    "published": "2026-10-21T13:00:22.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreawilldeployloudspeakersalongtheborderforpsychologicalwarfareagainstsout",
@@ -372,7 +407,9 @@
    "source": "Українські Національні Новини (УНН)",
    "country": "GB",
    "published": "2026-10-21T13:00:22.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "кндрразвернётгромкоговорителивдольграницыдляпсихологическойвойныпротивюжнойкореи",
@@ -381,7 +418,9 @@
    "source": "Українські Національні Новини (УНН)",
    "country": "RU",
    "published": "2026-10-21T13:00:22.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "信长星刘小涛会见朝鲜江原道代表团",
@@ -408,7 +447,9 @@
    "source": "Ottumwa Courier",
    "country": "US",
    "published": "2026-10-21T12:19:37.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreatoresumeusingloudspeakersalongborderbyendofoctober",
@@ -417,7 +458,9 @@
    "source": "Korea JoongAng Daily",
    "country": "GB",
    "published": "2026-10-21T12:12:37.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "казахстанскиепараспортсменызавоевалисереброибронзунаиграхвнагое",
@@ -426,7 +469,9 @@
    "source": "Azattyq Ruhy",
    "country": "RU",
    "published": "2026-10-21T12:12:00.000Z",
-   "fields": []
+   "fields": [
+    "society"
+   ]
   },
   {
    "id": "тысячироссиянужепобываливкндрмеждустранамирасширяетсяпассажирскоесообщение",
@@ -444,7 +489,9 @@
    "source": "The Times of India",
    "country": "GB",
    "published": "2026-10-21T12:10:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "хакерыlazarusзадействовалиииипостквантовоешифрованиевкибершпионаже",
@@ -453,7 +500,9 @@
    "source": "ForkLog",
    "country": "RU",
    "published": "2026-10-21T12:04:36.000Z",
-   "fields": []
+   "fields": [
+    "economy"
+   ]
   },
   {
    "id": "севернаякореяпоможетроссииразвиватьискусственныйинтеллект",
@@ -471,7 +520,10 @@
    "source": "NK News",
    "country": "US",
    "published": "2026-10-21T12:03:12.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "kimyojongsaysnorthkoreawillrestartloudspeakersaftervisitingborder",
@@ -480,7 +532,10 @@
    "source": "NK News",
    "country": "GB",
    "published": "2026-10-21T12:03:12.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "nkoreatoresumepropagandaloudspeakerbroadcaststowardskoreakimyojong",
@@ -489,7 +544,10 @@
    "source": "The Korea Times",
    "country": "GB",
    "published": "2026-10-21T12:03:03.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "金総書記の妹らが国境線付近の要塞化工事を視察北朝鮮メディア",
@@ -498,7 +556,9 @@
    "source": "TBS NEWS DIG",
    "country": "JP",
    "published": "2026-10-21T12:01:21.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "朝鲜将恢复通过扩音器向韩国方向播放宣传节目",
@@ -516,7 +576,9 @@
    "source": "時事ドットコム",
    "country": "JP",
    "published": "2026-10-21T11:54:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "ростехразрабатываетбпласхарактеристикамикрылатыхракет",
@@ -545,7 +607,10 @@
    "source": "极目新闻",
    "country": "CN",
    "published": "2026-10-21T11:45:46.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "runninginnorthkoreawasthecraziestexperienceaimeefullerhaseverhad",
@@ -594,7 +659,10 @@
    "source": "Yahoo!ニュース",
    "country": "JP",
    "published": "2026-10-21T11:40:24.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "详讯金与正称月内将在边界全线重启对韩喊话",
@@ -603,7 +671,9 @@
    "source": "韩联社",
    "country": "CN",
    "published": "2026-10-21T11:36:10.000Z",
-   "fields": []
+   "fields": [
+    "politics"
+   ]
   },
   {
    "id": "朝鲜多名高官视察朝韩边境要塞金与正国家元首下令在维护领土主权上不能有半点犹豫新火力部队已部署在战斗阵地",
@@ -612,7 +682,10 @@
    "source": "搜狐",
    "country": "CN",
    "published": "2026-10-21T11:32:19.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "朝鲜多名高官视察朝韩边境要塞化工地金与正战斗阵地已部署新火力部队维护领土主权不能有半点犹豫将同敌对国家的边界变成最永久的界线",
@@ -621,7 +694,10 @@
    "source": "搜狐",
    "country": "CN",
    "published": "2026-10-21T11:30:47.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "northkoreatoactivateantisouthloudspeakersalongborder",
@@ -630,7 +706,9 @@
    "source": "Yahoo",
    "country": "US",
    "published": "2026-10-21T11:29:46.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "northkoreatoactivateantisouthloudspeakersalongborder",
@@ -639,7 +717,9 @@
    "source": "Yahoo",
    "country": "GB",
    "published": "2026-10-21T11:29:46.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "kimjongunssisterissuesstarkthreatonvisittoborderwithsouthkorea",
@@ -649,7 +729,8 @@
    "country": "GB",
    "published": "2026-10-21T11:19:00.000Z",
    "fields": [
-    "politics"
+    "politics",
+    "security"
    ]
   },
   {
@@ -728,7 +809,9 @@
    "source": "Ukr.net",
    "country": "RU",
    "published": "2026-10-21T10:25:01.000Z",
-   "fields": []
+   "fields": [
+    "economy"
+   ]
   },
   {
    "id": "генпрокуроргуцанпоблагодарилкндрзаосвобождениекурскойобласти",
@@ -747,6 +830,7 @@
    "country": "JP",
    "published": "2026-10-21T10:21:10.000Z",
    "fields": [
+    "politics",
     "security"
    ]
   },
@@ -784,7 +868,10 @@
    "source": "搜狐",
    "country": "CN",
    "published": "2026-10-21T10:10:06.000Z",
-   "fields": []
+   "fields": [
+    "politics",
+    "security"
+   ]
   },
   {
    "id": "каждыедвагодаодноитожекорееведпризвалигнорироватьслухиосмертикимченына",
@@ -845,6 +932,7 @@
    "country": "JP",
    "published": "2026-10-21T09:44:00.000Z",
    "fields": [
+    "politics",
     "security"
    ]
   },
@@ -855,7 +943,9 @@
    "source": "香港電台",
    "country": "CN",
    "published": "2026-10-21T09:36:00.000Z",
-   "fields": []
+   "fields": [
+    "security"
+   ]
   },
   {
    "id": "北朝鮮新たな火力部隊が射撃位置に就いた韓国に警告ａｆｐ時事",
@@ -874,6 +964,7 @@
    "country": "JP",
    "published": "2026-10-21T09:33:24.000Z",
    "fields": [
+    "politics",
     "security"
    ]
   },

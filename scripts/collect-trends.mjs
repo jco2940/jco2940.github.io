@@ -1,9 +1,10 @@
 // 북한 사회 동향 수집기. 나라별 Google 뉴스(RSS)에서 지난 하루 동안의 북한 관련 기사 제목·언론사·링크를 모아
 // 한국 시간 날짜별로 app/data/trends/YYYY-MM-DD.json 에 더한다. 기사 본문은 저장하지 않는다.
 //
-//   node scripts/collect-trends.mjs
+//   node scripts/collect-trends.mjs            새 기사 수집
+//   node scripts/collect-trends.mjs --retag    분류 낱말을 고친 뒤, 이미 모은 기사의 분야를 다시 매김
 
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 
 const DIR = new URL("../app/data/trends/", import.meta.url);
 const PER_COUNTRY_PER_DAY = 60;
@@ -19,14 +20,46 @@ const EDITIONS = [
 
 // 제목에 이 말이 들어 있으면 그 분야로 분류한다(여러 분야 가능). 언어마다 따로 적는다
 const FIELDS = {
-  politics: ["김정은", "노동당", "당중앙", "최고인민회의", "정치국", "정권", "외교", "정상회담", "Kim Jong", "Workers' Party", "regime", "summit", "diplomat", "foreign minister", "金正恩", "劳动党", "労働党", "外交", "首脳", "Ким Чен Ын", "ТПК", "переговор", "визит", "МИД"],
-  security: ["미사일", "핵무기", "핵실험", "핵개발", "핵위협", "비핵화", "핵잠", "군사", "도발", "무기", "파병", "탄도", "missile", "nuclear", "military", "troops", "weapon", "launch", "导弹", "核", "军", "ミサイル", "軍", "ракет", "ядер", "войск", "военн", "оруж"],
-  economy: ["경제", "무역", "제재", "관광", "시장", "식량", "공장", "농업", "economy", "economic", "trade", "sanction", "tourism", "tourist", "food", "crypto", "IT worker", "经济", "贸易", "制裁", "旅游", "経済", "貿易", "観光", "экономик", "торгов", "санкц", "туризм", "турист"],
-  society: ["주민", "생활", "사회", "문화", "보건", "의료", "재난", "홍수", "residents", "society", "culture", "health", "flood", "社会", "文化", "生活", "общество", "культур", "здравоохран", "наводнен"],
-  humanRights: ["인권", "탈북", "억류", "납북", "북송", "수용소", "이산가족", "human rights", "defector", "refugee", "abduct", "detain", "prison camp", "人权", "脱北", "人権", "拉致", "прав человека", "перебежчик", "беженц"],
-  women: ["여성", "여맹", "women", "woman", "妇女", "女性", "женщин"],
+  politics: [
+    "김정은", "김여정", "노동당", "당중앙", "최고인민회의", "정치국", "정권", "외교", "정상회담", "회담", "담화", "대남", "남북", "통일부", "유엔", "대사", "동맹",
+    "Kim Jong", "Kim Yo", "Workers' Party", "regime", "summit", "talks", "diplomat", "envoy", "foreign minister", "United Nations", "Security Council", "alliance", "Trump", "Putin", "Xi Jinping",
+    "金正恩", "金与正", "金與正", "劳动党", "労働党", "外交", "会谈", "会談", "首脳", "联合国", "国連", "习近平", "外长",
+    "Ким Чен Ын", "Ким Ё Чжон", "ТПК", "переговор", "визит", "МИД", "ООН", "Совбез", "Путин", "Си Цзиньпин", "Лавров", "посол", "сотрудничеств",
+  ],
+  security: [
+    "미사일", "핵무기", "핵실험", "핵개발", "핵위협", "비핵화", "핵잠", "군사", "도발", "무기", "파병", "탄도", "지뢰", "확성기", "군사분계선", "MDL", "국경", "전쟁", "훈련", "병력", "무인기", "드론", "포격", "정찰", "위성",
+    "missile", "nuclear", "military", "loudspeaker", "troops", "weapon", "launch", "border", "drone", "landmine", "war", "drill", "artillery", "army", "satellite", "soldier",
+    "导弹", "核", "军", "武器", "派兵", "安保", "边境", "演习", "卫星", "ミサイル", "軍", "演習", "衛星", "国境", "拡声器", "境界線", "派兵",
+    "ракет", "ядер", "войск", "военн", "оруж", "минирован", "мины", "границ", "учени", "спутник", "войн", "арми", "дрон", "солдат",
+  ],
+  economy: [
+    "경제", "무역", "제재", "관광", "시장", "식량", "공장", "농업", "IT인력", "위장 취업", "가상자산", "암호화폐", "해킹", "노동자", "수출", "투자",
+    "economy", "economic", "trade", "sanction", "tourism", "tourist", "food", "crypto", "IT worker", "hack", "cyber", "workers", "export",
+    "经济", "贸易", "制裁", "旅游", "黑客", "劳工", "投资", "経済", "貿易", "観光", "ハッキング",
+    "экономик", "торгов", "санкц", "туризм", "турист", "хакер", "рабоч", "инвестиц",
+  ],
+  society: [
+    "주민", "생활", "사회", "문화", "보건", "의료", "재난", "홍수", "스포츠", "축구", "올림픽", "영화", "종교",
+    "residents", "society", "culture", "health", "flood", "football", "soccer", "sport", "film", "religio",
+    "社会", "文化", "生活", "足球", "女足", "体育", "サッカー", "スポーツ",
+    "общество", "культур", "здравоохран", "наводнен", "футбол", "спорт",
+  ],
+  humanRights: [
+    "인권", "탈북", "억류", "선교사", "납북", "북송", "수용소", "이산가족", "국군포로", "강제노동",
+    "human rights", "defector", "refugee", "abduct", "detain", "missionar", "prison camp", "forced labor", "forced labour",
+    "人权", "脱北", "人権", "拉致", "拘束", "宣教師",
+    "прав человека", "перебежчик", "беженц",
+  ],
+  women: ["여성", "여맹", "여자", "women", "woman", "female", "妇女", "女性", "女足", "женщин"],
   education: ["교육", "학교", "대학", "학생", "교원", "education", "school", "university", "student", "教育", "学校", "大学", "学生", "образован", "школ", "университет", "студент"],
-  youth: ["청년", "청소년", "아동", "어린이", "소년단", "youth", "children", "young", "青年", "儿童", "子ども", "молодеж", "детей", "дети", "детск"],
+  youth: ["청년", "청소년", "아동", "어린이", "소년단", "U17", "U20", "youth", "children", "young", "青年", "儿童", "子ども", "молодеж", "детей", "дети", "детск"],
+};
+
+const tagFields = (title) => {
+  const lower = title.toLowerCase();
+  return Object.entries(FIELDS)
+    .filter(([, words]) => words.some((w) => lower.includes(w.toLowerCase())))
+    .map(([f]) => f);
 };
 
 const decode = (s) =>
@@ -59,7 +92,6 @@ async function fetchEdition(e) {
       let title = tag(item, "title");
       if (source && title.endsWith(` - ${source}`)) title = title.slice(0, -(source.length + 3));
       const published = new Date(tag(item, "pubDate"));
-      const lower = title.toLowerCase();
       return {
         id: norm(title).slice(0, 80),
         title,
@@ -67,9 +99,7 @@ async function fetchEdition(e) {
         source,
         country: e.country,
         published: published.toISOString(),
-        fields: Object.entries(FIELDS)
-          .filter(([, words]) => words.some((w) => lower.includes(w.toLowerCase())))
-          .map(([f]) => f),
+        fields: tagFields(title),
       };
     })
     .filter((a) => a.title && a.url && !Number.isNaN(Date.parse(a.published)));
@@ -79,6 +109,16 @@ const report = (msg) => console.log(process.env.GITHUB_ACTIONS ? `::notice::${ms
 const warn = (msg) => console.log(process.env.GITHUB_ACTIONS ? `::warning::${msg}` : msg);
 
 await mkdir(DIR, { recursive: true });
+
+if (process.argv.includes("--retag")) {
+  for (const f of (await readdir(DIR)).filter((f) => f.endsWith(".json"))) {
+    const day = JSON.parse(await readFile(new URL(f, DIR), "utf8"));
+    day.items.forEach((a) => (a.fields = tagFields(a.title)));
+    await writeFile(new URL(f, DIR), JSON.stringify(day, null, 1) + "\n");
+    report(`${f}: ${day.items.filter((a) => a.fields.length).length}/${day.items.length}건 분류`);
+  }
+  process.exit(0);
+}
 const byDay = new Map();
 for (const e of EDITIONS) {
   try {
