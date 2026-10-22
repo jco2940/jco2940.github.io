@@ -68,7 +68,7 @@ const topicsOf = (story: Story) => {
   return TOPICS.filter((re) => re.test(text));
 };
 
-// 국내 방송사 기사인지: 방송사·프로그램 검색으로 모였거나 언론사 이름이 방송사
+// 국내 방송사 기사인지: 방송사·프로그램 검색으로 모였거나 언론사 이름이 방송사 (scripts/collect-trends.mjs 와 같은 목록)
 const BROADCASTER = /KBS|MBC|SBS|YTN|JTBC|연합뉴스TV|MBN|채널A|TV조선|TV CHOSUN|OBS|EBS/i;
 export const isBroadcast = (a: Article) => Boolean(a.via) || (a.country === "KR" && BROADCASTER.test(a.source));
 

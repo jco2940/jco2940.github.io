@@ -1,15 +1,4 @@
 {
  "date": "2020-04-03",
- "items": [
-  {
-   "id": "jtbcnewsjtbc뉴스",
-   "title": "JTBC News JTBC 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBHcmk5cHhhRzJwMGx3TGpjM2EyWGx3SnB4SkxsN0Ixd2FoS3dPOUNWLXVkSU5QVGdqNTM5dw?oc=5",
-   "source": "JTBC",
-   "country": "KR",
-   "via": "broadcast",
-   "published": "2020-04-03T11:20:07.000Z",
-   "fields": []
-  }
- ]
+ "items": []
 }

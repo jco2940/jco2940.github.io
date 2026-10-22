@@ -13,8 +13,8 @@ export default function Home() {
   const series = research.groups.find((g) => g.id === "online-series")!.items.slice(0, 3);
   const latest = trendDays()[0];
   const stories = latest ? featuredStories(latest) : [];
-  // MEDIA: 국내 방송사(KBS·MBC 등)와 북한 전문 프로그램이 다룬 핵심 이슈. FEATURED 와 겹치는 이야기는 뺀다
-  const onAir = latest ? featuredStories(latest, { only: isBroadcast, minSources: 1, exclude: stories }) : [];
+  // MEDIA: 국내 방송사(KBS·MBC 등)와 북한 전문 프로그램이 가장 많이 다룬 이슈. FEATURED 와는 보는 눈이 달라 같은 이야기가 겹칠 수 있다
+  const onAir = latest ? featuredStories(latest, { only: isBroadcast, minSources: 1 }) : [];
   const notes = recentNotes();
 
   return (

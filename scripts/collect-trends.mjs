@@ -2,7 +2,7 @@
 // 한국 시간 날짜별로 app/data/trends/YYYY-MM-DD.json 에 더한다. 기사 본문은 저장하지 않는다.
 //
 //   node scripts/collect-trends.mjs            새 기사 수집
-//   node scripts/collect-trends.mjs --retag    분류 낱말을 고친 뒤, 이미 모은 기사의 분야를 다시 매김
+//   node scripts/collect-trends.mjs --retag    분류 낱말이나 거르는 기준을 고친 뒤, 이미 모은 기사에 다시 적용
 
 import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 
@@ -72,6 +72,14 @@ const tagFields = (title) => {
     .map(([f]) => f);
 };
 
+// 방송사·프로그램 검색은 본문에만 '북한'이 나오는 기사도 걸러 오므로, 제목이 북한을 다루는 것만 남긴다
+const NK_TITLE = /북한|북측|北|김정은|김여정|평양|조선중앙|노동신문|로동신문|탈북|북송|남북|대남|대북|DMZ|비무장지대|군사분계선/;
+const BROADCASTER = /KBS|MBC|SBS|YTN|JTBC|연합뉴스TV|MBN|채널A|TV조선|TV CHOSUN|OBS|EBS/i;
+const PROGRAM = /남북의 창|통일전망대|클로즈업 북한/;
+// 프로그램 검색은 그 이름을 언급한 다른 언론 기사도 가져오므로, 방송사 기사이거나 제목에 프로그램 이름이 있는 것만 남긴다
+const keep = (a) =>
+  !a.via || (NK_TITLE.test(a.title) && (a.via !== "program" || BROADCASTER.test(a.source) || PROGRAM.test(a.title)));
+
 const decode = (s) =>
   s
     .replace(/<!\[CDATA\[|\]\]>/g, "")
@@ -113,7 +121,8 @@ async function fetchEdition(e) {
         fields: tagFields(title),
       };
     })
-    .filter((a) => a.title && a.url && !Number.isNaN(Date.parse(a.published)));
+    .filter((a) => a.title && a.url && !Number.isNaN(Date.parse(a.published)))
+    .filter(keep);
 }
 
 const report = (msg) => console.log(process.env.GITHUB_ACTIONS ? `::notice::${msg}` : msg);
@@ -124,6 +133,7 @@ await mkdir(DIR, { recursive: true });
 if (process.argv.includes("--retag")) {
   for (const f of (await readdir(DIR)).filter((f) => f.endsWith(".json"))) {
     const day = JSON.parse(await readFile(new URL(f, DIR), "utf8"));
+    day.items = day.items.filter(keep);
     day.items.forEach((a) => (a.fields = tagFields(a.title)));
     await writeFile(new URL(f, DIR), JSON.stringify(day, null, 1) + "\n");
     report(`${f}: ${day.items.filter((a) => a.fields.length).length}/${day.items.length}건 분류`);
