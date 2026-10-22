@@ -239,3 +239,19 @@ a.card:hover { border-color: var(--accent); }
 @media (max-width: 760px) {
   .trend-stats { grid-template-columns: repeat(3, 1fr); }
 }
+
+.card-thumb { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 2px; background: var(--soft); }
+.recent-notes { margin-top: 64px; }
+.recent-notes h2 { margin: 0; padding-bottom: 18px; border-bottom: 2px solid var(--ink); font-size: 2rem; font-weight: 700; letter-spacing: -.045em; }
+.recent-notes ul { list-style: none; margin: 0; padding: 0; }
+.recent-notes li a { display: grid; grid-template-columns: 92px minmax(0, 1fr) 16px; gap: 18px; padding: 16px 0; border-bottom: 1px solid var(--line); }
+.recent-notes time { color: var(--muted); font: .74rem Georgia, serif; padding-top: 2px; }
+.recent-notes .kind { color: var(--accent); font-size: .64rem; font-weight: 650; }
+.recent-notes strong { display: block; margin-top: 2px; font-size: .86rem; font-weight: 620; line-height: 1.5; letter-spacing: -.02em; }
+.recent-notes p { margin: 3px 0 0; color: var(--muted); font-size: .7rem; line-height: 1.5; }
+.recent-notes li a > span:last-child { color: var(--muted); font-size: .76rem; }
+.recent-notes li a:hover strong { color: var(--accent); }
+@media (max-width: 760px) {
+  .recent-notes li a { grid-template-columns: 1fr 14px; gap: 4px 12px; }
+  .recent-notes time { grid-column: 1 / -1; }
+}

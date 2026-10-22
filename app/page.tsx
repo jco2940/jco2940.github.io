@@ -2,11 +2,14 @@ import Link from "next/link";
 import { Cover } from "./components";
 import { ARCHIVES, PROFILE } from "../site.config";
 import research from "./data/research.json";
+import { mediaCards, recentNotes } from "./home";
 
 export default function Home() {
   const all = research.groups.flatMap((g) => g.items.map((item) => ({ ...item, group: g.title, groupId: g.id })));
   const featured = all.filter((item) => item.featured);
   const series = research.groups.find((g) => g.id === "online-series")!.items.slice(0, 3);
+  const cards = mediaCards();
+  const notes = recentNotes();
 
   return (
     <main className="archive-home">
@@ -51,6 +54,42 @@ export default function Home() {
           ))}
         </div>
 
+        {cards.length > 0 && (
+          <>
+            <div className="home-section-head">
+              <p className="eyebrow">MEDIA</p>
+              <Link href="/media">전체 보기</Link>
+            </div>
+            <div className="card-row">
+              {cards.map((card, i) => {
+                const body = (
+                  <>
+                    {card.image ? (
+                      // eslint-disable-next-line @next/next/no-img-element
+                      <img src={card.image} alt="" className="card-thumb" />
+                    ) : (
+                      <Cover label={card.label} title={card.title} tone={i + 2} />
+                    )}
+                    <span className="feature-meta">
+                      {card.date} · <em>{card.label}</em>
+                    </span>
+                    <strong>{card.title}</strong>
+                  </>
+                );
+                return card.external ? (
+                  <a key={card.href + card.title} href={card.href} className="feature-card">
+                    {body}
+                  </a>
+                ) : (
+                  <Link key={card.href + card.title} href={card.href} className="feature-card">
+                    {body}
+                  </Link>
+                );
+              })}
+            </div>
+          </>
+        )}
+
         <div className="home-section-head">
           <p className="eyebrow">ONLINE SERIES</p>
           <Link href="/research#online-series">전체 보기</Link>
@@ -66,6 +105,31 @@ export default function Home() {
             </Link>
           ))}
         </div>
+
+        <section className="recent-notes">
+          <p className="eyebrow">RESEARCH NOTES &amp; ARCHIVE</p>
+          <h2>최근 기록</h2>
+          <ul>
+            {notes.map((note) => {
+              const body = (
+                <>
+                  <time>{note.date.replaceAll("-", ".")}</time>
+                  <span>
+                    <span className="kind">{note.kind}</span>
+                    <strong>{note.title}</strong>
+                    {note.sub && <p>{note.sub}</p>}
+                  </span>
+                  <span aria-hidden="true">{note.external ? "↗" : "→"}</span>
+                </>
+              );
+              return (
+                <li key={note.kind + note.date + note.title}>
+                  {note.external ? <a href={note.href}>{body}</a> : <Link href={note.href}>{body}</Link>}
+                </li>
+              );
+            })}
+          </ul>
+        </section>
       </section>
     </main>
   );
