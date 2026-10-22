@@ -23,20 +23,21 @@ const warn = (msg) => console.log(process.env.GITHUB_ACTIONS ? `::warning::${msg
 const DATA = new URL("../app/data/library.json", import.meta.url);
 const EXCLUDE = new URL("../app/data/library-exclude.json", import.meta.url);
 
-const NK = '("North Korea" OR "North Korean" OR "North Koreans" OR DPRK OR Pyongyang)';
+// 북한이 제목에 들어간 논문만 받는다(초록에만 스치듯 나오는 책 장·논문을 거르려고). 주제어는 제목이나 초록에서 찾는다
+const NK_TITLE = '("North Korea" OR "North Korean" OR "North Koreans" OR DPRK OR Pyongyang OR Nordkorea OR КНДР OR 북한 OR 북한이탈주민 OR 탈북 OR 탈북민 OR 北朝鮮 OR 朝鲜)';
 const TOPICS = {
   education: {
-    openalex: `${NK} AND (education OR school OR schooling OR teacher OR teachers OR university OR curriculum OR textbook OR students)`,
+    openalex: `(education OR school OR schooling OR teacher OR teachers OR university OR curriculum OR textbook OR students)`,
     kci: ["북한 교육", "북한 학교", "북한 교원", "북한 교사", "북한 대학", "북한 교과서", "북한 교육과정"],
     ko: ["교육", "학교", "교원", "교사", "대학", "교과", "학생", "학습"],
   },
   diaspora: {
-    openalex: `${NK} AND (defector OR defectors OR refugee OR refugees OR migrant OR migrants OR diaspora OR resettlement OR escapee OR escapees)`,
+    openalex: `(defector OR defectors OR refugee OR refugees OR migrant OR migrants OR diaspora OR resettlement OR escapee OR escapees)`,
     kci: ["북한이탈주민", "탈북민", "탈북", "북한이탈", "북한 디아스포라", "북한 이주민"],
     ko: ["이탈", "탈북", "디아스포라", "이주", "정착", "난민"],
   },
   economy: {
-    openalex: `${NK} AND (economy OR economic OR market OR markets OR marketization OR trade OR sanctions OR industry OR agriculture OR food)`,
+    openalex: `(economy OR economic OR market OR markets OR marketization OR trade OR sanctions OR industry OR agriculture OR food)`,
     kci: ["북한 경제", "북한 시장", "북한 무역", "북한 대북제재", "북한 산업", "북한 농업", "북한 식량"],
     ko: ["경제", "시장", "무역", "제재", "산업", "농업", "식량", "기업"],
   },
@@ -97,7 +98,7 @@ async function fromOpenAlex(topic, query) {
     let cursor = key ? "*" : null;
     do {
       const url = new URL("https://api.openalex.org/works");
-      url.searchParams.set("filter", `title_and_abstract.search:${query},from_publication_date:${from},to_publication_date:${to},type:${KINDS}`);
+      url.searchParams.set("filter", `title.search:${NK_TITLE},title_and_abstract.search:${query},from_publication_date:${from},to_publication_date:${to},type:${KINDS}`);
       url.searchParams.set("select", "id,doi,display_name,publication_date,authorships,primary_location,language");
       url.searchParams.set("per-page", "200");
       if (key) {
