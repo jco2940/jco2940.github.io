@@ -16,6 +16,7 @@
    "lang": "en",
    "topics": [
     "diaspora",
+    "elderly",
     "women",
     "youth"
    ],
@@ -41,6 +42,42 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.1177/20578911261495776",
+   "title": "Fragile persistence: Elite coordination and authoritarian durability in North Korea",
+   "authors": [
+    "Bon Sang Koo"
+   ],
+   "date": "2026-10-08",
+   "venue": "Asian Journal of Comparative Politics",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.1177/20578911261495776",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.4324/9781042031115-2",
+   "title": "Performative state presence shapes citizenship in the China-North Korea borderland",
+   "authors": [
+    "Shiwei Chen"
+   ],
+   "date": "2026-10-08",
+   "venue": "Routledge eBooks",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.4324/9781042031115-2",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.4324/9781003797739-6",
    "title": "A comparative analysis of South and North Korean language textbooks used in the period from 1946 to 1954",
    "authors": [
@@ -52,6 +89,7 @@
    "lang": "en",
    "topics": [
     "education",
+    "politics",
     "women",
     "youth"
    ],
@@ -71,6 +109,7 @@
    "lang": "en",
    "topics": [
     "education",
+    "politics",
     "youth"
    ],
    "url": "https://doi.org/10.4324/9781003797739-9",
@@ -88,9 +127,54 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "education"
+    "education",
+    "politics"
    ],
    "url": "https://doi.org/10.4324/9781003797739-8",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.63802/pemr.v2.i2.357",
+   "title": "From Technological Capability to Disaster Governance in North Korea: An Evidence-Bounded Framework from Scientific Publications",
+   "authors": [
+    "Leyuan Liu"
+   ],
+   "date": "2026-10-03",
+   "venue": "PoliEcoM Administration Review",
+   "countries": [
+    "KR"
+   ],
+   "lang": "",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.63802/pemr.v2.i2.357",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.3390/rs18193387",
+   "title": "Asymmetric Evolution and Multi-Scenario Projections of Landscape Ecological Risk in a China–North Korea Transboundary Basin Under Land-Use Change",
+   "authors": [
+    "Jinda Li",
+    "Jiayi Kong",
+    "Donghe Quan",
+    "Yuting Zhang",
+    "Yuanlin Wang",
+    "외"
+   ],
+   "date": "2026-10-02",
+   "venue": "Remote Sensing",
+   "countries": [
+    "CN",
+    "SG"
+   ],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.3390/rs18193387",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -110,6 +194,30 @@
     "youth"
    ],
    "url": "https://doi.org/10.17034/32638185",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.1080/00330124.2026.2727381",
+   "title": "Natural Disasters in an Inaccessible Area: An Integrative Geographic Analysis of Kimhwa County, North Korea",
+   "authors": [
+    "Jin‐Tae Hwang",
+    "Jin‐Tae Hwang",
+    "Hyo-Jeong Choe",
+    "Yoosoon An",
+    "Joohee Hwang",
+    "외"
+   ],
+   "date": "2026-10-01",
+   "venue": "The Professional Geographer",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.1080/00330124.2026.2727381",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -146,9 +254,28 @@
    ],
    "lang": "ko",
    "topics": [
-    "economy"
+    "economy",
+    "politics"
    ],
    "url": "https://doi.org/10.64227/jdis.2026.2.2.4",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.17937/topsr.36.3.202609.125",
+   "title": "A Study on the Politics of Portrait insignia in North Korea and the Change of Perception of People's Portrait insignia",
+   "authors": [
+    "Gyulee Kim",
+    "SeongRyul Kim"
+   ],
+   "date": "2026-09-30",
+   "venue": "21st centry Political Science Review",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.17937/topsr.36.3.202609.125",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -198,7 +325,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "economy"
+    "economy",
+    "politics"
    ],
    "url": "https://doi.org/10.29159/kjas.44.3.173",
    "source": "openalex",
@@ -269,7 +397,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "education"
+    "education",
+    "politics"
    ],
    "url": "https://doi.org/10.15652/ink.2026.23.3.233",
    "source": "openalex",
@@ -294,6 +423,42 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.29398/kjsq.2026.10.3.27",
+   "title": "Widening Regional Disparities in North Korea and the Regional Development 20×10 Policy under Kim Jong Un",
+   "authors": [
+    "Jong‐Woon Lee"
+   ],
+   "date": "2026-09-30",
+   "venue": "Korean Journal of Social Quality",
+   "countries": [],
+   "lang": "",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.29398/kjsq.2026.10.3.27",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.54414/yglc3051",
+   "title": "Sacred and Revolutionary: Propaganda Analysis of South Korean and North Korean Online News Articles on Mount Paektu",
+   "authors": [
+    "Murad Asgarov"
+   ],
+   "date": "2026-09-25",
+   "venue": "The Research Journal of Mountains Biodiversity Landscapes and Cultures",
+   "countries": [
+    "AZ"
+   ],
+   "lang": "",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.54414/yglc3051",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.65959/eaa.1867",
    "title": "From Pyongyang to Netflix: Naengmyŏn in Modern Korean History",
    "authors": [
@@ -306,7 +471,8 @@
    ],
    "lang": "",
    "topics": [
-    "economy"
+    "economy",
+    "politics"
    ],
    "url": "https://doi.org/10.65959/eaa.1867",
    "source": "openalex",
@@ -381,7 +547,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "economy"
+    "economy",
+    "politics"
    ],
    "url": "https://doi.org/10.5281/zenodo.22818966",
    "source": "openalex",
@@ -409,6 +576,26 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.1163/15685373-bja10003",
+   "title": "Belief, Ritual, and Surveillance: Can Cognitive Science of Religion Help Us Understand the North Korean Regime?",
+   "authors": [
+    "Roman Husarski",
+    "Piotr Szymanek"
+   ],
+   "date": "2026-09-15",
+   "venue": "Journal of Cognition and Culture",
+   "countries": [
+    "PL"
+   ],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.1163/15685373-bja10003",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.1016/j.ecoinf.2026.104049",
    "title": "How do multi-factor interactions shape the seasonal dynamics of forest fires across the China–North Korea–Russia transboundary region?",
    "authors": [
@@ -431,6 +618,23 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.82444/warw.33736120",
+   "title": "Religion and cultural policy in North Korea: the significance of protestantism in politics, culture and international relations from the 1970s to the early 1990s",
+   "authors": [
+    "Seong Lim Noh"
+   ],
+   "date": "2026-09-14",
+   "venue": "Warwick Research Archive Portal (University of Warwick)",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.82444/warw.33736120",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.82444/warw.33588013",
    "title": "The political economy ofjapanese sanctions towards North Korea: Domestic coalitions and international systemic pressures",
    "authors": [
@@ -441,7 +645,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "economy"
+    "economy",
+    "politics"
    ],
    "url": "https://doi.org/10.82444/warw.33588013",
    "source": "openalex",
@@ -459,9 +664,27 @@
    "lang": "",
    "topics": [
     "economy",
-    "education"
+    "education",
+    "politics"
    ],
    "url": "https://doi.org/10.82444/warw.33528040",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.82444/warw.33523228",
+   "title": "Bad, mad, sad or rational actor? Why the 'securitization' paradigm makes for poor policy analysis of north Korea",
+   "authors": [
+    "No author provided"
+   ],
+   "date": "2026-09-10",
+   "venue": "University of Warwick",
+   "countries": [],
+   "lang": "",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.82444/warw.33523228",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -478,9 +701,29 @@
    ],
    "lang": "ru",
    "topics": [
-    "economy"
+    "economy",
+    "politics"
    ],
    "url": "https://doi.org/10.48647/icca.2026.90.84.024",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.1080/09512748.2026.2729314",
+   "title": "The changing political meaning of nuclear weapons in North Korea",
+   "authors": [
+    "Sang Hun Seok"
+   ],
+   "date": "2026-09-08",
+   "venue": "The Pacific Review",
+   "countries": [
+    "GB"
+   ],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.1080/09512748.2026.2729314",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -515,7 +758,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "education"
+    "education",
+    "politics"
    ],
    "url": "https://doi.org/10.4324/9781003473473-13",
    "source": "openalex",
@@ -535,9 +779,29 @@
    "lang": "ru",
    "topics": [
     "economy",
-    "education"
+    "education",
+    "politics"
    ],
    "url": "https://doi.org/10.48647/icca.2026.67.90.021",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.48647/icca.2026.38.29.008",
+   "title": "Трансформация восприятия Южной Кореи в КНДР в 2010—2020-е годы: от «Нам Чосон»",
+   "authors": [
+    "S. O. Kurbanov"
+   ],
+   "date": "2026-09-05",
+   "venue": "Современные проблемы Корейского полуострова",
+   "countries": [
+    "RU"
+   ],
+   "lang": "ru",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.48647/icca.2026.38.29.008",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -558,7 +822,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "elderly"
    ],
    "url": "https://doi.org/10.1093/applin/amag076",
    "source": "openalex",
@@ -622,6 +887,25 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.1163/18754112-20263010",
+   "title": "Developments at the UN Security Council on Accountability of the DPRK for International Crimes",
+   "authors": [
+    "Seunghyun Nam"
+   ],
+   "date": "2026-09-01",
+   "venue": "Journal of International Peacekeeping",
+   "countries": [
+    "KR"
+   ],
+   "lang": "",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.1163/18754112-20263010",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.35227/hylr.2026.8.37.3.69",
    "title": "A Comparative Study of Healthcare Administrative Law in South and North Korea and Measures for Legislative Integration",
    "authors": [
@@ -632,7 +916,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "politics"
    ],
    "url": "https://doi.org/10.35227/hylr.2026.8.37.3.69",
    "source": "openalex",
@@ -674,6 +959,23 @@
     "education"
    ],
    "url": "https://doi.org/10.37060/kjee.33.2.1",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.52594/jcp.2026.08.19.2.77",
+   "title": "Changing Perceptions of the United States and the Typological Shift in Anti-Americanism: The North Korean Regime and the Korean Communist Party, 1945–1953",
+   "authors": [
+    "Daehwan Kim"
+   ],
+   "date": "2026-08-31",
+   "venue": "JOURNAL OF CONTEMPORARY POLITICS",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.52594/jcp.2026.08.19.2.77",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -734,6 +1036,7 @@
    "lang": "en",
    "topics": [
     "diaspora",
+    "elderly",
     "youth"
    ],
    "url": "https://doi.org/10.4178/epih.e2026049",
@@ -771,6 +1074,7 @@
    "countries": [],
    "lang": "",
    "topics": [
+    "politics",
     "women"
    ],
    "url": "https://doi.org/10.29349/jchg.2026.38.2.132",
@@ -788,7 +1092,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "economy"
+    "economy",
+    "politics"
    ],
    "url": "https://doi.org/10.56022/ceas.2026.32.2.125",
    "source": "openalex",
@@ -846,9 +1151,29 @@
    "lang": "en",
    "topics": [
     "diaspora",
+    "politics",
     "women"
    ],
    "url": "https://doi.org/10.1177/01171968261477011",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.14731/kjis.2026.04.24.2.323",
+   "title": "How Does Housing Space Become a Governing Tool for Authoritarian Regimes? A Comparison of Housing Politics During the Three Presidential Eras of Turkmenistan and the Kim Jong-un Era of North Korea *",
+   "authors": [
+    "JeeMan HAN",
+    "Sungchul Kang",
+    "Yechan Moon"
+   ],
+   "date": "2026-08-24",
+   "venue": "The Korean Journal of International Studies",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.14731/kjis.2026.04.24.2.323",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -865,7 +1190,8 @@
    ],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "politics"
    ],
    "url": "https://doi.org/10.6082/c79zg-w8h44",
    "source": "openalex",
@@ -882,7 +1208,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "politics"
    ],
    "url": "https://doi.org/10.4324/9781003681113-18",
    "source": "openalex",
@@ -906,6 +1233,25 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.1111/pafo.70035",
+   "title": "Domestic Spoilers in Nuclear Deals: The Collapse of the United States–North Korea Agreed Framework",
+   "authors": [
+    "Iordanka Alexandrova"
+   ],
+   "date": "2026-08-12",
+   "venue": "Pacific Focus",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.1111/pafo.70035",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.1177/00219096261470391",
    "title": "A divided nation, divided views? How South Koreans’ political and social orientations shape their view of North Korea?",
    "authors": [
@@ -918,7 +1264,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "politics"
    ],
    "url": "https://doi.org/10.1177/00219096261470391",
    "source": "openalex",
@@ -970,6 +1317,47 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.1007/s00706-026-03500-2",
+   "title": "Profiling of ginsenosides and volatile organic compounds in the North Korean alcoholic beverage “Kaesong Koryo Insam Wine” using HPLC–MS/MS and GC × GC-HRMS",
+   "authors": [
+    "Karel Nesměrák",
+    "Markéta Bauerová",
+    "Petr Kozlík",
+    "Anton Korban",
+    "Renata Píplová",
+    "외"
+   ],
+   "date": "2026-08-03",
+   "venue": "Monatshefte für Chemie - Chemical Monthly",
+   "countries": [
+    "CZ"
+   ],
+   "lang": "en",
+   "topics": [
+    "elderly"
+   ],
+   "url": "https://doi.org/10.1007/s00706-026-03500-2",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.1215/07311613-12518309",
+   "title": "Milan Kundera’s Poetry in North Korea and Socialist World Literature in the 1950s",
+   "authors": [
+    "Boduerae Kwon"
+   ],
+   "date": "2026-07-31",
+   "venue": "The journal of Korean studies",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.1215/07311613-12518309",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.63700/1394",
    "title": "The North Korean Diaspora and Korean Popular Culture: Gendered Migration in Defector Memoirs and Screen Media",
    "authors": [
@@ -1002,9 +1390,27 @@
    ],
    "lang": "",
    "topics": [
-    "economy"
+    "economy",
+    "politics"
    ],
    "url": "https://doi.org/10.36080/jsgs.v4i2.73",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.46226/jss.2026.7.33.2.289",
+   "title": "A Study on the Operational Concept of Strategic Communication Targeting the North Korea",
+   "authors": [
+    "Jong-hwa Lee"
+   ],
+   "date": "2026-07-30",
+   "venue": "",
+   "countries": [],
+   "lang": "",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.46226/jss.2026.7.33.2.289",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -1059,6 +1465,7 @@
    "topics": [
     "diaspora",
     "economy",
+    "politics",
     "women"
    ],
    "url": "https://doi.org/10.1080/14680777.2026.2709384",
@@ -1076,7 +1483,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "politics"
    ],
    "url": "https://doi.org/10.48770/ker.2026.no10.77",
    "source": "openalex",
