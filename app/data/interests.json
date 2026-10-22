@@ -1,0 +1,133 @@
+[
+  {
+    "id": "human-rights",
+    "title": "북한 인권",
+    "en": "Human Rights in North Korea",
+    "summary": "교육권, 여성·아동·청년의 권리, 강제노동과 사회 통제 등 북한 주민의 인권 상황과 그 구조적 원인을 연구합니다.",
+    "keywords": [
+      "교육권",
+      "여성·아동 인권",
+      "강제노동",
+      "인권 침해"
+    ],
+    "short": "인권"
+  },
+  {
+    "id": "international",
+    "title": "국제사회의 북한 인권 조사와 데이터",
+    "en": "UN & International Human Rights Monitoring",
+    "summary": "유엔 북한인권조사위원회(COI), 특별보고관 보고서, 보편적 정례인권검토(UPR), 유엔 인권이사회·총회 결의 등 국제사회의 조사와 데이터를 추적하고 분석합니다.",
+    "keywords": [
+      "유엔 COI",
+      "특별보고관",
+      "UPR",
+      "인권이사회 결의",
+      "OHCHR 서울사무소"
+    ],
+    "short": "국제 인권 조사"
+  },
+  {
+    "id": "defectors",
+    "title": "북한이탈주민",
+    "en": "North Korean Defectors",
+    "summary": "북한이탈주민과 청(소)년의 교육·학습 경험, 심리사회적 적응, 정착지원 체계를 연구합니다.",
+    "keywords": [
+      "정착지원",
+      "교육·학습",
+      "심리사회적 적응",
+      "탈북 청소년"
+    ],
+    "short": "북한이탈주민"
+  },
+  {
+    "id": "education",
+    "title": "북한 교육",
+    "en": "North Korean Education",
+    "summary": "학제와 교육과정, 교과서, 교원 양성, 김정은 시대 교육 개편 등 북한 교육 체계의 구조와 변화를 살펴봅니다.",
+    "keywords": [
+      "교육정책",
+      "교육과정",
+      "교과서",
+      "12년제 의무교육"
+    ],
+    "short": "교육"
+  },
+  {
+    "id": "society",
+    "title": "북한 사회",
+    "en": "North Korean Society",
+    "summary": "시장화, 계층 분화, 일상생활과 가치관의 변화 등 북한 사회의 구조와 주민의 삶을 탐구합니다.",
+    "keywords": [
+      "시장화",
+      "일상생활",
+      "사회변동",
+      "계층"
+    ],
+    "short": "사회"
+  },
+  {
+    "id": "women",
+    "title": "북한 여성",
+    "en": "Women in North Korea",
+    "summary": "가정과 노동, 시장 활동 속 북한 여성의 역할 변화와 젠더 정책, 여성 관련 조직을 다룹니다.",
+    "keywords": [
+      "젠더",
+      "여성 노동",
+      "가족",
+      "여성정책"
+    ],
+    "short": "여성"
+  },
+  {
+    "id": "youth",
+    "title": "북한 청(소)년",
+    "en": "Youth in North Korea",
+    "summary": "청소년기의 사회화 과정, 청년 세대의 의식 변화, 청년 정책과 세대 문제를 연구합니다.",
+    "keywords": [
+      "사회화",
+      "세대",
+      "청년정책",
+      "청년의식"
+    ],
+    "short": "청(소)년"
+  },
+  {
+    "id": "politics",
+    "title": "북한 정치",
+    "en": "North Korean Politics",
+    "summary": "당·국가 체제와 정치 사상, 정치교육과 사상교양이 사회 통합에 미치는 역할을 분석합니다.",
+    "keywords": [
+      "당·국가 체제",
+      "정치사상",
+      "사상교양",
+      "정치사회화"
+    ],
+    "short": "정치"
+  },
+  {
+    "id": "economy",
+    "title": "북한 경제",
+    "en": "North Korean Economy",
+    "summary": "계획경제와 시장의 공존, 경제정책 변화가 교육·노동·가계에 미치는 영향을 살펴봅니다.",
+    "keywords": [
+      "계획경제",
+      "시장",
+      "경제정책",
+      "노동"
+    ],
+    "short": "경제"
+  },
+  {
+    "id": "organizations",
+    "title": "북한 근로단체",
+    "en": "Workers' Organizations",
+    "summary": "청년동맹, 직업총동맹, 농업근로자동맹, 여성동맹 등 근로단체의 조직과 기능, 사회 통제와 동원 방식을 연구합니다.",
+    "keywords": [
+      "청년동맹",
+      "직맹",
+      "농근맹",
+      "여맹"
+    ],
+    "short": "근로단체"
+  }
+]

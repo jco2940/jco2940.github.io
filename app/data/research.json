@@ -1,0 +1,313 @@
+{
+  "groups": [
+    {
+      "id": "dissertation",
+      "title": "학위논문",
+      "items": [
+        {
+          "date": "2020.08",
+          "title": "북한 중등교사들의 교직경험에 대한 질적 연구",
+          "venue": "이화여자대학교 대학원 교육학과(교육과정) 박사학위논문",
+          "role": "",
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": "articles",
+      "title": "학술논문",
+      "items": [
+        {
+          "date": "2025.12",
+          "title": "북한의 식량 접근성 변화와 최근 양곡 유통 정책의 시사점",
+          "venue": "문화와 정치",
+          "role": "공동",
+          "featured": false
+        },
+        {
+          "date": "2025.06",
+          "title": "A Resilience-Disclosure Intervention for Managing Stigmatized North Korean Refugee Identity: A Quasi-Randomized Controlled Trial",
+          "venue": "International Journal of Psychology",
+          "role": "공동",
+          "featured": false
+        },
+        {
+          "date": "2023.09",
+          "title": "북한 중등교사들의 교수방법 실행 경험에 대한 질적 연구",
+          "venue": "교육과학연구",
+          "role": "책임",
+          "featured": false
+        },
+        {
+          "date": "2023.04",
+          "title": "Social Comparison Concerns and Competitive Attitudes of North Korean Refugees and South Koreans: Measurement Invariance and Latent Mean Differences",
+          "venue": "Japanese Psychological Research",
+          "role": "공동",
+          "featured": false
+        },
+        {
+          "date": "2022.12",
+          "title": "북한 교육에서 사교육 활용의 양상과 그 의미",
+          "venue": "교육과학연구",
+          "role": "책임",
+          "featured": false
+        },
+        {
+          "date": "2022.12",
+          "title": "다문화적 관점에서의 남북한 통합 도덕과 교육 연구 고찰",
+          "venue": "다문화와 인간",
+          "role": "책임",
+          "featured": false
+        },
+        {
+          "date": "2022.08",
+          "title": "시장활동에 참여했던 북한 여성들의 비공식 사회관계망 고찰",
+          "venue": "통일인문학",
+          "role": "책임",
+          "featured": false
+        },
+        {
+          "date": "2022.08",
+          "title": "청소년들의 플립 러닝 기반 미술감상 활동 경험 연구",
+          "venue": "미래청소년학회지",
+          "role": "공동",
+          "featured": false
+        },
+        {
+          "date": "2022.03",
+          "title": "박사과정을 경험한 북한이탈여성의 학습참여 동기 및 의미",
+          "venue": "Andragogy Today",
+          "role": "책임",
+          "featured": false
+        },
+        {
+          "date": "2021",
+          "title": "북한이탈여성의 학습생애사를 통해 본 학습과 삶의 관계",
+          "venue": "통일인문학",
+          "role": "공동",
+          "featured": false
+        },
+        {
+          "date": "2021.03",
+          "title": "Psychosocial-Adjustment Needs of North Korean Refugee Youth from the Perspectives of Alternative-School Members",
+          "venue": "Journal of Refugee Studies",
+          "role": "공동",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "books",
+      "title": "저서",
+      "items": [
+        {
+          "date": "2025.07",
+          "title": "Questioning Conventional Assumptions of Competition Dynamics",
+          "venue": "Cambridge University Press",
+          "role": "공저",
+          "featured": false
+        },
+        {
+          "date": "2024.12",
+          "title": "북한의 여성",
+          "venue": "도서출판 선인",
+          "role": "공저",
+          "featured": false
+        },
+        {
+          "date": "2024.02",
+          "title": "북한의 사회문화, 일상 그리고 다가올 미래",
+          "venue": "도서출판 선인",
+          "role": "공저",
+          "featured": false
+        },
+        {
+          "date": "2023.02",
+          "title": "새로운 한반도를 그리다",
+          "venue": "도서출판 선인",
+          "role": "공저",
+          "featured": false
+        },
+        {
+          "date": "2022.03",
+          "title": "김정은 체제 10년, 새로운 국가 전략",
+          "venue": "도서출판 선인",
+          "role": "공저",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "reports",
+      "title": "연구보고서",
+      "items": [
+        {
+          "date": "2026.01",
+          "title": "국제사회의 인권 권고에 대한 북한의 대응: UPR 분석을 중심으로",
+          "venue": "통일연구원",
+          "role": "공동",
+          "featured": true
+        },
+        {
+          "date": "2026.01",
+          "title": "북한인권백서 2025",
+          "venue": "통일연구원",
+          "role": "공동",
+          "featured": true
+        },
+        {
+          "date": "2025.02",
+          "title": "자유민주주의 통일교육의 내용과 체계",
+          "venue": "통일연구원",
+          "role": "공동",
+          "featured": false
+        },
+        {
+          "date": "2025.01",
+          "title": "북한인권백서 2024",
+          "venue": "통일연구원",
+          "role": "공동",
+          "featured": false
+        },
+        {
+          "date": "2024.02",
+          "title": "북한 주민의 학교생활: ‘인민’의 재생산과 학교 일상의 수행성",
+          "venue": "통일연구원",
+          "role": "공동",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "online-series",
+      "title": "온라인시리즈",
+      "items": [
+        {
+          "date": "2026.10",
+          "title": "북러 고등교육 교류·협력의 전개와 함의: ‘제2차 조로학장연단’을 중심으로",
+          "venue": "통일연구원 온라인시리즈",
+          "role": "단독",
+          "featured": false
+        },
+        {
+          "date": "2026.10",
+          "title": "북한의 제15차 전국교원대회 평가와 전망",
+          "venue": "통일연구원 온라인시리즈",
+          "role": "단독",
+          "featured": false
+        },
+        {
+          "date": "2026",
+          "title": "조선사회주의여성동맹 제8차 대회 평가와 함의",
+          "venue": "통일연구원 온라인시리즈",
+          "role": "단독",
+          "featured": false
+        },
+        {
+          "date": "2025",
+          "title": "남북 간 인도주의 사안과 협력 모색",
+          "venue": "통일연구원 온라인시리즈",
+          "role": "공동 (이규창)",
+          "featured": false
+        },
+        {
+          "date": "2025.02",
+          "title": "2024년 김정은 정권 돌격대의 인권적 함의: 강제노동",
+          "venue": "통일연구원 온라인시리즈",
+          "role": "단독",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "projects",
+      "title": "연구과제",
+      "items": [
+        {
+          "date": "2025",
+          "title": "북한인권 관련 북한 법령 제·개정 현황 연구",
+          "venue": "통일부",
+          "role": "공동연구원",
+          "featured": false
+        },
+        {
+          "date": "2024",
+          "title": "북한 식량 안보 실태 연구: 90년대와의 비교를 중심으로",
+          "venue": "통일부",
+          "role": "공동연구원",
+          "featured": false
+        },
+        {
+          "date": "2024",
+          "title": "북배경주민 정착지원 발전방안 연구",
+          "venue": "국민통합위원회",
+          "role": "공동연구원",
+          "featured": false
+        },
+        {
+          "date": "2023–2024",
+          "title": "북한의 CEDAW 이행을 위한 검토보고서",
+          "venue": "(사)한국여성정치연구소",
+          "role": "위탁연구원",
+          "featured": false
+        },
+        {
+          "date": "2023",
+          "title": "북한의 도·농간 교육격차 탐구: 학교–지역사회의 관계 요인을 중심으로",
+          "venue": "통일부",
+          "role": "연구책임자",
+          "featured": false
+        },
+        {
+          "date": "2023",
+          "title": "경기도 북한이탈주민 정착지원체계 개선방안",
+          "venue": "경기도청",
+          "role": "공동연구원",
+          "featured": false
+        },
+        {
+          "date": "2022",
+          "title": "북한 교육에서 사교육 양상과 그 의미",
+          "venue": "민족화해협력범국민협의회",
+          "role": "연구책임자",
+          "featured": false
+        },
+        {
+          "date": "2022",
+          "title": "북한 시장활동 여성들의 비공식 사회관계망 연구",
+          "venue": "(사)한국여성정치연구소",
+          "role": "연구책임자",
+          "featured": false
+        },
+        {
+          "date": "2022",
+          "title": "민주시민교육 관점의 평화통일교육: 공감 피플",
+          "venue": "경기도 지방보조금사업",
+          "role": "공동연구원",
+          "featured": false
+        },
+        {
+          "date": "2021–2022",
+          "title": "탈북민 경험에 대한 재해석을 기반으로 한 마인드셋 개입 프로그램 개발 및 효과성 분석",
+          "venue": "한국연구재단",
+          "role": "연구책임자",
+          "featured": false
+        },
+        {
+          "date": "2021",
+          "title": "박사과정을 경험한 북한이탈여성의 학습참여 동기 및 의미",
+          "venue": "북한이탈주민지원재단",
+          "role": "공동연구원",
+          "featured": false
+        },
+        {
+          "date": "2021",
+          "title": "북한 여성의 세대별 교육·경제·가부장제 가치관 변화 연구",
+          "venue": "(사)한국여성정치연구소",
+          "role": "연구책임자",
+          "featured": false
+        }
+      ]
+    }
+  ]
+}
