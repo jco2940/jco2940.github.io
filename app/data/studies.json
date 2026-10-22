@@ -15,7 +15,9 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women",
+    "youth"
    ],
    "url": "https://doi.org/10.1177/25161032261497722",
    "source": "openalex",
@@ -49,7 +51,9 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "education"
+    "education",
+    "women",
+    "youth"
    ],
    "url": "https://doi.org/10.4324/9781003797739-6",
    "source": "openalex",
@@ -66,7 +70,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.4324/9781003797739-9",
    "source": "openalex",
@@ -101,7 +106,8 @@
    "lang": "",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.17034/32638185",
    "source": "openalex",
@@ -120,7 +126,8 @@
    "lang": "",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.25297/aer.2026.99.2.165",
    "source": "openalex",
@@ -156,7 +163,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "youth"
    ],
    "url": "https://doi.org/10.21185/jhu.2026.9.107.043",
    "source": "openalex",
@@ -193,6 +201,24 @@
     "economy"
    ],
    "url": "https://doi.org/10.29159/kjas.44.3.173",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.5392/jkca.2026.26.09.1022",
+   "title": "Phenomenological Study on the Process by which Volunteering to Counsel North Korean Youth Affects Counselor Development and the Reduction of Cultural Prejudice",
+   "authors": [
+    "Yo-Wan Kim",
+    "Hyun-Ah Kim"
+   ],
+   "date": "2026-09-30",
+   "venue": "The Journal of the Korea Contents Association",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "youth"
+   ],
+   "url": "https://doi.org/10.5392/jkca.2026.26.09.1022",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -260,7 +286,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.21185/jhu.2026.9.107.085",
    "source": "openalex",
@@ -551,7 +578,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.1007/s00520-026-11143-6",
    "source": "openalex",
@@ -663,7 +691,9 @@
    "topics": [
     "diaspora",
     "economy",
-    "education"
+    "education",
+    "women",
+    "youth"
    ],
    "url": "https://doi.org/10.55152/kerj.47.2.69",
    "source": "openalex",
@@ -703,7 +733,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "youth"
    ],
    "url": "https://doi.org/10.4178/epih.e2026049",
    "source": "openalex",
@@ -726,6 +757,23 @@
     "diaspora"
    ],
    "url": "https://doi.org/10.51652/ksmca.2026.25.3.1",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.29349/jchg.2026.38.2.132",
+   "title": "Representation of Women and Spatial Politics in North Korean Short Stories : A Study of ‘Chosŏn Munhak’ during the Kim Jong-un Era",
+   "authors": [
+    "Ji-Hye Baek"
+   ],
+   "date": "2026-08-31",
+   "venue": "",
+   "countries": [],
+   "lang": "",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.29349/jchg.2026.38.2.132",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -797,7 +845,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.1177/01171968261477011",
    "source": "openalex",
@@ -933,7 +982,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.63700/1394",
    "source": "openalex",
@@ -989,7 +1039,8 @@
    "lang": "",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.47116/apjcri.2026.07.29",
    "source": "openalex",
@@ -1007,7 +1058,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "women"
    ],
    "url": "https://doi.org/10.1080/14680777.2026.2709384",
    "source": "openalex",
@@ -1068,7 +1120,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "youth"
    ],
    "url": "https://doi.org/10.1001/jamanetworkopen.2026.22766",
    "source": "openalex",
@@ -1131,6 +1184,25 @@
     "economy"
    ],
    "url": "https://doi.org/10.17323/1996-7845-2026-02-07",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.1177/03058298261472706",
+   "title": "Stories I Eavesdropped from Omma on the Phone: Eavesdropping Muffled Sounds in South Korean Homes as a Praxis of Anti-Translating North Korea",
+   "authors": [
+    "Seoyoung Choi"
+   ],
+   "date": "2026-07-01",
+   "venue": "Millennium Journal of International Studies",
+   "countries": [
+    "JP"
+   ],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.1177/03058298261472706",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -1204,6 +1276,23 @@
     "diaspora"
    ],
    "url": "https://doi.org/10.37181/jscs.2026.10.3.063",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.63372/rbs.2026.06.07",
+   "title": "A Study on Gender Inequality and Potential Misogyny in North Korea",
+   "authors": [
+    "Hyungjong Lee"
+   ],
+   "date": "2026-06-30",
+   "venue": "Review of Border Studies",
+   "countries": [],
+   "lang": "",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.63372/rbs.2026.06.07",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -1291,7 +1380,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "economy"
+    "economy",
+    "women"
    ],
    "url": "https://doi.org/10.63372/rbs.2026.06.06",
    "source": "openalex",
@@ -1309,7 +1399,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "economy"
+    "economy",
+    "youth"
    ],
    "url": "https://doi.org/10.34266/jnks.2026.12.1.53",
    "source": "openalex",
@@ -1329,6 +1420,44 @@
     "diaspora"
    ],
    "url": "https://doi.org/10.20461/kltc.2026.06.109.59",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.14431/jms.2026.6.19.2.125",
+   "title": "Challenges and Coping Experiences of North Korean-born Mothers in Parenting and Educating Adolescent Children Born in South Korea",
+   "authors": [
+    "Miyoung Kim",
+    "Seohee Son"
+   ],
+   "date": "2026-06-30",
+   "venue": "The Journal of Multicultural Society",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "women",
+    "youth"
+   ],
+   "url": "https://doi.org/10.14431/jms.2026.6.19.2.125",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.19034/kayw.2026.28.2.02",
+   "title": "Factors Associated with Social Adaptation in South Korea among Chinese-Born Youth with North Korean Backgrounds",
+   "authors": [
+    "Juyeong Lee",
+    "Yeri Shin",
+    "Kwisik Min"
+   ],
+   "date": "2026-06-30",
+   "venue": "Journal of Adolescent welfare",
+   "countries": [],
+   "lang": "",
+   "topics": [
+    "youth"
+   ],
+   "url": "https://doi.org/10.19034/kayw.2026.28.2.02",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -1470,7 +1599,8 @@
    "lang": "",
    "topics": [
     "economy",
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.63944/wdrb14",
    "source": "openalex",
@@ -1490,7 +1620,8 @@
    ],
    "lang": "ru",
    "topics": [
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://eijournal.ilimbilim.kg/index.php/eijournal/article/view/107",
    "source": "openalex",
@@ -1591,7 +1722,8 @@
    "topics": [
     "diaspora",
     "economy",
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.52214/cice.v28i2.14605",
    "source": "openalex",
@@ -1940,7 +2072,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.5281/zenodo.20117340",
    "source": "openalex",
@@ -2002,7 +2135,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://hdl.handle.net/2346/109206",
    "source": "openalex",
@@ -2054,7 +2188,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.5392/jkca.2026.26.04.390",
    "source": "openalex",
@@ -2107,7 +2242,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.14431/jaw.2026.4.65.1.209",
    "source": "openalex",
@@ -2280,6 +2416,25 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.1177/00405736261440567",
+   "title": "Navigating Digital Activism and Faith-Based Support: Social Media and the Assistance of North Korean Trafficked Women",
+   "authors": [
+    "I Sil Yoon"
+   ],
+   "date": "2026-04-28",
+   "venue": "Theology Today",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.1177/00405736261440567",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.1016/j.ijintrel.2026.102432",
    "title": "Acculturation and loneliness among North Korean refugee mothers residing in South Korea",
    "authors": [
@@ -2293,7 +2448,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.1016/j.ijintrel.2026.102432",
    "source": "openalex",
@@ -2313,7 +2469,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "women"
    ],
    "url": "https://doi.org/10.1080/14650045.2026.2659599",
    "source": "openalex",
@@ -2410,7 +2567,8 @@
    "lang": "",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "women"
    ],
    "url": "https://doi.org/10.14328/mes.2026.3.31.229",
    "source": "openalex",
@@ -2470,7 +2628,8 @@
    "lang": "",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "women"
    ],
    "url": "https://doi.org/10.14251/jscm.2026.3.95",
    "source": "openalex",
@@ -2584,6 +2743,25 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.1386/eapc_00164_1",
+   "title": "Transgression within limitations: The increasing agency of the female athlete in DPRK video",
+   "authors": [
+    "Yong Ja Hong"
+   ],
+   "date": "2026-03-25",
+   "venue": "East Asian Journal of Popular Culture",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.1386/eapc_00164_1",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.14731/kjir.2026.03.66.1.253",
    "title": "Governance of Informal Trade Based on Trust and Reputation: An Analysis of the Roles of Overseas Chinese and Korean Ethnic Intermediaries in Cities Along the North Korea-China Border *,**",
    "authors": [
@@ -2614,9 +2792,27 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "women"
    ],
    "url": "https://doi.org/10.4324/9781003591689-93",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.4324/9781003591689-26",
+   "title": "North Korean Graphic Novels About the Korean War",
+   "authors": [
+    "Andrew David Jackson"
+   ],
+   "date": "2026-03-13",
+   "venue": "Routledge eBooks",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.4324/9781003591689-26",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -2782,6 +2978,25 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.1353/atj.2026.a989961",
+   "title": "The Idea of Motherhood in the North Korean Minjok Gageuk Chunhyangjeon : The Gendered Role of Wolmae",
+   "authors": [
+    "Chungim Chun",
+    "Mingyeong Son"
+   ],
+   "date": "2026-03-01",
+   "venue": "Asian Theatre Journal",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "women",
+    "youth"
+   ],
+   "url": "https://doi.org/10.1353/atj.2026.a989961",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "openalex:W7204334966",
    "title": "Women who left two Koreas: gendered, diasporic, and multicultural experiences of North Korean female defectors in the United States",
    "authors": [
@@ -2792,7 +3007,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://etheses.whiterose.ac.uk/id/eprint/39301/",
    "source": "openalex",
@@ -2920,7 +3136,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.21086/ksles.2026.2.33.1.013",
    "source": "openalex",
@@ -3062,6 +3279,23 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.20864/skl.2026.1.89.785",
+   "title": "Novels of Workplace Conflict and the Affective Dimensions of Inequality among North Korean “Youth”",
+   "authors": [
+    "Eun-jung Cho"
+   ],
+   "date": "2026-01-31",
+   "venue": "The Studies of Korean Literature",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "youth"
+   ],
+   "url": "https://doi.org/10.20864/skl.2026.1.89.785",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.18230/tjye.2026.34.1.513",
    "title": "Exploring Problem Representation and Governmentality in Educational Policies for Multicultural Students and Students with North Korean Backgrounds",
    "authors": [
@@ -3091,7 +3325,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.4094/chnr.2025.053",
    "source": "openalex",
@@ -3148,7 +3383,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.1037/ort0000908",
    "source": "openalex",
@@ -3173,7 +3409,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.1007/s12144-025-08538-9",
    "source": "openalex",
@@ -3208,7 +3445,8 @@
    "lang": "en",
    "topics": [
     "economy",
-    "education"
+    "education",
+    "women"
    ],
    "url": "https://doi.org/10.3366/edinburgh/9781474451604.003.0010",
    "source": "openalex",
@@ -3326,6 +3564,23 @@
     "diaspora"
    ],
    "url": "http://www.nusl.cz/ntk/nusl-694140",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.4236/jss.2026.144041",
+   "title": "Democratic People’s Republic of Korea (DPRK) and the Adolescent Heir: Developmental and Institutional Risks in the Fourth Generation Transition",
+   "authors": [
+    "Yat Ming Chu"
+   ],
+   "date": "2026-01-01",
+   "venue": "Open Journal of Social Sciences",
+   "countries": [],
+   "lang": "",
+   "topics": [
+    "youth"
+   ],
+   "url": "https://doi.org/10.4236/jss.2026.144041",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -3507,7 +3762,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "women"
    ],
    "url": "https://doi.org/10.64446/aw.2026.6.42.2.307",
    "source": "openalex",
@@ -3562,7 +3818,8 @@
    "countries": [],
    "lang": "ko",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "youth"
    ],
    "url": "https://hdl.handle.net/10371/234232",
    "source": "openalex",
@@ -3684,7 +3941,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "youth"
    ],
    "url": "https://doi.org/10.19034/kayw.2025.27.4.03",
    "source": "openalex",
@@ -3736,7 +3994,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.35131/ishb.2025.19.3.211",
    "source": "openalex",
@@ -3771,7 +4030,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "education"
+    "education",
+    "women"
    ],
    "url": "https://doi.org/10.31041/jme.2025.10.4.333",
    "source": "openalex",
@@ -3795,6 +4055,23 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.14431/jaw.2025.12.64.3.63",
+   "title": "Gendered Inequality and Digital Control in North Korea: ICT Development under Authoritarian Rule",
+   "authors": [
+    "Min-Ju Park"
+   ],
+   "date": "2025-12-31",
+   "venue": "The Journal of Asian Women",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.14431/jaw.2025.12.64.3.63",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.15400/mccs.2025.12.54.06",
    "title": "Manifestation of ‘Queer’ in North Korean Defector Novels : Focusing on Jang Young-jin’s Red Tie(A Mark of Red Honor)",
    "authors": [
@@ -3808,6 +4085,25 @@
     "diaspora"
    ],
    "url": "https://doi.org/10.15400/mccs.2025.12.54.06",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.21185/jhu.2025.12.104.199",
+   "title": "Narrative Identity in the Adaptation Experiences of North Korean-Background Youth Born in Third Countries : Focusing on a Qualitative Meta-Analysis",
+   "authors": [
+    "Young Kyung Kim",
+    "Hye Lim Yun",
+    "Jiyeon Woo"
+   ],
+   "date": "2025-12-31",
+   "venue": "The Journal of the Humanities for Unification",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "youth"
+   ],
+   "url": "https://doi.org/10.21185/jhu.2025.12.104.199",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -3829,7 +4125,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.21086/ksles.2025.12.32.6.753",
    "source": "openalex",
@@ -3961,7 +4258,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.14431/jaw.2025.12.64.3.397",
    "source": "openalex",
@@ -4003,7 +4301,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "women"
    ],
    "url": "https://doi.org/10.21086/ksles.2025.12.32.6.790",
    "source": "openalex",
@@ -4023,7 +4322,8 @@
    "lang": "",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "women"
    ],
    "url": "https://doi.org/10.14328/mes.2025.12.31.269",
    "source": "openalex",
@@ -4077,7 +4377,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.30940/jqi.2025.11.4.359",
    "source": "openalex",
@@ -4140,7 +4441,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.1080/15562948.2025.2604754",
    "source": "openalex",
@@ -4219,6 +4521,25 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.1080/14660970.2025.2603773",
+   "title": "Sport, society, and gender: a Confucian perspective on North Korean women's football",
+   "authors": [
+    "Sudhakar Vaddi"
+   ],
+   "date": "2025-12-16",
+   "venue": "Soccer and Society",
+   "countries": [
+    "IN"
+   ],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.1080/14660970.2025.2603773",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "openalex:W7124122806",
    "title": "Relations Between Finland and North Korea",
    "authors": [
@@ -4254,7 +4575,9 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "women",
+    "youth"
    ],
    "url": "https://doi.org/10.3390/children12121689",
    "source": "openalex",
@@ -4432,7 +4755,8 @@
    "lang": "",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.30974/kaice.2025.14.6.4",
    "source": "openalex",
@@ -4466,7 +4790,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.46270/ssw.56.2",
    "source": "openalex",
@@ -4520,7 +4845,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "economy"
+    "economy",
+    "women"
    ],
    "url": "https://doi.org/10.1017/9781108915632.008",
    "source": "openalex",
@@ -4575,7 +4901,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.1177/0265539x251385507",
    "source": "openalex",
@@ -4611,7 +4938,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "youth"
    ],
    "url": "https://doi.org/10.7765/9781526189943.00014",
    "source": "openalex",
@@ -4673,7 +5001,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "women"
    ],
    "url": "https://doi.org/10.1177/10783903251383174",
    "source": "openalex",
@@ -4746,7 +5075,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "women"
    ],
    "url": "https://doi.org/10.4094/chnr.2025.017",
    "source": "openalex",
@@ -4763,7 +5093,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.38082/swpr.2025.22.03.135",
    "source": "openalex",
@@ -4856,7 +5187,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "youth"
    ],
    "url": "https://doi.org/10.3389/fpubh.2025.1652410",
    "source": "openalex",
@@ -4891,7 +5223,9 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women",
+    "youth"
    ],
    "url": "https://doi.org/10.5117/9789462987562_ch17",
    "source": "openalex",
@@ -4964,7 +5298,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.14363/kaps.2025.26.3.105",
    "source": "openalex",
@@ -5042,7 +5377,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "economy"
+    "economy",
+    "women"
    ],
    "url": "http://repository.graduateinstitute.ch/record/321013",
    "source": "openalex",
@@ -5062,7 +5398,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.24301/mhsw.2025.9.53.3.82",
    "source": "openalex",
@@ -5269,6 +5606,25 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.1215/00219118-11904403",
+   "title": "Among Women across Worlds: North Korea in the Global Cold War",
+   "authors": [
+    "Sunyoung Park"
+   ],
+   "date": "2025-09-01",
+   "venue": "The Journal of Asian Studies",
+   "countries": [
+    "US"
+   ],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.1215/00219118-11904403",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.3389/flang.2025.1624840",
    "title": "Exploring the phonetic sources of the North Korean dialect accent produced by North Korean refugees in Seoul",
    "authors": [
@@ -5319,7 +5675,8 @@
    ],
    "lang": "en",
    "topics": [
-    "education"
+    "education",
+    "women"
    ],
    "url": "https://doi.org/10.5703/1288284318451",
    "source": "openalex",
@@ -5369,6 +5726,23 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.1353/sor.2025.a974419",
+   "title": "Women's Football and Political Propaganda in North Korea: Socialist Patriotism, Communist Feminism, and State Patriarchy",
+   "authors": [
+    "Jung Woo Lee"
+   ],
+   "date": "2025-09-01",
+   "venue": "Social research",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.1353/sor.2025.a974419",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.33097/jncta.2025.09.8.2007",
    "title": "A Convergent Experience Study on Motherhood of North Korean Defector Women with Children",
    "authors": [
@@ -5380,9 +5754,28 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women",
+    "youth"
    ],
    "url": "https://doi.org/10.33097/jncta.2025.09.8.2007",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.38080/crh.2025.8.152.268",
+   "title": "A Gendered Perspective on Cold War Sports : Olympic Rivalry and South Korean Press Coverage of North Korean Women Athletes",
+   "authors": [
+    "Eunsung Cho"
+   ],
+   "date": "2025-08-31",
+   "venue": "역사비평",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.38080/crh.2025.8.152.268",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -5399,7 +5792,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "women"
    ],
    "url": "https://doi.org/10.54382/krecbt.2025.5.2.72",
    "source": "openalex",
@@ -5582,7 +5976,9 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women",
+    "youth"
    ],
    "url": "https://doi.org/10.5723/kjcs.2025.46.3.131",
    "source": "openalex",
@@ -5671,6 +6067,27 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.1111/1468-0424.70001",
+   "title": "‘Let's Turn the Grass Into Meat’: Animal Husbandry as Women's Work in Cold War North Korea",
+   "authors": [
+    "Sunho Ko",
+    "Derek J. Kramer"
+   ],
+   "date": "2025-08-12",
+   "venue": "Gender & History",
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.1111/1468-0424.70001",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.6087/kcse.381",
    "title": "Scientific research trends of North Korea from 1976 to 2024: a Scopus-based bibliometric study",
    "authors": [
@@ -5745,9 +6162,28 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.1093/ijnp/pyaf052.257",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.56826/ssipu.2025.4.2.04",
+   "title": "A Study on Participation Experiences in Reading Programs: A Focused Group Interview with North Korean Youth",
+   "authors": [
+    "Sangin Gwak",
+    "Jooram Jeon"
+   ],
+   "date": "2025-07-31",
+   "venue": "Peace and Unification Review",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "youth"
+   ],
+   "url": "https://doi.org/10.56826/ssipu.2025.4.2.04",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -5766,6 +6202,29 @@
     "economy"
    ],
    "url": "https://doi.org/10.46322/krinsq.10.2.8",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.71145/rjsp.v3i3.335",
+   "title": "Gender representation in Chinese, American, and North Korean news report: Case study of Kim Yo-jong’s portrayal: A corpus based comparative discourse Analysis",
+   "authors": [
+    "Ziqi Zhou",
+    "Chaolin YANG",
+    "Nusrat Azeema",
+    "Dr Imtiaz Ahmad"
+   ],
+   "date": "2025-07-30",
+   "venue": "Review Journal of Social Psychology & Social Works",
+   "countries": [
+    "CN",
+    "PK"
+   ],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.71145/rjsp.v3i3.335",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -5861,7 +6320,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://digitalrepository.unm.edu/cj_etds/184",
    "source": "openalex",
@@ -5938,7 +6398,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.1136/bmjopen-2024-091072",
    "source": "openalex",
@@ -5959,7 +6420,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.1080/13603116.2025.2524698",
    "source": "openalex",
@@ -6013,7 +6475,8 @@
    "topics": [
     "diaspora",
     "economy",
-    "education"
+    "education",
+    "women"
    ],
    "url": "https://doi.org/10.59135/kare.2025.22.1.69",
    "source": "openalex",
@@ -6033,6 +6496,23 @@
     "education"
    ],
    "url": "https://doi.org/10.14363/kaps.2025.26.2.75",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.55082/jdp.2025.8.1.7",
+   "title": "An Aesthetic-Political Inquiry into the Performative Representation of National Identity in North Korean Dance",
+   "authors": [
+    "Bokju Moon"
+   ],
+   "date": "2025-06-30",
+   "venue": "Democracy and Peace Institute Chosun University",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.55082/jdp.2025.8.1.7",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -6083,7 +6563,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.56640/mbr.2025.31.719",
    "source": "openalex",
@@ -6120,7 +6601,8 @@
    ],
    "lang": "en",
    "topics": [
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.1093/9780198961895.003.0010",
    "source": "openalex",
@@ -6190,7 +6672,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.33831/jws.v26i1.517",
    "source": "openalex",
@@ -6231,7 +6714,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.1080/15325024.2025.2522694",
    "source": "openalex",
@@ -6285,9 +6769,27 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.13000/jfmse.2025.6.37.3.748",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.18399/acta.2025.28.1.004",
+   "title": "Postcolonial Nation Building and State Feminism: Institutionalizing the North Korean Democratic Women’s Union, 1945–1949",
+   "authors": [
+    "Taejin Hwang"
+   ],
+   "date": "2025-06-24",
+   "venue": "Acta Koreana",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.18399/acta.2025.28.1.004",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -6437,6 +6939,26 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.35369/jpus.17.2.202506.309",
+   "title": "Belief Transformation among North Korean Young Adults through Social Communities: A Qualitative Case Study Based on Fernando Ortiz's Theory of Transculturation",
+   "authors": [
+    "전주람",
+    "이연지",
+    "김시원",
+    "신윤정"
+   ],
+   "date": "2025-06-01",
+   "venue": "Seoul National University Open Repository (Seoul National University)",
+   "countries": [],
+   "lang": "",
+   "topics": [
+    "youth"
+   ],
+   "url": "https://doi.org/10.35369/jpus.17.2.202506.309",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "openalex:W7169944561",
    "title": "Kim Ok-kyun and the Gapsin Coup in North Korean historiography",
    "authors": [
@@ -6577,7 +7099,8 @@
    "lang": "",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.18209/iakle.2025.36.2.63",
    "source": "openalex",
@@ -6671,7 +7194,8 @@
    ],
    "lang": "en",
    "topics": [
-    "education"
+    "education",
+    "women"
    ],
    "url": "https://doi.org/10.69548/jpga.v1i1.11.2025",
    "source": "openalex",
@@ -6717,7 +7241,9 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women",
+    "youth"
    ],
    "url": "https://doi.org/10.1001/jamanetworkopen.2025.12941",
    "source": "openalex",
@@ -7129,7 +7655,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women"
    ],
    "url": "https://doi.org/10.33097/jncta.2025.09.4.1032",
    "source": "openalex",
@@ -7164,7 +7691,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "women"
    ],
    "url": "https://doi.org/10.1515/9783111351209-007",
    "source": "openalex",
@@ -7262,7 +7790,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "education"
+    "education",
+    "women"
    ],
    "url": "https://doi.org/10.1080/00182370.2025.2535172",
    "source": "openalex",
@@ -7298,7 +7827,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "education"
+    "education",
+    "women"
    ],
    "url": "https://doi.org/10.7256/2454-0676.2025.4.75084",
    "source": "openalex",
@@ -7337,7 +7867,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.17296/korbil.2025..99.395",
    "source": "openalex",
@@ -7355,7 +7886,9 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "education"
+    "education",
+    "women",
+    "youth"
    ],
    "url": "https://doi.org/10.33097/jncta.2025.09.3.777",
    "source": "openalex",
@@ -7425,7 +7958,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.58936/gcr.2025.3.5.1.103",
    "source": "openalex",
@@ -7543,7 +8077,9 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "women",
+    "youth"
    ],
    "url": "https://doi.org/10.24301/mhsw.2025.3.53.1.87",
    "source": "openalex",
@@ -7591,6 +8127,25 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.1111/1468-0424.12840",
+   "title": "Entwined Liberations: North Korean Democratic Women's Union and Third World Internationalism, 1945–1949",
+   "authors": [
+    "Taejin Hwang"
+   ],
+   "date": "2025-03-05",
+   "venue": "Gender & History",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.1111/1468-0424.12840",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.1525/as.2025.65.2.228",
    "title": "North Korea in 2024",
    "authors": [
@@ -7624,6 +8179,26 @@
     "diaspora"
    ],
    "url": "https://doi.org/10.1215/07311613-11540318",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "doi:10.1353/atj.2025.a962136",
+   "title": "The Multi-Scene Composition of North Korean Revolutionary Theatre: Seonghwangdang (Village Shrine)",
+   "authors": [
+    "Jae-beom Hong",
+    "Chiman Song",
+    "Chung Jinah",
+    "Seongkwan Cho"
+   ],
+   "date": "2025-03-01",
+   "venue": "Asian Theatre Journal",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.1353/atj.2025.a962136",
    "source": "openalex",
    "added": "2026-10-22"
   },
@@ -7662,7 +8237,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "women"
    ],
    "url": "https://doi.org/10.1080/10926771.2025.2474596",
    "source": "openalex",
@@ -7697,7 +8273,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "youth"
    ],
    "url": "https://doi.org/10.20437/koaece30-1-17",
    "source": "openalex",
@@ -7788,7 +8365,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.34221/kjps.2025.33.1.1",
    "source": "openalex",
@@ -7844,7 +8422,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "youth"
    ],
    "url": "https://doi.org/10.14493/ksoms.2025.1.40",
    "source": "openalex",
@@ -7888,7 +8467,8 @@
    "topics": [
     "diaspora",
     "economy",
-    "education"
+    "education",
+    "youth"
    ],
    "url": "https://doi.org/10.37291/2717638x.202561444",
    "source": "openalex",
@@ -7912,7 +8492,8 @@
    ],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "women"
    ],
    "url": "https://doi.org/10.3389/fvets.2025.1529253",
    "source": "openalex",
@@ -8231,6 +8812,25 @@
    "added": "2026-10-22"
   },
   {
+   "id": "doi:10.3346/jkms.2025.40.e169",
+   "title": "How to Reduce Diarrheal Diseases in North Korean Children?: Prioritizing From Limited Resources and Limited Data Resources",
+   "authors": [
+    "Dae Sun Jo"
+   ],
+   "date": "2025-01-01",
+   "venue": "Journal of Korean Medical Science",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "youth"
+   ],
+   "url": "https://doi.org/10.3346/jkms.2025.40.e169",
+   "source": "openalex",
+   "added": "2026-10-22"
+  },
+  {
    "id": "doi:10.3346/jkms.2025.40.e318",
    "title": "Key Features and Controversies of the COVID-19 Epidemic and Response in North Korea",
    "authors": [
@@ -8281,7 +8881,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "women"
    ],
    "url": "https://cedar.wwu.edu/wwuet/1417",
    "source": "openalex",
