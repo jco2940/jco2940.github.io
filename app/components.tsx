@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { NAV, PROFILE } from "../site.config";
+import { HAS_TALKS } from "./talks/data";
 
 export function SiteHeader() {
   return (
@@ -9,7 +10,8 @@ export function SiteHeader() {
         <span className="wordmark-en">{PROFILE.nameEn.toUpperCase()}</span>
       </Link>
       <nav aria-label="주 메뉴">
-        {NAV.map((item) => (
+        {/* 강의·미디어는 기록이 하나라도 있을 때만 메뉴에 보인다 */}
+        {NAV.filter((item) => item.href !== "/talks" || HAS_TALKS).map((item) => (
           <Link key={item.href} href={item.href}>
             {item.label}
           </Link>

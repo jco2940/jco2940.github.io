@@ -186,3 +186,5 @@ a.card:hover { border-color: var(--accent); }
 .issue-sources { list-style: none; margin: 6px 0 0; padding: 0; color: var(--muted); font-size: .7rem; }
 .issue-sources a { text-decoration: underline; text-underline-offset: 3px; }
 .about-section h2 a:hover { color: var(--accent); }
+.talk-link { text-decoration: underline; text-underline-offset: 3px; }
+.talk-link:hover { color: var(--accent); }
