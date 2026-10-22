@@ -13,7 +13,8 @@ const label = (id: string) => STUDY_TOPICS.find((t) => t.id === id)?.label ?? id
 export default function StudiesPage() {
   const entries: Entry[] = STUDIES.items.map((p) => ({
     id: p.id,
-    title: p.title,
+    title: p.titleKo ?? p.title,
+    search: p.title, // 원제로도 찾을 수 있게
     url: p.url,
     date: p.date,
     tags: STUDY_TOPICS.filter((t) => p.topics.includes(t.id)).map((t) => t.label),

@@ -15,6 +15,7 @@ export const STUDY_TOPICS = [
 export type Paper = {
   id: string;
   title: string;
+  titleKo?: string; // 한국어 제목 (collect-studies.mjs 가 번역)
   authors: string[];
   date: string; // YYYY-MM-DD
   venue: string;

@@ -240,6 +240,41 @@ for (const [topic, q] of Object.entries(TOPICS)) {
 }
 if (openAlexDown) warn("OpenAlex 하루 무료 한도를 다 써서 나머지 분야는 다음 실행에 받습니다. 저장소 Secret OPENALEX_API_KEY 를 넣으면 이 한도를 따로 씁니다.");
 
+// 제목을 한국어로 옮긴다(Google 번역, 키 없이 쓰는 공개 주소). 이미 한글 제목이면 그대로 쓰고,
+// 번역에 실패한 것은 titleKo 없이 두었다가 다음 실행 때 다시 시도한다
+const HANGUL = /[가-힣]/;
+async function translateTitle(text) {
+  const url = new URL("https://translate.googleapis.com/translate_a/single");
+  Object.entries({ client: "gtx", sl: "auto", tl: "ko", dt: "t", q: text }).forEach(([k, v]) => url.searchParams.set(k, v));
+  const res = await fetch(url, { headers: { "User-Agent": "jco2940.github.io north korea studies" } });
+  if (!res.ok) throw new Error(`translate ${res.status}`);
+  const out = (await res.json())[0].map((s) => s[0]).join("").trim();
+  if (!out) throw new Error("translate: empty");
+  return out;
+}
+async function translateTitles(items) {
+  let done = 0;
+  let failed = 0;
+  for (const item of items) {
+    if (item.titleKo) continue;
+    if (HANGUL.test(item.title)) {
+      item.titleKo = item.title;
+      continue;
+    }
+    try {
+      item.titleKo = await translateTitle(item.title);
+      done++;
+    } catch (err) {
+      if (++failed >= 5) {
+        warn(`제목 번역 실패가 이어져 멈춥니다(${err.message}). 남은 것은 다음 실행에 번역합니다.`);
+        break;
+      }
+    }
+    await new Promise((r) => setTimeout(r, 300));
+  }
+  if (done) report(`제목 번역: ${done}`);
+}
+
 // 같은 논문은 id(DOI 우선)나 제목으로 합치고, 분야는 모두 남긴다
 const byKey = new Map();
 const byTitle = new Map();
@@ -256,6 +291,7 @@ for (const item of [...data.items, ...found]) {
 }
 
 const items = [...byKey.values()].sort((a, b) => (b.date || "").localeCompare(a.date || "") || a.title.localeCompare(b.title));
+await translateTitles(items);
 const added = items.length - data.items.filter((i) => !exclude.has(i.id)).length;
 const changed = JSON.stringify(items) !== JSON.stringify(data.items);
 if (changed) await writeFile(DATA, JSON.stringify({ updated: new Date().toISOString().slice(0, 10), items }, null, 1) + "\n");

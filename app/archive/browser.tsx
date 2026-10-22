@@ -11,6 +11,7 @@ export type Entry = {
   tags: string[]; // 분야 (버튼으로 거른다)
   facets: string[]; // 국가·기관 (선택 상자로 거른다)
   meta: string; // 제목 아래 회색 줄
+  search?: string; // 화면에 보이지 않지만 검색에 쓰는 글 (예: 논문 원제)
 };
 
 const PAGE = 50;
@@ -43,7 +44,7 @@ export function ArchiveBrowser({
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     return items.filter(
-      (e) => (!tag || e.tags.includes(tag)) && (!facet || e.facets.includes(facet)) && (!q || `${e.title} ${e.meta}`.toLowerCase().includes(q)),
+      (e) => (!tag || e.tags.includes(tag)) && (!facet || e.facets.includes(facet)) && (!q || `${e.title} ${e.meta} ${e.search ?? ""}`.toLowerCase().includes(q)),
     );
   }, [items, tag, facet, query]);
 
