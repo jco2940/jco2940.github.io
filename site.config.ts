@@ -30,6 +30,32 @@ export const NAV = [
 export const RESEARCH_NAV = [
   { href: "/research", label: "연구·논문" },
   { href: "/interests", label: "연구 관심사" },
-  { href: "/rodong", label: "노동신문 브리핑" },
-  { href: "/library", label: "연구 라이브러리" },
+];
+
+// 공개 아카이브. 홈 화면 타일과 각 아카이브 상단의 탭으로 쓴다. sub 는 아카이브 안의 하위 탭
+export const ARCHIVES = [
+  {
+    href: "/trends",
+    title: "북한 사회 동향",
+    text: "한국·미국·영국·중국·러시아·일본 언론의 북한 관련 보도와 『로동신문』을 매일 모아 정리합니다.",
+    tone: "tile-indigo",
+    sub: [
+      { href: "/trends", label: "언론 동향" },
+      { href: "/rodong", label: "노동신문 브리핑" },
+    ],
+  },
+  {
+    href: "/library",
+    title: "북한 라이브러리",
+    text: "유엔과 국제사회, 각국 정부가 발간한 북한 인권 관련 법·보고서·정책문서를 모았습니다.",
+    tone: "tile-slate",
+    sub: [],
+  },
+  {
+    href: "/studies",
+    title: "북한 사회 연구",
+    text: "세계 각국에서 게재되는 북한의 교육·디아스포라·여성·청(소)년·장애인·노인·경제·정치 관련 논문을 모읍니다.",
+    tone: "tile-green",
+    sub: [],
+  },
 ];

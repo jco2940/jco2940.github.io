@@ -1,0 +1,65 @@
+name: Collect archives
+
+on:
+  schedule:
+    - cron: "20 21 * * *" # 매일 한국 시간 06:20
+  workflow_dispatch:
+    inputs:
+      studies_since:
+        description: "북한 사회 연구: 이 날짜(YYYY-MM-DD) 이후 출판 논문을 수집. 비우면 최근 90일"
+        required: false
+      library_since:
+        description: "북한 라이브러리: 이 해(YYYY) 이후 문서를 수집. 비우면 작년부터"
+        required: false
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: collect-archives
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # 하나가 실패해도 나머지는 모으고 올린다
+      - name: 북한 사회 동향
+        continue-on-error: true
+        run: node scripts/collect-trends.mjs
+
+      - name: 북한 라이브러리
+        continue-on-error: true
+        env:
+          RELIEFWEB_APPNAME: ${{ secrets.RELIEFWEB_APPNAME }}
+          SINCE: ${{ inputs.library_since }}
+        run: node scripts/collect-library.mjs ${SINCE:+--since "$SINCE"}
+
+      - name: 북한 사회 연구
+        continue-on-error: true
+        env:
+          KCI_API_KEY: ${{ secrets.KCI_API_KEY }}
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          SINCE: ${{ inputs.studies_since }}
+        run: node scripts/collect-studies.mjs ${SINCE:+--since "$SINCE"}
+
+      # 바뀐 것이 있을 때만 커밋하고 배포를 다시 돌린다(GITHUB_TOKEN 으로 한 push 는 배포 워크플로를 깨우지 않는다)
+      - name: Commit and deploy
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git add app/data
+          git diff --cached --quiet && { echo "no change"; exit 0; }
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update archives"
+          git pull --rebase origin main
+          git push
+          gh workflow run deploy-pages.yml --ref main

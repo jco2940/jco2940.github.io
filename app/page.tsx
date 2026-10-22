@@ -1,18 +1,7 @@
 import Link from "next/link";
 import { Cover } from "./components";
-import { PROFILE } from "../site.config";
+import { ARCHIVES, PROFILE } from "../site.config";
 import research from "./data/research.json";
-
-const TILES = [
-  { href: "/interests#human-rights", title: "북한 인권 연구", text: "북한 주민의 인권 상황과 유엔·국제사회의 조사와 데이터를 정리합니다.", tone: "tile-indigo", wide: true },
-  { href: "/research", title: "연구·논문", text: "학위논문, 학술논문, 저서, 연구보고서를 모았습니다.", tone: "tile-slate", wide: true },
-  { href: "/research#online-series", title: "온라인시리즈", text: "통일연구원 온라인시리즈로 발표한 현안 분석입니다.", tone: "tile-plum" },
-  { href: "/interests", title: "연구 관심사", text: "교육·사회·여성·청(소)년·정치·경제·근로단체·북한이탈주민을 연구합니다.", tone: "tile-green" },
-  { href: "/about", title: "CV", text: "학력, 경력, 자격을 정리했습니다.", tone: "tile-brown" },
-  { href: "/rodong", title: "노동신문 브리핑", text: "매일 『로동신문』의 정치·경제·사회·여성·교육·청(소)년 이슈를 정리합니다.", tone: "tile-red" },
-  { href: "/talks", title: "발표", text: "학회 발표·토론과 기관·시민단체 강의입니다.", tone: "tile-slate" },
-  { href: "/media", title: "미디어", text: "방송 출연, 유튜브, 언론 인터뷰입니다.", tone: "tile-indigo" },
-];
 
 export default function Home() {
   const all = research.groups.flatMap((g) => g.items.map((item) => ({ ...item, group: g.title, groupId: g.id })));
@@ -36,12 +25,12 @@ export default function Home() {
 
       <section>
         <div className="tile-grid">
-          {TILES.map((tile) => (
-            <Link key={tile.href} href={tile.href} className={`tile ${tile.tone}${tile.wide ? " tile-wide" : ""}`}>
+          {ARCHIVES.map((a) => (
+            <Link key={a.href} href={a.href} className={`tile tile-archive ${a.tone}`}>
               <strong>
-                {tile.title} <span aria-hidden="true">↗</span>
+                {a.title} <span aria-hidden="true">↗</span>
               </strong>
-              <span>{tile.text}</span>
+              <span>{a.text}</span>
             </Link>
           ))}
         </div>

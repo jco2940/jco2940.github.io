@@ -4,7 +4,9 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { NAV, RESEARCH_NAV } from "../site.config";
 
-function isUnder(path: string, href: string) {
+// 정적 호스팅에서 /trends.html 처럼 확장자가 붙어 열려도 같은 페이지로 본다
+function isUnder(rawPath: string, href: string) {
+  const path = rawPath.replace(/\.html$/, "");
   return path === href || path.startsWith(`${href}/`);
 }
 

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "law:kr-nkhra-2016",
+    "title": "북한인권법 (법률 제14070호)",
+    "url": "https://www.law.go.kr/법령/북한인권법",
+    "date": "2016-03-03",
+    "category": "law",
+    "publisher": "대한민국 국회",
+    "note": "2016.9.4. 시행"
+  },
+  {
+    "id": "law:us-nkhra-2004",
+    "title": "North Korean Human Rights Act of 2004 (Public Law 108-333)",
+    "url": "https://www.congress.gov/108/plaws/publ333/PLAW-108publ333.htm",
+    "date": "2004-10-18",
+    "category": "law",
+    "publisher": "미국 의회"
+  },
+  {
+    "id": "undl:766464",
+    "title": "Report of the Commission of Inquiry on Human Rights in the Democratic People's Republic of Korea (A/HRC/25/63)",
+    "url": "https://digitallibrary.un.org/record/766464",
+    "date": "2014-02-07",
+    "category": "report",
+    "publisher": "유엔 북한인권 조사위원회(COI)"
+  }
+]
