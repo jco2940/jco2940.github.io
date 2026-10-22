@@ -126,6 +126,7 @@ a.card:hover { border-color: var(--accent); }
 .tile-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; }
 .tile { grid-column: span 2; display: flex; flex-direction: column; gap: 6px; min-height: 84px; padding: 16px 18px; border-radius: 3px; color: #fff; transition: filter .15s; }
 .tile-wide { grid-column: span 3; }
+.tile-full { grid-column: span 6; }
 .tile:hover { filter: brightness(1.12); }
 .tile strong { font-size: .9rem; font-weight: 700; letter-spacing: -.02em; }
 .tile strong span { font-weight: 400; opacity: .8; }
@@ -135,6 +136,7 @@ a.card:hover { border-color: var(--accent); }
 .tile-plum { background: #6a3d5c; }
 .tile-green { background: #36675a; }
 .tile-brown { background: #6e5531; }
+.tile-red { background: #8a3b36; }
 
 .home-section-head { display: flex; justify-content: space-between; align-items: baseline; margin: 50px 0 14px; }
 .home-section-head .eyebrow { margin: 0; }
@@ -163,7 +165,24 @@ a.card:hover { border-color: var(--accent); }
 }
 @media (max-width: 760px) {
   .masthead { display: flex; justify-content: space-between; }
-  .tile, .tile-wide { grid-column: span 6; min-height: 0; }
+  .tile, .tile-wide, .tile-full { grid-column: span 6; min-height: 0; }
   .card-row { grid-template-columns: 1fr; gap: 24px; }
   .cover { aspect-ratio: 16 / 7; }
 }
+
+.field-nav { display: flex; flex-wrap: wrap; gap: 8px; padding: 22px 0; border-bottom: 1px solid var(--line); }
+.field-nav a { padding: 2px 12px; border: 1px solid var(--line); border-radius: 99px; color: var(--muted); font-size: .72rem; }
+.field-nav a:hover { border-color: var(--accent); color: var(--accent); }
+.field-nav a[aria-current="page"] { border-color: var(--accent); background: var(--accent); color: var(--paper); }
+.rodong-empty { padding: 40px 0; color: var(--muted); font-size: .84rem; }
+.rodong-day h1 { font-size: 1.6rem; }
+.rodong-field { padding: 26px 0; border-top: 1px solid var(--line); }
+.rodong-field h2 { margin: 0 0 14px; color: var(--accent); font-size: .85rem; font-weight: 700; }
+.issue-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 22px; }
+.issue h3 { margin: 2px 0 6px; font-size: .95rem; font-weight: 650; line-height: 1.5; letter-spacing: -.02em; }
+.issue p { margin: 0 0 6px; font-size: .84rem; line-height: 1.8; }
+.issue .kind { color: var(--accent); font-size: .66rem; font-weight: 650; }
+.issue-note { color: var(--muted); }
+.issue-sources { list-style: none; margin: 6px 0 0; padding: 0; color: var(--muted); font-size: .7rem; }
+.issue-sources a { text-decoration: underline; text-underline-offset: 3px; }
+.about-section h2 a:hover { color: var(--accent); }

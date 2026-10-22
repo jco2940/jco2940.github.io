@@ -22,5 +22,6 @@ export const NAV = [
   { href: "/about", label: "CV" },
   { href: "/interests", label: "연구 관심사" },
   { href: "/research", label: "연구·논문" },
+  { href: "/rodong", label: "노동신문" },
   { href: "/writing", label: "글" },
 ];

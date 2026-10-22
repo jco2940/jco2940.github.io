@@ -9,6 +9,7 @@ const TILES = [
   { href: "/research#online-series", title: "온라인시리즈", text: "통일연구원 온라인시리즈로 발표한 현안 분석입니다.", tone: "tile-plum" },
   { href: "/interests", title: "연구 관심사", text: "교육·사회·여성·청(소)년·정치·경제·근로단체·북한이탈주민을 연구합니다.", tone: "tile-green" },
   { href: "/about", title: "CV", text: "학력, 경력, 자격을 정리했습니다.", tone: "tile-brown" },
+  { href: "/rodong", title: "노동신문 브리핑", text: "매일 『로동신문』에서 정치·경제·사회·여성·교육·청(소)년 이슈를 정리합니다.", tone: "tile-red", full: true },
 ];
 
 export default function Home() {
@@ -30,7 +31,7 @@ export default function Home() {
       <section>
         <div className="tile-grid">
           {TILES.map((tile) => (
-            <Link key={tile.href} href={tile.href} className={`tile ${tile.tone}${tile.wide ? " tile-wide" : ""}`}>
+            <Link key={tile.href} href={tile.href} className={`tile ${tile.tone}${tile.wide ? " tile-wide" : ""}${tile.full ? " tile-full" : ""}`}>
               <strong>
                 {tile.title} <span aria-hidden="true">↗</span>
               </strong>
