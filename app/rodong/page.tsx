@@ -4,12 +4,14 @@ import { PageIntro } from "../components";
 import { PROFILE } from "../../site.config";
 import { DAYS, FIELDS, formatDate } from "./data";
 import { EmptyNote, FieldNav } from "./components";
+import { ResearchNav } from "../nav";
 
 export const metadata: Metadata = { title: `노동신문 브리핑 | ${PROFILE.name}` };
 
 export default function RodongPage() {
   return (
     <main className="inner-page">
+      <ResearchNav />
       <PageIntro
         eyebrow="RODONG SINMUN BRIEFING"
         title="노동신문 브리핑"

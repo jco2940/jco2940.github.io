@@ -2,12 +2,14 @@ import type { Metadata } from "next";
 import { PageIntro } from "../components";
 import { PROFILE } from "../../site.config";
 import interests from "../data/interests.json";
+import { ResearchNav } from "../nav";
 
 export const metadata: Metadata = { title: `연구 관심사 | ${PROFILE.name}` };
 
 export default function InterestsPage() {
   return (
     <main className="inner-page">
+      <ResearchNav />
       <PageIntro
         eyebrow="RESEARCH INTERESTS"
         title="연구 관심사"

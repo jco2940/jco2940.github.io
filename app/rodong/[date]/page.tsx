@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { PROFILE } from "../../../site.config";
 import { DAYS, FIELDS, formatDate } from "../data";
 import { IssueItem } from "../components";
+import { ResearchNav } from "../../nav";
 
 // 정적 내보내기는 빈 목록을 허용하지 않아, 브리핑이 없을 때는 404가 되는 자리표시 경로 하나를 만든다
 const EMPTY = "none";
@@ -27,6 +28,7 @@ export default async function RodongDayPage({ params }: { params: Promise<{ date
 
   return (
     <main className="inner-page">
+      <ResearchNav />
       <article className="post rodong-day">
         <p className="eyebrow">
           노동신문 브리핑 · <time>{formatDate(day.date)}</time>

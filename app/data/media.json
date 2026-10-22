@@ -1,0 +1,19 @@
+{
+  "groups": [
+    {
+      "id": "broadcast",
+      "title": "방송 출연",
+      "items": []
+    },
+    {
+      "id": "youtube",
+      "title": "유튜브",
+      "items": []
+    },
+    {
+      "id": "press",
+      "title": "언론 인터뷰",
+      "items": []
+    }
+  ]
+}

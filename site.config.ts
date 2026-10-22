@@ -20,9 +20,15 @@ export const PROFILE = {
 
 export const NAV = [
   { href: "/about", label: "CV" },
-  { href: "/interests", label: "연구 관심사" },
-  { href: "/research", label: "연구·논문" },
-  { href: "/talks", label: "강의·미디어" },
-  { href: "/rodong", label: "노동신문" },
+  { href: "/research", label: "연구" },
+  { href: "/talks", label: "발표" },
   { href: "/writing", label: "글" },
+  { href: "/media", label: "미디어" },
+];
+
+// "연구" 메뉴 아래의 하위 분류. 이 주소들에서는 상단 메뉴의 "연구"가 선택된 것으로 보인다
+export const RESEARCH_NAV = [
+  { href: "/research", label: "연구·논문" },
+  { href: "/interests", label: "연구 관심사" },
+  { href: "/rodong", label: "노동신문 브리핑" },
 ];

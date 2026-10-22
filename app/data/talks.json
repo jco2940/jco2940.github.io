@@ -1,9 +1,14 @@
 {
   "groups": [
-    { "id": "conference", "title": "학회 발표·토론", "items": [] },
-    { "id": "lecture", "title": "기관·시민단체 강의", "items": [] },
-    { "id": "broadcast", "title": "방송 출연", "items": [] },
-    { "id": "youtube", "title": "유튜브", "items": [] },
-    { "id": "press", "title": "언론 인터뷰", "items": [] }
+    {
+      "id": "conference",
+      "title": "학회 발표·토론",
+      "items": []
+    },
+    {
+      "id": "lecture",
+      "title": "기관·시민단체 강의",
+      "items": []
+    }
   ]
 }

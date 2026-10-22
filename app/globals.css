@@ -31,7 +31,7 @@ main { min-height: calc(100vh - 68px - 80px); }
 .wordmark-ko { font-size: 1rem; font-weight: 750; letter-spacing: -.03em; }
 .wordmark-en { color: var(--muted); font: .66rem Georgia, serif; letter-spacing: .06em; }
 .masthead nav { display: flex; gap: 27px; font-size: .8rem; font-weight: 620; }
-.masthead nav a:hover, .masthead-meta a:hover { color: var(--accent); }
+.masthead nav a:hover, .masthead-meta a:hover, .masthead nav a[aria-current="page"] { color: var(--accent); }
 .masthead-meta { justify-self: end; display: flex; gap: 18px; color: var(--muted); font-size: .72rem; }
 
 .site-footer { display: flex; justify-content: space-between; max-width: 1120px; margin: 0 auto; padding: 28px 24px; border-top: 1px solid var(--line); color: var(--muted); font-size: .7rem; }
@@ -126,7 +126,6 @@ a.card:hover { border-color: var(--accent); }
 .tile-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; }
 .tile { grid-column: span 2; display: flex; flex-direction: column; gap: 6px; min-height: 84px; padding: 16px 18px; border-radius: 3px; color: #fff; transition: filter .15s; }
 .tile-wide { grid-column: span 3; }
-.tile-full { grid-column: span 6; }
 .tile:hover { filter: brightness(1.12); }
 .tile strong { font-size: .9rem; font-weight: 700; letter-spacing: -.02em; }
 .tile strong span { font-weight: 400; opacity: .8; }
@@ -165,7 +164,7 @@ a.card:hover { border-color: var(--accent); }
 }
 @media (max-width: 760px) {
   .masthead { display: flex; justify-content: space-between; }
-  .tile, .tile-wide, .tile-full { grid-column: span 6; min-height: 0; }
+  .tile, .tile-wide { grid-column: span 6; min-height: 0; }
   .card-row { grid-template-columns: 1fr; gap: 24px; }
   .cover { aspect-ratio: 16 / 7; }
 }
@@ -188,3 +187,8 @@ a.card:hover { border-color: var(--accent); }
 .about-section h2 a:hover { color: var(--accent); }
 .talk-link { text-decoration: underline; text-underline-offset: 3px; }
 .talk-link:hover { color: var(--accent); }
+
+.sub-nav { display: flex; flex-wrap: wrap; gap: 22px; padding: 16px 0 0; font-size: .74rem; font-weight: 620; color: var(--muted); }
+.sub-nav a { padding-bottom: 4px; border-bottom: 2px solid transparent; }
+.sub-nav a:hover { color: var(--accent); }
+.sub-nav a[aria-current="page"] { border-color: var(--accent); color: var(--ink); }

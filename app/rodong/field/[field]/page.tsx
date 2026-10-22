@@ -5,6 +5,7 @@ import { PageIntro } from "../../../components";
 import { PROFILE } from "../../../../site.config";
 import { DAYS, FIELDS, formatDate, type FieldId } from "../../data";
 import { EmptyNote, FieldNav, IssueItem } from "../../components";
+import { ResearchNav } from "../../../nav";
 
 export const dynamicParams = false;
 
@@ -29,6 +30,7 @@ export default async function RodongFieldPage({ params }: { params: Promise<{ fi
 
   return (
     <main className="inner-page">
+      <ResearchNav />
       <PageIntro eyebrow="RODONG SINMUN BRIEFING" title={`노동신문 브리핑 · ${meta.label}`} lead={`${meta.label} 분야 이슈를 날짜순으로 모았습니다.`} />
       <FieldNav current={meta.id as FieldId} />
       {days.length === 0 ? (
