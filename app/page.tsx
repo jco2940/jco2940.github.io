@@ -3,11 +3,16 @@ import { Cover } from "./components";
 import { ARCHIVES, PROFILE } from "../site.config";
 import research from "./data/research.json";
 import { mediaCards, recentNotes } from "./home";
+import { trendDays } from "./trends/data";
+import { featuredStories } from "./trends/top";
+import { countryName } from "./archive/countries";
 
 export default function Home() {
   const all = research.groups.flatMap((g) => g.items.map((item) => ({ ...item, group: g.title, groupId: g.id })));
   const featured = all.filter((item) => item.featured);
   const series = research.groups.find((g) => g.id === "online-series")!.items.slice(0, 3);
+  const latest = trendDays()[0];
+  const stories = latest ? featuredStories(latest) : [];
   const cards = mediaCards();
   const notes = recentNotes();
 
@@ -38,20 +43,37 @@ export default function Home() {
           ))}
         </div>
 
+        {/* FEATURED: 최신 언론 동향에서 여러 언론이 함께 다룬 이야기 3개. 수집분이 없으면 대표 연구를 보여 준다 */}
         <div className="home-section-head">
           <p className="eyebrow">FEATURED</p>
+          {stories.length > 0 && <Link href={`/trends/${latest.date}`}>동향 전체 보기</Link>}
         </div>
         <div className="card-row">
-          {featured.map((item, i) => (
-            <Link key={item.title} href={`/research#${item.groupId}`} className="feature-card">
-              <Cover label={item.venue.split(" ")[0]} title={item.title} tone={i} />
-              <span className="feature-meta">
-                {item.group} · {item.date}
-              </span>
-              <strong>{item.title}</strong>
-              <span className="feature-sub">{item.venue}</span>
-            </Link>
-          ))}
+          {stories.length > 0
+            ? stories.map((story, i) => (
+                <a key={story.headline.url} href={story.headline.url} className="feature-card">
+                  <Cover label={`북한 사회 동향 · ${story.date.replaceAll("-", ".")}`} title={story.headline.title} tone={i} />
+                  <span className="feature-meta">
+                    {story.countries.map(countryName).join("·")} 언론 {story.sources}곳 보도
+                  </span>
+                  <strong>{story.headline.title}</strong>
+                  <span className="feature-sub">
+                    {story.headline.source}
+                    {story.sources > 1 && ` 외 ${story.sources - 1}곳`}
+                    {story.lang === "ko" && story.keywords.length > 0 && ` · ${story.keywords.join(" · ")}`}
+                  </span>
+                </a>
+              ))
+            : featured.map((item, i) => (
+                <Link key={item.title} href={`/research#${item.groupId}`} className="feature-card">
+                  <Cover label={item.venue.split(" ")[0]} title={item.title} tone={i} />
+                  <span className="feature-meta">
+                    {item.group} · {item.date}
+                  </span>
+                  <strong>{item.title}</strong>
+                  <span className="feature-sub">{item.venue}</span>
+                </Link>
+              ))}
         </div>
 
         {cards.length > 0 && (
