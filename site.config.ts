@@ -31,4 +31,5 @@ export const RESEARCH_NAV = [
   { href: "/research", label: "연구·논문" },
   { href: "/interests", label: "연구 관심사" },
   { href: "/rodong", label: "노동신문 브리핑" },
+  { href: "/library", label: "연구 라이브러리" },
 ];

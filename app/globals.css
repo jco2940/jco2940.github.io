@@ -192,3 +192,29 @@ a.card:hover { border-color: var(--accent); }
 .sub-nav a { padding-bottom: 4px; border-bottom: 2px solid transparent; }
 .sub-nav a:hover { color: var(--accent); }
 .sub-nav a[aria-current="page"] { border-color: var(--accent); color: var(--ink); }
+
+.library-filters { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 12px; border-bottom: 1px solid var(--line); }
+.library-filters .field-nav { border-bottom: 0; }
+.field-nav button { padding: 2px 12px; border: 1px solid var(--line); border-radius: 99px; background: none; color: var(--muted); font: inherit; font-size: .72rem; cursor: pointer; }
+.field-nav button:hover { border-color: var(--accent); color: var(--accent); }
+.field-nav button[aria-pressed="true"] { border-color: var(--accent); background: var(--accent); color: var(--paper); }
+.library-search { display: flex; gap: 8px; padding-bottom: 6px; }
+.library-search select, .library-search input { height: 30px; padding: 0 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--paper); color: var(--ink); font: inherit; font-size: .72rem; }
+.library-search input { width: 220px; }
+.library-count { margin: 16px 0 0; color: var(--muted); font-size: .7rem; }
+.library-list { list-style: none; margin: 0; padding: 0; }
+.library-list li { display: grid; grid-template-columns: 88px minmax(0, 1fr); gap: 20px; padding: 18px 0; border-bottom: 1px solid var(--line); }
+.library-list time { color: var(--muted); font: .76rem Georgia, serif; }
+.library-list .kind { color: var(--accent); font-size: .66rem; font-weight: 650; }
+.library-list .kind em { color: var(--muted); font-style: normal; font-weight: 400; }
+.library-title { display: block; margin: 2px 0 4px; font-size: .9rem; font-weight: 600; line-height: 1.5; letter-spacing: -.02em; }
+.library-title:hover { color: var(--accent); }
+.library-list p { margin: 0; color: var(--muted); font-size: .72rem; line-height: 1.5; }
+.library-more { display: block; margin: 24px auto 0; padding: 8px 18px; border: 1px solid var(--line); border-radius: 99px; background: none; color: var(--ink); font: inherit; font-size: .74rem; cursor: pointer; }
+.library-more:hover { border-color: var(--accent); color: var(--accent); }
+
+@media (max-width: 760px) {
+  .library-search, .library-search input { width: 100%; }
+  .library-search input { flex: 1; }
+  .library-list li { grid-template-columns: 1fr; gap: 2px; }
+}
