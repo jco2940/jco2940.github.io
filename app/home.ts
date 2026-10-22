@@ -56,5 +56,6 @@ export function recentNotes(limit = 12): Note[] {
     for (const [day, n] of byDay) notes.push({ href, external: false, kind, date: day, title: `새로 모은 ${n.toLocaleString()}${unit}` });
   }
 
-  return notes.sort((a, b) => sortKey(b.date).localeCompare(sortKey(a.date))).slice(0, limit);
+  // 날짜를 모르는 기록은 최근 기록에 넣지 않는다
+  return notes.filter((n) => n.date).sort((a, b) => sortKey(b.date).localeCompare(sortKey(a.date))).slice(0, limit);
 }

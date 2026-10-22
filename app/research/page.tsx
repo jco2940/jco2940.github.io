@@ -18,7 +18,7 @@ export default function ResearchPage() {
           <ul className="cv-list">
             {group.items.map((item) => (
               <li key={item.title + item.date}>
-                <span className="cv-period">{item.date}</span>
+                <span className="cv-period">{item.date || "—"}</span>
                 <span>
                   <strong>{item.title}</strong>
                   <p>
