@@ -23,7 +23,7 @@ export default function LibraryPage() {
       <PageIntro
         eyebrow="NORTH KOREA HUMAN RIGHTS LIBRARY"
         title="북한 라이브러리"
-        lead={`유엔과 국제사회, 각국 정부가 발간한 북한 인권 관련 법·결의·보고서·정책문서를 모았습니다. 유엔 디지털 도서관과 ReliefWeb 에서 매일 새 문서를 찾아 더하고, 법령은 직접 정리합니다.${
+        lead={`유엔과 국제사회, 각국 정부가 발간한 북한 인권 관련 법·결의·보고서·정책문서를 모았습니다. ReliefWeb(유엔 인도주의업무조정국 문서 저장소)에서 매일 새 문서를 찾아 더하고, 법령과 주요 유엔 문서는 직접 정리합니다.${
           DOCS_UPDATED ? ` (최근 갱신 ${DOCS_UPDATED.replaceAll("-", ".")})` : ""
         }`}
       />

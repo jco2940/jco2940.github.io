@@ -76,12 +76,20 @@ const since = sinceArg ?? new Date(Date.now() - 90 * 864e5).toISOString().slice(
 const normTitle = (t) => t.toLowerCase().replace(/<[^>]+>/g, "").replace(/[^\p{L}\p{N}]+/gu, "");
 const shortAuthors = (names) => (names.length > 5 ? [...names.slice(0, 5), "외"] : names);
 
+// OpenAlex 는 불리언 연산자가 많은 검색을 초당 1건으로 제한한다. 요청 사이를 띄우고, 그 제한(429)에 걸리면 잠시 뒤 다시 시도한다.
+// 하루 한도(budget)를 다 쓴 429 는 다시 시도해도 소용없으므로 바로 넘긴다
+let lastRequest = 0;
 async function getJSON(url) {
   for (let attempt = 1; ; attempt++) {
+    const wait = lastRequest + 1100 - Date.now();
+    if (wait > 0) await new Promise((r) => setTimeout(r, wait));
+    lastRequest = Date.now();
     const res = await fetch(url, { headers: { "User-Agent": "jco2940.github.io north korea studies" } });
     if (res.ok) return res.json();
-    if (attempt >= 4 || res.status < 500) throw new Error(`${res.status} ${(await res.text()).slice(0, 300)} ${url}`);
-    await new Promise((r) => setTimeout(r, 2000 * attempt));
+    const body = (await res.text()).slice(0, 300);
+    const retry = res.status >= 500 || (res.status === 429 && !/budget/i.test(body));
+    if (!retry || attempt >= 5) throw new Error(`${res.status} ${body} ${url}`);
+    await new Promise((r) => setTimeout(r, 3000 * attempt));
   }
 }
 
@@ -217,7 +225,7 @@ for (const [topic, q] of Object.entries(TOPICS)) {
       found.push(...items);
     } catch (err) {
       warn(`OpenAlex ${topic} 수집 실패: ${err.message.slice(0, 250)}`);
-      if (/\b429\b/.test(err.message)) openAlexDown = true;
+      if (/budget/i.test(err.message)) openAlexDown = true;
     }
   }
   if (process.env.KCI_API_KEY) {
