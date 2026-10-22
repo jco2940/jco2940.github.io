@@ -30,6 +30,7 @@ jobs:
       - name: Collect
         env:
           KCI_API_KEY: ${{ secrets.KCI_API_KEY }}
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
           SINCE: ${{ inputs.since }}
         run: node scripts/collect-library.mjs ${SINCE:+--since "$SINCE"}
 

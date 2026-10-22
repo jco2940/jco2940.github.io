@@ -4,7 +4,7 @@
 //   node scripts/collect-library.mjs [--since YYYY-MM-DD]
 //
 // --since 를 주지 않으면 최근 90일 출판분을 다시 확인한다(늦게 색인되는 논문을 놓치지 않으려고).
-// KCI는 환경변수 KCI_API_KEY 가 있을 때만 조회한다.
+// KCI는 환경변수 KCI_API_KEY 가 있을 때만 조회한다. OPENALEX_API_KEY 는 없어도 되지만 있으면 한 번에 끝까지 받는다.
 // 잘못 들어온 논문은 app/data/library-exclude.json 에 id 를 넣으면 지워지고 다시 수집되지 않는다.
 
 import { readFile, writeFile } from "node:fs/promises";
@@ -18,6 +18,7 @@ const fail = (e) => {
 process.on("uncaughtException", fail);
 process.on("unhandledRejection", fail);
 const report = (msg) => console.log(process.env.GITHUB_ACTIONS ? `::notice::${msg}` : msg);
+const warn = (msg) => console.log(process.env.GITHUB_ACTIONS ? `::warning::${msg}` : msg);
 
 const DATA = new URL("../app/data/library.json", import.meta.url);
 const EXCLUDE = new URL("../app/data/library-exclude.json", import.meta.url);
@@ -58,33 +59,56 @@ async function getJSON(url) {
   }
 }
 
-async function fromOpenAlex(topic, query) {
+// OpenAlex 는 API 키가 없으면 첫 페이지(200건)까지만 준다. 키가 없으면 한 달씩 나눠 조회해 그 한도 안에 들게 한다
+function monthWindows(from) {
   const out = [];
-  let cursor = "*";
-  while (cursor) {
-    const url = new URL("https://api.openalex.org/works");
-    url.searchParams.set("filter", `title_and_abstract.search:${query},from_publication_date:${since},type:${KINDS}`);
-    url.searchParams.set("select", "id,doi,display_name,publication_date,authorships,primary_location,language");
-    url.searchParams.set("per-page", "200");
-    url.searchParams.set("cursor", cursor);
-    const page = await getJSON(url);
-    for (const w of page.results) {
-      if (!w.display_name) continue;
-      const doi = w.doi ? w.doi.replace("https://doi.org/", "").toLowerCase() : null;
-      out.push({
-        id: doi ? `doi:${doi}` : `openalex:${w.id.split("/").pop()}`,
-        title: w.display_name.replace(/<[^>]+>/g, ""),
-        authors: shortAuthors(w.authorships.map((a) => a.author?.display_name).filter(Boolean)),
-        date: w.publication_date,
-        venue: w.primary_location?.source?.display_name ?? "",
-        countries: [...new Set(w.authorships.flatMap((a) => a.countries ?? []))],
-        lang: w.language ?? "",
-        topics: [topic],
-        url: w.doi ?? w.primary_location?.landing_page_url ?? w.id,
-        source: "openalex",
-      });
-    }
-    cursor = page.results.length ? page.meta.next_cursor : null;
+  const today = new Date().toISOString().slice(0, 10);
+  let cur = new Date(`${from.slice(0, 7)}-01T00:00:00Z`);
+  while (cur.toISOString().slice(0, 10) <= today) {
+    const next = new Date(Date.UTC(cur.getUTCFullYear(), cur.getUTCMonth() + 1, 1));
+    const last = new Date(next - 864e5).toISOString().slice(0, 10);
+    out.push([out.length ? cur.toISOString().slice(0, 10) : from, last]);
+    cur = next;
+  }
+  return out;
+}
+
+function toPaper(topic, w) {
+  const doi = w.doi ? w.doi.replace("https://doi.org/", "").toLowerCase() : null;
+  return {
+    id: doi ? `doi:${doi}` : `openalex:${w.id.split("/").pop()}`,
+    title: w.display_name.replace(/<[^>]+>/g, ""),
+    authors: shortAuthors(w.authorships.map((a) => a.author?.display_name).filter(Boolean)),
+    date: w.publication_date,
+    venue: w.primary_location?.source?.display_name ?? "",
+    countries: [...new Set(w.authorships.flatMap((a) => a.countries ?? []))],
+    lang: w.language ?? "",
+    topics: [topic],
+    url: w.doi ?? w.primary_location?.landing_page_url ?? w.id,
+    source: "openalex",
+  };
+}
+
+async function fromOpenAlex(topic, query) {
+  const key = process.env.OPENALEX_API_KEY;
+  const windows = key ? [[since, new Date().toISOString().slice(0, 10)]] : monthWindows(since);
+  const out = [];
+  for (const [from, to] of windows) {
+    let cursor = key ? "*" : null;
+    do {
+      const url = new URL("https://api.openalex.org/works");
+      url.searchParams.set("filter", `title_and_abstract.search:${query},from_publication_date:${from},to_publication_date:${to},type:${KINDS}`);
+      url.searchParams.set("select", "id,doi,display_name,publication_date,authorships,primary_location,language");
+      url.searchParams.set("per-page", "200");
+      if (key) {
+        url.searchParams.set("api_key", key);
+        url.searchParams.set("cursor", cursor);
+      }
+      const page = await getJSON(url);
+      out.push(...page.results.filter((w) => w.display_name).map((w) => toPaper(topic, w)));
+      if (!key && page.meta.count > 200) warn(`OpenAlex ${topic} ${from}~${to}: ${page.meta.count}건 중 200건만 받음 (OPENALEX_API_KEY 를 넣으면 모두 받음)`);
+      cursor = key && page.results.length ? page.meta.next_cursor : null;
+    } while (cursor);
   }
   return out;
 }
@@ -107,7 +131,7 @@ async function fromKCI(topic, words, key) {
       if (!res.ok) throw new Error(`KCI ${res.status}`);
       const xml = await res.text();
       const records = xml.split("<record>").slice(1);
-      if (page === 1 && !records.length && /<result>|error/i.test(xml)) console.warn(`KCI ${title}: ${tag(xml, "result-msg") || xml.slice(0, 200)}`);
+      if (page === 1 && !records.length && /<result>|error/i.test(xml)) warn(`KCI ${title}: ${tag(xml, "result-msg") || xml.slice(0, 200)}`);
       for (const r of records) {
         const t = tags(r, "article-title")[0];
         if (!t || !/북한|탈북|조선/.test(t) || !TOPICS[topic].ko.some((w) => t.includes(w))) continue;
@@ -139,11 +163,11 @@ const exclude = new Set(JSON.parse(await readFile(EXCLUDE, "utf8")));
 const found = [];
 for (const [topic, q] of Object.entries(TOPICS)) {
   const items = await fromOpenAlex(topic, q.openalex);
-  console.log(`OpenAlex ${topic}: ${items.length}`);
+  report(`OpenAlex ${topic}: ${items.length}`);
   found.push(...items);
   if (process.env.KCI_API_KEY) {
     const kci = await fromKCI(topic, q.kci, process.env.KCI_API_KEY);
-    console.log(`KCI ${topic}: ${kci.length}`);
+    report(`KCI ${topic}: ${kci.length}`);
     found.push(...kci);
   }
 }
