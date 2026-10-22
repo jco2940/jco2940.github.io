@@ -39,7 +39,7 @@ export function recentNotes(limit = 12): Note[] {
   // 공개 아카이브의 새 소식
   for (const day of RODONG_DAYS) notes.push({ href: `/rodong/${day.date}`, external: false, kind: "노동신문 브리핑", date: day.date, title: day.overview });
   for (const day of trendDays().slice(0, 7)) {
-    notes.push({ href: `/trends/${day.date}`, external: false, kind: "북한 사회 동향", date: day.date, title: `${dotted(day.date)} 국내외 언론 동향`, sub: `기사 ${day.items.length}건` });
+    notes.push({ href: `/trends/${day.date}`, external: false, kind: "북한 이슈 동향", date: day.date, title: `${dotted(day.date)} 국내외 언론 동향`, sub: `기사 ${day.items.length}건` });
   }
   const collected = library.items as { id: string; added?: string }[];
   const docIds = new Set(collected.map((d) => d.id));

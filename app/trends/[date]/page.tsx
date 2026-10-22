@@ -19,7 +19,7 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ date: string }> }): Promise<Metadata> {
   const { date } = await params;
-  return { title: `북한 사회 동향 ${date === EMPTY ? "" : formatDate(date)} | ${PROFILE.name}` };
+  return { title: `북한 이슈 동향 ${date === EMPTY ? "" : formatDate(date)} | ${PROFILE.name}` };
 }
 
 export default async function TrendDayPage({ params }: { params: Promise<{ date: string }> }) {

@@ -7,7 +7,7 @@ import { formatDate } from "../rodong/data";
 import { trendDays } from "./data";
 import { TrendDayView } from "./view";
 
-export const metadata: Metadata = { title: `북한 사회 동향 | ${PROFILE.name}` };
+export const metadata: Metadata = { title: `북한 이슈 동향 | ${PROFILE.name}` };
 
 export default function TrendsPage() {
   const days = trendDays();
@@ -16,7 +16,7 @@ export default function TrendsPage() {
       <ArchiveNav />
       <PageIntro
         eyebrow="NORTH KOREA IN THE NEWS"
-        title="북한 사회 동향"
+        title="북한 이슈 동향"
         lead="한국·미국·영국·중국·러시아·일본 언론이 하루 동안 보도한 북한 관련 기사를 매일 모아 분야별로 정리합니다. 나라는 Google 뉴스 국가판 기준이고, 분야는 제목의 낱말로 자동 분류합니다. 제목을 누르면 기사 원문으로 이동합니다."
       />
       {days.length === 0 ? (

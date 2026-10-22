@@ -31,7 +31,7 @@ jobs:
           node-version: 22
 
       # 하나가 실패해도 나머지는 모으고 올린다
-      - name: 북한 사회 동향
+      - name: 북한 이슈 동향
         continue-on-error: true
         run: node scripts/collect-trends.mjs
 

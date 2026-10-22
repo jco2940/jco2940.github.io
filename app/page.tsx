@@ -53,7 +53,7 @@ export default function Home() {
           {stories.length > 0
             ? stories.map((story, i) => (
                 <a key={story.headline.url} href={story.headline.url} className="feature-card">
-                  <Cover label={`북한 사회 동향 · ${story.date.replaceAll("-", ".")}`} title={story.headline.title} tone={i} />
+                  <Cover label={`북한 이슈 동향 · ${story.date.replaceAll("-", ".")}`} title={story.headline.title} tone={i} />
                   <span className="feature-meta">
                     {story.countries.map(countryName).join("·")} 언론 {story.sources}곳 보도
                   </span>

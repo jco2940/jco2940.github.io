@@ -1,4 +1,4 @@
-// 북한 사회 동향 수집기. 나라별 Google 뉴스(RSS)에서 지난 하루 동안의 북한 관련 기사 제목·언론사·링크를 모아
+// 북한 이슈 동향 수집기. 나라별 Google 뉴스(RSS)에서 지난 하루 동안의 북한 관련 기사 제목·언론사·링크를 모아
 // 한국 시간 날짜별로 app/data/trends/YYYY-MM-DD.json 에 더한다. 기사 본문은 저장하지 않는다.
 //
 //   node scripts/collect-trends.mjs            새 기사 수집

@@ -1,7 +1,7 @@
 import { readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 
-// 북한 사회 동향: scripts/collect-trends.mjs 가 날짜별로 쌓는 app/data/trends/YYYY-MM-DD.json
+// 북한 이슈 동향: scripts/collect-trends.mjs 가 날짜별로 쌓는 app/data/trends/YYYY-MM-DD.json
 export type Article = {
   id: string;
   title: string;

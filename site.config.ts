@@ -36,7 +36,7 @@ export const RESEARCH_NAV = [
 export const ARCHIVES = [
   {
     href: "/trends",
-    title: "북한 사회 동향",
+    title: "북한 이슈 동향",
     text: "한국·미국·영국·중국·러시아·일본 언론의 북한 관련 보도와 『로동신문』을 매일 모아 정리합니다.",
     tone: "tile-indigo",
     sub: [
