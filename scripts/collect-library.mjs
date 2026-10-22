@@ -60,7 +60,8 @@ async function fromUNDL() {
     const res = await fetch(url, { headers: UA });
     if (!res.ok) throw new Error(`UN DL ${res.status}`);
     const xml = await res.text();
-    const records = xml.split("<record>").slice(1);
+    const records = xml.split(/<record[\s>]/).slice(1);
+    if (jrec === 1 && !records.length) warn(`UN DL 응답에 레코드가 없음 (${res.headers.get("content-type")}): ${xml.slice(0, 200).replace(/\s+/g, " ")}`);
     let older = false;
     for (const r of records) {
       const id = r.match(/<controlfield tag="001">(\d+)<\/controlfield>/)?.[1];

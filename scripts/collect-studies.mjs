@@ -80,7 +80,7 @@ async function getJSON(url) {
   for (let attempt = 1; ; attempt++) {
     const res = await fetch(url, { headers: { "User-Agent": "jco2940.github.io north korea studies" } });
     if (res.ok) return res.json();
-    if (attempt >= 4 || (res.status < 500 && res.status !== 429)) throw new Error(`${res.status} ${(await res.text()).slice(0, 300)} ${url}`);
+    if (attempt >= 4 || res.status < 500) throw new Error(`${res.status} ${(await res.text()).slice(0, 300)} ${url}`);
     await new Promise((r) => setTimeout(r, 2000 * attempt));
   }
 }
@@ -206,17 +206,31 @@ async function fromKCI(topic, words, key) {
 const data = JSON.parse(await readFile(DATA, "utf8"));
 const exclude = new Set(JSON.parse(await readFile(EXCLUDE, "utf8")));
 
+// 한 분야가 실패해도(예: OpenAlex 하루 한도 초과) 그때까지 모은 것은 저장한다
 const found = [];
+let openAlexDown = false;
 for (const [topic, q] of Object.entries(TOPICS)) {
-  const items = await fromOpenAlex(topic, q.openalex);
-  report(`OpenAlex ${topic}: ${items.length}`);
-  found.push(...items);
+  if (!openAlexDown) {
+    try {
+      const items = await fromOpenAlex(topic, q.openalex);
+      report(`OpenAlex ${topic}: ${items.length}`);
+      found.push(...items);
+    } catch (err) {
+      warn(`OpenAlex ${topic} 수집 실패: ${err.message.slice(0, 250)}`);
+      if (/\b429\b/.test(err.message)) openAlexDown = true;
+    }
+  }
   if (process.env.KCI_API_KEY) {
-    const kci = await fromKCI(topic, q.kci, process.env.KCI_API_KEY);
-    report(`KCI ${topic}: ${kci.length}`);
-    found.push(...kci);
+    try {
+      const kci = await fromKCI(topic, q.kci, process.env.KCI_API_KEY);
+      report(`KCI ${topic}: ${kci.length}`);
+      found.push(...kci);
+    } catch (err) {
+      warn(`KCI ${topic} 수집 실패: ${err.message.slice(0, 250)}`);
+    }
   }
 }
+if (openAlexDown) warn("OpenAlex 하루 무료 한도를 다 써서 나머지 분야는 다음 실행에 받습니다. 저장소 Secret OPENALEX_API_KEY 를 넣으면 이 한도를 따로 씁니다.");
 
 // 같은 논문은 id(DOI 우선)나 제목으로 합치고, 분야는 모두 남긴다
 const byKey = new Map();
