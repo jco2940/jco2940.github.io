@@ -2,9 +2,9 @@ import Link from "next/link";
 import { Cover } from "./components";
 import { ARCHIVES, PROFILE } from "../site.config";
 import research from "./data/research.json";
-import { mediaCards, recentNotes } from "./home";
+import { recentNotes } from "./home";
 import { trendDays } from "./trends/data";
-import { featuredStories } from "./trends/top";
+import { featuredStories, isBroadcast } from "./trends/top";
 import { countryName } from "./archive/countries";
 
 export default function Home() {
@@ -13,7 +13,8 @@ export default function Home() {
   const series = research.groups.find((g) => g.id === "online-series")!.items.slice(0, 3);
   const latest = trendDays()[0];
   const stories = latest ? featuredStories(latest) : [];
-  const cards = mediaCards();
+  // MEDIA: 국내 방송사(KBS·MBC 등)와 북한 전문 프로그램이 다룬 핵심 이슈. FEATURED 와 겹치는 이야기는 뺀다
+  const onAir = latest ? featuredStories(latest, { only: isBroadcast, minSources: 1, exclude: stories }) : [];
   const notes = recentNotes();
 
   return (
@@ -76,38 +77,26 @@ export default function Home() {
               ))}
         </div>
 
-        {cards.length > 0 && (
+        {onAir.length > 0 && (
           <>
             <div className="home-section-head">
               <p className="eyebrow">MEDIA</p>
-              <Link href="/media">전체 보기</Link>
+              <Link href={`/trends/${latest.date}`}>방송 보도 전체 보기</Link>
             </div>
             <div className="card-row">
-              {cards.map((card, i) => {
-                const body = (
-                  <>
-                    {card.image ? (
-                      // eslint-disable-next-line @next/next/no-img-element
-                      <img src={card.image} alt="" className="card-thumb" />
-                    ) : (
-                      <Cover label={card.label} title={card.title} tone={i + 2} />
-                    )}
-                    <span className="feature-meta">
-                      {card.date} · <em>{card.label}</em>
-                    </span>
-                    <strong>{card.title}</strong>
-                  </>
-                );
-                return card.external ? (
-                  <a key={card.href + card.title} href={card.href} className="feature-card">
-                    {body}
-                  </a>
-                ) : (
-                  <Link key={card.href + card.title} href={card.href} className="feature-card">
-                    {body}
-                  </Link>
-                );
-              })}
+              {onAir.map((story, i) => (
+                <a key={story.headline.url} href={story.headline.url} className="feature-card">
+                  <Cover label={story.headline.source} title={story.headline.title} tone={i + 2} />
+                  <span className="feature-meta">
+                    {story.date.replaceAll("-", ".")} · <em>{[...new Set(story.articles.map((a) => a.source))].slice(0, 3).join(" · ")}</em>
+                  </span>
+                  <strong>{story.headline.title}</strong>
+                  <span className="feature-sub">
+                    방송 {story.sources}곳 보도
+                    {story.keywords.length > 0 && ` · ${story.keywords.join(" · ")}`}
+                  </span>
+                </a>
+              ))}
             </div>
           </>
         )}

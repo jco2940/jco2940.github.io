@@ -7,7 +7,6 @@ export type Record = {
   venue: string; // 학회·기관·프로그램명
   role?: string; // 발표, 토론, 강사, 패널, 인터뷰 등
   url?: string; // 발표자료·영상·기사 주소
-  image?: string; // 홈 화면 MEDIA 카드에 쓸 썸네일 (public/ 아래 경로, 예: /media/kbs-2026.jpg)
 };
 
 export type RecordGroup = { id: string; title: string; items: Record[] };

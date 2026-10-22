@@ -240,7 +240,6 @@ a.card:hover { border-color: var(--accent); }
   .trend-stats { grid-template-columns: repeat(3, 1fr); }
 }
 
-.card-thumb { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 2px; background: var(--soft); }
 .recent-notes { margin-top: 64px; }
 .recent-notes h2 { margin: 0; padding-bottom: 18px; border-bottom: 2px solid var(--ink); font-size: 2rem; font-weight: 700; letter-spacing: -.045em; }
 .recent-notes ul { list-style: none; margin: 0; padding: 0; }

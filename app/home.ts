@@ -9,7 +9,7 @@ import { DAYS as RODONG_DAYS } from "./rodong/data";
 import { trendDays } from "./trends/data";
 import { DOCS } from "./library/data";
 
-// 홈 화면의 MEDIA 카드와 "최근 기록" 목록을 사이트 곳곳의 데이터에서 모은다
+// 홈 화면의 "최근 기록" 목록을 사이트 곳곳의 데이터에서 모은다
 
 // "2026.10.22", "2026.10", "2026-10-22", "2023–2024" 처럼 제각각인 날짜를 정렬용 YYYY-MM-DD 로
 export function sortKey(date: string) {
@@ -18,31 +18,6 @@ export function sortKey(date: string) {
 }
 
 const dotted = (date: string) => date.replaceAll("-", ".");
-
-export type Card = { href: string; external: boolean; label: string; date: string; title: string; image?: string };
-
-// 미디어 출연과 글을 최신순으로 섞는다
-export function mediaCards(limit = 3): Card[] {
-  const appearances = (media.groups as RecordGroup[]).flatMap((g) =>
-    g.items.map((item) => ({
-      href: item.url ?? "/media",
-      external: Boolean(item.url),
-      label: `${g.title} · ${item.venue}`,
-      date: item.date,
-      title: item.title,
-      image: item.image,
-    })),
-  );
-  const posts = writing.map((post) => ({
-    href: `/writing/${post.slug}`,
-    external: false,
-    label: post.category,
-    date: post.date,
-    title: post.title,
-    image: (post as { image?: string }).image,
-  }));
-  return [...appearances, ...posts].sort((a, b) => sortKey(b.date).localeCompare(sortKey(a.date))).slice(0, limit);
-}
 
 export type Note = { href: string; external: boolean; kind: string; date: string; title: string; sub?: string };
 

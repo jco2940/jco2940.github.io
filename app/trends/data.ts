@@ -8,6 +8,7 @@ export type Article = {
   url: string;
   source: string;
   country: string;
+  via?: "broadcast" | "program"; // 방송사·북한 전문 프로그램 검색으로 모인 기사
   published: string;
   fields: string[];
 };

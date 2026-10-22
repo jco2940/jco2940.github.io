@@ -16,6 +16,16 @@ const EDITIONS = [
   { country: "CN", q: "朝鲜", hl: "zh-CN", gl: "CN", ceid: "CN:zh-Hans" },
   { country: "RU", q: "КНДР", hl: "ru", gl: "RU", ceid: "RU:ru" },
   { country: "JP", q: "北朝鮮", hl: "ja", gl: "JP", ceid: "JP:ja" },
+  // 홈 화면 MEDIA 용: 국내 방송사 보도와 북한 전문 프로그램. 일반 한국 기사와 따로 세어 한도를 나눠 쓴다
+  {
+    country: "KR",
+    via: "broadcast",
+    q: "북한 (site:news.kbs.co.kr OR site:imnews.imbc.com OR site:news.sbs.co.kr OR site:ytn.co.kr OR site:news.jtbc.co.kr OR site:yonhapnewstv.co.kr OR site:mbn.co.kr OR site:ichannela.com OR site:tvchosun.com)",
+    hl: "ko",
+    gl: "KR",
+    ceid: "KR:ko",
+  },
+  { country: "KR", via: "program", q: '"남북의 창" OR "통일전망대" OR "클로즈업 북한"', when: "7d", hl: "ko", gl: "KR", ceid: "KR:ko" },
 ];
 
 // 제목에 이 말이 들어 있으면 그 분야로 분류한다(여러 분야 가능). 언어마다 따로 적는다
@@ -77,7 +87,7 @@ const norm = (t) => t.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, "");
 
 async function fetchEdition(e) {
   const url = new URL("https://news.google.com/rss/search");
-  url.searchParams.set("q", `${e.q} when:1d`);
+  url.searchParams.set("q", `${e.q} when:${e.when ?? "1d"}`);
   url.searchParams.set("hl", e.hl);
   url.searchParams.set("gl", e.gl);
   url.searchParams.set("ceid", e.ceid);
@@ -98,6 +108,7 @@ async function fetchEdition(e) {
         url: tag(item, "link"),
         source,
         country: e.country,
+        ...(e.via && { via: e.via }),
         published: published.toISOString(),
         fields: tagFields(title),
       };
@@ -123,14 +134,14 @@ const byDay = new Map();
 for (const e of EDITIONS) {
   try {
     const items = await fetchEdition(e);
-    report(`${e.country}: ${items.length}건`);
+    report(`${e.country}${e.via ? `(${e.via})` : ""}: ${items.length}건`);
     for (const a of items) {
       const day = kstDate(new Date(a.published));
       if (!byDay.has(day)) byDay.set(day, []);
       byDay.get(day).push(a);
     }
   } catch (err) {
-    warn(`${e.country} 수집 실패: ${err.message}`);
+    warn(`${e.country}${e.via ? `(${e.via})` : ""} 수집 실패: ${err.message}`);
   }
 }
 
@@ -141,11 +152,17 @@ for (const [day, found] of byDay) {
   const items = [...prev.items];
   for (const a of found.sort((x, y) => y.published.localeCompare(x.published))) {
     const key = `${a.country}:${a.id}`;
-    if (seen.has(key) || items.filter((x) => x.country === a.country).length >= PER_COUNTRY_PER_DAY) continue;
+    // 같은 기사가 일반 검색과 방송사 검색에 모두 걸리면 방송사 표시(via)를 남긴다
+    if (seen.has(key)) {
+      const prevItem = items.find((x) => `${x.country}:${x.id}` === key);
+      if (a.via && prevItem && !prevItem.via) prevItem.via = a.via;
+      continue;
+    }
+    if (items.filter((x) => x.country === a.country && x.via === a.via).length >= PER_COUNTRY_PER_DAY) continue;
     seen.add(key);
     items.push(a);
   }
-  if (items.length === prev.items.length) continue;
+  if (JSON.stringify(items) === JSON.stringify(prev.items)) continue;
   items.sort((x, y) => y.published.localeCompare(x.published));
   await writeFile(file, JSON.stringify({ date: day, items }, null, 1) + "\n");
   report(`${day}: ${items.length - prev.items.length}건 추가 (모두 ${items.length}건)`);

@@ -68,11 +68,20 @@ const topicsOf = (story: Story) => {
   return TOPICS.filter((re) => re.test(text));
 };
 
-// 여러 언론이 다룬 순서대로 고르되, 이미 고른 이야기와 주제가 겹치면 건너뛴다
-export function featuredStories(day: TrendDay, limit = 3): Story[] {
+// 국내 방송사 기사인지: 방송사·프로그램 검색으로 모였거나 언론사 이름이 방송사
+const BROADCASTER = /KBS|MBC|SBS|YTN|JTBC|연합뉴스TV|MBN|채널A|TV조선|TV CHOSUN|OBS|EBS/i;
+export const isBroadcast = (a: Article) => Boolean(a.via) || (a.country === "KR" && BROADCASTER.test(a.source));
+
+// 여러 언론이 다룬 순서대로 고르되, 이미 고른 이야기(또는 exclude 의 이야기)와 주제가 겹치면 건너뛴다
+export function featuredStories(
+  day: TrendDay,
+  { limit = 3, only, minSources = 2, exclude = [] }: { limit?: number; only?: (a: Article) => boolean; minSources?: number; exclude?: Story[] } = {},
+): Story[] {
   const picked: Story[] = [];
-  const used = new Set<RegExp>();
-  for (const story of topStories(day, 20)) {
+  const used = new Set<RegExp>(exclude.flatMap(topicsOf));
+  const taken = new Set(exclude.flatMap((s) => s.articles.map((a) => a.url)));
+  const subset = { ...day, items: day.items.filter((a) => (!only || only(a)) && !taken.has(a.url)) };
+  for (const story of topStories(subset, 30, minSources)) {
     const topics = topicsOf(story);
     if (topics.some((t) => used.has(t))) continue;
     picked.push(story);
@@ -82,13 +91,13 @@ export function featuredStories(day: TrendDay, limit = 3): Story[] {
   return picked;
 }
 
-export function topStories(day: TrendDay, limit = 3): Story[] {
+export function topStories(day: TrendDay, limit = 3, minSources = 2): Story[] {
   const groups: { lang: "ko" | "en"; counts: Map<string, number>; items: { a: Article; t: Set<string> }[] }[] = [];
   for (const a of day.items) {
     const lang = langOf(a);
     if (!lang) continue;
     const t = tokens(a.title, lang);
-    if (t.size < 2) continue;
+    if (t.size < 2 && !a.via) continue;
     let best: (typeof groups)[number] | undefined;
     let bestShared = 1;
     for (const g of groups) {
@@ -124,7 +133,7 @@ export function topStories(day: TrendDay, limit = 3): Story[] {
         countries: [...new Set(articles.map((a) => a.country))],
       };
     })
-    .filter((s) => s.sources >= 2)
-    .sort((a, b) => b.sources - a.sources || b.articles.length - a.articles.length)
+    .filter((s) => s.sources >= minSources)
+    .sort((a, b) => b.sources - a.sources || b.articles.length - a.articles.length || b.headline.published.localeCompare(a.headline.published))
     .slice(0, limit);
 }
