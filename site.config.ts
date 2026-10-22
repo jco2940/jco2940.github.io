@@ -3,7 +3,7 @@ export const SITE_URL = "https://jco2940.github.io";
 
 export const PROFILE = {
   name: "조현정",
-  nameEn: "Hyunjung Cho",
+  nameEn: "Hyun Jung Jo",
   role: "교육학 박사 · 북한 인권·교육 연구",
   tagline: "교육학자, 북한 인권·교육 연구자",
   summary:
