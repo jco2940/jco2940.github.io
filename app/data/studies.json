@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "items": [
   {
    "id": "doi:10.1177/25161032261497722",
@@ -418,6 +418,7 @@
    "lang": "",
    "topics": [
     "education",
+    "health",
     "politics"
    ],
    "url": "https://doi.org/10.15652/ink.2026.23.3.233",
@@ -598,7 +599,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.1186/s12889-026-28898-6",
    "source": "openalex",
@@ -699,6 +701,7 @@
    "topics": [
     "economy",
     "education",
+    "health",
     "politics"
    ],
    "url": "https://doi.org/10.82444/warw.33528040",
@@ -738,6 +741,7 @@
    "lang": "ru",
    "topics": [
     "economy",
+    "health",
     "politics"
    ],
    "url": "https://doi.org/10.48647/icca.2026.90.84.024",
@@ -820,6 +824,7 @@
    "topics": [
     "economy",
     "education",
+    "health",
     "politics"
    ],
    "url": "https://doi.org/10.48647/icca.2026.67.90.021",
@@ -887,6 +892,7 @@
    "lang": "en",
    "topics": [
     "diaspora",
+    "health",
     "women"
    ],
    "url": "https://doi.org/10.1007/s00520-026-11143-6",
@@ -964,6 +970,7 @@
    "lang": "en",
    "topics": [
     "economy",
+    "health",
     "politics"
    ],
    "url": "https://doi.org/10.35227/hylr.2026.8.37.3.69",
@@ -1066,7 +1073,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "health"
    ],
    "url": "https://doi.org/10.5932/jkphn.2026.40.2.227",
    "source": "openalex",
@@ -1090,6 +1098,7 @@
    "topics": [
     "diaspora",
     "elderly",
+    "health",
     "youth"
    ],
    "url": "https://doi.org/10.4178/epih.e2026049",
@@ -1129,6 +1138,7 @@
    "countries": [],
    "lang": "",
    "topics": [
+    "health",
     "politics",
     "women"
    ],
@@ -1353,7 +1363,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "health"
    ],
    "url": "https://doi.org/10.1080/1369183x.2026.2706353",
    "source": "openalex",
@@ -1377,7 +1388,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "health"
    ],
    "url": "https://doi.org/10.30773/pi.2025.0149",
    "source": "openalex",
@@ -1607,6 +1619,7 @@
    "lang": "en",
    "topics": [
     "diaspora",
+    "health",
     "youth"
    ],
    "url": "https://doi.org/10.1001/jamanetworkopen.2026.22766",
@@ -1650,7 +1663,8 @@
    ],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.1080/10357718.2026.2700427",
    "source": "openalex",
@@ -1748,7 +1762,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "health"
    ],
    "url": "https://doi.org/10.35131/ishb.2026.20.2.48",
    "source": "openalex",
@@ -1823,7 +1838,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "education"
+    "education",
+    "health"
    ],
    "url": "https://doi.org/10.31999/sonkl.2026.35.127",
    "source": "openalex",
@@ -1945,6 +1961,27 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "남한에서 태어난 청소년 자녀를 양육하고 교육하는 데 있어 북한 태생 어머니의 어려움과 대처 경험"
+  },
+  {
+   "id": "doi:10.14367/kjhep.2026.43.2.1",
+   "title": "Drug misuse and abuse in North Korea: A document review from a health promotion perspective",
+   "authors": [
+    "Dong-Ha Kim",
+    "Chaerim Lee",
+    "Kyungae Choi",
+    "Seunghyun Yoo"
+   ],
+   "date": "2026-06-30",
+   "venue": "보건교육·건강증진학회지",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.14367/kjhep.2026.43.2.1",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "북한의 약물 오용과 남용: 건강증진 관점에서 본 문서 검토"
   },
   {
    "id": "doi:10.19034/kayw.2026.28.2.02",
@@ -2204,6 +2241,22 @@
    "titleKo": "평양 리셉션: 시진핑 북한 방문의 의전, 의례식 및 시각적 국정기법"
   },
   {
+   "id": "doi:10.29261/pakvetj/2026.117",
+   "title": "First Detection of Rickettsia canadensis and Rickettsia heilongjiangensis in China-Russia-DPRK Border areas",
+   "authors": [],
+   "date": "2026-06-10",
+   "venue": "Pakistan Veterinary Journal",
+   "countries": [],
+   "lang": "",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.29261/pakvetj/2026.117",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "중국-러-북 국경지역에서 리케차 카나덴시스(Rickettsia canadensis)와 리케차 헤이롱장엔시스(Rickettsia heilongjiangensis) 첫 검출"
+  },
+  {
    "id": "doi:10.25740/tv271yt9275",
    "title": "In Pyongyang's Own Words: Audience Costs, Nuclear Narratives, and Summit Diplomacy in North Korean State Media",
    "authors": [
@@ -2323,7 +2376,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.1353/apr.2026.a999038",
    "source": "openalex",
@@ -2559,6 +2613,24 @@
    "titleKo": "북한화에 나타난 영웅적 전투의 크로노토프"
   },
   {
+   "id": "doi:10.1016/j.ijid.2026.108616",
+   "title": "Anxiety, epidemic threats, and the gaze of the other: a psychological interpretation of social order and disease management in narratives of wandering in North Korea",
+   "authors": [
+    "Daping Xiao"
+   ],
+   "date": "2026-05-20",
+   "venue": "International Journal of Infectious Diseases",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.1016/j.ijid.2026.108616",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "불안과 전염병의 위협, 그리고 타자의 시선: 북한 유랑 서사에 나타난 사회질서와 질병관리에 대한 심리학적 해석"
+  },
+  {
    "id": "openalex:W7161617857",
    "title": "Integration of North Korean refugees: the case of the International Democracy Hub",
    "authors": [
@@ -2591,7 +2663,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "health"
    ],
    "url": "https://doi.org/10.52937/hira.26.6.1.e7",
    "source": "openalex",
@@ -2610,6 +2683,7 @@
    "lang": "en",
    "topics": [
     "diaspora",
+    "health",
     "women"
    ],
    "url": "https://doi.org/10.5281/zenodo.20117340",
@@ -2635,7 +2709,8 @@
    ],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.3390/land15050800",
    "source": "openalex",
@@ -2769,7 +2844,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.52819/jnes.2026.38.1.151",
    "source": "openalex",
@@ -2831,7 +2907,8 @@
    "topics": [
     "diaspora",
     "economy",
-    "education"
+    "education",
+    "health"
    ],
    "url": "https://doi.org/10.22974/jkda.2026.64.4.002",
    "source": "openalex",
@@ -3070,12 +3147,33 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "health"
    ],
    "url": "https://doi.org/10.6084/m9.figshare.31999531",
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "트라우마에 노출된 탈북자의 신체 증상: 유병률, 상관관계 및 의미"
+  },
+  {
+   "id": "doi:10.1080/0030851x.2026.2661488",
+   "title": "From Infallibility to Managed Fallibility: Natural Disasters as a Turning Point in Authoritarian North Korea",
+   "authors": [
+    "Minkwan Kim"
+   ],
+   "date": "2026-04-03",
+   "venue": "Pacific Affairs",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.1080/0030851x.2026.2661488",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "무류성에서 관리된 오류로: 자연재해를 권위주의 북한의 전환점으로 삼다"
   },
   {
    "id": "openalex:W7142584467",
@@ -3406,7 +3504,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.4324/9781003787594-3",
    "source": "openalex",
@@ -3835,7 +3934,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "health"
    ],
    "url": "https://doi.org/10.30773/pi.2025.0370",
    "source": "openalex",
@@ -3930,12 +4030,29 @@
    "lang": "en",
    "topics": [
     "diaspora",
+    "health",
     "women"
    ],
    "url": "https://doi.org/10.4094/chnr.2025.053",
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "한국 내 탈북여성의 임신, 출산, 육아역량 향상을 위한 서비스 디자인: 질적 서비스 디자인 연구"
+  },
+  {
+   "id": "doi:10.14729/converging.k.2026.14.1.83",
+   "title": "Vulnerabilities in Healthcare in North Korea and Humanitarian Engagement of International Organizations; Focusing on the Period between 1995 to 2024",
+   "authors": [],
+   "date": "2026-01-30",
+   "venue": "Korean Journal of Converging Humanities",
+   "countries": [],
+   "lang": "",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.14729/converging.k.2026.14.1.83",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "북한 의료의 취약성과 국제기구의 인도주의적 참여; 1995년부터 2024년까지의 기간을 중심으로"
   },
   {
    "id": "doi:10.33097/jncta.2026.10.1.187",
@@ -4185,6 +4302,32 @@
    "titleKo": "이민정책과 북한이주민 통합의 비교: 한국과 중화인민공화국의 사례를 중심으로"
   },
   {
+   "id": "doi:10.3346/jkms.2026.41.e227",
+   "title": "Consistency in North Korean Medical Academic Research Topics During the COVID-19 Pandemic: A Text Mining Analysis",
+   "authors": [
+    "Eun Hae Lee",
+    "Minjae Choi",
+    "Hanul Park",
+    "Joon Hee Han",
+    "유수정",
+    "외"
+   ],
+   "date": "2026-01-01",
+   "venue": "Journal of Korean Medical Science",
+   "countries": [
+    "KR",
+    "CA"
+   ],
+   "lang": "en",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.3346/jkms.2026.41.e227",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "코로나19 팬데믹 기간 동안 북한 의학 학술 연구 주제의 일관성: 텍스트 마이닝 분석"
+  },
+  {
    "id": "doi:10.4236/jss.2026.144041",
    "title": "Democratic People’s Republic of Korea (DPRK) and the Adolescent Heir: Developmental and Institutional Risks in the Fourth Generation Transition",
    "authors": [
@@ -4218,7 +4361,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "health"
    ],
    "url": "https://doi.org/10.1016/j.jmh.2026.100407",
    "source": "openalex",
@@ -4550,6 +4694,24 @@
    "titleKo": "소련의 지도하에: 1946-1955년 조선민주주의인민공화국 문학비평"
   },
   {
+   "id": "doi:10.5040/9781350568488",
+   "title": "Witness to North Korea",
+   "authors": [
+    "Jerome Sauvage"
+   ],
+   "date": "2026-01-01",
+   "venue": "Bloomsbury Publishing Plc eBooks",
+   "countries": [],
+   "lang": "",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.5040/9781350568488",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "북한에 대한 증언"
+  },
+  {
    "id": "doi:10.37561/sse.2025.12.64.4.421",
    "title": "A Comparative Study of War Narratives in South and North Korean Textbooks for Peace Education",
    "authors": [
@@ -4773,6 +4935,7 @@
    "lang": "en",
    "topics": [
     "diaspora",
+    "health",
     "women"
    ],
    "url": "https://doi.org/10.21086/ksles.2025.12.32.6.753",
@@ -4958,6 +5121,7 @@
    "topics": [
     "diaspora",
     "economy",
+    "health",
     "women"
    ],
    "url": "https://doi.org/10.21086/ksles.2025.12.32.6.790",
@@ -5246,6 +5410,7 @@
    "topics": [
     "diaspora",
     "education",
+    "health",
     "women",
     "youth"
    ],
@@ -5253,6 +5418,25 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "한국에 거주하는 탈북청소년의 정신건강상태: 남한 청소년과의 비교연구"
+  },
+  {
+   "id": "doi:10.56640/mbr.2025.32.707",
+   "title": "Transformation of the Pyongyang Legend Dokkijangsu(“The Axe General”)",
+   "authors": [
+    "The Modern Bibiography Review Society",
+    "Kwang-Sik Kim"
+   ],
+   "date": "2025-12-12",
+   "venue": "The Modern Bibiography Review Society",
+   "countries": [],
+   "lang": "",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.56640/mbr.2025.32.707",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "평양전설 도끼장수의 변신"
   },
   {
    "id": "doi:10.47577/tssj.v78i1.13303",
@@ -5271,6 +5455,27 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "지정학적 위험이 한국 금융시장에 미치는 영향: 북한, 미국, 일본의 증거"
+  },
+  {
+   "id": "doi:10.12688/f1000research.166627.1",
+   "title": "A Comparative Analysis of Press Freedom in India and Adjacent Democracies: Special Focus on Norway, India and North Korea",
+   "authors": [
+    "Rajmani Mohanty",
+    "Shyamantak Misra"
+   ],
+   "date": "2025-12-05",
+   "venue": "F1000Research",
+   "countries": [
+    "IN"
+   ],
+   "lang": "en",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.12688/f1000research.166627.1",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "인도와 인접 민주주의 국가의 언론 자유 비교 분석: 노르웨이, 인도, 북한을 중심으로"
   },
   {
    "id": "openalex:W7112860226",
@@ -5511,7 +5716,8 @@
    "countries": [],
    "lang": "",
    "topics": [
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.1017/9781108915632.007",
    "source": "openalex",
@@ -5590,6 +5796,7 @@
    "topics": [
     "diaspora",
     "education",
+    "health",
     "youth"
    ],
    "url": "https://doi.org/10.1177/0265539x251385507",
@@ -5695,6 +5902,7 @@
    "topics": [
     "diaspora",
     "economy",
+    "health",
     "women"
    ],
    "url": "https://doi.org/10.1177/10783903251383174",
@@ -5857,6 +6065,26 @@
    "titleKo": "남한사회에서 신체장애가 있는 북한이탈주민의 삶의 여정에 대한 서사적 고찰"
   },
   {
+   "id": "doi:10.24866/2542-1611/2025-2/22-32",
+   "title": "КНДР–США: закрыто ли окно для диалога?",
+   "authors": [
+    "Анастасия Олеговна БАРАННИКОВА"
+   ],
+   "date": "2025-10-29",
+   "venue": "Известия Восточного института",
+   "countries": [
+    "RU"
+   ],
+   "lang": "ru",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.24866/2542-1611/2025-2/22-32",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "조선민주주의인민공화국-미국: 대화의 창은 닫혀 있는가?"
+  },
+  {
    "id": "doi:10.46407/kjci.2025.10.133.111",
    "title": "North Korean Defectors in the Media : Frame Shifts and Discourse Formation in the Context of Successive Administrations",
    "authors": [
@@ -5891,6 +6119,7 @@
    "topics": [
     "diaspora",
     "economy",
+    "health",
     "youth"
    ],
    "url": "https://doi.org/10.3389/fpubh.2025.1652410",
@@ -6016,6 +6245,27 @@
    "titleKo": "정착이주여성의 갈등관리 지역사회통합 전략: 경기도 광명시 결혼이민자와 북한이탈주민의 신뢰인식을 중심으로"
   },
   {
+   "id": "doi:10.20408/jti.2025.0061",
+   "title": "Estimated blood storage requirements for a North Korean invasion of South Korea and South Korea’s preparedness",
+   "authors": [
+    "Kun Hwang",
+    "Chan Yong Park"
+   ],
+   "date": "2025-09-30",
+   "venue": "Journal of Trauma and Injury",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.20408/jti.2025.0061",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "북한의 남침에 따른 혈액 저장량 추정과 한국의 대비태도"
+  },
+  {
    "id": "openalex:W7219548970",
    "title": "Сравнительный анализ приграничного сотрудничества России с Китаем и другими азиатскими странами (Монголией и КНДР)",
    "authors": [
@@ -6052,7 +6302,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "health"
    ],
    "url": "https://doi.org/10.1177/10436596251371528",
    "source": "openalex",
@@ -6281,7 +6532,8 @@
    "countries": [],
    "lang": "ru",
    "topics": [
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.48647/icca.2025.23.23.012",
    "source": "openalex",
@@ -6429,7 +6681,8 @@
    ],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.1136/bmjgh-2025-021019",
    "source": "openalex",
@@ -6721,6 +6974,7 @@
    "lang": "en",
    "topics": [
     "diaspora",
+    "health",
     "women",
     "youth"
    ],
@@ -6788,7 +7042,8 @@
    ],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.3390/land14091703",
    "source": "openalex",
@@ -6853,7 +7108,8 @@
    ],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.6087/kcse.381",
    "source": "openalex",
@@ -6916,6 +7172,7 @@
    "lang": "en",
    "topics": [
     "diaspora",
+    "health",
     "women"
    ],
    "url": "https://doi.org/10.1093/ijnp/pyaf052.257",
@@ -7100,7 +7357,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.62834/a68qa161",
    "source": "openalex",
@@ -7164,6 +7422,7 @@
    "topics": [
     "diaspora",
     "education",
+    "health",
     "youth"
    ],
    "url": "https://doi.org/10.1136/bmjopen-2024-091072",
@@ -7473,7 +7732,8 @@
    ],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.63973/1998-6785/2025-2/23-30",
    "source": "openalex",
@@ -7579,6 +7839,24 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "탈식민주의 국가 건설과 국가 페미니즘: 북한 조선민주여성동맹의 제도화, 1945-1949"
+  },
+  {
+   "id": "doi:10.1136/bmj.r1296",
+   "title": "North Korean covid cover-up caused suffering and deaths, report documents",
+   "authors": [
+    "Luke Taylor"
+   ],
+   "date": "2025-06-23",
+   "venue": "BMJ",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.1136/bmj.r1296",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "북한 코로나 은폐로 고통과 사망, 보고서 문서"
   },
   {
    "id": "doi:10.18500/1819-4907-2025-25-2-237-242",
@@ -7784,7 +8062,8 @@
    ],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.52372/jps.e681",
    "source": "openalex",
@@ -8027,7 +8306,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "health"
    ],
    "url": "https://doi.org/10.3389/fpubh.2025.1545628",
    "source": "openalex",
@@ -8051,6 +8331,7 @@
    "lang": "en",
    "topics": [
     "diaspora",
+    "health",
     "women",
     "youth"
    ],
@@ -8099,7 +8380,8 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "health"
    ],
    "url": "https://doi.org/10.1136/tc-2024-059113",
    "source": "openalex",
@@ -8161,7 +8443,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.1007/s12144-025-07943-4",
    "source": "openalex",
@@ -8584,7 +8867,8 @@
    ],
    "lang": "en",
    "topics": [
-    "education"
+    "education",
+    "health"
    ],
    "url": "https://doi.org/10.6087/kcse.365",
    "source": "openalex",
@@ -8609,7 +8893,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "health"
    ],
    "url": "https://doi.org/10.12771/emj.2025.00367",
    "source": "openalex",
@@ -8874,6 +9159,24 @@
    "titleKo": "경계를 넘다: 런던 탈북자들의 민족적 신뢰 네트워크와 사회적 참여 확대"
   },
   {
+   "id": "doi:10.60217/0002002915",
+   "title": "日本近代の移民・植民と移植された聖地: 開教師・堀智猛の軌跡と北海道、朝鮮、台湾の写し霊場",
+   "authors": [
+    "Mirai Nakagawa"
+   ],
+   "date": "2025-03-25",
+   "venue": "Institutional Repositories DataBase (IRDB)",
+   "countries": [],
+   "lang": "ja",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.60217/0002002915",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "일본 근대의 이민·식민과 이식된 성지: 개교사·호리 토모노의 궤적과 홋카이도, 조선, 대만의 사본 영장"
+  },
+  {
    "id": "doi:10.1186/s13690-025-01547-x",
    "title": "Research trends in pediatric diseases in North Korea: a scoping review of North Korean medical journals, 2006–2019",
    "authors": [
@@ -8891,7 +9194,8 @@
    ],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.1186/s13690-025-01547-x",
    "source": "openalex",
@@ -9098,6 +9402,7 @@
    "topics": [
     "diaspora",
     "economy",
+    "health",
     "women"
    ],
    "url": "https://doi.org/10.1080/10926771.2025.2474596",
@@ -9136,6 +9441,7 @@
    "lang": "en",
    "topics": [
     "diaspora",
+    "health",
     "youth"
    ],
    "url": "https://doi.org/10.20437/koaece30-1-17",
@@ -9180,6 +9486,24 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "정치적 맥락의 제약 하에서 남북한의 상생경제통합모델 개발: 게임이론적 접근"
+  },
+  {
+   "id": "doi:10.35280/kotpm.2025.28.1.9",
+   "title": "Current State of Kim Jong-un Era as Reported in Democratic People’s Republic of Korea(DPRK)’s Official Newspaper ‘Rohdong Sinmun’ -Focusing on Healthcare-",
+   "authors": [
+    "Kon Hee Kim"
+   ],
+   "date": "2025-02-28",
+   "venue": "The Treatise on The Plastic Media",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.35280/kotpm.2025.28.1.9",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "조선민주주의인민공화국 관영신문 '로동신문'에 보도된 김정은 시대의 현황 -보건의료를 중심으로-"
   },
   {
    "id": "doi:10.5977/jkasne.2025.31.1.96",
@@ -9366,6 +9690,7 @@
    "lang": "en",
    "topics": [
     "economy",
+    "health",
     "women"
    ],
    "url": "https://doi.org/10.3389/fvets.2025.1529253",
@@ -9715,6 +10040,7 @@
    ],
    "lang": "en",
    "topics": [
+    "health",
     "youth"
    ],
    "url": "https://doi.org/10.3346/jkms.2025.40.e169",
@@ -9735,7 +10061,8 @@
    ],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "health"
    ],
    "url": "https://doi.org/10.3346/jkms.2025.40.e318",
    "source": "openalex",
@@ -9776,12 +10103,39 @@
    "topics": [
     "diaspora",
     "economy",
+    "health",
     "women"
    ],
    "url": "https://cedar.wwu.edu/wwuet/1417",
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "북한 노동교화소에서의 생생한 경험: 북한 난민의 건강, 의료 및 회복력에 관한 질적 연구."
+  },
+  {
+   "id": "doi:10.1155/tbed/7807512",
+   "title": "Metatranscriptomic Analysis Uncovers RNA Virus Diversity in Ticks From the China–Russia–North Korea Border Region",
+   "authors": [
+    "Zhe Liu",
+    "Shengwei Ji",
+    "Jinqi Wang",
+    "Yuan Li",
+    "Eloiza May Galon",
+    "외"
+   ],
+   "date": "2025-01-01",
+   "venue": "Transboundary and Emerging Diseases",
+   "countries": [
+    "CN",
+    "PH"
+   ],
+   "lang": "en",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.1155/tbed/7807512",
+   "source": "openalex",
+   "added": "2026-10-23",
+   "titleKo": "Metatranscriptomic 분석을 통해 중국-러시아-북한 국경 지역의 진드기에서 RNA 바이러스 다양성 발견"
   },
   {
    "id": "openalex:W7169638490",
@@ -9934,7 +10288,8 @@
    "lang": "",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "health"
    ],
    "url": "https://doi.org/10.23276/jkagd.2025.21.1.004",
    "source": "openalex",
