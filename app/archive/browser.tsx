@@ -12,7 +12,27 @@ export type Entry = {
   facets: string[]; // 국가·기관 (선택 상자로 거른다)
   meta: string; // 제목 아래 회색 줄
   search?: string; // 화면에 보이지 않지만 검색에 쓰는 글 (예: 논문 원제)
+  summary?: string; // 제목 아래 한 줄 요약 (예: 해외 기사 제목의 한국어 번역)
+  copy?: string; // 있으면 '링크 복사' 단추로 이 글을 클립보드에 넣는다
 };
+
+function CopyButton({ text }: { text: string }) {
+  const [done, setDone] = useState(false);
+  return (
+    <button
+      type="button"
+      className="copy-link"
+      onClick={() =>
+        navigator.clipboard.writeText(text).then(() => {
+          setDone(true);
+          setTimeout(() => setDone(false), 1500);
+        })
+      }
+    >
+      {done ? "복사됨" : "링크 복사"}
+    </button>
+  );
+}
 
 const PAGE = 50;
 
@@ -91,7 +111,13 @@ export function ArchiveBrowser({
               <a href={e.url} className="archive-title">
                 {e.title}
               </a>
-              {e.meta && <p>{e.meta}</p>}
+              {e.summary && <span className="archive-summary">{e.summary}</span>}
+              {(e.meta || e.copy) && (
+                <p>
+                  {e.meta}
+                  {e.copy && <CopyButton text={e.copy} />}
+                </p>
+              )}
             </span>
           </li>
         ))}

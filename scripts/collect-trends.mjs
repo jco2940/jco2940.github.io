@@ -3,6 +3,9 @@
 //
 //   node scripts/collect-trends.mjs            새 기사 수집
 //   node scripts/collect-trends.mjs --retag    분류 낱말이나 거르는 기준을 고친 뒤, 이미 모은 기사에 다시 적용
+//   node scripts/collect-trends.mjs --summarize  한 줄 요약(summary)이 빠진 기사만 채운다
+//
+// 한 줄 요약은 기사 제목을 한국어로 옮긴 것이다(Google 번역, 키 없이 쓰는 공개 주소). 한국어 제목은 그대로 쓴다.
 
 import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 
@@ -125,8 +128,39 @@ async function fetchEdition(e) {
     .filter(keep);
 }
 
+// 제목 여러 개를 줄바꿈으로 이어 한 번에 번역한다. 줄 수가 맞지 않으면 그 묶음은 건너뛰고 다음 실행에 다시 한다
+const HANGUL = /[가-힣]/;
+async function translateBatch(titles) {
+  const url = new URL("https://translate.googleapis.com/translate_a/single");
+  Object.entries({ client: "gtx", sl: "auto", tl: "ko", dt: "t" }).forEach(([k, v]) => url.searchParams.set(k, v));
+  const res = await fetch(url, { method: "POST", body: new URLSearchParams({ q: titles.join("\n") }) });
+  if (!res.ok) throw new Error(`translate ${res.status}`);
+  const lines = (await res.json())[0].map((seg) => seg[0]).join("").split("\n").map((l) => l.trim());
+  return lines.length === titles.length ? lines : null;
+}
+async function summarize(items) {
+  const todo = items.filter((a) => !a.summary);
+  todo.filter((a) => HANGUL.test(a.title)).forEach((a) => (a.summary = a.title));
+  const foreign = todo.filter((a) => !a.summary);
+  let done = 0;
+  for (let i = 0; i < foreign.length; i += 20) {
+    const batch = foreign.slice(i, i + 20);
+    try {
+      const out = await translateBatch(batch.map((a) => a.title));
+      if (out) batch.forEach((a, j) => out[j] && (a.summary = out[j])), (done += batch.length);
+    } catch (err) {
+      warn(`한 줄 요약 번역 실패(${err.message}). 남은 것은 다음 실행에 합니다.`);
+      break;
+    }
+    await new Promise((r) => setTimeout(r, 500));
+  }
+  return done;
+}
+
 const report = (msg) => console.log(process.env.GITHUB_ACTIONS ? `::notice::${msg}` : msg);
-const warn = (msg) => console.log(process.env.GITHUB_ACTIONS ? `::warning::${msg}` : msg);
+function warn(msg) {
+  console.log(process.env.GITHUB_ACTIONS ? `::warning::${msg}` : msg);
+}
 
 await mkdir(DIR, { recursive: true });
 
@@ -137,6 +171,16 @@ if (process.argv.includes("--retag")) {
     day.items.forEach((a) => (a.fields = tagFields(a.title)));
     await writeFile(new URL(f, DIR), JSON.stringify(day, null, 1) + "\n");
     report(`${f}: ${day.items.filter((a) => a.fields.length).length}/${day.items.length}건 분류`);
+  }
+  process.exit(0);
+}
+if (process.argv.includes("--summarize")) {
+  for (const f of (await readdir(DIR)).filter((f) => f.endsWith(".json"))) {
+    const day = JSON.parse(await readFile(new URL(f, DIR), "utf8"));
+    const before = JSON.stringify(day.items);
+    const n = await summarize(day.items);
+    if (JSON.stringify(day.items) !== before) await writeFile(new URL(f, DIR), JSON.stringify(day, null, 1) + "\n");
+    report(`${f}: 번역 ${n}건`);
   }
   process.exit(0);
 }
@@ -158,6 +202,8 @@ for (const e of EDITIONS) {
 for (const [day, found] of byDay) {
   const file = new URL(`${day}.json`, DIR);
   const prev = await readFile(file, "utf8").then(JSON.parse, () => ({ date: day, items: [] }));
+  const before = JSON.stringify(prev.items);
+  const prevCount = prev.items.length;
   const seen = new Set(prev.items.map((a) => `${a.country}:${a.id}`));
   const items = [...prev.items];
   for (const a of found.sort((x, y) => y.published.localeCompare(x.published))) {
@@ -172,8 +218,9 @@ for (const [day, found] of byDay) {
     seen.add(key);
     items.push(a);
   }
-  if (JSON.stringify(items) === JSON.stringify(prev.items)) continue;
+  await summarize(items);
+  if (JSON.stringify(items) === before) continue;
   items.sort((x, y) => y.published.localeCompare(x.published));
   await writeFile(file, JSON.stringify({ date: day, items }, null, 1) + "\n");
-  report(`${day}: ${items.length - prev.items.length}건 추가 (모두 ${items.length}건)`);
+  report(`${day}: ${items.length - prevCount}건 추가 (모두 ${items.length}건)`);
 }

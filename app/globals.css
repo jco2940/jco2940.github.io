@@ -209,6 +209,9 @@ a.card:hover { border-color: var(--accent); }
 .archive-list time { color: var(--muted); font: .76rem Georgia, serif; }
 .archive-list .kind { color: var(--accent); font-size: .66rem; font-weight: 650; }
 .archive-list .kind em { color: var(--muted); font-style: normal; font-weight: 400; }
+.archive-summary { display: block; margin-top: 3px; font-size: .8rem; line-height: 1.5; }
+.copy-link { margin-left: 10px; padding: 0 8px; border: 1px solid var(--line); border-radius: 99px; background: none; color: var(--accent); font: inherit; font-size: .64rem; cursor: pointer; }
+.copy-link:hover { border-color: var(--accent); }
 .archive-title { display: block; margin: 2px 0 4px; font-size: .9rem; font-weight: 600; line-height: 1.5; letter-spacing: -.02em; }
 .archive-title:hover { color: var(--accent); }
 .archive-list p { margin: 0; color: var(--muted); font-size: .72rem; line-height: 1.5; }

@@ -11,6 +11,7 @@ export type Article = {
   via?: "broadcast" | "program"; // 방송사·북한 전문 프로그램 검색으로 모인 기사
   published: string;
   fields: string[];
+  summary?: string; // 한국어 한 줄 요약 (collect-trends.mjs 가 제목을 번역)
 };
 
 export type TrendDay = { date: string; items: Article[] };

@@ -38,6 +38,10 @@ jobs:
         continue-on-error: true
         run: node scripts/collect-trends.mjs
 
+      - name: 북한 이슈 동향 한 줄 요약 채우기
+        continue-on-error: true
+        run: node scripts/collect-trends.mjs --summarize
+
       - name: 북한인권 라이브러리
         continue-on-error: true
         env:
