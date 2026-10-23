@@ -1,9 +1,10 @@
 // 북한 사회 연구 수집기. OpenAlex(해외·국제 학술지)와 KCI(국내 학술지)에서
-// 북한의 교육·디아스포라·여성·청(소)년·장애인·노인·경제·정치 관련 논문 서지정보를 모아 app/data/studies.json 에 더한다.
+// 북한의 교육·디아스포라·여성·청(소)년·장애인·노인·보건의료·경제·정치 관련 논문 서지정보를 모아 app/data/studies.json 에 더한다.
 //
-//   node scripts/collect-studies.mjs [--since YYYY-MM-DD]
+//   node scripts/collect-studies.mjs [--since YYYY-MM-DD] [--topics health,women]
 //
 // --since 를 주지 않으면 최근 90일 출판분을 다시 확인한다(늦게 색인되는 논문을 놓치지 않으려고).
+// --topics 를 주면 그 분야만 수집한다(새 분야를 지난 날짜부터 채울 때 쓴다).
 // KCI는 환경변수 KCI_API_KEY 가 있을 때만 조회한다. OPENALEX_API_KEY 는 없어도 되지만 있으면 한 번에 끝까지 받는다.
 // 잘못 들어온 논문은 app/data/studies-exclude.json 에 id 를 넣으면 지워지고 다시 수집되지 않는다.
 
@@ -56,6 +57,11 @@ const TOPICS = {
     kci: ["북한 노인", "북한 고령", "북한 노년"],
     ko: ["노인", "고령", "노년", "연금"],
   },
+  health: {
+    openalex: `(health OR healthcare OR "health care" OR medical OR medicine OR hospital OR hospitals OR disease OR diseases OR tuberculosis OR malaria OR nutrition OR malnutrition OR vaccine OR vaccination OR COVID OR pandemic OR epidemic OR "mental health" OR physicians OR doctors OR nurses OR pharmaceutical)`,
+    kci: ["북한 보건", "북한 의료", "북한 보건의료", "북한 병원", "북한 의사", "북한 감염병", "북한 결핵", "북한 영양", "북한이탈주민 건강", "탈북민 건강", "북한이탈주민 정신건강"],
+    ko: ["보건", "의료", "병원", "의사", "의학", "건강", "질병", "감염", "결핵", "영양", "백신", "코로나", "약품", "간호"],
+  },
   economy: {
     openalex: `(economy OR economic OR market OR markets OR marketization OR trade OR sanctions OR industry OR agriculture OR food)`,
     kci: ["북한 경제", "북한 시장", "북한 무역", "북한 대북제재", "북한 산업", "북한 농업", "북한 식량"],
@@ -72,6 +78,9 @@ const KINDS = "article|book-chapter|book|dissertation";
 const args = process.argv.slice(2);
 const sinceArg = args.includes("--since") ? args[args.indexOf("--since") + 1] : null;
 const since = sinceArg ?? new Date(Date.now() - 90 * 864e5).toISOString().slice(0, 10);
+const onlyTopics = args.includes("--topics") ? args[args.indexOf("--topics") + 1].split(",").map((t) => t.trim()).filter(Boolean) : null;
+const unknownTopic = onlyTopics?.find((t) => !TOPICS[t]);
+if (unknownTopic) fail(`알 수 없는 분야: ${unknownTopic} (가능: ${Object.keys(TOPICS).join(", ")})`);
 
 const normTitle = (t) => t.toLowerCase().replace(/<[^>]+>/g, "").replace(/[^\p{L}\p{N}]+/gu, "");
 const shortAuthors = (names) => (names.length > 5 ? [...names.slice(0, 5), "외"] : names);
@@ -217,7 +226,7 @@ const exclude = new Set(JSON.parse(await readFile(EXCLUDE, "utf8")));
 // 한 분야가 실패해도(예: OpenAlex 하루 한도 초과) 그때까지 모은 것은 저장한다
 const found = [];
 let openAlexDown = false;
-for (const [topic, q] of Object.entries(TOPICS)) {
+for (const [topic, q] of Object.entries(TOPICS).filter(([t]) => !onlyTopics || onlyTopics.includes(t))) {
   if (!openAlexDown) {
     try {
       const items = await fromOpenAlex(topic, q.openalex);

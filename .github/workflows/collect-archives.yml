@@ -8,6 +8,9 @@ on:
       studies_since:
         description: "북한 사회 연구: 이 날짜(YYYY-MM-DD) 이후 출판 논문을 수집. 비우면 최근 90일"
         required: false
+      studies_topics:
+        description: "북한 사회 연구: 이 분야만 수집(쉼표로 구분, 예: health). 비우면 전체"
+        required: false
       library_since:
         description: "북한 라이브러리: 이 해(YYYY) 이후 문서를 수집. 비우면 작년부터"
         required: false
@@ -48,7 +51,8 @@ jobs:
           KCI_API_KEY: ${{ secrets.KCI_API_KEY }}
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
           SINCE: ${{ inputs.studies_since }}
-        run: node scripts/collect-studies.mjs ${SINCE:+--since "$SINCE"}
+          TOPICS: ${{ inputs.studies_topics }}
+        run: node scripts/collect-studies.mjs ${SINCE:+--since "$SINCE"} ${TOPICS:+--topics "$TOPICS"}
 
       # 바뀐 것이 있을 때만 커밋하고 배포를 다시 돌린다(GITHUB_TOKEN 으로 한 push 는 배포 워크플로를 깨우지 않는다)
       - name: Commit and deploy

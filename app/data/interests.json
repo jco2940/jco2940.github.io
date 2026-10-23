@@ -66,6 +66,19 @@
     "short": "사회"
   },
   {
+    "id": "health",
+    "title": "북한 보건의료",
+    "en": "Health and Medical Care in North Korea",
+    "summary": "북한의 보건의료 체계와 의료 서비스 접근성, 아동·여성의 영양과 감염병, 북한이탈주민의 건강과 정신건강을 연구합니다.",
+    "keywords": [
+      "보건의료 체계",
+      "의료 접근성",
+      "영양·감염병",
+      "북한이탈주민 건강"
+    ],
+    "short": "보건의료"
+  },
+  {
     "id": "women",
     "title": "북한 여성",
     "en": "Women in North Korea",
