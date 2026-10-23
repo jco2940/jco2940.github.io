@@ -9,6 +9,7 @@ export const FIELDS = [
   { id: "education", label: "교육" },
   { id: "youth", label: "청(소)년" },
   { id: "health", label: "보건의료" },
+  { id: "climate", label: "기후환경" },
 ] as const;
 
 export type FieldId = (typeof FIELDS)[number]["id"];
