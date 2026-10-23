@@ -1,19 +1,62 @@
 {
   "groups": [
+    { "id": "broadcast", "title": "방송", "items": [] },
+    { "id": "youtube", "title": "유튜브", "items": [] },
+    { "id": "lecture", "title": "강연 영상", "items": [] },
     {
-      "id": "broadcast",
-      "title": "방송 출연",
-      "items": []
-    },
-    {
-      "id": "youtube",
-      "title": "유튜브",
-      "items": []
+      "id": "interview",
+      "title": "언론 인터뷰",
+      "items": [
+        {
+          "date": "2024.01",
+          "title": "북한 광산서 일했던 탈북민, 국책연구기관 북한연구자 됐다",
+          "venue": "연합뉴스",
+          "role": "인터뷰",
+          "description": "여성 탈북민 최초로 정부출연연구기관 공채를 거쳐 통일연구원 부연구위원이 되기까지. 북한 주민 인권 신장과 통일 준비에 기여하고 싶다는 포부를 밝혔습니다.",
+          "url": "https://v.daum.net/v/funYYAf5z8"
+        }
+      ]
     },
     {
       "id": "press",
-      "title": "언론 인터뷰",
-      "items": []
+      "title": "보도",
+      "items": [
+        {
+          "date": "2026.10.13",
+          "title": "북러 고등교육 교류·협력의 전개와 함의: '제2차 조로학장연단'을 중심으로",
+          "venue": "서울평양뉴스",
+          "description": "통일연구원 온라인시리즈 보고서 소개",
+          "url": "https://www.spnews.co.kr/news/articleView.html?idxno=111585"
+        },
+        {
+          "date": "2026.10.06",
+          "title": "북한의 제15차 전국교원대회 평가와 전망",
+          "venue": "서울평양뉴스",
+          "description": "통일연구원 온라인시리즈 보고서 소개",
+          "url": "https://www.spnews.co.kr/news/articleView.html?idxno=111366"
+        },
+        {
+          "date": "2026",
+          "title": "조선사회주의여성동맹 제8차 대회 평가와 함의",
+          "venue": "서울평양뉴스",
+          "description": "통일연구원 온라인시리즈 보고서 소개",
+          "url": "https://www.spnews.co.kr/news/articleView.html?idxno=109185"
+        },
+        {
+          "date": "2025",
+          "title": "남북 간 인도주의 사안과 협력 모색",
+          "venue": "서울평양뉴스",
+          "description": "통일연구원 온라인시리즈 보고서 소개 (이규창 공저)",
+          "url": "https://www.spnews.co.kr/news/articleView.html?idxno=96848"
+        },
+        {
+          "date": "2025.02",
+          "title": "2024년 김정은 정권 돌격대의 인권적 함의: 강제노동",
+          "venue": "서울평양뉴스",
+          "description": "통일연구원 현안분석 보고서 소개",
+          "url": "https://www.spnews.co.kr/news/articleView.html?idxno=92563"
+        }
+      ]
     }
   ]
 }

@@ -7,6 +7,8 @@ export type Record = {
   venue: string; // 학회·기관·프로그램명
   role?: string; // 발표, 토론, 강사, 패널, 인터뷰 등
   url?: string; // 발표자료·영상·기사 주소
+  description?: string; // 미디어 카드의 짧은 설명
+  image?: string; // 썸네일 주소. 유튜브 주소면 비워 두어도 자동으로 붙는다
 };
 
 export type RecordGroup = { id: string; title: string; items: Record[] };

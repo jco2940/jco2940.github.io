@@ -257,3 +257,29 @@ a.card:hover { border-color: var(--accent); }
   .recent-notes li a { grid-template-columns: 1fr 14px; gap: 4px 12px; }
   .recent-notes time { grid-column: 1 / -1; }
 }
+
+/* 미디어: 분류 탭 + 썸네일 카드 */
+.media-block { padding-top: 28px; }
+.media-tools { display: flex; justify-content: space-between; gap: 24px; align-items: end; padding-bottom: 16px; border-bottom: 1px solid var(--line); }
+.media-tools h2 { margin: 0; font-size: 1rem; font-weight: 500; }
+.media-filters { display: flex; flex-wrap: wrap; gap: 20px; }
+.media-filters button { padding: 4px 0; border: 0; border-bottom: 1px solid transparent; background: transparent; color: var(--muted); font: inherit; font-size: .73rem; cursor: pointer; }
+.media-filters button.active, .media-filters button:hover { border-color: var(--accent); color: var(--accent); }
+.video-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; padding-top: 16px; }
+.video-card { display: block; padding-bottom: 16px; border-bottom: 1px solid var(--line); overflow: hidden; }
+.video-card img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; transition: transform .4s cubic-bezier(.2,.7,.2,1); }
+a.video-card:hover img { transform: scale(1.02); }
+a.video-card:hover h3 { color: var(--accent); }
+.placeholder-thumb { display: flex; flex-direction: column; justify-content: center; gap: 6px; width: 100%; aspect-ratio: 16 / 9; padding: 0 20px; background: var(--soft); border: 1px solid var(--line); }
+.placeholder-thumb span { font: 600 .95rem "Noto Serif KR", Georgia, serif; color: var(--ink); }
+.placeholder-thumb em { font-style: normal; font-size: .64rem; color: var(--muted); letter-spacing: .06em; }
+.video-meta { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 10px; margin-top: 12px; }
+.video-meta time { color: var(--muted); font: .66rem Georgia, serif; }
+.video-meta span { color: var(--accent); font-size: .66rem; }
+.video-card h3 { margin: 5px 0 7px; font-size: .9rem; font-weight: 600; line-height: 1.45; }
+.video-card p { margin: 0; color: var(--muted); font-size: .7rem; line-height: 1.55; }
+@media (max-width: 760px) {
+  .media-tools { flex-direction: column; align-items: stretch; }
+  .media-filters { gap: 14px; }
+  .video-grid { grid-template-columns: 1fr; gap: 24px; }
+}
