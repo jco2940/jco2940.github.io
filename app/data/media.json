@@ -1,8 +1,20 @@
 {
   "groups": [
-    { "id": "broadcast", "title": "방송", "items": [] },
-    { "id": "youtube", "title": "유튜브", "items": [] },
-    { "id": "lecture", "title": "강연 영상", "items": [] },
+    {
+      "id": "broadcast",
+      "title": "방송",
+      "items": []
+    },
+    {
+      "id": "youtube",
+      "title": "유튜브",
+      "items": []
+    },
+    {
+      "id": "lecture",
+      "title": "강연 영상",
+      "items": []
+    },
     {
       "id": "interview",
       "title": "언론 인터뷰",
@@ -55,6 +67,13 @@
           "venue": "서울평양뉴스",
           "description": "통일연구원 현안분석 보고서 소개",
           "url": "https://www.spnews.co.kr/news/articleView.html?idxno=92563"
+        },
+        {
+          "date": "2025.10",
+          "title": "북한민주화네트워크 국제포럼 '북한의 여맹이 주민들의 성인지 감수성 제고에 기여할 수 있을까?'",
+          "venue": "서울평양뉴스",
+          "description": "통일연구원 부연구위원으로 발표자 참여 (2025.10.15 국제포럼 안내)",
+          "url": "https://www.spnews.co.kr/news/articleView.html?idxno=100010"
         }
       ]
     }

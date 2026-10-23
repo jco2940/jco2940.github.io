@@ -3,7 +3,15 @@
     {
       "id": "conference",
       "title": "학회 발표·토론",
-      "items": []
+      "items": [
+        {
+          "date": "2025.10.15",
+          "title": "전·현 사회주의 국가의 여성동맹에서 찾는 북한 여성인권 개선방안 — 북한의 여맹이 주민들의 '성인지 감수성' 제고에 기여할 수 있을까?",
+          "venue": "북한민주화네트워크 국제포럼",
+          "role": "발표",
+          "url": "https://www.spnews.co.kr/news/articleView.html?idxno=100010"
+        }
+      ]
     },
     {
       "id": "lecture",
