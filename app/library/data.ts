@@ -1,7 +1,7 @@
 import collected from "../data/library.json";
 import manual from "../data/library-manual.json";
 
-// 북한 라이브러리: scripts/collect-library.mjs 가 모으는 유엔·국제기구 문서와, 직접 적는 법령 등(library-manual.json)
+// 북한인권 라이브러리: scripts/collect-library.mjs 가 모으는 유엔·국제기구 문서와, 직접 적는 법령 등(library-manual.json)
 export const DOC_CATEGORIES = [
   { id: "law", label: "법령" },
   { id: "resolution", label: "결의" },

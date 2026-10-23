@@ -44,11 +44,11 @@ export function recentNotes(limit = 12): Note[] {
   const collected = library.items as { id: string; added?: string }[];
   const docIds = new Set(collected.map((d) => d.id));
   for (const doc of DOCS.filter((d) => !docIds.has(d.id)).slice(0, 5)) {
-    notes.push({ href: doc.url, external: true, kind: "북한 라이브러리", date: doc.date, title: doc.title, sub: doc.publisher });
+    notes.push({ href: doc.url, external: true, kind: "북한인권 라이브러리", date: doc.date, title: doc.title, sub: doc.publisher });
   }
   // 자동 수집 문서와 논문은 하루치를 한 줄로 묶는다
   for (const [items, kind, href, unit] of [
-    [collected, "북한 라이브러리", "/library", "건의 문서"],
+    [collected, "북한인권 라이브러리", "/library", "건의 문서"],
     [studies.items as { added?: string }[], "북한 사회 연구", "/studies", "편의 논문"],
   ] as const) {
     const byDay = new Map<string, number>();

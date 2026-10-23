@@ -12,7 +12,7 @@ on:
         description: "북한 사회 연구: 이 분야만 수집(쉼표로 구분, 예: health). 비우면 전체"
         required: false
       library_since:
-        description: "북한 라이브러리: 이 해(YYYY) 이후 문서를 수집. 비우면 작년부터"
+        description: "북한인권 라이브러리: 이 해(YYYY) 이후 문서를 수집. 비우면 작년부터"
         required: false
 
 permissions:
@@ -38,7 +38,7 @@ jobs:
         continue-on-error: true
         run: node scripts/collect-trends.mjs
 
-      - name: 북한 라이브러리
+      - name: 북한인권 라이브러리
         continue-on-error: true
         env:
           RELIEFWEB_APPNAME: ${{ secrets.RELIEFWEB_APPNAME }}

@@ -46,7 +46,7 @@ export const ARCHIVES = [
   },
   {
     href: "/library",
-    title: "북한 라이브러리",
+    title: "북한인권 라이브러리",
     text: "유엔과 국제사회, 각국 정부가 발간한 북한 인권 관련 법·보고서·정책문서를 모았습니다.",
     tone: "tile-slate",
     sub: [],
