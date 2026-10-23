@@ -8,6 +8,7 @@ export const FIELDS = [
   { id: "women", label: "여성" },
   { id: "education", label: "교육" },
   { id: "youth", label: "청(소)년" },
+  { id: "health", label: "보건의료" },
 ] as const;
 
 export type FieldId = (typeof FIELDS)[number]["id"];
