@@ -7,6 +7,7 @@ export function SiteHeader() {
     <header className="masthead">
       <Link href="/" className="wordmark">
         <span className="wordmark-ko">{PROFILE.name}</span>
+        <span className="wordmark-en">{PROFILE.nameEn.toUpperCase()}</span>
       </Link>
       <MainNav />
       <span className="masthead-meta">

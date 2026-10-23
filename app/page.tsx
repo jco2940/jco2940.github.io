@@ -22,6 +22,7 @@ export default function Home() {
       <aside className="profile-rail">
         <h2 className="profile-name">
           {PROFILE.name}
+          <span>{PROFILE.nameEn}, Ph.D.</span>
         </h2>
         <p className="profile-role">통일연구원 인권연구실 부연구위원</p>
         <p className="profile-summary">

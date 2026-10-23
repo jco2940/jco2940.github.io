@@ -128,31 +128,35 @@ async function fetchEdition(e) {
     .filter(keep);
 }
 
-// 제목 여러 개를 줄바꿈으로 이어 한 번에 번역한다. 줄 수가 맞지 않으면 그 묶음은 건너뛰고 다음 실행에 다시 한다
+// 제목을 하나씩 번역한다. 여러 언어가 섞인 묶음을 한 번에 보내면 언어 감지가 틀려 번역되지 않는 제목이 생긴다
 const HANGUL = /[가-힣]/;
-async function translateBatch(titles) {
+async function translateTitle(text) {
   const url = new URL("https://translate.googleapis.com/translate_a/single");
-  Object.entries({ client: "gtx", sl: "auto", tl: "ko", dt: "t" }).forEach(([k, v]) => url.searchParams.set(k, v));
-  const res = await fetch(url, { method: "POST", body: new URLSearchParams({ q: titles.join("\n") }) });
+  Object.entries({ client: "gtx", sl: "auto", tl: "ko", dt: "t", q: text }).forEach(([k, v]) => url.searchParams.set(k, v));
+  const res = await fetch(url, { headers: { "User-Agent": "jco2940.github.io north korea trends" } });
   if (!res.ok) throw new Error(`translate ${res.status}`);
-  const lines = (await res.json())[0].map((seg) => seg[0]).join("").split("\n").map((l) => l.trim());
-  return lines.length === titles.length ? lines : null;
+  return (await res.json())[0].map((seg) => seg[0]).join("").trim();
 }
+// 요약이 없거나, 한글이 아닌 제목인데 요약이 제목과 같으면(번역이 안 된 것) 다시 채운다
 async function summarize(items) {
-  const todo = items.filter((a) => !a.summary);
-  todo.filter((a) => HANGUL.test(a.title)).forEach((a) => (a.summary = a.title));
-  const foreign = todo.filter((a) => !a.summary);
   let done = 0;
-  for (let i = 0; i < foreign.length; i += 20) {
-    const batch = foreign.slice(i, i + 20);
-    try {
-      const out = await translateBatch(batch.map((a) => a.title));
-      if (out) batch.forEach((a, j) => out[j] && (a.summary = out[j])), (done += batch.length);
-    } catch (err) {
-      warn(`한 줄 요약 번역 실패(${err.message}). 남은 것은 다음 실행에 합니다.`);
-      break;
+  let failed = 0;
+  for (const a of items) {
+    if (HANGUL.test(a.title)) {
+      a.summary ??= a.title;
+      continue;
     }
-    await new Promise((r) => setTimeout(r, 500));
+    if (a.summary && a.summary !== a.title) continue;
+    try {
+      const out = await translateTitle(a.title);
+      if (out) (a.summary = out), done++;
+    } catch (err) {
+      if (++failed >= 5) {
+        warn(`한 줄 요약 번역 실패가 이어져 멈춥니다(${err.message}). 남은 것은 다음 실행에 합니다.`);
+        break;
+      }
+    }
+    await new Promise((r) => setTimeout(r, 300));
   }
   return done;
 }
