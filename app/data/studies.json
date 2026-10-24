@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "items": [
+  {
+   "id": "doi:10.20310/1810-0201-2026-31-5-1404-1415",
+   "title": "Transformation of DPRK ideological discourse, 1994–2000: “Red Banner” and “Strong and Prosperous Nation”",
+   "authors": [
+    "Шкатов Данил Евгеньевич"
+   ],
+   "date": "2026-10-22",
+   "venue": "Вестник Тамбовского университета. Серия: Гуманитарные науки",
+   "countries": [
+    "RU"
+   ],
+   "lang": "",
+   "topics": [
+    "economy",
+    "politics"
+   ],
+   "url": "https://doi.org/10.20310/1810-0201-2026-31-5-1404-1415",
+   "source": "openalex",
+   "added": "2026-10-24",
+   "titleKo": "조선민주주의인민공화국 이념담론의 변천, 1994~2000년: “붉은 깃발”과 “강성대국”"
+  },
   {
    "id": "doi:10.1177/25161032261497722",
    "title": "Associations of North Korean Refugee Mothers’ Parenting Beliefs, Attitudes, and Attachment With Preschool Children’s Moral and Conventional Behaviors",
