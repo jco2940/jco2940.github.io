@@ -2,7 +2,8 @@ name: Collect archives
 
 on:
   schedule:
-    - cron: "20 21 * * *" # 매일 한국 시간 06:20
+    - cron: "20 21 * * *" # 매일 한국 시간 06:20 (모든 아카이브)
+    - cron: "50 0-20/3 * * *" # 한국 시간 09:50부터 3시간마다 (북한 이슈 동향만)
   workflow_dispatch:
     inputs:
       studies_since:
@@ -39,6 +40,7 @@ jobs:
         run: node scripts/collect-trends.mjs
 
       - name: 미디어 유튜브 정보 채우기
+        if: github.event_name != 'schedule' || github.event.schedule == '20 21 * * *'
         continue-on-error: true
         run: node scripts/fill-media.mjs
 
@@ -47,6 +49,7 @@ jobs:
         run: node scripts/collect-trends.mjs --summarize
 
       - name: 북한인권 라이브러리
+        if: github.event_name != 'schedule' || github.event.schedule == '20 21 * * *'
         continue-on-error: true
         env:
           RELIEFWEB_APPNAME: ${{ secrets.RELIEFWEB_APPNAME }}
@@ -54,6 +57,7 @@ jobs:
         run: node scripts/collect-library.mjs ${SINCE:+--since "$SINCE"}
 
       - name: 북한 사회 연구
+        if: github.event_name != 'schedule' || github.event.schedule == '20 21 * * *'
         continue-on-error: true
         env:
           KCI_API_KEY: ${{ secrets.KCI_API_KEY }}

@@ -11,7 +11,9 @@ export default function Home() {
   const all = research.groups.flatMap((g) => g.items.map((item) => ({ ...item, group: g.title, groupId: g.id })));
   const featured = all.filter((item) => item.featured);
   const series = research.groups.find((g) => g.id === "online-series")!.items.slice(0, 3);
-  const latest = trendDays()[0];
+  // 가장 최근 날짜 파일은 하루가 다 차지 않았을 수 있어, 그 전날 기사까지 합쳐 최근 이틀의 큰 이야기를 고른다
+  const [today, yesterday] = trendDays();
+  const latest = today && { ...today, items: [...today.items, ...(yesterday?.items ?? [])] };
   const stories = latest ? featuredStories(latest) : [];
   // MEDIA: 국내 방송사(KBS·MBC 등)와 북한 전문 프로그램이 가장 많이 다룬 이슈. FEATURED 와는 보는 눈이 달라 같은 이야기가 겹칠 수 있다
   const onAir = latest ? featuredStories(latest, { only: isBroadcast, minSources: 1 }) : [];
