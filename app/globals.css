@@ -329,3 +329,45 @@ a.video-card:hover h3 { color: var(--accent); }
 .digest-days a:hover { border-color: #4b4683; }
 .digest-days b { color: var(--muted); font-weight: 500; margin-left: 4px; }
 @media (prefers-color-scheme: dark) { .digest-days a { background: var(--soft); border-color: var(--line); } }
+
+/* 공개 아카이브 머리띠 색 */
+.digest-plum { background: #5b3557; }
+.digest-plum .digest-badge { background: #e9b04f; }
+.digest-wide { max-width: 1240px; margin: 0 auto; padding: 24px 24px 0; }
+
+/* 북한 사회 연구 별자리 지도 */
+.starmap-grid { display: grid; grid-template-columns: minmax(0, 1fr) 290px; gap: 18px; align-items: start; }
+.starmap-legend { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; margin-bottom: 12px; font-size: .72rem; }
+.starmap-legend button { display: inline-flex; align-items: center; gap: 6px; padding: 4px 11px; border: 1px solid #d8d0c2; border-radius: 99px; background: #fff; color: #3d3a35; font: inherit; cursor: pointer; }
+.starmap-legend button[aria-pressed="true"] { border-color: #5b3557; box-shadow: 0 0 0 2px rgba(91,53,87,.15); }
+.starmap-legend i { width: 9px; height: 9px; border-radius: 50%; }
+.starmap-legend label { display: inline-flex; align-items: center; gap: 5px; margin-left: 6px; color: var(--muted); }
+.starmap { position: relative; border-radius: 16px; overflow: hidden; box-shadow: 0 18px 40px -20px rgba(10, 11, 28, .7); }
+.starmap svg { display: block; width: 100%; height: auto; }
+.starmap a circle { cursor: pointer; }
+.starmap-tip { position: absolute; transform: translate(-50%, calc(-100% - 12px)); max-width: 320px; padding: 8px 11px; border-radius: 8px; background: rgba(255,255,255,.96); color: #1d1d1f; font-size: .7rem; line-height: 1.45; pointer-events: none; box-shadow: 0 6px 18px rgba(0,0,0,.3); }
+.starmap-tip b { display: block; font-weight: 650; }
+.starmap-tip span { color: #6e6e73; }
+.starmap-panel { padding: 18px 18px 20px; border: 1px solid #e3dccf; border-radius: 16px; background: #fffdf8; font-size: .76rem; }
+.starmap-panel h2 { margin: 0 0 4px; font-size: .95rem; }
+.starmap-panel h3 { margin: 18px 0 8px; font-size: .74rem; }
+.starmap-panel .muted { margin: 0; color: var(--muted); }
+.starmap-panel .small { font-size: .68rem; margin-top: 6px; }
+.starmap-panel .big { margin: 12px 0 0; }
+.starmap-panel .big b { font-size: 1.15rem; margin-right: 2px; }
+.starmap-panel .bar { display: flex; height: 10px; border-radius: 99px; overflow: hidden; background: #eee; }
+.starmap-panel .meter { display: grid; grid-template-columns: 70px 1fr 34px; align-items: center; gap: 8px; margin: 5px 0; }
+.starmap-panel .meter > i { display: block; height: 7px; border-radius: 99px; background: #eee8de; }
+.starmap-panel .meter > i > i { display: block; height: 100%; border-radius: 99px; background: #8d6a8a; }
+.starmap-panel .meter em { font-style: normal; color: var(--muted); text-align: right; }
+.starmap-keywords, .starmap-list { margin-top: 22px; padding: 18px 20px; border: 1px solid #e3dccf; border-radius: 16px; background: #fffdf8; }
+.starmap-keywords h2, .starmap-list h2 { margin: 0 0 14px; font-size: .95rem; }
+.starmap-keywords small { margin-left: 8px; color: var(--muted); font-size: .68rem; font-weight: 400; }
+@media (prefers-color-scheme: dark) {
+  .starmap-panel, .starmap-keywords, .starmap-list { background: var(--soft); border-color: var(--line); }
+  .starmap-legend button { background: var(--soft); border-color: var(--line); color: var(--ink); }
+}
+@media (max-width: 900px) {
+  .starmap-grid { grid-template-columns: 1fr; }
+  .digest-wide { padding: 16px 12px 0; }
+}

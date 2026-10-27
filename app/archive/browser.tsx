@@ -59,6 +59,7 @@ export function ArchiveBrowser({
     const q = new URLSearchParams(window.location.search);
     if (q.get("tag")) setTag(q.get("tag")!);
     if (q.get("facet")) setFacet(q.get("facet")!);
+    if (q.get("q")) setQuery(q.get("q")!);
   }, []);
 
   // 선택 상자는 항목이 많은 순으로

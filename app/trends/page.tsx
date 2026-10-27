@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { PROFILE } from "../../site.config";
+import { PublicHeader } from "../archive/public-header";
 import { countryName } from "../archive/countries";
 import { DAYS as RODONG_DAYS } from "../rodong/data";
 import { DOCS } from "../library/data";
@@ -66,25 +67,10 @@ export default function TrendsPage() {
 
   return (
     <main className="digest">
-      <section className="digest-band">
-        <nav className="digest-topnav digest-inner" aria-label="공개 아카이브">
-          <Link href="/trends" aria-current="page">북한 이슈 동향</Link>
-          <Link href="/rodong">노동신문 브리핑</Link>
-          <Link href="/library">북한인권 라이브러리</Link>
-          <Link href="/studies">북한 사회 연구</Link>
-          <span />
-          <Link href="/">조현정 홈</Link>
-        </nav>
-        <div className="digest-inner">
-          <h1>
-            북한 이슈 동향 <span className="digest-badge">North Korea in Focus</span>
-          </h1>
-          <p>
-            한국·미국·영국·중국·러시아·일본 언론과 『로동신문』으로 보는 북한 동향 다이제스트 (총 {days.length}일치 {all.length.toLocaleString()}건) by 통일연구원{" "}
-            <Link href="/">{PROFILE.name}</Link>
-          </p>
-        </div>
-      </section>
+      <PublicHeader current="/trends" title="북한 이슈 동향" badge="North Korea in Focus">
+        한국·미국·영국·중국·러시아·일본 언론과 『로동신문』으로 보는 북한 동향 다이제스트 (총 {days.length}일치 {all.length.toLocaleString()}건) by
+        통일연구원 <Link href="/">{PROFILE.name}</Link>
+      </PublicHeader>
 
       <div className="digest-inner">
 
