@@ -283,3 +283,49 @@ a.video-card:hover h3 { color: var(--accent); }
   .media-filters { gap: 14px; }
   .video-grid { grid-template-columns: 1fr; gap: 24px; }
 }
+
+/* 북한 이슈 다이제스트: 보라색 머리띠 + 미색 바탕 */
+.digest { background: #f5f1ea; padding-bottom: 80px; }
+.digest-inner { max-width: 980px; margin: 0 auto; padding: 0 24px; }
+.digest-band { background: #4b4683; color: #fff; padding: 38px 0 30px; }
+.digest-band h1 { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin: 0; font-size: 1.6rem; font-weight: 750; letter-spacing: -.03em; }
+.digest-badge { padding: 4px 12px; border-radius: 99px; background: #f2b84b; color: #3b2a07; font-size: .66rem; font-weight: 700; letter-spacing: 0; }
+.digest-band p { margin: 10px 0 0; color: #dcd9f0; font-size: .82rem; }
+.digest-band a { color: #fff; text-decoration: underline; text-underline-offset: 3px; }
+.digest .archive-nav { padding-top: 18px; }
+.digest-section { padding: 28px 0 24px; border-bottom: 1px solid #ddd5c8; }
+.digest-section h2 { margin: 0 0 16px; font-size: .95rem; font-weight: 750; }
+.digest-section h2 a:hover { color: var(--accent); }
+.digest-weeks { list-style: none; margin: 0; padding: 0; }
+.digest-weeks li { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 16px; padding: 14px 0; border-top: 1px solid #e3dccf; font-size: .84rem; line-height: 1.75; }
+.digest-weeks li:first-child { border-top: 0; }
+.digest-weeks em { color: var(--muted); font-style: normal; font-size: .74rem; }
+.digest-weeks a:hover { color: var(--accent); }
+.digest-range { font-weight: 700; font-size: .8rem; }
+.digest-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.digest-chip { padding: 5px 13px; border: 1px solid #d8d0c2; border-radius: 99px; background: #ece6dc; font-size: .74rem; color: #3d3a35; }
+.digest-chip b { margin-left: 2px; }
+.digest-chip:hover { border-color: #4b4683; }
+.chip-press { background: #f6e3e6; border-color: #e7bfc6; color: #9b3d4f; }
+.chip-rodong { background: #f3e7d5; border-color: #e2cda9; color: #7a5422; }
+.chip-doc { background: #e5e7f4; border-color: #c9cde9; color: #3f4687; }
+.chip-study { background: #e2eee9; border-color: #bfd9cd; color: #2f6352; }
+@media (prefers-color-scheme: dark) {
+  .digest { background: var(--paper); }
+  .digest-chip { background: var(--soft); border-color: var(--line); color: var(--ink); }
+  .digest-section, .digest-weeks li { border-color: var(--line); }
+}
+@media (max-width: 760px) {
+  .digest-inner { padding: 0 16px; }
+  .digest-weeks li { grid-template-columns: 1fr; gap: 2px; }
+}
+.digest-band { padding-top: 0; }
+.digest-topnav { display: flex; flex-wrap: wrap; gap: 6px 22px; padding-top: 12px; padding-bottom: 12px; margin-bottom: 26px; border-bottom: 1px solid rgba(255,255,255,.15); font-size: .74rem; font-weight: 650; }
+.digest-band .digest-topnav a { color: #d6d3ee; text-decoration: none; }
+.digest-band .digest-topnav a[aria-current="page"], .digest-band .digest-topnav a:hover { color: #fff; }
+.digest-topnav span { flex: 1; }
+.digest-days { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; margin: 0; padding: 0; }
+.digest-days a { display: inline-block; padding: 5px 12px; border: 1px solid #d8d0c2; border-radius: 6px; background: #fff; font-size: .74rem; }
+.digest-days a:hover { border-color: #4b4683; }
+.digest-days b { color: var(--muted); font-weight: 500; margin-left: 4px; }
+@media (prefers-color-scheme: dark) { .digest-days a { background: var(--soft); border-color: var(--line); } }

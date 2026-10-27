@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 // 아카이브 목록 한 줄. 서버 쪽 페이지가 각 데이터(논문·문서·기사)를 이 모양으로 바꿔 넘긴다
 export type Entry = {
@@ -53,6 +53,13 @@ export function ArchiveBrowser({
   const [facet, setFacet] = useState("");
   const [query, setQuery] = useState("");
   const [shown, setShown] = useState(PAGE);
+
+  // 다이제스트 등에서 ?tag=분야&facet=나라 로 들어오면 그 조건으로 연다
+  useEffect(() => {
+    const q = new URLSearchParams(window.location.search);
+    if (q.get("tag")) setTag(q.get("tag")!);
+    if (q.get("facet")) setFacet(q.get("facet")!);
+  }, []);
 
   // 선택 상자는 항목이 많은 순으로
   const facets = useMemo(() => {
