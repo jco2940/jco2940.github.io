@@ -42,12 +42,16 @@ export function ArchiveBrowser({
   facetLabel,
   unit,
   byDay = false,
+  restrict,
+  onClearRestrict,
 }: {
   items: Entry[];
   tags: string[];
   facetLabel: string;
   unit: string;
   byDay?: boolean;
+  restrict?: { label: string; ids: string[] } | null; // 바깥(예: 별자리 지도)에서 고른 항목만 보이기
+  onClearRestrict?: () => void;
 }) {
   const [tag, setTag] = useState("");
   const [facet, setFacet] = useState("");
@@ -71,10 +75,12 @@ export function ArchiveBrowser({
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
+    const only = restrict ? new Set(restrict.ids) : null;
     return items.filter(
-      (e) => (!tag || e.tags.includes(tag)) && (!facet || e.facets.includes(facet)) && (!q || `${e.title} ${e.meta} ${e.search ?? ""}`.toLowerCase().includes(q)),
+      (e) =>
+        (!only || only.has(e.id)) && (!tag || e.tags.includes(tag)) && (!facet || e.facets.includes(facet)) && (!q || `${e.title} ${e.meta} ${e.search ?? ""}`.toLowerCase().includes(q)),
     );
-  }, [items, tag, facet, query]);
+  }, [items, tag, facet, query, restrict]);
 
   const reset = (fn: () => void) => {
     fn();
@@ -103,6 +109,16 @@ export function ArchiveBrowser({
           <input type="search" value={query} onChange={(e) => reset(() => setQuery(e.target.value))} placeholder="검색" aria-label="검색" />
         </div>
       </div>
+      {restrict && (
+        <p className="archive-restrict">
+          <b>{restrict.label}</b> 주제만 보는 중
+          {onClearRestrict && (
+            <button type="button" onClick={onClearRestrict}>
+              전체 보기
+            </button>
+          )}
+        </p>
+      )}
       <p className="archive-count">
         {filtered.length.toLocaleString()}
         {unit}

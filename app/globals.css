@@ -371,3 +371,14 @@ a.video-card:hover h3 { color: var(--accent); }
   .starmap-grid { grid-template-columns: 1fr; }
   .digest-wide { padding: 16px 12px 0; }
 }
+.starmap-label { cursor: pointer; }
+.starmap-label:hover rect { stroke-opacity: .7; }
+.starmap-hint { margin-left: auto; color: var(--muted); font-size: .68rem; }
+.starmap-actions { display: grid; gap: 8px; margin-top: 18px; }
+.starmap-btn { padding: 9px 12px; border: 0; border-radius: 99px; background: #5b3557; color: #fff; font: inherit; font-size: .76rem; font-weight: 650; cursor: pointer; }
+.starmap-btn.ghost { background: none; border: 1px solid #d8d0c2; color: var(--ink); }
+.starmap-keywords button.digest-chip { font: inherit; font-size: .74rem; cursor: pointer; }
+.starmap-keywords .digest-chip[aria-pressed="true"] { background: #f2b84b; border-color: #d99b2b; color: #2b1d04; }
+.archive-restrict { display: flex; align-items: center; gap: 10px; margin: 10px 0 0; padding: 8px 12px; border-radius: 8px; background: #fbf1dc; font-size: .74rem; }
+.archive-restrict button { margin-left: auto; padding: 2px 10px; border: 1px solid #d8c39a; border-radius: 99px; background: #fff; font: inherit; font-size: .68rem; cursor: pointer; }
+@media (prefers-color-scheme: dark) { .archive-restrict { background: var(--soft); } }

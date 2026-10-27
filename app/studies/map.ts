@@ -20,7 +20,7 @@ const STOP = new Set(
 );
 const PARTICLE = /(에서의|에서|으로의|으로|에게|까지|부터|이다|과의|와의|들의|들은|들이|들을|들|은|는|이|가|을|를|의|에|도|로|과|와)$/;
 
-function words(title: string) {
+export function words(title: string) {
   return [
     ...new Set(
       title
@@ -113,7 +113,11 @@ export function buildMap() {
   // 핵심 키워드 전체(분야 구분 없이)
   const all = new Map<string, number>();
   papers.forEach((p) => words(p.titleKo ?? p.title).forEach((w) => all.set(w, (all.get(w) ?? 0) + 1)));
-  const keywords = [...all].filter(([, n]) => n >= 4).sort((a, b) => b[1] - a[1]).slice(0, 40);
+  const keywords = [...all]
+    .filter(([, n]) => n >= 4)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 40)
+    .map(([w, n]) => ({ word: w, count: n, ids: papers.filter((p) => words(p.titleKo ?? p.title).includes(w)).map((p) => p.id) }));
 
   return { width: W, height: H, stars, clusters, lines, keywords, topics: order };
 }
