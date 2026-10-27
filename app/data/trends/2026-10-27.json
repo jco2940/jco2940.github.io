@@ -8,7 +8,8 @@
    "source": "Мировое обозрение",
    "country": "RU",
    "published": "2026-10-27T14:52:40.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "정부, 북한 포로 문제 논란으로 키예프 주재 외교관 8명 소환"
   },
   {
    "id": "оппозицияюжнойкореипрезидентустоитсыгратьвcallofdutyиззакндр",
@@ -17,7 +18,8 @@
    "source": "Techora.ru",
    "country": "RU",
    "published": "2026-10-27T14:42:23.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "한국 야당: 대통령은 북한 때문에 콜 오브 듀티를 해야 한다"
   },
   {
    "id": "конфликтмеждуукраинойиюжнойкореейобостряетсясеулотозвалвосемьдипломатов",
@@ -26,7 +28,8 @@
    "source": "Головне в Україні",
    "country": "RU",
    "published": "2026-10-27T14:32:00.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "우크라이나와 한국의 갈등이 고조되고 있습니다 : 서울은 외교관 8 명을 소환했습니다"
   },
   {
    "id": "киноспортобразованиекакроссияикндруглубляютсотрудничество",
@@ -39,7 +42,8 @@
     "politics",
     "society",
     "education"
-   ]
+   ],
+   "summary": "영화, 스포츠, 교육: 러시아와 북한이 협력을 심화하는 방법"
   },
   {
    "id": "конфликтиззапленныхизкндрсеулотозвализукраиныещёвосемьдипломатов",
@@ -48,7 +52,8 @@
    "source": "Дзеркало тижня",
    "country": "RU",
    "published": "2026-10-27T14:04:35.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "북한 포로 갈등: 한국 정부, 우크라이나 외교관 8명 추가 소환"
   },
   {
    "id": "южнаякореяотозвалавосьмерыхдипломатовизукраиныиззаспорапоповодупленныхизкндр",
@@ -57,7 +62,8 @@
    "source": "Українські Національні Новини (УНН)",
    "country": "RU",
    "published": "2026-10-27T14:02:21.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "한국 정부는 북한 포로 문제로 논란이 된 우크라이나 외교관 8명을 소환했다."
   },
   {
    "id": "южнаякореяотозвалаизукраинывосьмерыхдипломатовиззаспораопленныхизкндр",
@@ -66,7 +72,8 @@
    "source": "Судово-юридична газета",
    "country": "RU",
    "published": "2026-10-27T13:56:00.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "한국 정부는 북한 포로 문제로 논란이 된 우크라이나 외교관 8명을 소환했다."
   },
   {
    "id": "скандалспленнымиизкндрюжнаякореяотозвалаизукраиныгруппудипломатов",
@@ -75,7 +82,8 @@
    "source": "Слово и Дело",
    "country": "RU",
    "published": "2026-10-27T13:44:03.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "북한 포로 스캔들: 한국은 우크라이나 외교관들을 소환했다"
   },
   {
    "id": "южнаякореяотозваладипломатовизукраиныиззаскандаласвоеннопленнымикндр",
@@ -86,7 +94,8 @@
    "published": "2026-10-27T13:42:00.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "한국이 북한 국군포로 스캔들과 관련해 우크라이나 외교관을 소환했다."
   },
   {
    "id": "южнаякореяотзываетдипломатовсукраинынафонеконфликтасзеленским",
@@ -115,7 +124,20 @@
    "source": "LIGA.net",
    "country": "RU",
    "published": "2026-10-27T13:29:00.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "한국은 우크라이나와의 갈등으로 외교관 8명을 소환했다."
+  },
+  {
+   "id": "выяснилосьчтовшколахкндрприменяютискусственныйинтеллект",
+   "title": "Выяснилось, что в школах КНДР применяют искусственный интеллект",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXl2UkhkemozTHF4LTNzZ3RzV1JLeHp3Zk9PSDdyUU50RkNWUHQ5TFVfYjc3THY2a3A3UkZ0SXJGNWxsbFpsUVV1STVhTndIeVo4UUFWWWhYczNoem93MTJYRUFsZkl6R3cyaFU0ZS1sdmQ1OE1mMXlJb2dxUE1mN0d0bHo5dWV5Ulp0VEFHbDhzd3FvdHJsZWNVUWhNcmZtaGVuZ1hn?oc=5",
+   "source": "Аргументы Недели",
+   "country": "RU",
+   "published": "2026-10-27T13:28:00.000Z",
+   "fields": [
+    "education"
+   ],
+   "summary": "북한 학교에서 인공지능 활용하는 것으로 밝혀져"
   },
   {
    "id": "кндрразместилауграницысюжнойкореейтрисамоходныегаубицыm1981",
@@ -126,7 +148,8 @@
    "published": "2026-10-27T13:25:54.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "북한, 남한 국경 인근에 M-1981 자주포 3문 배치"
   },
   {
    "id": "южнаякореяотозвалаизукраины8дипломатовнафонеспорапоповодупленныхизкндр",
@@ -147,7 +170,8 @@
    "published": "2026-10-27T13:20:27.000Z",
    "fields": [
     "politics"
-   ]
+   ],
+   "summary": "한국, 키예프 주재 대사관 직원 8명 소환"
   },
   {
    "id": "southkoreahasrecalleditsdiplomatsfromukraineamidadisputeoverprisonersofwarfromno",
@@ -173,6 +197,18 @@
     "security"
    ],
    "summary": "한국 정부가 북한 국군포로 문제로 논란이 된 우크라이나 외교관 8명을 소환했다."
+  },
+  {
+   "id": "южнаякореяотозвалавосьмерыхдипломатовизукраиныиззаскандалассеверокорейскимивоенн",
+   "title": "Южная Корея отозвала восьмерых дипломатов из Украины из-за скандала с северокорейскими военнопленными",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZXdfclhoZDdwOEM4WEd5TFl3Z3gzOXdIa09IQWQxdGRnVE1vTU9RS2F2d00xWFFRS0NTNWQxN010U3NCR2lPbGhPdlBDWDFaS0EzUEVtTFgxQ1liTDRIVkRPQmpvaDhDcWRaNUw5OTdwdkIydVphcHhoaEhCQnI3RnZxbEVra3dNRWlBaUlvencxODZTVGVsaUdoSHNlMXd5Y2dGeWJ3ay1rSHoyRDh4Q3VhcXZfTjZRWDZJdW8xMDRJUThRVVVkeDZxVEUyLXVlelpqVFBiMGNFTTI5?oc=5",
+   "source": "Апостроф",
+   "country": "RU",
+   "published": "2026-10-27T12:50:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "한국 정부는 북한 국군포로 스캔들과 관련해 우크라이나 외교관 8명을 소환했다."
   },
   {
    "id": "южнаякореяотозвалаизукраиныдипломатовиззаспорапоповодувоеннопленныхизкндр",
@@ -488,7 +524,8 @@
    "published": "2026-10-27T09:59:00.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "[단독]北, 자주포 최소 8대 배치…대북확성기 자리 겨눴다"
   },
   {
    "id": "borderlineworryingnorthkoreasartilleryanticsunsettlethedmz",
@@ -1021,7 +1058,8 @@
    "source": "NEWS.PN",
    "country": "RU",
    "published": "2026-10-27T05:23:00.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "한국, 외교관 8명 추가 소환"
   },
   {
    "id": "sixnorthkoreanskilledaftertrainhitsvehicleinrussianfareast",
@@ -3791,7 +3829,8 @@
    "published": "2026-10-26T17:38:26.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "북한, 남한 접경지역에 자주포 배치"
   },
   {
    "id": "中国外務省が福田氏に哀悼の意名指し避けつつ現政権を批判",
