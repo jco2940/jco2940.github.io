@@ -30,7 +30,8 @@ for (const group of data.groups) {
     }
     const date = (meta(html, "uploadDate") || meta(html, "datePublished") || html.match(/"publishDate":"([\d-]{10})/)?.[1] || "").slice(0, 10).replaceAll("-", ".");
     const channel = embed?.author_name || decode(html.match(/"ownerChannelName":"([^"]+)"/)?.[1] ?? "");
-    const desc = meta(html, "og:description") || meta(html, "description");
+    // 유튜브가 영상 대신 기본 안내문을 줄 때가 있어 그 문구는 쓰지 않는다
+    const desc = [meta(html, "og:description"), meta(html, "description")].find((d) => d && !d.startsWith("YouTube에서")) ?? "";
     item.title ||= title;
     item.date ||= date;
     item.venue ||= channel;
