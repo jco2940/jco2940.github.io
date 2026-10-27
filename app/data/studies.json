@@ -1,6 +1,44 @@
 {
- "updated": "2026-10-24",
+ "updated": "2026-10-27",
  "items": [
+  {
+   "id": "doi:10.1080/03068374.2026.2745061",
+   "title": "INVISIBLE EYES: PLAUSIBLE PATHWAYS FOR AI-ENABLED SURVEILLANCE IN NORTH KOREA – A SCENARIO ANALYSIS",
+   "authors": [
+    "Moehring Frank"
+   ],
+   "date": "2026-10-26",
+   "venue": "Asian Affairs",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "politics"
+   ],
+   "url": "https://doi.org/10.1080/03068374.2026.2745061",
+   "source": "openalex",
+   "added": "2026-10-27",
+   "titleKo": "보이지 않는 눈: 북한의 AI 기반 감시를 위한 가능한 경로 – 시나리오 분석"
+  },
+  {
+   "id": "doi:10.1080/09668136.2026.2738605",
+   "title": "The Politics of Legal State-Building in North Korea: Kim Jong-un’s Rule by Law and the Dilemma of Regime Stability",
+   "authors": [
+    "Kyong Jun Choi"
+   ],
+   "date": "2026-10-26",
+   "venue": "Europe Asia Studies",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "politics"
+   ],
+   "url": "https://doi.org/10.1080/09668136.2026.2738605",
+   "source": "openalex",
+   "added": "2026-10-27",
+   "titleKo": "북한의 법치국가 건설의 정치: 김정은의 법치와 체제안정의 딜레마"
+  },
   {
    "id": "doi:10.20310/1810-0201-2026-31-5-1404-1415",
    "title": "Transformation of DPRK ideological discourse, 1994–2000: “Red Banner” and “Strong and Prosperous Nation”",
@@ -21,6 +59,25 @@
    "source": "openalex",
    "added": "2026-10-24",
    "titleKo": "조선민주주의인민공화국 이념담론의 변천, 1994~2000년: “붉은 깃발”과 “강성대국”"
+  },
+  {
+   "id": "doi:10.71069/bhr3.26.ml06",
+   "title": "The Diplomatic Crisis between Bulgaria and North Korea in 1962 and China’s Policy Adjustment toward Eastern Europe",
+   "authors": [
+    "Ma Li"
+   ],
+   "date": "2026-10-15",
+   "venue": "Bulgarian Historical Review-revue Bulgare D Histoire",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "education",
+    "politics"
+   ],
+   "url": "https://doi.org/10.71069/bhr3.26.ml06",
+   "source": "openalex",
+   "added": "2026-10-27",
+   "titleKo": "1962년 불가리아-북한 외교위기와 중국의 동유럽 정책 조정"
   },
   {
    "id": "doi:10.1177/25161032261497722",
@@ -209,6 +266,32 @@
    "titleKo": "토지 이용 변화에 따른 중국-북한 접경 유역의 경관 생태 위험에 대한 비대칭 진화 및 다중 시나리오 예측"
   },
   {
+   "id": "doi:10.1093/eurpub/ckag169.1741",
+   "title": "Double Burden of Malnutrition among Children from North Korean Refugee and Immigrant Families",
+   "authors": [
+    "S W Choi",
+    "S H Kim",
+    "S H Kim"
+   ],
+   "date": "2026-10-01",
+   "venue": "European Journal of Public Health",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "diaspora",
+    "education",
+    "elderly",
+    "health",
+    "youth"
+   ],
+   "url": "https://doi.org/10.1093/eurpub/ckag169.1741",
+   "source": "openalex",
+   "added": "2026-10-27",
+   "titleKo": "탈북청소년과 이민자가족의 영양실조 이중부담"
+  },
+  {
    "id": "doi:10.17034/32638185",
    "title": "Early childhood education for children from North Korean families: South Korean educators and cultural competence",
    "authors": [
@@ -313,6 +396,64 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "북한의 초상 휘장 정책과 인민 초상 휘장에 대한 인식 변화에 관한 연구"
+  },
+  {
+   "id": "doi:10.14328/mes.2026.9.30.505",
+   "title": "Changes in Student Composition and Emerging Educational Challenges in Alternative Schools for North Korean Refugee Youth: Focusing on Third-Country-Born Students",
+   "authors": [
+    "Seonah You",
+    "Gyeong-hwa Lee"
+   ],
+   "date": "2026-09-30",
+   "venue": "Multicultural Education Studies",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "diaspora",
+    "education",
+    "youth"
+   ],
+   "url": "https://doi.org/10.14328/mes.2026.9.30.505",
+   "source": "openalex",
+   "added": "2026-10-27",
+   "titleKo": "탈북 청소년 대안학교의 학생 구성 변화와 교육적 과제의 대두: 제3국 출생 학생을 중심으로"
+  },
+  {
+   "id": "doi:10.14328/mes.2026.9.30.437",
+   "title": "Constraints on Citizenship Formation among Students from North Korean Backgrounds and Orientations for Citizenship Education: Perspectives of North Korean-Background Educators",
+   "authors": [
+    "Lee Eunhye"
+   ],
+   "date": "2026-09-30",
+   "venue": "Multicultural Education Studies",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "education"
+   ],
+   "url": "https://doi.org/10.14328/mes.2026.9.30.437",
+   "source": "openalex",
+   "added": "2026-10-27",
+   "titleKo": "북한 출신 학생들의 시민권 형성에 대한 제약과 시민권 교육 지향: 북한 출신 교육자들의 관점"
+  },
+  {
+   "id": "doi:10.21807/jnas.2026.9.120.271",
+   "title": "Evaluating the Sustainability of Settlement Support Policies for North Korean Defectors and Directions for Improvement: Focusing on the Perspectives of Social Integration and Mental Health",
+   "authors": [
+    "Min Hee Jo"
+   ],
+   "date": "2026-09-30",
+   "venue": "한국동북아논총",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "diaspora",
+    "health"
+   ],
+   "url": "https://doi.org/10.21807/jnas.2026.9.120.271",
+   "source": "openalex",
+   "added": "2026-10-27",
+   "titleKo": "탈북자 정착지원 정책의 지속가능성 평가와 개선방향: 사회통합과 정신건강 측면을 중심으로"
   },
   {
    "id": "doi:10.21185/jhu.2026.9.107.043",
@@ -446,6 +587,24 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "코로나19 팬데믹 이후 북한의 조선교육 현황: 김일성종합대학 교환학생 프로그램을 중심으로"
+  },
+  {
+   "id": "doi:10.21807/jnas.2026.9.120.203",
+   "title": "The Institutional Prototype and Transformations of North Korean Cooperative Farms: The Significance of Agricultural Legislation and Constitutional Amendment in the 2020s",
+   "authors": [
+    "Hye-Shin Cho"
+   ],
+   "date": "2026-09-30",
+   "venue": "한국동북아논총",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy"
+   ],
+   "url": "https://doi.org/10.21807/jnas.2026.9.120.203",
+   "source": "openalex",
+   "added": "2026-10-27",
+   "titleKo": "북한 협동농장의 제도적 원형과 변천: 2020년대 농업법제화와 헌법개정의 의의"
   },
   {
    "id": "doi:10.21185/jhu.2026.9.107.085",
@@ -831,6 +990,28 @@
    "titleKo": "냉전시기 북한고고학의 출현과 도유호의 생애"
   },
   {
+   "id": "doi:10.1080/17564905.2026.2726675",
+   "title": "The rise and fall of changgeuk cinema: the 1959 adaptation of The Tale of Chunhyang in North Korea",
+   "authors": [
+    "Roman Husarski",
+    "Gabor Sebo"
+   ],
+   "date": "2026-09-05",
+   "venue": "Journal of Japanese and Korean Cinema",
+   "countries": [
+    "PL",
+    "CZ"
+   ],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.1080/17564905.2026.2726675",
+   "source": "openalex",
+   "added": "2026-10-27",
+   "titleKo": "창극영화의 흥망성쇠: 1959년 북한에서 각색된 <춘향전>"
+  },
+  {
    "id": "doi:10.48647/icca.2026.67.90.021",
    "title": "О социально-экономической ситуации в КНДР в 2023—2025 гг.",
    "authors": [
@@ -978,6 +1159,27 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "북한의 국제 범죄 책임 규명에 관한 유엔 안전보장이사회의 발전 상황"
+  },
+  {
+   "id": "doi:10.35589/swlj.2026.17.2.61",
+   "title": "A Comparative Analysis of Settlement Support Ordinances for North Korean Defectors Across Seoul's District Governments: A Social Integration Perspective",
+   "authors": [
+    "se mi Heo"
+   ],
+   "date": "2026-08-31",
+   "venue": "Academy of Social Welfare and Law",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "diaspora",
+    "education",
+    "elderly",
+    "health"
+   ],
+   "url": "https://doi.org/10.35589/swlj.2026.17.2.61",
+   "source": "openalex",
+   "added": "2026-10-27",
+   "titleKo": "서울시 자치단체의 탈북자 정착지원 조례 비교 분석: 사회통합의 관점에서"
   },
   {
    "id": "doi:10.35227/hylr.2026.8.37.3.69",
