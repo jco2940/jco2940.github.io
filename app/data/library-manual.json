@@ -266,5 +266,113 @@
     "category": "treaty",
     "publisher": "유엔 자유권규약위원회(HRC)",
     "note": "제2차 보고서 최종견해"
+  },
+  {
+    "id": "upr:A/HRC/58/11",
+    "title": "Report of the Working Group on the Universal Periodic Review: Democratic People's Republic of Korea (A/HRC/58/11)",
+    "url": "https://undocs.org/A/HRC/58/11",
+    "date": "2024-12",
+    "category": "upr",
+    "publisher": "유엔 인권이사회 UPR 실무그룹",
+    "note": "제4주기(2024.11. 제47차 회기) 결과보고서 · 권고 294개 중 143개 수용, 7개 부분수용, 144개 거부(UPR-Info 집계)"
+  },
+  {
+    "id": "upr:A/HRC/WG.6/47/PRK/1",
+    "title": "National report submitted in accordance with Human Rights Council resolutions: Democratic People's Republic of Korea (A/HRC/WG.6/47/PRK/1)",
+    "url": "https://undocs.org/A/HRC/WG.6/47/PRK/1",
+    "date": "2024-08",
+    "category": "upr",
+    "publisher": "유엔 인권이사회 UPR 실무그룹",
+    "note": "제4주기 북한 정부 국가보고서"
+  },
+  {
+    "id": "upr:A/HRC/42/10",
+    "title": "Report of the Working Group on the Universal Periodic Review: Democratic People's Republic of Korea (A/HRC/42/10)",
+    "url": "https://undocs.org/A/HRC/42/10",
+    "date": "2019-07",
+    "category": "upr",
+    "publisher": "유엔 인권이사회 UPR 실무그룹",
+    "note": "제3주기(2019.5. 제33차 회기) 결과보고서"
+  },
+  {
+    "id": "upr:A/HRC/42/10/Add.1",
+    "title": "Report of the Working Group on the Universal Periodic Review: Democratic People's Republic of Korea — Addendum: views on conclusions and/or recommendations, voluntary commitments and replies (A/HRC/42/10/Add.1)",
+    "url": "https://undocs.org/A/HRC/42/10/Add.1",
+    "date": "2019-09",
+    "category": "upr",
+    "publisher": "유엔 인권이사회 UPR 실무그룹",
+    "note": "제3주기 권고에 대한 북한 정부 입장"
+  },
+  {
+    "id": "upr:A/HRC/WG.6/33/PRK/1",
+    "title": "National report submitted in accordance with Human Rights Council resolutions: Democratic People's Republic of Korea (A/HRC/WG.6/33/PRK/1)",
+    "url": "https://undocs.org/A/HRC/WG.6/33/PRK/1",
+    "date": "2019-02",
+    "category": "upr",
+    "publisher": "유엔 인권이사회 UPR 실무그룹",
+    "note": "제3주기 북한 정부 국가보고서"
+  },
+  {
+    "id": "upr:A/HRC/27/10",
+    "title": "Report of the Working Group on the Universal Periodic Review: Democratic People's Republic of Korea (A/HRC/27/10)",
+    "url": "https://undocs.org/A/HRC/27/10",
+    "date": "2014-07",
+    "category": "upr",
+    "publisher": "유엔 인권이사회 UPR 실무그룹",
+    "note": "제2주기(2014.5. 제19차 회기) 결과보고서"
+  },
+  {
+    "id": "upr:A/HRC/27/10/Add.1",
+    "title": "Report of the Working Group on the Universal Periodic Review: Democratic People's Republic of Korea — Addendum: views on conclusions and/or recommendations, voluntary commitments and replies (A/HRC/27/10/Add.1)",
+    "url": "https://undocs.org/A/HRC/27/10/Add.1",
+    "date": "2014-09",
+    "category": "upr",
+    "publisher": "유엔 인권이사회 UPR 실무그룹",
+    "note": "제2주기 권고에 대한 북한 정부 입장"
+  },
+  {
+    "id": "upr:A/HRC/WG.6/19/PRK/1",
+    "title": "National report submitted in accordance with Human Rights Council resolutions: Democratic People's Republic of Korea (A/HRC/WG.6/19/PRK/1)",
+    "url": "https://undocs.org/A/HRC/WG.6/19/PRK/1",
+    "date": "2014-02",
+    "category": "upr",
+    "publisher": "유엔 인권이사회 UPR 실무그룹",
+    "note": "제2주기 북한 정부 국가보고서"
+  },
+  {
+    "id": "upr:A/HRC/13/13",
+    "title": "Report of the Working Group on the Universal Periodic Review: Democratic People's Republic of Korea (A/HRC/13/13)",
+    "url": "https://undocs.org/A/HRC/13/13",
+    "date": "2010-01",
+    "category": "upr",
+    "publisher": "유엔 인권이사회 UPR 실무그룹",
+    "note": "제1주기(2009.12. 제6차 회기) 결과보고서"
+  },
+  {
+    "id": "upr:A/HRC/WG.6/6/PRK/1",
+    "title": "National report submitted in accordance with Human Rights Council resolutions: Democratic People's Republic of Korea (A/HRC/WG.6/6/PRK/1)",
+    "url": "https://undocs.org/A/HRC/WG.6/6/PRK/1",
+    "date": "2009-08",
+    "category": "upr",
+    "publisher": "유엔 인권이사회 UPR 실무그룹",
+    "note": "제1주기 북한 정부 국가보고서"
+  },
+  {
+    "id": "treaty:CRC/C/OPSC/PRK/CO/1",
+    "title": "Concluding observations on the report submitted by the Democratic People's Republic of Korea under article 12 (1) of the Optional Protocol on the sale of children, child prostitution and child pornography (CRC/C/OPSC/PRK/CO/1)",
+    "url": "https://digitallibrary.un.org/record/4089808",
+    "date": "2017-10",
+    "category": "treaty",
+    "publisher": "유엔 아동권리위원회(CRC)",
+    "note": "아동매매·성매매·음란물에 관한 선택의정서(OPSC) 최종견해 · 제76차 회기에서 제5차 보고서와 함께 심의"
+  },
+  {
+    "id": "treaty:CRC/C/OPSC/PRK/1",
+    "title": "Report submitted by the Democratic People's Republic of Korea under article 12 (1) of the Optional Protocol on the sale of children, child prostitution and child pornography (CRC/C/OPSC/PRK/1)",
+    "url": "https://undocs.org/CRC/C/OPSC/PRK/1",
+    "date": "2016",
+    "category": "treaty",
+    "publisher": "유엔 아동권리위원회(CRC)",
+    "note": "OPSC 최초보고서 · 북한은 2014년 11월 OPSC 비준. 무력분쟁 아동 선택의정서(OPAC)는 서명만 하고 비준하지 않음"
   }
 ]

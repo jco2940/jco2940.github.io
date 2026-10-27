@@ -6,6 +6,7 @@ export const DOC_CATEGORIES = [
   { id: "law", label: "법령" },
   { id: "resolution", label: "결의" },
   { id: "treaty", label: "조약기구" },
+  { id: "upr", label: "UPR" },
   { id: "report", label: "보고서" },
   { id: "policy", label: "정책문서" },
   { id: "document", label: "기타 문서" },
