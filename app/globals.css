@@ -382,3 +382,6 @@ a.video-card:hover h3 { color: var(--accent); }
 .archive-restrict { display: flex; align-items: center; gap: 10px; margin: 10px 0 0; padding: 8px 12px; border-radius: 8px; background: #fbf1dc; font-size: .74rem; }
 .archive-restrict button { margin-left: auto; padding: 2px 10px; border: 1px solid #d8c39a; border-radius: 99px; background: #fff; font: inherit; font-size: .68rem; cursor: pointer; }
 @media (prefers-color-scheme: dark) { .archive-restrict { background: var(--soft); } }
+.digest-rodong { background: #7a2e2a; }
+.digest-rodong .digest-badge { background: #f2c45a; color: #3b2208; }
+.digest-weeks .kind { color: var(--accent); font-size: .68rem; font-weight: 650; }

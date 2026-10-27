@@ -19,7 +19,7 @@ export function PublicHeader({
   title: string;
   badge: string;
   children: React.ReactNode;
-  tone?: "indigo" | "plum";
+  tone?: "indigo" | "plum" | "rodong";
 }) {
   return (
     <section className={`digest-band digest-${tone}`}>
