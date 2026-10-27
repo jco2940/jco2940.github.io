@@ -79,6 +79,19 @@
     "short": "보건의료"
   },
   {
+    "id": "disability",
+    "title": "북한 장애인",
+    "en": "Persons with Disabilities in North Korea",
+    "summary": "북한 장애인의 교육·노동·복지와 사회적 처우, 장애인권리협약(CRPD) 이행과 국제사회 권고, 장애인 체육 등 국가 선전 속 장애 담론을 연구합니다.",
+    "keywords": [
+      "장애인 권리",
+      "특수교육",
+      "CRPD 이행",
+      "영예군인"
+    ],
+    "short": "장애인"
+  },
+  {
     "id": "women",
     "title": "북한 여성",
     "en": "Women in North Korea",

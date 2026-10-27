@@ -48,9 +48,9 @@ const TOPICS = {
     ko: ["청년", "청소년", "아동", "어린이", "소년", "학생"],
   },
   disability: {
-    openalex: `(disability OR disabilities OR disabled OR impairment OR impairments OR handicapped)`,
-    kci: ["북한 장애", "북한 장애인"],
-    ko: ["장애"],
+    openalex: `(disability OR disabilities OR disabled OR impairment OR impairments OR handicapped OR "special education" OR deaf OR blind OR "hearing loss" OR "visual impairment" OR wheelchair OR Paralympic OR Paralympics OR CRPD OR "mental illness")`,
+    kci: ["북한 장애", "북한 장애인", "북한 특수교육", "북한 장애인권리", "탈북 장애인", "북한이탈주민 장애"],
+    ko: ["장애", "특수교육", "농아", "시각", "청각"],
   },
   elderly: {
     openalex: `(elderly OR "older adults" OR "older people" OR aging OR ageing OR "old age" OR pension OR pensions)`,
