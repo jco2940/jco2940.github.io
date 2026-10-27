@@ -18,16 +18,19 @@ for (const group of data.groups) {
   for (const item of group.items) {
     const id = youtubeId(item.url);
     if (!id || (item.title && item.date && item.venue)) continue;
-    const res = await fetch(`https://www.youtube.com/watch?v=${id}&hl=ko`, { headers: { "User-Agent": "Mozilla/5.0", "Accept-Language": "ko" } });
-    if (!res.ok) {
-      report(`${id}: ${res.status}`);
+    // 제목·채널은 oEmbed 로, 올린 날짜·설명은 영상 페이지에서 읽는다(서버 접속은 동의 화면이 뜨지 않게 쿠키를 붙인다)
+    const embed = await fetch(`https://www.youtube.com/oembed?format=json&url=https://www.youtube.com/watch?v=${id}`).then((r) => (r.ok ? r.json() : null), () => null);
+    const html = await fetch(`https://www.youtube.com/watch?v=${id}&hl=ko`, {
+      headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)", "Accept-Language": "ko", Cookie: "CONSENT=YES+1; SOCS=CAI" },
+    }).then((r) => (r.ok ? r.text() : ""), () => "");
+    const title = embed?.title || meta(html, "og:title") || meta(html, "name");
+    if (!title) {
+      report(`${id}: 영상 정보를 읽지 못함`);
       continue;
     }
-    const html = await res.text();
-    const title = meta(html, "og:title") || meta(html, "name");
-    const date = (meta(html, "uploadDate") || meta(html, "datePublished")).slice(0, 10).replaceAll("-", ".");
-    const channel = decode(html.match(/"ownerChannelName":"([^"]+)"/)?.[1] ?? "");
-    const desc = meta(html, "og:description");
+    const date = (meta(html, "uploadDate") || meta(html, "datePublished") || html.match(/"publishDate":"([\d-]{10})/)?.[1] || "").slice(0, 10).replaceAll("-", ".");
+    const channel = embed?.author_name || decode(html.match(/"ownerChannelName":"([^"]+)"/)?.[1] ?? "");
+    const desc = meta(html, "og:description") || meta(html, "description");
     item.title ||= title;
     item.date ||= date;
     item.venue ||= channel;
