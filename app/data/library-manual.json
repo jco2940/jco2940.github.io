@@ -176,5 +176,95 @@
     "category": "resolution",
     "publisher": "유엔 인권위원회",
     "note": "북한인권 특별보고관 임무 신설"
+  },
+  {
+    "id": "treaty:CEDAW/C/PRK/CO/2-4",
+    "title": "Concluding observations on the combined second to fourth periodic reports of the Democratic People's Republic of Korea (CEDAW/C/PRK/CO/2-4)",
+    "url": "https://undocs.org/CEDAW/C/PRK/CO/2-4",
+    "date": "2017-11",
+    "category": "treaty",
+    "publisher": "유엔 여성차별철폐위원회(CEDAW)",
+    "note": "최종견해 · 제68차 회기 심의"
+  },
+  {
+    "id": "treaty:CEDAW/C/PRK/2-4",
+    "title": "Combined second to fourth periodic reports of States parties: Democratic People's Republic of Korea (CEDAW/C/PRK/2-4)",
+    "url": "https://undocs.org/CEDAW/C/PRK/2-4",
+    "date": "2016",
+    "category": "treaty",
+    "publisher": "유엔 여성차별철폐위원회(CEDAW)",
+    "note": "북한 정부 제출 국가보고서(2·3·4차 통합)"
+  },
+  {
+    "id": "treaty:CEDAW/C/PRK/CO/1",
+    "title": "Concluding comments of the Committee on the Elimination of Discrimination against Women: Democratic People's Republic of Korea (CEDAW/C/PRK/CO/1)",
+    "url": "https://undocs.org/CEDAW/C/PRK/CO/1",
+    "date": "2005-07",
+    "category": "treaty",
+    "publisher": "유엔 여성차별철폐위원회(CEDAW)",
+    "note": "최초보고서 최종견해"
+  },
+  {
+    "id": "treaty:CEDAW/C/PRK/1",
+    "title": "Initial report of States parties: Democratic People's Republic of Korea (CEDAW/C/PRK/1)",
+    "url": "https://undocs.org/CEDAW/C/PRK/1",
+    "date": "2002",
+    "category": "treaty",
+    "publisher": "유엔 여성차별철폐위원회(CEDAW)",
+    "note": "북한 정부 제출 최초보고서"
+  },
+  {
+    "id": "treaty:CRC/C/PRK/CO/5",
+    "title": "Concluding observations on the fifth periodic report of the Democratic People's Republic of Korea (CRC/C/PRK/CO/5)",
+    "url": "https://undocs.org/CRC/C/PRK/CO/5",
+    "date": "2017-10",
+    "category": "treaty",
+    "publisher": "유엔 아동권리위원회(CRC)",
+    "note": "최종견해 · 제76차 회기 심의"
+  },
+  {
+    "id": "treaty:CRC/C/PRK/5",
+    "title": "Fifth periodic report of States parties: Democratic People's Republic of Korea (CRC/C/PRK/5)",
+    "url": "https://undocs.org/CRC/C/PRK/5",
+    "date": "2016",
+    "category": "treaty",
+    "publisher": "유엔 아동권리위원회(CRC)",
+    "note": "북한 정부 제출 국가보고서"
+  },
+  {
+    "id": "treaty:CRC/C/PRK/CO/4",
+    "title": "Concluding observations: Democratic People's Republic of Korea (CRC/C/PRK/CO/4)",
+    "url": "https://undocs.org/CRC/C/PRK/CO/4",
+    "date": "2009-03",
+    "category": "treaty",
+    "publisher": "유엔 아동권리위원회(CRC)",
+    "note": "제3·4차 보고서 최종견해"
+  },
+  {
+    "id": "treaty:CRPD/C/PRK/1",
+    "title": "Initial report submitted by the Democratic People's Republic of Korea under article 35 of the Convention (CRPD/C/PRK/1)",
+    "url": "https://undocs.org/CRPD/C/PRK/1",
+    "date": "2018-12",
+    "category": "treaty",
+    "publisher": "유엔 장애인권리위원회(CRPD)",
+    "note": "북한 정부 제출 최초보고서 · 2016년 12월 협약 비준. 위원회 심의(최종견해)는 아직 확인되지 않음"
+  },
+  {
+    "id": "treaty:E/C.12/1/Add.95",
+    "title": "Concluding observations of the Committee on Economic, Social and Cultural Rights: Democratic People's Republic of Korea (E/C.12/1/Add.95)",
+    "url": "https://undocs.org/E/C.12/1/Add.95",
+    "date": "2003-12",
+    "category": "treaty",
+    "publisher": "유엔 사회권규약위원회(CESCR)",
+    "note": "제2차 보고서 최종견해"
+  },
+  {
+    "id": "treaty:CCPR/CO/72/PRK",
+    "title": "Concluding observations of the Human Rights Committee: Democratic People's Republic of Korea (CCPR/CO/72/PRK)",
+    "url": "https://undocs.org/CCPR/CO/72/PRK",
+    "date": "2001-08",
+    "category": "treaty",
+    "publisher": "유엔 자유권규약위원회(HRC)",
+    "note": "제2차 보고서 최종견해"
   }
 ]
