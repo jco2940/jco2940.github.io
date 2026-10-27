@@ -15,7 +15,7 @@ export default function RodongPage() {
       <PageIntro
         eyebrow="RODONG SINMUN BRIEFING"
         title="노동신문 브리핑"
-        lead="매일 『로동신문』을 읽고 정치·경제·사회·여성·교육·청(소)년 분야의 이슈를 정리합니다."
+        lead={`매일 『로동신문』을 읽고 ${FIELDS.map((f) => f.label).join("·")} 분야의 이슈를 정리합니다.`}
       />
       <FieldNav />
       {DAYS.length === 0 ? (

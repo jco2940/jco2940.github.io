@@ -8,6 +8,7 @@ export const FIELDS = [
   { id: "women", label: "여성" },
   { id: "education", label: "교육" },
   { id: "youth", label: "청(소)년" },
+  { id: "disability", label: "장애인" },
   { id: "health", label: "보건의료" },
   { id: "climate", label: "기후환경" },
 ] as const;
