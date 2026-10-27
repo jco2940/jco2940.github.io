@@ -105,6 +105,19 @@
     "short": "청(소)년"
   },
   {
+    "id": "disability",
+    "title": "북한 장애인",
+    "en": "Persons with Disabilities in North Korea",
+    "summary": "장애자보호법 등 북한의 장애인 법제와 교육·보건·고용 정책, 장애인 교육권의 실태, 유엔 장애인권리협약(CRPD) 이행과 국제사회의 평가를 연구합니다.",
+    "keywords": [
+      "장애자보호법",
+      "장애인 교육",
+      "특수교육",
+      "장애인권리협약(CRPD)"
+    ],
+    "short": "장애인"
+  },
+  {
     "id": "politics",
     "title": "북한 정치",
     "en": "North Korean Politics",
