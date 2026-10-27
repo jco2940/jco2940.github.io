@@ -5,6 +5,10 @@ import research from "./data/research.json";
 import { recentNotes } from "./home";
 import { trendDays } from "./trends/data";
 import { featuredStories, isBroadcast } from "./trends/top";
+import type { Article } from "./trends/data";
+
+// 해외 기사는 한국어 한 줄 요약(제목 번역)이 있으면 그것을 보여 준다
+const headlineText = (a: Article) => (a.country !== "KR" && a.summary && /[가-힣]/.test(a.summary) ? a.summary : a.title);
 import { countryName } from "./archive/countries";
 
 export default function Home() {
@@ -55,11 +59,11 @@ export default function Home() {
           {stories.length > 0
             ? stories.map((story, i) => (
                 <a key={story.headline.url} href={story.headline.url} className="feature-card">
-                  <Cover label={`북한 이슈 동향 · ${story.date.replaceAll("-", ".")}`} title={story.headline.title} tone={i} />
+                  <Cover label={`북한 이슈 동향 · ${story.date.replaceAll("-", ".")}`} title={headlineText(story.headline)} tone={i} />
                   <span className="feature-meta">
                     {story.countries.map(countryName).join("·")} 언론 {story.sources}곳 보도
                   </span>
-                  <strong>{story.headline.title}</strong>
+                  <strong>{headlineText(story.headline)}</strong>
                   <span className="feature-sub">
                     {story.headline.source}
                     {story.sources > 1 && ` 외 ${story.sources - 1}곳`}

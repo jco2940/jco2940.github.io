@@ -1,7 +1,8 @@
 import type { Article, TrendDay } from "./data";
 
 // 하루치 기사에서 여러 언론이 함께 다룬 이야기를 찾아, 많이 다뤄진 순서로 돌려준다.
-// 같은 언어의 제목끼리 핵심 낱말이 두 개 이상 겹치면 같은 이야기로 묶는다(언어를 넘나드는 묶음은 하지 않는다)
+// 같은 언어의 제목끼리 핵심 낱말이 두 개 이상 겹치면 같은 이야기로 묶는다.
+// 중국·일본·러시아 기사는 한국어 한 줄 요약(summary, 제목 번역)으로 한국어 기사와 함께 묶는다
 
 export type Story = {
   date: string;
@@ -36,8 +37,13 @@ function tokens(title: string, lang: "ko" | "en") {
   return out;
 }
 
+const HANGUL = /[가-힣]/;
+// 묶을 때 비교하는 글: 한국 기사는 제목, 중·일·러 기사는 한국어로 옮긴 한 줄 요약
+export const textOf = (a: Article) => (a.country !== "KR" && a.summary && HANGUL.test(a.summary) ? a.summary : a.title);
+
 function langOf(a: Article): "ko" | "en" | null {
   if (a.country === "KR") return "ko";
+  if ((a.country === "CN" || a.country === "JP" || a.country === "RU") && a.summary && HANGUL.test(a.summary)) return "ko";
   if (a.country === "US" || a.country === "GB") return "en";
   return null;
 }
@@ -96,7 +102,7 @@ export function topStories(day: TrendDay, limit = 3, minSources = 2): Story[] {
   for (const a of day.items) {
     const lang = langOf(a);
     if (!lang) continue;
-    const t = tokens(a.title, lang);
+    const t = tokens(textOf(a), lang);
     if (t.size < 2 && !a.via) continue;
     let best: (typeof groups)[number] | undefined;
     let bestShared = 1;
@@ -121,7 +127,9 @@ export function topStories(day: TrendDay, limit = 3, minSources = 2): Story[] {
     .map((g) => {
       const keywords = [...g.counts].filter(([, n]) => n >= 2).sort((x, y) => y[1] - x[1]).slice(0, 4).map(([w]) => w);
       // 핵심 낱말을 가장 많이 담은 제목을 대표로
-      const headline = [...g.items].sort((x, y) => keywords.filter((w) => y.t.has(w)).length - keywords.filter((w) => x.t.has(w)).length)[0].a;
+      // 같은 점수면 한국 기사를 대표로(원문 제목을 그대로 보여 줄 수 있게)
+      const score = (i: { a: Article; t: Set<string> }) => keywords.filter((w) => i.t.has(w)).length * 2 + (i.a.country === "KR" ? 1 : 0);
+      const headline = [...g.items].sort((x, y) => score(y) - score(x))[0].a;
       const articles = g.items.map((i) => i.a);
       return {
         date: day.date,
