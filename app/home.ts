@@ -1,5 +1,6 @@
 import research from "./data/research.json";
 import writing from "./data/writing.json";
+import blog from "./data/blog.json";
 import talks from "./data/talks.json";
 import media from "./data/media.json";
 import studies from "./data/studies.json";
@@ -28,6 +29,8 @@ export function recentNotes(limit = 12): Note[] {
   for (const g of research.groups) {
     for (const item of g.items) notes.push({ href: `/research#${g.id}`, external: false, kind: g.title, date: item.date, title: item.title, sub: item.venue });
   }
+  for (const p of blog.items as { url: string; date: string; title: string; summary: string }[])
+    notes.push({ href: p.url, external: true, kind: "글 · 네이버 블로그", date: p.date, title: p.title, sub: p.summary });
   for (const post of writing) notes.push({ href: `/writing/${post.slug}`, external: false, kind: `글 · ${post.category}`, date: post.date, title: post.title, sub: post.summary });
   for (const [groups, page] of [[talks.groups, "/talks"], [media.groups, "/media"]] as const) {
     for (const g of groups as RecordGroup[]) {

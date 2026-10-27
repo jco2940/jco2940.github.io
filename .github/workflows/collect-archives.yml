@@ -39,6 +39,10 @@ jobs:
         continue-on-error: true
         run: node scripts/collect-trends.mjs
 
+      - name: 네이버 블로그 글
+        continue-on-error: true
+        run: node scripts/collect-blog.mjs
+
       - name: 미디어 유튜브 정보 채우기
         if: github.event_name != 'schedule' || github.event.schedule == '20 21 * * *'
         continue-on-error: true
