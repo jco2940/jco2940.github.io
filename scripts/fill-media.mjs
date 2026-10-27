@@ -1,0 +1,44 @@
+// 미디어 목록(app/data/media.json)에서 유튜브 주소만 넣고 제목·날짜를 비워 둔 항목을 채운다.
+// 유튜브 영상 페이지의 메타 정보(제목, 채널, 올린 날짜, 설명)를 읽는다. 이미 채운 칸은 건드리지 않는다.
+//
+//   node scripts/fill-media.mjs
+
+import { readFile, writeFile } from "node:fs/promises";
+
+const FILE = new URL("../app/data/media.json", import.meta.url);
+const report = (msg) => console.log(process.env.GITHUB_ACTIONS ? `::notice::${msg}` : msg);
+const youtubeId = (url = "") => url.match(/(?:youtu\.be\/|[?&]v=|\/shorts\/|\/embed\/)([\w-]{11})/)?.[1] ?? null;
+const decode = (s) =>
+  s.replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&amp;/g, "&").trim();
+const meta = (html, key) => decode(html.match(new RegExp(`<meta (?:name|property|itemprop)="${key}" content="([^"]*)"`))?.[1] ?? "");
+
+const data = JSON.parse(await readFile(FILE, "utf8"));
+let filled = 0;
+for (const group of data.groups) {
+  for (const item of group.items) {
+    const id = youtubeId(item.url);
+    if (!id || (item.title && item.date && item.venue)) continue;
+    // 제목·채널은 oEmbed 로, 올린 날짜·설명은 영상 페이지에서 읽는다(서버 접속은 동의 화면이 뜨지 않게 쿠키를 붙인다)
+    const embed = await fetch(`https://www.youtube.com/oembed?format=json&url=https://www.youtube.com/watch?v=${id}`).then((r) => (r.ok ? r.json() : null), () => null);
+    const html = await fetch(`https://www.youtube.com/watch?v=${id}&hl=ko`, {
+      headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)", "Accept-Language": "ko", Cookie: "CONSENT=YES+1; SOCS=CAI" },
+    }).then((r) => (r.ok ? r.text() : ""), () => "");
+    const title = embed?.title || meta(html, "og:title") || meta(html, "name");
+    if (!title) {
+      report(`${id}: 영상 정보를 읽지 못함`);
+      continue;
+    }
+    const date = (meta(html, "uploadDate") || meta(html, "datePublished") || html.match(/"publishDate":"([\d-]{10})/)?.[1] || "").slice(0, 10).replaceAll("-", ".");
+    const channel = embed?.author_name || decode(html.match(/"ownerChannelName":"([^"]+)"/)?.[1] ?? "");
+    // 유튜브가 영상 대신 기본 안내문을 줄 때가 있어 그 문구는 쓰지 않는다
+    const desc = [meta(html, "og:description"), meta(html, "description")].find((d) => d && !d.startsWith("YouTube에서")) ?? "";
+    item.title ||= title;
+    item.date ||= date;
+    item.venue ||= channel;
+    if (!item.description && desc) item.description = desc.length > 120 ? `${desc.slice(0, 118)}…` : desc;
+    report(`${id}: ${item.date} ${item.venue} ${item.title}`);
+    filled++;
+  }
+}
+if (filled) await writeFile(FILE, JSON.stringify(data, null, 2) + "\n");
+report(`미디어 ${filled}건 채움`);

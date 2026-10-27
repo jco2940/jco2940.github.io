@@ -35,7 +35,7 @@ export function MediaArchive({ groups }: { groups: RecordGroup[] }) {
           const thumb = item.image ?? (id ? `https://i.ytimg.com/vi/${id}/hqdefault.jpg` : null);
           const Card = item.url ? "a" : "div";
           return (
-            <Card key={item.date + item.title} className="video-card" {...(item.url ? { href: item.url, target: "_blank", rel: "noopener noreferrer" } : {})}>
+            <Card key={item.url ?? item.date + item.title} className="video-card" {...(item.url ? { href: item.url, target: "_blank", rel: "noopener noreferrer" } : {})}>
               {thumb ? (
                 // eslint-disable-next-line @next/next/no-img-element
                 <img src={thumb} alt="" loading="lazy" />

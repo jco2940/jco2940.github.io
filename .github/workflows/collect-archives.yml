@@ -38,6 +38,10 @@ jobs:
         continue-on-error: true
         run: node scripts/collect-trends.mjs
 
+      - name: 미디어 유튜브 정보 채우기
+        continue-on-error: true
+        run: node scripts/fill-media.mjs
+
       - name: 북한 이슈 동향 한 줄 요약 채우기
         continue-on-error: true
         run: node scripts/collect-trends.mjs --summarize

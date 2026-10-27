@@ -3159,6 +3159,19 @@
    "summary": "러시아의 가장 친한 친구가 군대를 급격히 강화하기 시작했습니다."
   },
   {
+   "id": "중국서열4위김정은맞이신압록강대교걸어서배웅",
+   "title": "중국 '서열 4위' 김정은 맞이...신압록강대교 걸어서 배웅",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfZTRnRllCY0RnU2x2N2xLZGkzNWlJaHlob3JfMHQyVm83TDlla3I1NHQzX2dKelpuS1RHY042QVFQazFYUlhrZ2s2OHN5cHlCMWd4MzNBWHJlaFc3UEE?oc=5",
+   "source": "YTN",
+   "country": "KR",
+   "via": "broadcast",
+   "published": "2026-10-24T23:11:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "중국 '서열 4위' 김정은 맞이...신압록강대교 걸어서 배웅"
+  },
+  {
    "id": "кимченынпочтилпамятькитайскихвоенныхвданьдуне",
    "title": "Ким Чен Ын почтил память китайских военных в Даньдуне",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd21TQXRtcEVqOVJnMXNweXh0X3YxNkVnekNkUTdrd09TWVNTazh4UnlpZ1A4SFZib01NazNqd2x0YXpZUmpzVlgtSFoyX2ZKaWNaUXV1alJIN2p2ZkVIUmNHWFJRblZFTmQyOFRicVdfdnJ0UGhBNU9RS2JHR29QeEN3RDFGRm1pU3hQa3dlNlRiS1I0UHhqT2xtSks5dEXSAZ8BQVVfeXFMTXdtU0F0bXBFajlSZzFzcHl4dF92MTZFZ3pDZFE3a3dPU1lTU2s4eFJ5aWdQOEhWYm9NTWszandsdGF6WVJqc1ZYLUhaMl9mSmljWlF1dWpSSDdqdmZFSFJjR1hSUW5WRU5kMjhUYnFXX3ZydFBoQTVPUUtiR0dvUHhDd0QxRkZtaVN4UGt3ZTZUYktSNFB4ak9sbUpLOXRF?oc=5",
@@ -3480,7 +3493,8 @@
    "fields": [
     "politics"
    ],
-   "summary": "'연례행사' 김정은 사망설, 루머 반복 배경은?"
+   "summary": "'연례행사' 김정은 사망설, 루머 반복 배경은?",
+   "via": "broadcast"
   },
   {
    "id": "kimjongunvisitschinainauguratesbridgebetweenthecountries",

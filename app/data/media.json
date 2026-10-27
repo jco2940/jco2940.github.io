@@ -8,7 +8,22 @@
     {
       "id": "youtube",
       "title": "유튜브",
-      "items": []
+      "items": [
+        {
+          "date": "",
+          "title": "[통일담담] 국책연구기관 탈북민 공채 1호, 조현정 박사",
+          "venue": "통일부UNITV",
+          "url": "https://www.youtube.com/watch?v=4Z2z0IYi4d8",
+          "description": "통일부 UNITV 「통일담담」 출연. 국책연구기관에 공채로 입사한 첫 탈북민 연구자로서의 이야기를 나눕니다."
+        },
+        {
+          "date": "",
+          "title": "[통일담담] 목표, 도전, 자립으로 이뤄낸 북한 전문 연구자의 꿈",
+          "venue": "통일부UNITV",
+          "url": "https://www.youtube.com/watch?v=Z_HYZzibvMU",
+          "description": "통일부 UNITV 「통일담담」 출연. 목표와 도전, 자립으로 북한 전문 연구자의 꿈을 이루기까지의 여정을 이야기합니다."
+        }
+      ]
     },
     {
       "id": "lecture",
