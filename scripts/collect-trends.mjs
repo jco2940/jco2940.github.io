@@ -161,6 +161,17 @@ async function summarize(items) {
   return done;
 }
 
+// 같은 제목(id)의 기사는 나라가 달라도 하나만 남긴다. 방송사 표시(via)는 살린다
+function dedupe(items) {
+  const byId = new Map();
+  for (const a of items) {
+    const prev = byId.get(a.id);
+    if (!prev) byId.set(a.id, a);
+    else if (a.via && !prev.via) prev.via = a.via;
+  }
+  return [...byId.values()];
+}
+
 const report = (msg) => console.log(process.env.GITHUB_ACTIONS ? `::notice::${msg}` : msg);
 function warn(msg) {
   console.log(process.env.GITHUB_ACTIONS ? `::warning::${msg}` : msg);
@@ -171,7 +182,7 @@ await mkdir(DIR, { recursive: true });
 if (process.argv.includes("--retag")) {
   for (const f of (await readdir(DIR)).filter((f) => f.endsWith(".json"))) {
     const day = JSON.parse(await readFile(new URL(f, DIR), "utf8"));
-    day.items = day.items.filter(keep);
+    day.items = dedupe(day.items.filter(keep));
     day.items.forEach((a) => (a.fields = tagFields(a.title)));
     await writeFile(new URL(f, DIR), JSON.stringify(day, null, 1) + "\n");
     report(`${f}: ${day.items.filter((a) => a.fields.length).length}/${day.items.length}건 분류`);
@@ -208,13 +219,13 @@ for (const [day, found] of byDay) {
   const prev = await readFile(file, "utf8").then(JSON.parse, () => ({ date: day, items: [] }));
   const before = JSON.stringify(prev.items);
   const prevCount = prev.items.length;
-  const seen = new Set(prev.items.map((a) => `${a.country}:${a.id}`));
-  const items = [...prev.items];
+  const items = dedupe(prev.items);
+  const seen = new Set(items.map((a) => a.id));
   for (const a of found.sort((x, y) => y.published.localeCompare(x.published))) {
-    const key = `${a.country}:${a.id}`;
-    // 같은 기사가 일반 검색과 방송사 검색에 모두 걸리면 방송사 표시(via)를 남긴다
+    const key = a.id;
+    // 같은 제목의 기사가 이미 있으면(다른 나라·방송사 검색 포함) 더하지 않고, 방송사 표시(via)만 남긴다
     if (seen.has(key)) {
-      const prevItem = items.find((x) => `${x.country}:${x.id}` === key);
+      const prevItem = items.find((x) => x.id === key);
       if (a.via && prevItem && !prevItem.via) prevItem.via = a.via;
       continue;
     }
