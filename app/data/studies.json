@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "items": [
+  {
+   "id": "doi:10.1111/pafo.70044",
+   "title": "Management and Utilization of Leader Gifts in South and North Korea: Implications and an Integrated Post‐Unification Management Plan",
+   "authors": [
+    "Dahyeon Jeong",
+    "Sangwoo Hong"
+   ],
+   "date": "2026-10-27",
+   "venue": "Pacific Focus",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.1111/pafo.70044",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "남북한 지도자 선물의 관리와 활용: 시사점과 통일 이후 통합관리 방안"
+  },
+  {
+   "id": "doi:10.1177/10436596261490777",
+   "title": "Cultural Empathy and Cultural Competence Among Nursing Students Toward North Korean Defectors: Mediating Effects of Multicultural Efficacy and the Moderating Role of Intellectual Humility",
+   "authors": [
+    "Soyoung Yu",
+    "Sunki Kim"
+   ],
+   "date": "2026-10-26",
+   "venue": "Journal of Transcultural Nursing",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "diaspora",
+    "education"
+   ],
+   "url": "https://doi.org/10.1177/10436596261490777",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "북한이탈주민에 대한 간호대학생의 문화적 공감과 문화적 역량: 다문화효능감의 매개효과와 지적겸손의 조절역할"
+  },
   {
    "id": "doi:10.1080/03068374.2026.2745061",
    "title": "INVISIBLE EYES: PLAUSIBLE PATHWAYS FOR AI-ENABLED SURVEILLANCE IN NORTH KOREA – A SCENARIO ANALYSIS",
@@ -78,6 +121,27 @@
    "source": "openalex",
    "added": "2026-10-27",
    "titleKo": "1962년 불가리아-북한 외교위기와 중국의 동유럽 정책 조정"
+  },
+  {
+   "id": "doi:10.1080/14781158.2026.2743740",
+   "title": "Driving forces behind North Korea’s proliferation and sanction resistance: Focusing on the internal attributes of actors within the proliferation network",
+   "authors": [
+    "Doyoun Park"
+   ],
+   "date": "2026-10-13",
+   "venue": "Global Change Peace & Security",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "politics"
+   ],
+   "url": "https://doi.org/10.1080/14781158.2026.2743740",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "북한의 확산과 제재 저항의 원동력: 확산 네트워크 내 행위자의 내부적 특성을 중심으로"
   },
   {
    "id": "doi:10.1177/25161032261497722",
@@ -179,6 +243,28 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "1946년부터 1954년까지 사용된 남북한 어학교과서의 비교분석"
+  },
+  {
+   "id": "doi:10.53989/jcp.v5i3.26.32",
+   "title": "Atoms and Geography: The Paradox of North Korea’s Security",
+   "authors": [
+    "Baruna Kumar Behera",
+    "Shri Ritesh Kumar Pradhan"
+   ],
+   "date": "2026-10-07",
+   "venue": "Journal of Contemporary Politics",
+   "countries": [
+    "IN"
+   ],
+   "lang": "en",
+   "topics": [
+    "elderly",
+    "politics"
+   ],
+   "url": "https://doi.org/10.53989/jcp.v5i3.26.32",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "원자와 지리: 북한 안보의 역설"
   },
   {
    "id": "doi:10.4324/9781003797739-9",
@@ -456,6 +542,24 @@
    "titleKo": "탈북자 정착지원 정책의 지속가능성 평가와 개선방향: 사회통합과 정신건강 측면을 중심으로"
   },
   {
+   "id": "doi:10.21185/jhu.2026.9.107.387",
+   "title": "From “Rocket” to “Missile” : North Korea’s Changing Terminology for Intercontinental Ballistic Missiles and Its Political Representation",
+   "authors": [
+    "Kang Min Lee"
+   ],
+   "date": "2026-09-30",
+   "venue": "The Journal of the Humanities for Unification",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.21185/jhu.2026.9.107.387",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "'로켓'에서 '미사일'로: 북한의 대륙간탄도미사일 용어 변화와 정치적 표현"
+  },
+  {
    "id": "doi:10.21185/jhu.2026.9.107.043",
    "title": "How North Korea Becomes Present Without Direct Experience : Children of North Korean Migrants in New Malden, UK",
    "authors": [
@@ -529,6 +633,27 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "북한청소년 상담자원봉사가 상담사 발달과 문화적 편견 감소에 영향을 미치는 과정에 대한 현상학적 연구"
+  },
+  {
+   "id": "doi:10.52902/kjsc.2026.58.71",
+   "title": "Producing Disaster Vulnerability: A PAR Model and Causal Loop Diagram Analysis of North Korea's Darakbat Policy Failure",
+   "authors": [
+    "Korea Safety Culture Society",
+    "Seol A Kwon",
+    "Jae-Cheon Lim"
+   ],
+   "date": "2026-09-30",
+   "venue": "Forum of Public Safety and Culture",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "politics"
+   ],
+   "url": "https://doi.org/10.52902/kjsc.2026.58.71",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "재난취약성 생성: 북한 다락밭정책 실패의 PAR모형과 인과루프도 분석"
   },
   {
    "id": "doi:10.21185/jhu.2026.9.107.005",
@@ -869,6 +994,25 @@
    "titleKo": "일본의 대북 제재의 정치경제학: 국내 연합과 국제 체제적 압력"
   },
   {
+   "id": "doi:10.29152/koiks.2026.57.3.327",
+   "title": "When Disasters Strike, Do Missiles Fly?: Rethinking North Korea's Provocations, Timing, and the Limits of Diversionary Theory",
+   "authors": [
+    "Heesoo Yun Heesoo Yun",
+    "Sok chun Chang Sok chun Chang"
+   ],
+   "date": "2026-09-11",
+   "venue": "Korea Observer - Institute of Korean Studies",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.29152/koiks.2026.57.3.327",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "재난이 닥치면 미사일은 날아가는가?: 북한의 도발, 시기, 전환이론의 한계에 대한 재고"
+  },
+  {
    "id": "doi:10.82444/warw.33528040",
    "title": "'Opening up' by default: north Korea, the humanitarian community and the crisis",
    "authors": [
@@ -906,6 +1050,29 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "나쁜 배우, 미친 배우, 슬픈 배우, 합리적인 배우? '증권화' 패러다임이 북한에 대한 정책 분석을 부실하게 만드는 이유"
+  },
+  {
+   "id": "doi:10.52909/grdebi.v1i3.416",
+   "title": "Digitalization of Official Travel Administration and Economic Value through SIMAK at Secretariat of Mimika DPRK",
+   "authors": [
+    "Amir Seftorano",
+    "Mesak Iek",
+    "Risky Novan Ngutra"
+   ],
+   "date": "2026-09-10",
+   "venue": "",
+   "countries": [
+    "ID"
+   ],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "politics"
+   ],
+   "url": "https://doi.org/10.52909/grdebi.v1i3.416",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "조선민주주의인민공화국 미미카 사무국의 SIMAK을 통한 공식여행행정과 경제적 가치의 디지털화"
   },
   {
    "id": "doi:10.48647/icca.2026.90.84.024",
@@ -1012,6 +1179,27 @@
    "titleKo": "창극영화의 흥망성쇠: 1959년 북한에서 각색된 <춘향전>"
   },
   {
+   "id": "doi:10.1007/s12140-026-09487-1",
+   "title": "When Regime Security Matters: North Korea’s Quest for Autonomy in Asymmetric Alliances with China and Russia",
+   "authors": [
+    "Jongseok Woo"
+   ],
+   "date": "2026-09-05",
+   "venue": "East Asia",
+   "countries": [
+    "US"
+   ],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "politics"
+   ],
+   "url": "https://doi.org/10.1007/s12140-026-09487-1",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "정권 안보가 중요한 경우: 중국 및 러시아와 비대칭 동맹을 맺고 있는 북한의 자율성 추구"
+  },
+  {
    "id": "doi:10.48647/icca.2026.67.90.021",
    "title": "О социально-экономической ситуации в КНДР в 2023—2025 гг.",
    "authors": [
@@ -1053,6 +1241,28 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "2010~2020년 북한 내 남한에 대한 인식의 변화: <남조선> 중에서"
+  },
+  {
+   "id": "doi:10.47814/ijssrr.v9i9.3554",
+   "title": "Explaining the Persistence of North Korea’s Missile Strategy",
+   "authors": [
+    "Seri Yoon"
+   ],
+   "date": "2026-09-04",
+   "venue": "International Journal of Social Science Research and Review",
+   "countries": [
+    "JP"
+   ],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "education",
+    "politics"
+   ],
+   "url": "https://doi.org/10.47814/ijssrr.v9i9.3554",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "북한 미사일 전략의 지속성에 대한 설명"
   },
   {
    "id": "doi:10.1093/applin/amag076",
@@ -1161,6 +1371,24 @@
    "titleKo": "북한의 국제 범죄 책임 규명에 관한 유엔 안전보장이사회의 발전 상황"
   },
   {
+   "id": "doi:10.4324/9781042000241-2",
+   "title": "North Korea's Evolving Policy Toward South Korea",
+   "authors": [
+    "Sachio Nakato"
+   ],
+   "date": "2026-09-01",
+   "venue": "Routledge eBooks",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.4324/9781042000241-2",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "북한의 대남정책 변화"
+  },
+  {
    "id": "doi:10.35589/swlj.2026.17.2.61",
    "title": "A Comparative Analysis of Settlement Support Ordinances for North Korean Defectors Across Seoul's District Governments: A Social Integration Perspective",
    "authors": [
@@ -1218,6 +1446,24 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "백제 전기·중기 수도의 위치와 평양 주변 유적, 안악 3호 무덤 주인에 관한 연구"
+  },
+  {
+   "id": "doi:10.62783/shss.8.4.86",
+   "title": "A Study on the Political Mechanisms of North Korea’s Flood Response in 2020",
+   "authors": [
+    "Seungdae Han"
+   ],
+   "date": "2026-08-31",
+   "venue": "Studies on humanities and social sciences",
+   "countries": [],
+   "lang": "ko",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.62783/shss.8.4.86",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "2020년 북한 홍수 대응의 정치적 메커니즘에 관한 연구"
   },
   {
    "id": "doi:10.37060/kjee.33.2.1",
@@ -1645,6 +1891,24 @@
    "titleKo": "HPLC-MS/MS 및 GC × GC-HRMS를 이용한 북한 주류 '개성고려인삼주'의 진세노사이드 및 휘발성 유기화합물 프로파일링"
   },
   {
+   "id": "doi:10.34221/kjps.2026.34.3.1",
+   "title": "An Analysis of North Korea’s Future Warfare Strategy Formation and Military Innovation Implementation Structure under Kim Jong Un : Focusing on the Application of Complex Geopolitics and Network State Theory",
+   "authors": [
+    "Jangkwon Moon"
+   ],
+   "date": "2026-08-01",
+   "venue": "Korean Journal of Political Science",
+   "countries": [],
+   "lang": "ko",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.34221/kjps.2026.34.3.1",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "김정은 시대 북한의 미래전투전략수립과 군사혁신 추진구조 분석 : 복합지정학과 네트워크국가이론의 적용을 중심으로"
+  },
+  {
    "id": "doi:10.1215/07311613-12518309",
    "title": "Milan Kundera’s Poetry in North Korea and Socialist World Literature in the 1950s",
    "authors": [
@@ -1661,6 +1925,26 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "밀란 쿤데라의 북한 시와 1950년대 사회주의 세계문학"
+  },
+  {
+   "id": "doi:10.55795/jpc.2026.5.2.049",
+   "title": "North Korea’s Survival Strategy under Sanctions: The Dual Structure of Political and Economic Rationality",
+   "authors": [
+    "Yechan Moon",
+    "Taehee Whang"
+   ],
+   "date": "2026-07-31",
+   "venue": "Korea Public Choice Association",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "politics"
+   ],
+   "url": "https://doi.org/10.55795/jpc.2026.5.2.049",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "제재 속에서도 북한의 생존전략: 정치경제적 합리성의 이중구조"
   },
   {
    "id": "doi:10.63700/1394",
@@ -1741,6 +2025,24 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "탈북민의 통일인식 변화: 2파 패널조사를 통한 증거"
+  },
+  {
+   "id": "doi:10.46226/jss.2026.7.33.2.225",
+   "title": "North Korea’s Indirect Coercive Strategy toward the United States under the Kim Jong-un Regime: Focusing on Indirect Consequences and Secondary Pressure",
+   "authors": [
+    "Soo-Min Woo"
+   ],
+   "date": "2026-07-30",
+   "venue": "",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.46226/jss.2026.7.33.2.225",
+   "source": "openalex",
+   "added": "2026-10-28",
+   "titleKo": "김정은 정권 하 북한의 대미 간접강제전략: 간접결과와 2차적 압박을 중심으로"
   },
   {
    "id": "doi:10.47116/apjcri.2026.07.29",
