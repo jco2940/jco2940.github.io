@@ -2,6 +2,781 @@
  "date": "2026-10-28",
  "items": [
   {
+   "id": "лидеркндрпотребовалусилитьподготовкуармииквозможнойвойне",
+   "title": "Лидер КНДР потребовал усилить подготовку армии к возможной войне",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEJxOFF4ZU9kb21Ibm14eEZETi1MMnA1b29VNWIwQWlQMUg2OHQxRjZ0NTl4TTlOXzJMYTRUekIyRHRNLXA5N2QxeE1fUjUwTWtYdW9kczI3eWdpN21UX0J5OF9jeElLRjNGWkQyVG1CX0lOUUg3QklvUnI0YVZRNTNJem8yR2NHOWxMUnU2dHVZRzFyVHY5d1AxSV9mZzA?oc=5",
+   "source": "Гродно 24",
+   "country": "RU",
+   "published": "2026-10-28T07:34:49.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "조선민주주의인민공화국 지도자는 전쟁 가능성에 대비한 군대의 준비를 강화할 것을 요구했다."
+  },
+  {
+   "id": "韓国金融機関にハッキングの試み北朝鮮の痕跡検出聯合ニュース",
+   "title": "韓国金融機関にハッキングの試み、北朝鮮の痕跡検出＝聯合ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDNWSXB2RWhVNWdvaVE4bDZIcHExZmppOXAwb01qU19OMmNVNThmby1hZGxRMmI0M2NWZFFhbkExb1hOZjNPTjJpbXlBMEEzYzlxeVd3c2RiM2RkN0EtSXdJaFNQTGlaMjhRMmZRMXJSZ2c1UWpybG1vcGhEdEZzOGhn0gGHAUFVX3lxTFBhbVJBdFA2VHhIR3VZNnJ0WDB2YUtqalBKZXNoSHVVQmlfczlUcDlCVlI1eWl1cUtkX0docVVxSlRlY2xMTW4yWkU4cjBtU0hHRGhzekNCNThKZm9BYTJfOFluZ2hpNXUzV25WOTNma2JETUdZa0dpb00xb0VtSzlOYU93a1BCVQ?oc=5",
+   "source": "ｄメニューニュース",
+   "country": "JP",
+   "published": "2026-10-28T07:29:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "한국 금융기관에 해킹 시도, 북한의 흔적 검출 = 연합 뉴스"
+  },
+  {
+   "id": "モダンウォーフェア4韓国で論争中国ロシアで高評価",
+   "title": "モダン・ウォーフェア4韓国で論争 中国ロシアで高評価",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96b1JTYlVZaXI1aWR1UHJmOWdsN0VnX1YtRHpKekJuZ2hkdndianVHcHJDXy1wNzRVWk91UC1UakhEcmM2ZGF4RXZZR19jZklzcHdwME95bXc4LTNrTjRNTEExWHJPbUNEdVlXTW4tTlNtT25lVXA0WmtR0gGOAUFVX3lxTE8wNzdJNjBFazR2QjJ0U3FUV3hfMWJHNnRVRTBRNUtZdTRnLXNEUW9wV29aSDNEYnJHU0NYd296Q0tPMHpNejRrLTRQZE5FV0JWOVlXS0FLX2R0TFUwTjBfOEtmMkZsOElmNnhvRTNzbWllUER2NzRHMnpIdDNHMVAyOXNLT3RRTHpmd3NFdnc?oc=5",
+   "source": "Chosunbiz",
+   "country": "JP",
+   "published": "2026-10-28T07:24:00.000Z",
+   "fields": [],
+   "summary": "현대 전쟁 4 한국에서 논쟁 중국 러시아에서 높은 평가"
+  },
+  {
+   "id": "modernwarfare4igniteskoreadebateaschinarussiapraisecampaign",
+   "title": "Modern Warfare 4 ignites Korea debate as China, Russia praise campaign",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95MHZzcTNwWWpuRWJEdnNxclVWN3hEQ2U0U1k4dFVaaTVXalRNNXN4X0JPQUFXMGpXM2ZJYlFnR19zTHIyYkRHTUN1X2l6VkdjTXJJNUNmWHJBX1NxNDFJLS11THFkeEdVWHJfOTNVZnFWX1o1Vzd0a2R30gGOAUFVX3lxTE8tTzZSWGpiZzgxVnNSdk9kYnJmTXltMlVvNXBJc3hTbkJzSDdid3ZxNmhTZVpjc0p6UjhUaFhHUVZubG1OTU44T081ZEN1UFEyRFRNZ043WFpCZHkxWVpsRkJEeW82UlZ5bExIemtpa2l3R1VJSUdQSUlnTGZDNlRNNmxhNjQ2Sk1paWVRMGc?oc=5",
+   "source": "Chosunbiz",
+   "country": "US",
+   "published": "2026-10-28T07:23:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "모던워페어4, 중국·러시아 칭찬 캠페인으로 한국 논쟁 불붙게"
+  },
+  {
+   "id": "northkoreanipstargetfinancialsectorin44millionaccessattempts",
+   "title": "North Korean IPs Target Financial Sector in 4.4 Million Access Attempts",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONC1CYU1mZTIzOUplSGU1WFZLcTZwTDBhdWQySTZTRy1tc296dUo0NlBfdS1CYy1Yd0lGTTBOc3RfWlBhTnlhVXBacXlnSVVFUVllSDlnUno4QmJrWTQ1TE9MckVNTjBnMmUwcTFtUk9zV3lBUlJqZGdvdFZtNjJWeWRjZ2hpa0p5T0lYVEZR?oc=5",
+   "source": "조선일보",
+   "country": "US",
+   "published": "2026-10-28T07:18:45.000Z",
+   "fields": [],
+   "summary": "북한 IP, 금융 부문 대상 440만 건 접속 시도"
+  },
+  {
+   "id": "ハッキング被害相次ぐ韓国金融機関北朝鮮ipからの不正アクセス多数確認",
+   "title": "ハッキング被害相次ぐ韓国金融機関 北朝鮮IPからの不正アクセス多数確認",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DV3l0TWRMTU1ycWJsc0gtb0lhTDlHMmRaTldXLUtCUVB5UEY5YWc0MnQ0SnVqcmxSalVPbF92aUJyemZzMklhUTNlRWhWLVRTYWRBOW9BY0Y3eHBrNURjMWlCazhPZFI0UzVYRHVkbks4bWlIUXlMSGRpTzNyMWc?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-10-28T07:14:02.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "해킹 피해 잇따른 한국 금융기관 북한 IP로부터의 부정 액세스 다수 확인"
+  },
+  {
+   "id": "кимченынпризвалусилитьподготовкуармиикндрквойне",
+   "title": "Ким Чен Ын призвал усилить подготовку армии КНДР к войне",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBER0RNcmIzZ0JwTjNsTGZHYUExYVZxajRubDZfdlRkNFJfV0FKbk4zTV9Vem5Ub0o5N0hZQlJfQ3Q4d1UxUDg4QnNjLWRWU25kXzVFbzdnaG0zMG1GTnM4TERCTnBHX0dCWjRjeFZ4TDhPd0o1TzlsWTNnUFgzQQ?oc=5",
+   "source": "Ведомости",
+   "country": "RU",
+   "published": "2026-10-28T07:11:06.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 북한군 전쟁준비 강화 촉구"
+  },
+  {
+   "id": "южнаякореядопустиларазрывдипотношенийсукраинойиззаскандаласпленнымикндр",
+   "title": "Южная Корея допустила разрыв дипотношений с Украиной из-за скандала с пленными КНДР",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQXFMVEtrNmxDdWgtdm5zS0RlYU8wZXVQcDdNaVNQaHhvWjd6SjMtaEY2THkyRGU3NVJtWmZYZkZPSmFMdlctUEhGaW5oT2Z5U21kSmo3VTN0QXBtZ3JHSVNaSUR5STdSeWwweVFCMXhQNXJWdnZFcmVyM29mM21zbEo3VGlST3c4bEV6MUt2bnFMNkU3UzRHeVF1OElJSmNYM1dXdGh1LUM5UC04YWtVOHpoMlVxWEU?oc=5",
+   "source": "Інформатор Україна",
+   "country": "RU",
+   "published": "2026-10-28T07:10:22.000Z",
+   "fields": [],
+   "summary": "북한 포로 스캔들로 인해 한국이 우크라이나와 국교 단절을 허용했다."
+  },
+  {
+   "id": "韩金融部门确认大量朝鲜ip尝试攻击韩金融机构",
+   "title": "韩金融部门确认大量朝鲜IP尝试攻击韩金融机构",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDOVN4bTcxZHZLeWRlYU94eVc4Sm90M3UyaGdrZGc1cGlJNkpjNkJNYXR3U05Ca3g3RGNOaXZvNTU3OGRjTHdjcGlTa2t5cFc2MXVWNkw5Q3VfUQ?oc=5",
+   "source": "韩联社",
+   "country": "CN",
+   "published": "2026-10-28T07:09:41.000Z",
+   "fields": [],
+   "summary": "금융당국은 다수의 북한 IP가 한국 금융기관을 공격하려 시도한 사실을 확인했다."
+  },
+  {
+   "id": "sixnorthkoreanskilledintrainvehiclecollisioninrussiasfareast",
+   "title": "Six North Koreans killed in train-vehicle collision in Russia's Far East",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMa3Rzel9nM3NmVDBaU1J1UVQ4c2dObWJvVndLQjZlcUttX0t0bHloUWJuM0RLWDlFR2ZjalRGZmNVaUlESGZYbE1GLTBUeVE5aGJvc1FnMVo?oc=5",
+   "source": "파이낸셜뉴스",
+   "country": "US",
+   "published": "2026-10-28T07:08:26.000Z",
+   "fields": [],
+   "summary": "러시아 극동지역에서 열차-차량 충돌로 북한인 6명 사망"
+  },
+  {
+   "id": "韓国サイバー攻撃で北朝鮮ｉｐアドレス検知",
+   "title": "韓国サイバー攻撃で北朝鮮ＩＰアドレス検知",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FZGRoZnhId2VZR01oY0czYWt6ZDVKc0twYkpRdlpSN3BDQ3JWTnB5TGpTaWxwRkQxUXV2UnRxdHI0YVFSVEdWOU96OEJzWUxXVmJHakpqenpzb1hQUVE?oc=5",
+   "source": "沖縄タイムス社",
+   "country": "JP",
+   "published": "2026-10-28T07:07:44.000Z",
+   "fields": [],
+   "summary": "한국 사이버 공격으로 북한 IP 주소 감지"
+  },
+  {
+   "id": "速報韓国サイバー攻撃で北朝鮮ipアドレス検知",
+   "title": "【速報】韓国サイバー攻撃で北朝鮮IPアドレス検知",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05X1dtSGsyQTVOdU9hYXFLMjRzUWJ0dXhtRFdIbS10c3NfZVMxcXZkMlNGNWtyMWxyb1Q0WkdraGxmbFZhNzFKOUNOQQ?oc=5",
+   "source": "47NEWS",
+   "country": "JP",
+   "published": "2026-10-28T07:07:44.000Z",
+   "fields": [],
+   "summary": "【속보】한국 사이버 공격으로 북한 IP 주소 감지"
+  },
+  {
+   "id": "韓国サイバー攻撃で北朝鮮ipアドレス検知",
+   "title": "韓国サイバー攻撃で北朝鮮IPアドレス検知",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRG1wcEdxYnA4ZXliek1tX0g0ZU1hUVhDOTFHbjBDN3h2eVN0U2RMM0NjLXhjelJKZy13dzJFTUNIcFpoRkJFcDNWTF8ydjlaZGZnZ1I0MVNEYnE5bmNIZm1iUWo1QWZ6Ui16TTdVTWUwUzJVcEtLclNHcHlLeEduR3FjQ1ZoQjdackljaFRXSVpra3laVnFDYnVxNDXSAY8BQVVfeXFMTlgyYXlRV09TUjJHc29yTHBaM0UtR2RpXzdvVzZSNzNYM09KTmFuemtzSnlvZHNvZ1BUcmtHaURfcVZnTi1aWmlITzhfeTNLamJDbkQxNUtpZzNULWF0ZWdrQnZTejBRVnA0NTFUcUVGXzdsbDNuYnJ3UFgybjRrU0J0WGcyemo1cjUtUTEyTUE?oc=5",
+   "source": "ｄメニューニュース",
+   "country": "JP",
+   "published": "2026-10-28T07:07:00.000Z",
+   "fields": [],
+   "summary": "한국 사이버 공격으로 북한 IP 주소 감지"
+  },
+  {
+   "id": "кимченынпотребовалподнятьбоеготовностьподразделенийармиикндр",
+   "title": "Ким Чен Ын потребовал поднять боеготовность подразделений армии КНДР",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSnlDdTdPQXZrbTM3VE9RZXdvbnZ3VnBQVXNmVkptcnA2NHpnWVBOSTFSUHN6UGZyS3BHMWUtczB2aVZ1NThnZVpsdklid1p3dklVT29lUWg4UUhHa1NlT01Xa1hpSDRBcU1TX3hvLVBtTVJyRTVLRmJlaUJTSUlibEJST1VTWUtsb1VlTVpGQjhwU09lNHRENjFabEN5S2gxbHfSAaoBQVVfeXFMUHJmMDVOS2FGb0Y3a1dZcXEtemd1YS1VTUdNal9ZSVZtUHd6TDNGckhBRkEzWVpQN0lXd2VFaUtxdmota05NdGI1SWFMYlNxQmNnTk13Z2ZwOEtKSUE4MDFfYXNyM0RSQ3hVcl9mRDVDNHVjU29iVG5ka3lsd0lTZFhFYlZZYTlDeFBCSE45NDVuc2h1cVdZdmhtNmdLVGNEX242YUxLRzJpTlE?oc=5",
+   "source": "СБ. Беларусь сегодня",
+   "country": "RU",
+   "published": "2026-10-28T07:00:22.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 북한군 부대의 전투태세 강화 촉구"
+  },
+  {
+   "id": "кндрусиливаетбоеготовность",
+   "title": "КНДР усиливает боеготовность",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Uanp1RnVBZFpHLVUwQVIyVWxIUnR4QVZMd3BoTklBdEprWGRVOC1oR2RoTVk0eEdKQ24xek1naDRJVDlzMnc?oc=5",
+   "source": "Deita.ru",
+   "country": "RU",
+   "published": "2026-10-28T07:00:00.000Z",
+   "fields": [],
+   "summary": "북한, 전투태세 강화"
+  },
+  {
+   "id": "кимченынприказалусилитьподготовкуармиикндрквойне",
+   "title": "Ким Чен Ын приказал усилить подготовку армии КНДР к войне",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYlhzbzdqUTZBRlhUZVhzdGZqNFdWM2hkV05kNnVQZDAwSjZERTZ3RXpDcHJlM3A0VjdrODhzMzBUbG1pVFhaaUxINTQ2NUtSOFN6dWVtWHM2Sm8wT0x2Wlh6Wkhuajk5NlRfNllpcnNOTFh3TDVZeDZjVHZNanFpdGxmNG81cHpwT0RCd2s3S1hRMzhj0gGaAUFVX3lxTE1PT2RrZ1ZwQkFuemNXSnJ4ZUpROUptbGZpdFlUeTFEWk5NSUROUFBqaUh3em1ZOExGeFdwYXZsbUFCczBoM3VDN2cyV3dJQW1KTEZjcTh6bjlxbHdIbUxsRnh4TERFRVFVNmVYbDEyZ1RvZXZvZnpwcXdrbHZQOG52bXkyWjNKbnpKWll1VVhEWkQwczRnZXBlc3c?oc=5",
+   "source": "РБК-Україна",
+   "country": "RU",
+   "published": "2026-10-28T06:59:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 조선군 전쟁준비 강화 지시"
+  },
+  {
+   "id": "northkoreantradefairshowsoffforeigngoodsbutwithoutforeignattendees",
+   "title": "North Korean trade fair shows off foreign goods, but without foreign attendees",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmtPQXBzZzBSVF83Uzc1d1NRXzVUNHlLWHY4ZENVZ3lQZEZfQlNRZ1o5aWdsVWxPY1ZlWjNmVnNDMHpWck9PSlN5SWRyU1VJRVNfLWpZZ3g4QmhGZDV3c2F0RHVPd3NXWmo4aGpYd3loWEozYWEyNWwtMXdfMjREU3lERjVpU1VfblU2WC1xVW53YlgtS2VOUkdYMktYNkhhYkNlNzVnOVVERTV5MXc?oc=5",
+   "source": "NK News",
+   "country": "US",
+   "published": "2026-10-28T06:54:01.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한 무역 박람회, 외국 상품 과시하지만 외국인 참석자 없음"
+  },
+  {
+   "id": "южнаякореядопустиларазрывдипломатическихотношенийсукраинойиззапленныхкндр",
+   "title": "Южная Корея допустила разрыв дипломатических отношений с Украиной из-за пленных КНДР",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbS1SZUxwQnptZkZ1RVhyZjdLRHFRWkFBV2hEZGFkSnJ4Ty0zRFYzTGlQTV84VEowN18tT3lCOUtUUmhicmNaWTRNSGhkTjVvV1ZNbDF1ajdrQk9OaDB3c25yWlZFclIzdzVxU3ZPeFM0RmU4Y0JhQWZKMDhQVGJMREU3dGNlNkNLb2R0cEJWV2RBc09MRGdSSm4xei05RzBwYkRLc1ZNTzl4ZkFhN3VFbg?oc=5",
+   "source": "Dialog.ua",
+   "country": "RU",
+   "published": "2026-10-28T06:53:31.000Z",
+   "fields": [],
+   "summary": "한국, 북한 포로 문제로 우크라이나와 국교 단절 허용"
+  },
+  {
+   "id": "trainvehiclecollisioninrussianfareastleavessixnorthkoreansdead",
+   "title": "Train-Vehicle Collision in Russian Far East Leaves Six North Koreans Dead",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zdzNlZVN1UnNxMkhjd3dGc09CdDNjcVdRVmFXbHduc3ZDT1pKTy1oLU1WeFpkclhINzRkNDJDbUFoOXM4Tnl2VlRLdFBxaXVMSGdIVmtrMW5ySlpNRlk4Q21wSXNaU0RadDZWTWV3?oc=5",
+   "source": "news.sbs.co.kr",
+   "country": "US",
+   "published": "2026-10-28T06:52:09.000Z",
+   "fields": [],
+   "summary": "러시아 극동지역에서 열차-차량 충돌로 북한인 6명이 사망"
+  },
+  {
+   "id": "мидкореинеисключаетразрывадипотношенийсукраиной",
+   "title": "МИД Кореи не исключает разрыва дипотношений с Украиной.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzJ5N1FPallMQ0lfRGNsQ21LZ2tDMEtiUk9uNFlnOU9lSEc4OFFtRy1ISEQ0cjlRQ21KeUNtQVJtVDVqN09EcGpZMkJISUVEOV9pWXg4WXpWeFpBcTZtdWVYRVVXTHlpcVhuY0pkZnlWcVVudEM3emU4aEp4SVlEMHpWN3BrcXNoc1ZiU3pSMl9WVDVEU3V4WA?oc=5",
+   "source": "МедиаБрест",
+   "country": "RU",
+   "published": "2026-10-28T06:50:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "외교부는 우크라이나와의 단교 가능성도 배제하지 않고 있다."
+  },
+  {
+   "id": "кимченынпотребовалоткомандировротпостояннойготовностиквойнеодинпротивста",
+   "title": "Ким Чен Ын потребовал от командиров рот постоянной готовности к войне: «Один против ста»",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0NYM1BRYWxBZlFQOWwtOThZNEEzR2d3TmVyMXJDbWFIU19TWVlTQnQwcEh4SWxvQlhmdXROMnJWSC1zbEtYdTVJTzRhYnpZVjkyZlhsOUtScWYxT0Q5X0ItN2k1Uk5CWEtoNmRBQnBMT0UxN1Y1NHZBM0NHQ1U4WVFtTVg1bVZhaGQxZU1uNjlvMjZCMEFGR3hDRlVkZFByb0F0VllCNk81N2tRZS1JZ0tJSEg?oc=5",
+   "source": "Интернет-журнал \"Чеснок\"",
+   "country": "RU",
+   "published": "2026-10-28T06:45:52.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 중대장들에게 “1 대 100”으로 끊임없이 전쟁 준비 촉구"
+  },
+  {
+   "id": "южнаякореядопустиларазрывдипотношенийсукраиной",
+   "title": "Южная Корея допустила разрыв дипотношений с Украиной",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMmdUZGVyNFZ5eFdPVnJwSXpoWExfdlRISDlISnpvTkcxTUoydU9uX0szYWtlUi1kYmhPQ0tuMlhYc0phOHBRVHQ1R1Z3UnVYcEZ6bDhhTHlYQjVOQ2taUjhpZXZRcEFVc253N3d1T0xoeDBTVUMxYTloMDRxVHNWZ0xEcENvUVk4Q1VTWXhEVWtCYVh4bGM0VXMxRk5fZw?oc=5",
+   "source": "Korrespondent.net",
+   "country": "RU",
+   "published": "2026-10-28T06:44:00.000Z",
+   "fields": [],
+   "summary": "한국이 우크라이나와 국교 단절을 허용했다."
+  },
+  {
+   "id": "кимченынготовитармиюквойне",
+   "title": "Ким Чен Ын готовит армию к войне?",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhVXctU0tJcmZqRVFXd0UwbE1pVTd6akc1VXlLNXFKSmllLXdwR0dqclFabVI5YnVhaXUxTy1xdXFMQ3kxc2RMaHY2V0U3TE5XQnF5TEU4Ti1OLVQ0SVdaQ0lnNlBIa184c1E?oc=5",
+   "source": "Caliber.Az",
+   "country": "RU",
+   "published": "2026-10-28T06:37:17.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은은 군대를 전쟁에 대비하고 있는가?"
+  },
+  {
+   "id": "кимченынпотребовалобеспечитьполнуюготовностьармииквойне",
+   "title": "Ким Чен Ын потребовал обеспечить полную готовность армии к войне",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLd18tMFhQd2hpNV96Um9MaXNjYVdmNmk0bTkyT18yVU1jMFBuTEJLZkFhcFRJc1l5RnJoeVBhR1l6ZXc1cXc?oc=5",
+   "source": "NEWS.am",
+   "country": "RU",
+   "published": "2026-10-28T06:35:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 군대에 전쟁 준비 만전 요구"
+  },
+  {
+   "id": "южнаякореяпригрозилаполнымразрывомдипотношенийсукраиной",
+   "title": "Южная Корея пригрозила полным разрывом дипотношений с Украиной",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0pBTGdzSUtsOGZFOXlydV9xSGVTZ3VNMEhkVFU3QUJBWEJIT2k0WDd1WFlKQ0JFS2V2Smc0TzRHcVFVY3VYSzUzb3RwUU9wbkg2QjRUamZXUW9hRkRJR2NjQnJ4ZjJRWUNITW9POGNLNmI4c19QU1pxeDFJWmZUSUFWQk9CX0ZRaXlKTEljWHlLVG5YNXF6RVg5WXkwN2FTNzc3NFlVY0NJS0E?oc=5",
+   "source": "1News.az",
+   "country": "RU",
+   "published": "2026-10-28T06:28:00.000Z",
+   "fields": [],
+   "summary": "한국이 우크라이나와 국교를 완전히 단절하겠다고 위협했다."
+  },
+  {
+   "id": "кимченынпризвалусилитьподготовкуармиикндрквозможнойвойне",
+   "title": "Ким Чен Ын призвал усилить подготовку армии КНДР к возможной войне",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT0pUZWQ5YkRlamwxMHhURDZ4Q1ExOFB5NlhsUS1JM1dKU3I1OEZReUZVdGowZVhscEtmRzFnT0o2WTg3czJwS0cxZUZfbjRVeF9vRWtzclZmczVJd281bE4za2ZabVZMTWpfRUFwMEVKUHJOcjBxX283cndoSnVwVHVRT1pqYzNGN0dTRy1ZaWEwX1RwbHNESWJGREs3WHdlVnNSSV9nNlVHclJE?oc=5",
+   "source": "Новые Известия",
+   "country": "RU",
+   "published": "2026-10-28T06:19:02.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 전쟁 가능성에 대비한 북한군 준비 강화 촉구"
+  },
+  {
+   "id": "министриностранныхделюжнойкореидопустилразрывдипотношенийсукраиной",
+   "title": "Министр иностранных дел Южной Кореи допустил разрыв дипотношений с Украиной",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XeEhfeEFOQkdkOXBOMG9MalVRU1pHNVl2UzA5YUZSb01uZ19MLVNqNEJqRmFLRzd5c0YwS2RWR21rOWo1SkJQRU51eEk2UWVWTkpGcjEzanh0c244?oc=5",
+   "source": "Repost.uz",
+   "country": "RU",
+   "published": "2026-10-28T06:12:00.000Z",
+   "fields": [],
+   "summary": "한국 외교부 장관이 우크라이나와의 국교 단절을 허용했다."
+  },
+  {
+   "id": "unificationministerurgesnkoreatojointalksoninterkoreanborder",
+   "title": "Unification minister urges N. Korea to join talks on inter-Korean border",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kd2ZGZWppS09UcG8wNzI1cXBrc2NwalpWdTk3dHprdkZJUHRIakh3WV80ZUptYlowZHdrMHVjTTJpZk85NGZwU3ZoVjJodUlXcWh3cWdSQTBidw?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "US",
+   "published": "2026-10-28T06:10:20.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "통일부 장관, 북측에 남북경계회담 참여 촉구"
+  },
+  {
+   "id": "couldxibrokeratrumpkimsummitseoulseesopeningusexpertsskeptical",
+   "title": "Could Xi broker a Trump-Kim summit? Seoul sees opening, US experts skeptical",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaSXpLdWtpN0FpQXN6REJqb2wyd3RFbFJiOXJXaGZJU2h2aHdBZEgydVJfOWpJSjFZMXN5VXVzcG1xRGxNQm55YVhMM3RVN0pEbjBLblpsUQ?oc=5",
+   "source": "The Korea Herald",
+   "country": "US",
+   "published": "2026-10-28T06:02:49.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "시진핑이 트럼프-김정은 정상회담을 중재할 수 있을까? 서울은 개방을 보고, 미국 전문가들은 회의적이다"
+  },
+  {
+   "id": "southkoreadetectssurgeofnorthkoreanipscansonfinancialsector",
+   "title": "South Korea detects surge of North Korean IP scans on financial sector",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2EtRy1VV3VsQlY1NDZwQnZjTHoxamd3MldhMWVselRZb1pkUXVGcG9DeUYzdVY0UGFjYUlqc0VqbmpNX0syWFBuVFBkZnFDUW5SUFB0V3kxQTlPRkQ4M0k2ZXZoMHg5TUw0VTdGd2R1UF9nWkhDWnFNcTZ5MVNzZ9IBlAFBVV95cUxNSWpQRWlqQXIwa1FvX0dYSnJLTlZ1c2hXNlFTaDZJQWhKQ0hYS2FjUm9Lam9Gajh3QjRfenREandZWGdncHkwQ2JCZG4zOEFvdnZiMnc1VGI5Ry1Kb1BucEgyQWdCWmpLYTFwRkpxeWxKTEpCR0VKT2tSZ2Q4X0hwVWZfemVENjlDMDVxUDlsYnFPYnVV?oc=5",
+   "source": "Chosunbiz",
+   "country": "US",
+   "published": "2026-10-28T06:00:00.000Z",
+   "fields": [],
+   "summary": "한국, 금융 부문에 대한 북한 IP 스캔 급증 감지"
+  },
+  {
+   "id": "кимченынпризвалобеспечитьпостояннуюготовностьармиикндрквойне",
+   "title": "Ким Чен Ын призвал обеспечить постоянную готовность армии КНДР к войне",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1lRQnNSVG1TbExUaWNKOGtsQmlBMnMtaXEyVzEwNWk2TWdxOU1PTGlpQ3RaVklaSnBrNXlmM0cwbzdFenJOZExiVEFaRXphTlBuOXRwbjZ6d3hkdllXaUlZSjU3bldqRUVWSWZxZU5rMUE2aEVGWnZMZEwwcnljNkdkMjJGTkc3MHM1R0V4OHRMNVFCX3pEMlFuRQ?oc=5",
+   "source": "Media.az",
+   "country": "RU",
+   "published": "2026-10-28T06:00:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 북한군에 전쟁준비태세 유지 촉구"
+  },
+  {
+   "id": "金融当局が北朝鮮ip大量検知攻撃試行監視強化",
+   "title": "金融当局が北朝鮮IP大量検知 攻撃試行監視強化",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ3pCTVlFclBXMkEwbzZheWZEVTgzWmFwMnZObkVfWTBRV0EyQmJhekxzTEdWX0R3dHdoaVpZenpqY2QwYXdWckFOSHB5OG5pUkl5Wmlmdk5XN1BZQ3hXYjJKd3V3WjhGMHBPemJ0OEVDZHJ5NkRGa21lRnk3WXQ3VdIBlAFBVV95cUxQcTBjS004c3VjSkkxS3Z1UnJYTElKc2dHMC03WDBVSFZ6bnhmMi1IVS1TWmhYSlZvb01fa05pWjBiTndvMVk0d1c1aC1sVHo2aW83SkIyRE5ZWW9RbVI2VnJlUU9PUGM4aW50Tlduc2xBeEJMd0g1T3NVSlliT3JXUlN4aXpSUTJnaktRX05mY0duZmZo?oc=5",
+   "source": "Chosunbiz",
+   "country": "JP",
+   "published": "2026-10-28T06:00:00.000Z",
+   "fields": [],
+   "summary": "금융 당국이 북한 IP 대량 탐지 공격 시행 감시 강화"
+  },
+  {
+   "id": "hongkonghasbecomeasafeharborforinternationalpariahs",
+   "title": "Hong Kong has become a safe harbor for international pariahs",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVWx0THBDNDZoQm5iV3g1ZGNjV21hSXRxckQ4Q3ZzMjdCcWl4b3A1SElNbmRrMDV6TkVQRUlMVHJ2YXNfcHRaVjJ6aXF0YTN2a3RqSWNfTkZfUjY0Ni1iMzY2OWxTUHQxY0gzSFZvWGtLdjN3UmdOVU9FV2hoMlFINzA5Qld4b2ZuU0tuUG05cm56Yk0?oc=5",
+   "source": "The Japan Times",
+   "country": "US",
+   "published": "2026-10-28T05:58:00.000Z",
+   "fields": [],
+   "summary": "홍콩은 국제 버림받은 자들의 안전한 항구가 되었습니다"
+  },
+  {
+   "id": "кимченынприказалармиикндрусилитьбоевуюготовностьиактивизироватьвоенныеучения",
+   "title": "Ким Чен Ын приказал армии КНДР усилить боевую готовность и активизировать военные учения",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOU44SDNqWDgtSG5SYXFnNl9mUXZJcm5sc05ta3M2WFR0bDlJQTR5U0RtMFJwWkkyYThUeXBNM2l6X3RrWU4zTVNOcnF4eExvNktLcXRrMl9oU2oxWFFncUFDaHZLYnBIWktXVlg1OUpvMUpZWmZwTDhLMGRkRnlEalZEZl9fa2ZzRGUzc0tQaS1WSXFsb0FWTFBQMDU4b21VWFB1b2NQaHhHSTdhY091aTltWEJyMGo1VHlFdDVJYXRhWHAtRzR0NVd3?oc=5",
+   "source": "АНТИКОР",
+   "country": "RU",
+   "published": "2026-10-28T05:57:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은 위원장이 조선군에 전투준비태세를 강화하고 군사훈련을 강화하라고 지시했다."
+  },
+  {
+   "id": "北朝鮮ipアドレスから韓国金融機関に440万件超の接続試行金融当局特段の注意を",
+   "title": "北朝鮮IPアドレスから韓国金融機関に440万件超の接続試行…金融当局「特段の注意を」",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb1FpcXRhcllfYzliOUdHTlI2QVNyMW1xbXljT1VzeXFHYjNJNFp4OFZLbEVqb1pUN2RkaVF2RUg0eUIxTDFSd05ld1NSWHRZUzlTQTg1V1RNVFB1UTFTVzZ4cVFsWmhwbFpOSXFwREM0bWxEajBiMF8yR3BkS01nWg?oc=5",
+   "source": "조선일보",
+   "country": "JP",
+   "published": "2026-10-28T05:57:00.000Z",
+   "fields": [],
+   "summary": "북한 IP주소에서 한국금융기관으로 440만 건이 넘는 연결시행… 금융당국 ‘특단주의’"
+  },
+  {
+   "id": "northkoreaipaccessdetected44milliontimestargetingfinancialsectorregulatorsurgese",
+   "title": "North Korea IP access detected 4.4 million times targeting financial sector; regulators urge security checks",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTS1ZVDBhbzFPSFRDZ1B3R3QyZnRORm5BT2lFYUFwUDVNNTVOam05VHFDU3VDb04wUUh4TXNIUVpjdlhLbGN3NmZieWctbWs4bWtqT3ZvWlBZUFlTZnR6Y3BNWHNQU1NSTHJzeG5DT1N4c292T0ZBV1JFR2liX3BOdmlabkZPR3V5Q2RmaktiXzRiZ2RfdnQtcGdHbFVVeVBmMTVDODkyd04xeWxGQ2JhUGI2b2pRQjFHOV9aTVI2MEdFbzhBSlNRWURSSmtib1dSZzI3Q2tfX2p1OWMzUG82Umk3Qng4enBL?oc=5",
+   "source": "디지털투데이",
+   "country": "GB",
+   "published": "2026-10-28T05:56:26.000Z",
+   "fields": [],
+   "summary": "금융 부문을 겨냥한 북한 IP 접속 440만 건 탐지 규제 당국, 보안 점검 촉구"
+  },
+  {
+   "id": "韩国金融业发现疑似朝鲜ip段440万次扫描访问监管部门要求强化监测",
+   "title": "韩国金融业发现疑似朝鲜IP段440万次扫描访问，监管部门要求强化监测",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNFNxTm5sSko5OTBXUm9fWjNXWVJaZ19TeGRqb1g0ckRsUnhmTG4yMlBjOFRmWlZkdlNMc3c1NnVBXzFXS011alZyUDJKYXk4cEZ4MjJBdGZ4UlNGV0VQWlE4aFpFXy0xbGVlTDlFX2RzV29KaVhoeWE0MzhzaGY5R1g3dXgyZ24tUnM4eFp0SzZMZ1VLNUVQOXZpOW9lTkx1WU1yWUwtMVd5N0JPeWVoeUxYT1dRdmZTRUpvOFpLdWZKVzhoblVKbWJtQjJ3ckNibW82TXJpQVpmblNHS0R3cjZoRGZ0VGxx?oc=5",
+   "source": "디지털투데이",
+   "country": "CN",
+   "published": "2026-10-28T05:56:26.000Z",
+   "fields": [],
+   "summary": "한국 금융 업계는 의심되는 북한 IP 세그먼트에 대해 스캔된 액세스 440만 건을 발견했으며 규제 당국은 강화된 모니터링을 요청했습니다."
+  },
+  {
+   "id": "金融機関を狙うスキャン型アクセス440万件当局が監視強化要請",
+   "title": "金融機関を狙うスキャン型アクセス440万件 当局が監視強化要請",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOGZKNnZlNVowNzN1OHJJU2lzcXJEWkN6LUphWFg2c1FwTVFFTTM3bnN4dDB2NDJOc1MyQ0NJd05wN3AtVjkwc3B5d2VwWUlOS1J0cE5BYnBKdVJLRnU1T3VHM1M4MjdCVkRicW84WnhlLXBaY1F1QjZGQl94SjlUYzdoQ1JNN2F1YXFycVdNVHhyWjFvQUlnMjNnaHk3TjU4ZURGM2IwN1FtallOc012ZklRaFNKS1ZTZUppYUdQYVNPRkY3ZjY0aFVoMWE3b19YY1VEQzBmUDBrNTJod3NNdWRlUGR6eGtW?oc=5",
+   "source": "디지털투데이",
+   "country": "JP",
+   "published": "2026-10-28T05:56:26.000Z",
+   "fields": [],
+   "summary": "금융기관을 노리는 스캔형 액세스 440만건 당국이 감시 강화 요청"
+  },
+  {
+   "id": "inhackingattemptstargetingthefinancialsectoralargeamountofaccessbynorthkoreanint",
+   "title": "In hacking attempts targeting the financial sector, a large amount of access by North Korean Interne..",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50ckNhNW92cnNOb1ZzaExZWlA0WW1tQkR6RFBrcTdIVlNib2ozTmttZTVoNXJEU1Y2WVlxbmE5TVRGaEFJUDRMOXl4djNVblJqRE1B?oc=5",
+   "source": "매일경제",
+   "country": "GB",
+   "published": "2026-10-28T05:45:58.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "금융권을 겨냥한 해킹 시도에 북한 인터넷이 대량 접속.."
+  },
+  {
+   "id": "金融圏を狙ったハッキングの試みで北朝鮮のインターネットプロトコルip帯域の接近が大量探知された今月初め金融界のハッキング事態が知られてから北朝鮮のip攻撃が公式",
+   "title": "金融圏を狙ったハッキングの試みで、北朝鮮のインターネットプロトコル（IP）帯域の接近が大量探知された。 今月初め、金融界のハッキング事態が知られてから、北朝鮮のIP攻撃が公式に確認されたのは初めてだ。",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vZV9CRXF2S3MyZDJnOHBWNzRJOVdWVHlKRHA2RmxWUFJTUFU1Q0hDNHliTkhaUFNBZ0w2NTR3TEdXSnRLTGhTd3lmRHhpVUdKWnJ3?oc=5",
+   "source": "매일경제",
+   "country": "JP",
+   "published": "2026-10-28T05:45:58.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "금융권을 노린 해킹 시도로 북한의 인터넷 프로토콜(IP) 대역 접근이 대량 탐지됐다. 이달 초 금융계의 해킹 사태가 알려지면서 북한의 IP 공격이 공식적으로 확인된 것은 처음이다."
+  },
+  {
+   "id": "金融機関を狙ったハッキング事態北朝鮮ipから440万件のアクセス検知当局が緊急対応企業産業財経日報",
+   "title": "金融機関を狙ったハッキング事態、北朝鮮IPから440万件のアクセス検知…当局が緊急対応 : 企業·産業 : 財経日報",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpRDctZUpPb3pDT2NkV3RkVXdDN3hOcjR3cHJuOFkySzhmMEFRVkNXaFFxaUVvc2E5bmxYb1VKQ0NOcmFKWFIxMVFOQnV0eTVtajJWMzM2ZDFEcVprT1A0Z2pYYw?oc=5",
+   "source": "재경일보",
+   "country": "JP",
+   "published": "2026-10-28T05:40:08.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "금융기관을 노린 해킹 사태, 북한 IP에서 440만 건의 액세스 검지… 당국이 긴급 대응 : 기업·산업 : 재경일보"
+  },
+  {
+   "id": "usmakesthaadunitinguampermanentasnorthkoreachinathreatsgrow",
+   "title": "U.S. makes Thaad unit in Guam permanent as North Korea, China threats grow",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVURXSk1oQjgyNFBPb0xKd0g5NE5iMXFDckNualZZR3lTc3ozbDBZaEFBTjdzTGdiTTZoQ2Jrcm4wOVEwdl9TMTRrX1lKb0t5WDRsUnlSN1ZzWmNOcHk5bGlUQ3V5RE9RQ3FsWllWSl9CcXBxVHN0X3BlVWJSMGlRX0xFeXY1ZUlsZ2ZHQWdhd1hySVpsaUY0T0ZLUlIydEgxVnIxV3M2V0pPWk9VeWhUWnk5cEVYbE10SGhXTWtR?oc=5",
+   "source": "Korea JoongAng Daily",
+   "country": "GB",
+   "published": "2026-10-28T05:35:00.000Z",
+   "fields": [],
+   "summary": "미국, 북한과 중국의 위협이 커지자 괌의 사드 부대를 영구화"
+  },
+  {
+   "id": "northkoreanipsdetectedinmultiplehackingattemptstargetingfinancialsectorauthoriti",
+   "title": "North Korean IPs Detected in Multiple Hacking Attempts Targeting Financial Sector; Authorities Urge Vigilance",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ET01ybWc4N2laVlB2TldHSWZiWFNHNU1lN1BMSEhOVmNzMVFNX096bGRFUUQtUGVpWk56dnNYRTNuVGJlYkNhMjdWM2w4cndKYUNrb1RlX0RJQmxCc2ZvUm8zNW94QUZPclYzWnd3?oc=5",
+   "source": "news.sbs.co.kr",
+   "country": "GB",
+   "published": "2026-10-28T05:33:11.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "금융권을 겨냥한 다수의 해킹 시도에서 북한 IP가 적발됐다. 당국, 경계 촉구"
+  },
+  {
+   "id": "democraticpartyquestionsrokusalliancestereotypeinnewcouncil",
+   "title": "Democratic Party Questions ROK-U.S. Alliance Stereotype in New Council",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0p2NV9MaVRUWjZlb01kcmlUa1o4REdaaDNzRWRnVGJYWjkzWTc2Z01fekdpR0dubE5QVFN6eEllX0lxQW5hQ0JPSW9fMW9pM1poWGU3bVVWUWJCNnpxNkFuUUl0emg1dGdkOC02RG9oTzB1S1NhQjZVNnJQbmpxUGs0bTdrU1cx?oc=5",
+   "source": "조선일보",
+   "country": "GB",
+   "published": "2026-10-28T05:27:45.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "민주당은 한미 양국에 질문을 던진다. 새 의회의 동맹 고정관념"
+  },
+  {
+   "id": "朝中新鸭绿江大桥开通一周后朝方海关现数百辆货车",
+   "title": "朝中新鸭绿江大桥开通一周后朝方海关现数百辆货车",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2TG0zSnpUTzlDLTl5MVlmRTZjVTF3d0pCVkp0MmNjVTZjN0gzVlN2UmkxRzRJdDZ6LTRqa2FOQnFaWWQ4Zi1GSHVDVlhreDNRZ240Z0tYZUpzUQ?oc=5",
+   "source": "韩联社",
+   "country": "CN",
+   "published": "2026-10-28T05:27:16.000Z",
+   "fields": [],
+   "summary": "북-중-싱가포르 압록강대교 개통 일주일 만에 북한 세관에서 트럭 수백 대 발견"
+  },
+  {
+   "id": "кимченынпотребовалотармиикндрпостояннойготовностиквойне",
+   "title": "Ким Чен Ын потребовал от армии КНДР постоянной готовности к войне",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzNkT2JGYklyd1l5X3ZGUmQ0RGFsQi1pZ0pzWTBpSkt1S2NQeTRHZDd1WlNxdS1GV3o5R1IyNEhuX0FrcWJ3c1pyMjRGcFpSU1k5Yk1SOUhneEQ0azZZUS0zU3FSN1JLeldMMDRrSVdlbmNBZ2d1dVZHYXJiSGxJQmJzTzV5QUNRN1kxTlZ3REhsbzQ0UTJoSWRaa2Izdw?oc=5",
+   "source": "br.az",
+   "country": "RU",
+   "published": "2026-10-28T05:26:28.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은 위원장은 북한군이 끊임없이 전쟁준비를 할 것을 요구했습니다."
+  },
+  {
+   "id": "askoreanbordertensionsriseaideepfakesmakethethreatlookcloser",
+   "title": "As Korean Border Tensions Rise, AI Deepfakes Make the Threat Look Closer",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTDlZdnpVN0l6eTUyVFNBd1p1R043eWk3TEdVdHlzRUxPN0d4ZHZCOFk0RmxrMnpnZW9naTlPMkVkcDRQTHozaF9ITVNPTHRvOURoMy1oaTBMTFBmd2R2QVpuNW1RelY0OTgyZ2ZlT2R5OUcyMUlmdlpyZDNtdGhYRHNSZFlqc2ZFZ3NsV1FnN0lsMXNVR1M5LV90cWJvQkk1cFVJcA?oc=5",
+   "source": "Koreabizwire",
+   "country": "GB",
+   "published": "2026-10-28T05:23:41.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "한국 국경 긴장이 고조되면서 AI 딥페이크를 통해 위협이 더욱 가까워졌습니다."
+  },
+  {
+   "id": "кимченынпризвалкомандировповыситьбоеготовностьармии",
+   "title": "Ким Чен Ын призвал командиров повысить боеготовность армии",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOejdhWTMwa0hHYTZKaE0tTXViSWZ3Ym90ZllXc1R4Yy1VeUMxUXVFb3c0LUNOaGhBTlZ6T01NYVg5UXBEcGNPeUdVOEtWUm5Ta0U1UUJjYXRvQk44RVdtV2M4V1lRbUQzUV8tWEtTRHBGNzk2VkE5WWhxWUVzY1RQQ3g1MUl6YkhjTi1CRTdYNkVWc2d4SFFuT2RHbDJhZw?oc=5",
+   "source": "1News.az",
+   "country": "RU",
+   "published": "2026-10-28T05:20:09.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 지휘관들에게 군 전투태세 강화 촉구"
+  },
+  {
+   "id": "кимченынпризвалпривестиармиюкндрвполнуюбоевуюготовность",
+   "title": "Ким Чен Ын призвал привести армию КНДР в полную боевую готовность",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ZTjkzU3JlOEMyUi1tNUlpenJ2VV9NY3lTS1pfQWpZVnA4SDhjLTFaaXpCVXNwa0hjWHowVFhnZWNKRUJUVzNv?oc=5",
+   "source": "Minval Politika",
+   "country": "RU",
+   "published": "2026-10-28T05:15:19.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 북한군 완전한 전투태세 마련 촉구"
+  },
+  {
+   "id": "韩国外长因乌泄露向韩移交两名朝鲜战俘韩不得不从乌撤出8名外交人员",
+   "title": "韩国外长：因乌泄露向韩移交两名朝鲜战俘 韩不得不从乌撤出8名外交人员",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYnZzeWYtcjNUZGx2dEJHZUppRXFyQ3RKX3VORDJnME5obUIydGdtRDBZV3dSUjBUX3pzc3hVemp3OFFEc0JiSHI0dWdCTV9DODJfV09kdVVjaTEyWmRKWloxSkM2bkctdV9md05fdElqdUdwXzlRUWJXUHBqNmJmVDljU1ZhRnhYZ0Q2Yg?oc=5",
+   "source": "搜狐网",
+   "country": "CN",
+   "published": "2026-10-28T05:14:16.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "외교부 장관 \"북한 국군포로 2명 한국 송환 위해 우크라이나 정보 유출로 한국 외교관 8명 철수\""
+  },
+  {
+   "id": "张长兴烈士遗骸找到了",
+   "title": "张长兴烈士遗骸找到了",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjJIeDFYNHBqQ3RqNWFlM0o2N0t5eHdwbWd2ZHh2Qmo2TXdFT0trSVA5aWRQWTAzQjNnS2Q4SEhaay1pYXRXT0ZMVlRPSVF5dHVwMzQ0S1hJMWtRTmlfWlphUWwzazFSUzgtTjFyQnFNVkxrbjlQX3J5V20tM2tJYU44VlVqMU4z?oc=5",
+   "source": "搜狐网",
+   "country": "CN",
+   "published": "2026-10-28T05:11:21.000Z",
+   "fields": [],
+   "summary": "장창싱(張長興) 순교자 유해가 발견됐다"
+  },
+  {
+   "id": "кимченынпризвалармиюкндркпостояннойготовности",
+   "title": "Ким Чен Ын призвал армию КНДР к постоянной готовности",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVFlZk0wMWNMN1VEaXNyMDg5UXZXX1dZR25rVktTcUNwQzRNQ3JqZGoza0czanU0eEo2SFlVZHdqMERISDRuMERQSFYxUjZFRk9keWpxeGI5OF9VSGNfRjhocy1WdzNzcUlCeGlSTl80eFR0cTZVMTRHRlhPTUdUbmhFVWdjOERUMXV1RGtjNU8?oc=5",
+   "source": "Общественная служба новостей",
+   "country": "RU",
+   "published": "2026-10-28T05:08:36.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은 위원장, 북한군에 항시 준비 촉구"
+  },
+  {
+   "id": "俄罗斯要求遣返2名朝军俘虏",
+   "title": "俄罗斯要求遣返2名朝军俘虏",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzBPWU1YU2FtT0dkcVVHeWdJWE56ZHB2dkFEQWpuX2NWQ0VodmtkOE1jdXpnNktqSWxxbk9SUjc5ZG80RUF1TUtUeE9lYU9xSnZzVUJUVDZvUTZJQURiTVhGdHVKQzIxcV9tUHlWNEdWS2R6TUYySXYtTXI4VS1lZ3I4MzdEUS1jNHNsMlBtOVBxZWMycHJPckhJMUl4ZTRT?oc=5",
+   "source": "朝鮮日報中文版",
+   "country": "CN",
+   "published": "2026-10-28T05:06:01.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "러시아, 북한군 포로 2명 송환 요구"
+  },
+  {
+   "id": "韩国人权委应将乌克兰的朝鲜战俘带回来",
+   "title": "韩国人权委：“应将乌克兰的朝鲜战俘带回来”",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbk1uTlQ0NXljSlltZTJRQllpR1lHNzJLX0JRVUtacnRDYUtsczRMTlZucDd3Qk1mdkJiVGhJRk5GYWtmbkJCdDZ5S3h4ZVhuVjRnb1ZadjAtVEpwSjk0MW5pUDRGeUdpN1VreGFYY0hVOEZhQm1TdWlreXJZakd3QW9vNG9ZeVlrbHBmREln?oc=5",
+   "source": "朝鮮日報中文版",
+   "country": "CN",
+   "published": "2026-10-28T05:05:59.000Z",
+   "fields": [
+    "humanRights"
+   ],
+   "summary": "인권위 “우크라이나 내 북한 포로 송환돼야”"
+  },
+  {
+   "id": "northkoreanteendefiesmothertojoinarmy",
+   "title": "North Korean teen defies mother to join army",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmhuTjdIeGVkckVkWkJGVTlDZzlxbTFyekM1MHlidkRKeDJMOVhWb0pVS2xXell3X3dpRVVWZ3l5VnhOSU1ySnREaTVXTjllLTNTM2xVMU9hazlqUUFMS1FCaGEtLVdqZWdnaHFscjFEZWZIZFlMS0c1WFNuazZrWld6R0dtSFM1Vld4UnFJd3N4RXdPS3lLMTk5UE03QWh5?oc=5",
+   "source": "데일리NK",
+   "country": "GB",
+   "published": "2026-10-28T05:05:48.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "엄마의 군대 입대를 거부한 북한 10대"
+  },
+  {
+   "id": "кимченынпризвалподдерживатьготовностьармииквойнепостояннымиучениями",
+   "title": "Ким Чен Ын призвал поддерживать готовность армии к войне постоянными учениями",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaldOOVowYkxubEtQRHd5NVo4NkxFaWtjWHJKQ2NPS2dKWV81S0N5cFB3LUxkX0w1THNxUXRsNzNZZWJkTy1LdlhkZDB6WDZDMXhxTDlIOHdVMHpqdWxIdHJLUnFmbUtvREwzUk5MSmxNdVpqS2hkUDA4VHZkSUpyOHZjSTI3NnYtUHRfTWlhX2M1alQtTmRYUW5seWM4eW1GOEczQk5GTzRIbFRhdF81RUpXeHNQckJoUnFDbnBBa21uRVB4Q3c?oc=5",
+   "source": "Росбалт",
+   "country": "RU",
+   "published": "2026-10-28T05:05:48.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은 위원장, 지속적인 훈련으로 전쟁 대비태세 유지 촉구"
+  },
+  {
+   "id": "northkoreadeploysolderhowitzerstofrontierafterthreateningnewstrikemeans",
+   "title": "North Korea Deploys Older Howitzers to Frontier After Threatening New Strike Means",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT01xU2N6UHVrdTk3WThPVldLMXB4c0hlRzk5NEVXVkhJc3ZDMTQ3U0xKaEpxcmp6YWlXSF84NkZFekZsay1POTlwcE96eTJmeGhaN1RXbUpjdVBJY2g3UGpTdkJpMkRpMURjcGNnZmI2cS1MQXBSTE1MX1JBWkM5TUV5X1VsWXo0Sy1hcWdlRm4yeW1FY00zMkhrampxU0xDQkdaSV8xSQ?oc=5",
+   "source": "The SOFX Report",
+   "country": "GB",
+   "published": "2026-10-28T05:03:39.000Z",
+   "fields": [],
+   "summary": "북한, 새로운 타격 수단 위협한 후 구형 곡사포를 국경에 배치"
+  },
+  {
+   "id": "northkoreascreensyoungsinglewomenforfactoryjobsinchina",
+   "title": "North Korea screens young single women for factory jobs in China",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdklEdzMyZVRac01MT0MyN2xSWWZqbEpRQ0k5cDZxSGdVWWt3dGJfaXJFNGF2OFNhTkpkV001bVJyQlpGcXFCbEc5WjRyY21YRTR0bUNiTUZHNDNSTmRnRDZXd1NvNWxzR2MySVdubFhFOEc2bEd2X0ctTXZMb2o5ZWs2bWdtSHNFcjdfVmFCYmhZUUhQU3pUR0Ntd3RFZw?oc=5",
+   "source": "데일리NK",
+   "country": "GB",
+   "published": "2026-10-28T05:03:03.000Z",
+   "fields": [
+    "women",
+    "youth"
+   ],
+   "summary": "북한, 중국 공장 취업에 젊은 미혼 여성을 선별하다"
+  },
+  {
+   "id": "北朝鮮の大砲を眺めるスタバ韓国で話題も真偽は",
+   "title": "「北朝鮮の大砲を眺めるスタバ」韓国で話題も真偽は？",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GM01rRkhaa0x2RGFvNTBwR2V0dFdPdC1VblNYZ1k4dUhVRWcyMkdyd3YwQ09sTGswTktCdklNLUt2cmpqU0V5aUNlNlFONGJUb2R1NFAzaTVIZU9xTE5R?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "country": "JP",
+   "published": "2026-10-28T04:54:12.000Z",
+   "fields": [],
+   "summary": "'북한의 대포를 바라보는 스타버' 한국에서 화제도 진위는?"
+  },
+  {
+   "id": "北朝鮮の指導者は軍に対し戦闘準備態勢の強化を命じた",
+   "title": "北朝鮮の指導者は軍に対し、戦闘準備態勢の強化を命じた。",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzJNb2VaUF9FSFJzU28xVWZ4Z1BjcEx3Q1RiUmxvZFlTaUlKcVBBcG9KRXhQMUVYS0Rtc0FnY2pMbU42R0FZc3MxRmwwWU8tWFVsbkxCNHJCcmxtNlNVZGVHT3J2VVpLWjdONGdFc1cwQzgxeTJ5S0F0UzdDNW94d3ctTUJRS0pyX2hHRF92d3VZV0lkeGkzeUhoM3FfWmZBbUZn?oc=5",
+   "source": "Vietnam.vn",
+   "country": "JP",
+   "published": "2026-10-28T04:51:49.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한의 지도자는 군에 대해 전투 준비 태세 강화를 명령했다."
+  },
+  {
+   "id": "почемукореяотозваладипломатовсукраиныпоследниеновости",
+   "title": "Почему Корея отозвала дипломатов с Украины — последние новости",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcXdTZEF5MGJGY0ZnUm8tTGJsVHRIb0otOFBqX2JVbkRWMkxrWkl4RmtZaGhUU1Nmc3JLOHVMYWVTVzN2Ym1lSXY1VTlINmh1WW5GWDlTbjBzSmh2VExYalpXRGZlcFhnRDM0Z3lmMlF0eUIxSTBDUXY2Z3d2U2xrbjRtbEVmZ1gwQjVnUjJtMA?oc=5",
+   "source": "Газета Metro Москва",
+   "country": "RU",
+   "published": "2026-10-28T04:48:56.000Z",
+   "fields": [],
+   "summary": "한국이 우크라이나 외교관을 소환한 이유 - 최신 뉴스"
+  },
+  {
+   "id": "金正恩氏が訪中友好継承習指導部歓待国境で会談",
+   "title": "金正恩氏が訪中「友好継承」 習指導部歓待、国境で会談",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96REtEMzY3T3d6ajA2MnNJZTh4aEhXa2YySDYwV3J4NkNwZHFBbW1TcG5Sa2RXWU9KZzNTUGE4RDBlM0F5LVB2Y0Y5TkMzVUFhblRSRnljX2hsb1FuR3VrTGRlLVlJX2N5eklGRUpTSXJUN1B2RFQw?oc=5",
+   "source": "山陽新聞",
+   "country": "JP",
+   "published": "2026-10-28T04:47:18.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은씨가 방중 “우호 계승” 습지도부 환대, 국경에서 회담"
+  },
+  {
+   "id": "hundredsoftrucksspottedatnorthkoreancustomsafternewbridgeopens",
+   "title": "Hundreds of Trucks Spotted at North Korean Customs After New Bridge Opens",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYUJvVG0wZUQwWk9VVGl0MlJZbUNOVFJiOXotUGtkaEFzejRFWWNtSU91NFpZZVE4QWNGcWw5eU5xQ3MzZGkzR0ZtRG14dlpiSllhTG03Z0NXTDNVcXJoV011WXJuNVR2UUQ0XzhTUEJubEhfbEFVOEx6ZWxoODMyZ3BPOTh2N0RuQ0NYMi0taHA5UmM2N0pEX3ZpSTNUMzlI?oc=5",
+   "source": "Seoul Economic Daily",
+   "country": "GB",
+   "published": "2026-10-28T04:46:50.000Z",
+   "fields": [],
+   "summary": "새 다리 개통 후 북한 세관에서 수백 대의 트럭 발견"
+  },
+  {
+   "id": "金正恩委員長中隊長大会の参加者と記念撮影戦闘準備の完成指示中央日報日本語版",
+   "title": "金正恩委員長、中隊長大会の参加者と記念撮影…「戦闘準備の完成」指示（中央日報日本語版）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nVmhFaDVoVURjZlZXQWxJb2E1VVJpMmxQT3VhYWV3c21yR1JRYWdCRjlmR0pzdHpzRlBCbVY2UHlpWk1ZWVNEcVp5MnE4RXdfWU1tVGoxOU9PdEk5RE80S0N4d3FISi16aTFHMG1tVnJ4UDJZX0VCcWticTl2V3c?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-10-28T04:42:44.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 위원장, 중대장대회 참가자들과 기념 촬영… '전투 준비 완성' 지시(중앙일보 일본어판)"
+  },
+  {
+   "id": "金正恩委員長中隊長大会の参加者と記念撮影戦闘準備の完成指示",
+   "title": "金正恩委員長、中隊長大会の参加者と記念撮影…「戦闘準備の完成」指示",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkF0NXFMYS1UZFFkWUhuZTRCM3VqOGVsWWZ3ZHdvWDhTMHFEUlM0Wk9sNkx5b0tCVVBrUm1QVjN0Y3gxNkEzdlVHU1lmbXZSamJpbWJaOTNOeXlrSlpYb1EtaFlWNzV6Nl9kR0JCVmk5SUdxLU8yRWlHX2FpV2RYZ3ZaRWNVSFBVdUszWdIBjAFBVV95cUxNQkF0NXFMYS1UZFFkWUhuZTRCM3VqOGVsWWZ3ZHdvWDhTMHFEUlM0Wk9sNkx5b0tCVVBrUm1QVjN0Y3gxNkEzdlVHU1lmbXZSamJpbWJaOTNOeXlrSlpYb1EtaFlWNzV6Nl9kR0JCVmk5SUdxLU8yRWlHX2FpV2RYZ3ZaRWNVSFBVdUszWQ?oc=5",
+   "source": "ｄメニューニュース",
+   "country": "JP",
+   "published": "2026-10-28T04:41:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 위원장, 중대장 대회 참가자들과 기념 촬영… '전투 준비 완성' 지시"
+  },
+  {
+   "id": "pppslamsdefenseministeroverremarksontrustingusforcesineventofwarwithnkorea",
+   "title": "PPP slams defense minister over remarks on trusting U.S. forces in event of war with N. Korea",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LeGFHaGFEQUN1anF0ZlpoVldsQkZSUm1GbXk4enh2aG5fb295S0xmQWxGTi03aEVhQnJlUHVpaGh1UXhVWjlBRHdmbTI5ejdDbGdsSUhubElMdw?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "GB",
+   "published": "2026-10-28T04:37:32.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "PPP, 북 전쟁시 미군 신뢰 발언한 국방부 장관 비난"
+  },
+  {
+   "id": "南北境界地域で北朝鮮軍が自走砲訓練",
+   "title": "南北境界地域で北朝鮮軍が自走砲訓練",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XWmE5UHlHVXQzSnlMb00yel9wZTBiM2Ntb2lReXZKRlM1LUtmQlpvR1NtakN5UlJRWnRBSlhxaDZJemx4NWJqRmZyb0Q5VGRVWTlhdGFrV2EtMGlSZmFVeVdDWjVtNnFReEF0QmVEaEVVYXhRY3c?oc=5",
+   "source": "聯合ニュース",
+   "country": "JP",
+   "published": "2026-10-28T04:32:04.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "남북경계지역에서 북한군이 자주포 훈련"
+  },
+  {
+   "id": "axisofaggressorshowfourusadversariesstrengtheneachother",
+   "title": "Axis of Aggressors: How Four U.S. Adversaries Strengthen Each Other",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FbXREb3pHVHk1YXRJQTMxVF84WFR2am5HUVNFaXp3bUNkTll0eE02aHdpaUJaa2x0X1FlR3lrbURIWF9xUGl4a2F4M3pZNXBfc1I2SlRjSFFoWXFMdDFZWDhGa0Q0NjNYTGpXN2J6SWdyanlnQzVibC1R?oc=5",
+   "source": "The Fulcrum",
+   "country": "GB",
+   "published": "2026-10-28T04:30:00.000Z",
+   "fields": [],
+   "summary": "침략자의 축: 미국의 4개 적국이 어떻게 서로를 강화하는가"
+  },
+  {
    "id": "北朝鮮金正恩総書記の電撃訪中米朝対話へ事前調整の可能性韓国研究機関が分析",
    "title": "北朝鮮・金正恩総書記の電撃訪中、米朝対話へ事前調整の可能性…韓国研究機関が分析",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Xb01mRlZxb3VKZmd5R19nMzU4Vm1SLWxzWDNYOHhYZUZacjVIWXhvdTRIU2tCcllJZFNpMjFLRndkZ0ZLTzMwZ2JuSzdsczJtNmstSVBXbk51YlV6bGVmd01yLWpYLXByT0xFTC1nSzVTQdIBVEFVX3lxTFB1Zjh0TURsQjZ6NE9xdENVTHJaX1BwM3Jla3YwdlZLNGkyNWtSckpNSmQwUFBldDJ4aVJ4MUtvT0xUNS1IclBabGN4SHB4NlhOR2NGdg?oc=5",
@@ -26,6 +801,26 @@
    "summary": "북한·최선희 외상, 신가모 녹강대교에서 고급가방인가… 제재 이행 순회 주목"
   },
   {
+   "id": "山口宇部市の長生炭鉱遺骨韓国市民団体北朝鮮にもdna鑑定の協力要請西日本新聞me",
+   "title": "山口・宇部市の長生炭鉱遺骨 韓国市民団体、北朝鮮にもDNA鑑定の協力要請（西日本新聞me）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12RXd4dV9VOG1HQmRLMlZMbklkcGRFMnBFemFEX3V5c3JxVFdnRFZpMlVpYWk3akhhUG1lMER1MENtSk5MV015Skp1aFlMNll1WEwtNHN2TDJnd2txM0xDcFhpY1ZnYlpRT1gtZkpoLXJZWmtHRHhSM2FZUTF5NTA?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-10-28T04:17:34.000Z",
+   "fields": [],
+   "summary": "야마구치·우베시의 장생 탄광 유골 한국 시민 단체, 북한에도 DNA 감정의 협력 요청(서일본 신문 me)"
+  },
+  {
+   "id": "smugglingbandrivesnorthkoreanunitstocheapchinesework",
+   "title": "Smuggling ban drives North Korean units to cheap Chinese work",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2Y3LW8xN2JaeHpSbVc2M3hiak1BVXIwLVNNbnYyU0J5TkJOYjU1emI5Q09iTWthUTlYNVY1Vk1xMzZyOVhZMWdOR2RPWDJ5RnNIMXVPTmRPUG9oOUtXWUN1UDBkSnZRVjVBVElOYS1xd2Y5TWwxNktkWVBKekRVa3k1N2dtNTVRNWtvcUotc1NVcExDV3JQQw?oc=5",
+   "source": "데일리NK",
+   "country": "GB",
+   "published": "2026-10-28T04:08:12.000Z",
+   "fields": [],
+   "summary": "밀수 금지로 인해 북한 부대가 값싼 중국 작업에 투입"
+  },
+  {
    "id": "韩国防长提出疑美论美军连打伊朗都打成这样真跟朝鲜开战还靠得住吗",
    "title": "韩国防长提出疑美论：美军连打伊朗都打成这样 真跟朝鲜开战还靠得住吗？",
    "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQVmpoMV9zWXV2SHFfM1JMUmF1dHFMaS16cWVYYlJjb3VaYUhJbkt0bGltMDZQWTlVcGtqeFVydTZNdlRmRDhrRUFTSE9HN2pkMkY3ZFFOVjRGMzJJajhjWUxkVHV0NjRQVDdiRTVLSjhZZWpEY29SbEdLdTdrcEVFV1ZwV1RndnlwY0U4WU5SS3NEbVE1TnJZcnNoeV9jRk56TlhuNllyenBvMUF4aFZyVURTalhwYWwtZmM1eXM1MmZzRjdLSmJ3dUMtd0ZDMWVZZ0NnMWVMaDQwTWMxU3h2a3VLM25FaVh3Yng3cC1ySVZPNF9ERFk2WEpkdERrbnhvSHkwQkRCR3VJRTFqeEhyQ2YyWEJfNnlsU0JUWVRPaDlIQVMzenRld3U5Z0MzeXhVWkdNTjR2eG1ZX25DeUdJeTBuN1JCbkp1el82aWl4UzdCZFNFa2RXZ3ZVdw?oc=5",
@@ -36,6 +831,18 @@
     "security"
    ],
    "summary": "한국 국방부 장관은 미국에 대한 의구심을 제기했다. 미군은 이란과도 이렇게 싸웠다. 북한과 전쟁을 시작하는 것이 정말 믿을만한 일인가?"
+  },
+  {
+   "id": "koreatensionsriseasnorthkoreanartillerybarrelspointsouthneardmz",
+   "title": "Korea tensions rise as North Korean artillery barrels point south near DMZ",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMG15RE96MHM4d2VHWjBDSUpjSlBYS2tDbGFGcml4NzRva0dzRTZUSXQ2Yk85LVpRTlNaZlFBTnlPRV9TbVdxMW9XMkdwTWVJQ3AxZmtXTFhJd1hITGRfN3BfNzRqRXZaNnhYTlFNcGJEcUprTVZHbmZUaWNSMGlsaXRNWktob2VoUnktUU1NR3A0a0lVZDdrdEpvSmJqcU91WV96alZTdFgyUnZBQUxhWUpVc1Jsc2RkcElYV1RLLU5WT1hra0VGYktkdlVLZ2M?oc=5",
+   "source": "Mid-Day",
+   "country": "GB",
+   "published": "2026-10-28T03:55:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한의 포탄이 DMZ 근처 남쪽을 향하면서 한국의 긴장이 고조되고 있습니다."
   },
   {
    "id": "北朝鮮金正恩総書記の電撃訪中米朝対話へ事前調整の可能性韓国研究機関が分析koreawave",
@@ -50,6 +857,18 @@
    "summary": "북한·김정은 총서기 전격 방중, 북-미 대화에 사전조정 가능성… 한국연구기관 분석(KOREA WAVE)"
   },
   {
+   "id": "北朝鮮崔善姫外相新鴨緑江大橋で高級バッグか制裁履行巡り注目koreawave",
+   "title": "北朝鮮・崔善姫外相、新鴨緑江大橋で高級バッグか…制裁履行巡り注目（KOREA WAVE）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90MC1HZ1NObmYwQ2loVy0yR0lPMzBpZXdTZFV5OFU5ZmJXd2hlTTdROTJqbFhmY040c3JfUDNZUkY1ZW16YkFTYnYyRXFsX3VNZTdlWUhsQ0xFbmZXeWNJN3VYMXJIRDJRQzZ4alVwZ0hpUTlMNHVCbnhWWkQzdzg?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-10-28T03:42:16.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한·최선희 외상, 신가모 녹강대교에서 고급가방인가…제재 이행 순회 주목(KOREA WAVE)"
+  },
+  {
    "id": "韩国外长亲口确认乌克兰泄露了移交2名朝鲜战俘的事韩国不得不从乌克兰撤走8名外交人员但援乌立场还是没变",
    "title": "韩国外长亲口确认：乌克兰泄露了移交2名朝鲜战俘的事，韩国不得不从乌克兰撤走8名外交人员，但援乌立场还是没变",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXo4VWt2Z0ptTDJPRkdCbHUzQjI0VVB1VmF3VGc2T0VZSl9BTVdqR1YydDVGNlVOLXYtMWRUbE0taEtoZ0Y0UGdVaUI5UGZBWmNrTzFia2ppWDdnUXFaWlRXV29UZDJ0Ri1QNUhqcWFfaVNUaktlMDZTOFp4bVdXTXFQRHNfZ2xZZDBKUw?oc=5",
@@ -60,6 +879,16 @@
     "politics"
    ],
    "summary": "우리 외교부 장관은 우크라이나가 북한군 포로 2명의 이송 정보를 유출해 한국이 우크라이나에서 외교관 8명을 철수해야 했지만 우크라이나를 지원하겠다는 입장에는 변함이 없다고 직접 확인했다."
+  },
+  {
+   "id": "窓の外に122自走砲がクッキリ北朝鮮が見えるスタバで撮られた写真の真相は11",
+   "title": "窓の外に122㎜自走砲がクッキリ？ 「北朝鮮が見えるスタバ」で撮られた写真の真相は(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yN1EtQURCNjA2NzJZWXBwVEpfemk0TVEtZE5Xa3lNS29XMThwTzNiTkVUbGhmZ01iSGZVSE1JbTQ2djM0WEZ0clJGU3lXZXR1aWRXay1JQ3hxUFc3RGlvZ1FKRlUyRUs2ZjZsU2hZdjdnY3YwZVZN?oc=5",
+   "source": "朝鮮日報",
+   "country": "JP",
+   "published": "2026-10-28T03:29:27.000Z",
+   "fields": [],
+   "summary": "창 밖에 122㎜ 자주포가 깨끗이? '북한이 보이는 스타버'로 찍힌 사진의 진상은(1/1)"
   },
   {
    "id": "кимченынпризвалповыситьбоеготовностьармиикндр",
@@ -177,6 +1006,16 @@
    "summary": "창 밖에 122㎜ 자주포가 깨끗이? 「북한이 보이는 스타바」로 찍힌 사진의 진상은(조선일보 일본어판)"
   },
   {
+   "id": "窓の外に122自走砲がクッキリ北朝鮮が見えるスタバで撮られた写真の真相は",
+   "title": "窓の外に122㎜自走砲がクッキリ？　「北朝鮮が見えるスタバ」で撮られた写真の真相は",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzBjSWNCSkRMX1ZQWWFtTkEyLVFxdG9GTFdtbDJMbWdxV0wxUWN2QXFHMUZfMEJEUkR6bkVlcXlPSkJGLXJlMkV3ZEgzNG9BNEFSejNxQmJNYk1tVkdYbHNVbUZjbnN2MFczSC1YRUJ2Q1dxd1Iybm0yT3JwN0xtZGpDTdIBfEFVX3lxTE95cUFBa0RPbWlOZThKb0d1TkdaWXRJVE5SRXZqMXBfd2hldzVfU3R3U1lRVUdlOVd6d2NhZUdfQ2JWYjI5MDJtVERVT2NOOXhaNmkzZWM4OElTaGNhREJ0dENGeUlWY2g1M283ZmZxdVc5WTlJQ0pVSTdnWnE?oc=5",
+   "source": "朝鮮日報",
+   "country": "JP",
+   "published": "2026-10-28T02:25:00.000Z",
+   "fields": [],
+   "summary": "창 밖에 122㎜ 자주포가 깨끗이? \"북한이 보이는 스타버\"로 찍힌 사진의 진상은"
+  },
+  {
    "id": "金正恩委員長の初の核実験で創設されたグアムthaad部隊正規大隊に再編中国のミサイルも迎撃1",
    "title": "金正恩委員長の初の核実験で創設された「グアムTHAAD部隊」、正規大隊に再編…中国のミサイルも迎撃（1）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNVNqbVhOZEgweDJWcUp4XzM1ckdCTG5GTVdHSWNlSXBBcDlnQl9rOTZDdnNITlRLdkp6cHZ0bUNfZ1dDU0k3MWVteUVfNVRSS2pmRWJRYVB0NExhTF84Mi1IWTVJTXZHTHY3ay1EeGpmZ2NWZ05PTGZlNnBxSXc?oc=5",
@@ -287,6 +1126,16 @@
    "summary": "정동영, '쾌락단' 환대와 북한 딸에 대한 거짓 주장으로 전 국정원 직원이자 영화감독을 형사고발"
   },
   {
+   "id": "寒い朝ソウルの一部で氷点下に",
+   "title": "寒い朝 ソウルの一部で氷点下に",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56RC1MWkNoVVc2ZnA2ejVpTU4yVS1QQ2ZXQjRwSHl2Qms1Rlg5dmVPc2ZZZXlaRDk4bERzbjUxNEphcEp5Z2gwNzFqWTFaQXA2WDFCdUZRcU05enlQMlZRQVBqcXAwR1VKVldkRnNuWEE5U2JPVHc?oc=5",
+   "source": "聯合ニュース",
+   "country": "JP",
+   "published": "2026-10-28T01:33:09.000Z",
+   "fields": [],
+   "summary": "추운 아침 서울의 일부에서 빙점 아래"
+  },
+  {
    "id": "whatitwilltaketomakeausnorthkoreasummithappen",
    "title": "What It Will Take to Make a US–North Korea Summit Happen",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSUhYaGlEOXR3T1hvbnN0LVJndWJyXzhZU2syOWlCY19KRVJIMi1iN1NabjRhZFlkeWpWUnBCZF9GTFVZTE9qNXNqcTJ1NjFtNHhiRzVWbzVyYmlHQzVNQzhUa3F3ZkUzbUQzajhRYXVKaGtHb3NqcWVNRWVScjNlT3lPT1lxZnMyVDJEMHBmY25iTTZX?oc=5",
@@ -310,6 +1159,31 @@
     "security"
    ],
    "summary": "김정은, 북한군에 전쟁준비 촉구"
+  },
+  {
+   "id": "国連委核兵器廃絶を目指す決議案を採択33年連続",
+   "title": "国連委、核兵器廃絶を目指す決議案を採択 33年連続",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9weDJXVm9jUGppVjY1T0ZOdVhLSG5yN2JlUkxwS2hhUnU5MjgzbklIdkZ0NjlBUzVOQlB1VW1VS0RScWxPcW1lTmp1ZnFlRkpyYmJsRmp5bV9EZ3NIRUZTSVo4YkVLbnNkTVUzVWl3?oc=5",
+   "source": "au Webポータル",
+   "country": "JP",
+   "published": "2026-10-28T01:25:24.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "유엔위, 핵무기 폐절을 목표로 하는 결의안을 채택 33년 연속"
+  },
+  {
+   "id": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
+   "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SZzRhczVWZVJsNzgwel96eDJ0ZGZIaklfb2V3M0RkdlktNzN0RW5qQWhEVWNVZXZKWmN5WmVHNFpzOElIWVd0TldYQjhiazBIQk13ekdvdHhTVGc2bk9BdA?oc=5",
+   "source": "四川统一战线",
+   "country": "CN",
+   "published": "2026-10-28T01:24:59.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "왕후닝, 단둥 방문에 김정은 북한 국무위원장과 동행"
   },
   {
    "id": "国連委核兵器廃絶を目指す決議案を採択33年連続日テレnewsnnn",
@@ -384,6 +1258,16 @@
    "summary": "북한이 군사 경계선 부근에 류탄포, 남북의 긴장 높아진다 한국 귀환병 「위기의 현실미를 통감」"
   },
   {
+   "id": "明治41年の野口遵国立国会図書館デジタルコレクション日本窒素事業概要から",
+   "title": "明治41年の野口遵＝国立国会図書館デジタルコレクション「日本窒素事業概要」から",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXB4c05SYTZlM0t1MmViSWR3YkEya1g3S1padFRGUE4tamFBMHNRcDBxYTZ3U05heVpGbkdCMEFwdTBzUVhNbGZ6TnRYeDBTcWdIb29wSHpxZS11YXJkbUNONVZlekJEZjZRemQ1aDE1d05fTTBqLWt5bC1zS3QtaWFiMHB3Tnl5OW1kZ2d6WVlBQURvNElKQk5ZY0JEeFRmS2c?oc=5",
+   "source": "産経ニュース",
+   "country": "JP",
+   "published": "2026-10-28T01:00:00.000Z",
+   "fields": [],
+   "summary": "메이지 41년의 노구치 준=국립 국회 도서관 디지털 컬렉션 “일본 질소 사업 개요”로부터"
+  },
+  {
    "id": "eighthunitedstatesarmyeusacommandernorthkoreantroopsreturnhomeaftergainingexperi",
    "title": "Eighth United States Army (EUSA) commander: “North Korean troops return home after gaining experience in modern warfare in Ukraine”",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uV2tCOHkyNnVCQ0NKSEFmWWczTFYtZ0prX2RlRW1iOTh4UFF6bGxBRTNnRUtJemx3X0htVjVleEwzQ2VzTDhTVkpaaFVSX1JvRjZ3UjJWTTk?oc=5",
@@ -394,6 +1278,16 @@
     "security"
    ],
    "summary": "미 8군(EUSA) 사령관 \"북한군, 우크라이나에서 현대전 경험 쌓고 귀국\""
+  },
+  {
+   "id": "ウクライナ南部で局地的に停戦人道支援物資運ぶためトランプ大統領夫人が仲介",
+   "title": "ウクライナ南部で局地的に停戦 人道支援物資運ぶため トランプ大統領夫人が仲介",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDhKbFZqVkdtNldoZEdhWmR6clJZaExUanVqREs2b1NUQlhyS0FjMC1iNWZ1Ym9jd0dGemROOGVmaTI3S3RnS0M2WVBqRnhZemROTFdLb3ZFaDJpazFSVmI1OWNGUFNKaHE2RmNxbkNpZkJCYklRakZjWW1yMFg2RGdxSGtCLU9IZE1IdXU4d1k2Vk1RUHFvLU9xNTUwQUdwT1BkSEQ5S1dGb3ZodkY5Vkk2aEM?oc=5",
+   "source": "ABEMA",
+   "country": "JP",
+   "published": "2026-10-28T00:52:04.000Z",
+   "fields": [],
+   "summary": "우크라이나 남부에서 국지적으로 정전 인도 지원 물자 운반하기 위해 트럼프 대통령 부인이 중개"
   },
   {
    "id": "拉致被害者の曽我ひとみさんが講演1分1秒でも早く救出を",
@@ -439,6 +1333,31 @@
    "published": "2026-10-28T00:44:00.000Z",
    "fields": [],
    "summary": "\"이게 진짜라고?\"…북한 자주포 보인다는 스타벅스 사진의 비밀 [지금이뉴스]"
+  },
+  {
+   "id": "韓国軍北朝鮮が国境で発射した砲兵は新しい武器ではないと主張",
+   "title": "韓国軍、北朝鮮が国境で発射した砲兵は新しい武器ではないと主張",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Pd2hRampyemNEMGdoYTM0OF95clBWakZfUXg2NGs0ZVpyeUhHQWVNWURKMlZXbWI4N1VhWWQ4bk1wd9IBQkFVX3lxTE1Pd2hRampyemNEMGdoYTM0OF95clBWakZfUXg2NGs0ZVpyeUhHQWVNWURKMlZXbWI4N1VhWWQ4bk1wdw?oc=5",
+   "source": "VOI.ID",
+   "country": "JP",
+   "published": "2026-10-28T00:40:05.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "한국군, 북한이 국경에서 발사한 포병은 새로운 무기가 아니라고 주장"
+  },
+  {
+   "id": "联合国委员会支持日本核裁军决议日本时报",
+   "title": "联合国委员会支持日本核裁军决议——《日本时报》",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2VBQjU5TVJ2OW5NczdPMXFSTEFSNEZ2cms4d1RoOWpiWExmdlRZbkttQUpVeWJnQ092OFJLc290WlpubV84c3VTZl9KSmtHUkRYR1JMdUV0X3BZUWY2SXRfOUZHc1k5d1RGTDc2YmttMVB3MUNCRWU4emFSWDkySWZwbGVLeVlUaHFfb1BpNjZOS21DV1JySUUtZHd4Z3dQVXp4cW12clNtNzNZaHhv?oc=5",
+   "source": "UA.NEWS",
+   "country": "CN",
+   "published": "2026-10-28T00:37:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "유엔위원회, 일본의 핵군축 결의안 지지 – The Japan Times"
   },
   {
    "id": "스벅커피마시며북한자주포직관사진은ai이미지였다머니투데이",
@@ -525,6 +1444,18 @@
    "summary": "김정은, 중대장들에게 훈련강화, 전투태세 강화 촉구"
   },
   {
+   "id": "米第8軍司令官北朝鮮ウクライナ戦争で現代戦の経験を積んでいる",
+   "title": "米第8軍司令官「北朝鮮、ウクライナ戦争で現代戦の経験を積んでいる」",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVVVSTVBrbFlmUC1lMGxTd3dFWE5jaUFybHVwVUVJM29XYVhZVVVRUDRscWd1Q2tBNnNDMTB4YkN3Nnc4ZXc2SjNCWjZtclluaEhteElJNEZET3B0NUlTUjZ6WTMxY1Y2TUFMNEhKQ2pIUUNuOUNoWmJJaGVSNHNJZFRRRWFXWUNsTTZFQ9IBjAFBVV95cUxNVVVSTVBrbFlmUC1lMGxTd3dFWE5jaUFybHVwVUVJM29XYVhZVVVRUDRscWd1Q2tBNnNDMTB4YkN3Nnc4ZXc2SjNCWjZtclluaEhteElJNEZET3B0NUlTUjZ6WTMxY1Y2TUFMNEhKQ2pIUUNuOUNoWmJJaGVSNHNJZFRRRWFXWUNsTTZFQw?oc=5",
+   "source": "ｄメニューニュース",
+   "country": "JP",
+   "published": "2026-10-28T00:21:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "미 제8군 사령관 “북한 우크라이나 전쟁에서 현대전 경험을 쌓고 있다”"
+  },
+  {
    "id": "滑雪场迎接旺季",
    "title": "滑雪场迎接旺季",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXZ2VPc191ak5sR243cmZ1eGxLeDJ3a0tMUW8zTGE2dVpaWmUyc0R4TWROOHZfWWdTZXYwWDVYb1h2YU1mb3NIeEdGNG5wMEIwUUZwQTFCeTdmc25va2xKTEJqTXhZRE9TTXE2WU4waVBEUUFlQ1E?oc=5",
@@ -546,6 +1477,18 @@
     "security"
    ],
    "summary": "유엔위, 일본 제출의 핵폐절 결의안 채택=150개 국찬성, 33년 연속"
+  },
+  {
+   "id": "金正恩氏李強首相と会談日帰りで帰国の可能性",
+   "title": "金正恩氏 李強首相と会談 日帰りで帰国の可能性",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJbHg5d29NU3ptTklhTUNMdW9LanJFNWdIbko4RHZxa1JfM29qM0J2NDNmdjZ2OU1TUXU4RWlwMDg5NE5oOXp6R3F1S182a2tmRXM4VWpHQnI4Rk0?oc=5",
+   "source": "ABEMA",
+   "country": "JP",
+   "published": "2026-10-28T00:16:35.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 씨 이강 총리와 회담 당일치기로 귀국의 가능성"
   },
   {
    "id": "포토북한군철책작업",
@@ -690,6 +1633,30 @@
    "summary": "김정은, 제3차 중대장대회 참가자들과 기념사진‥\"만반의 임전태세\""
   },
   {
+   "id": "iconfessthatiamtornaboutthetransferofwartimeoperationalcontrolwhenpresidentrohmo",
+   "title": "I confess that I am torn about the transfer of wartime operational control. When President Roh Moo H..",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tWnJvT21ISFhXZEJFRFVzV1dJYm5EZXhlRVZuWU1fOWZUNWdUdnlBbmlaQXJFVUpreVVtRURfY1VNd2sydl96QUJXc3ZHWVFYWW1mQmJB?oc=5",
+   "source": "매일경제",
+   "country": "GB",
+   "published": "2026-10-27T23:44:33.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "전시작전통제권 전환 문제로 가슴이 뭉클함을 고백합니다. 노무현 대통령 때.."
+  },
+  {
+   "id": "金正恩新開通した北朝鮮中国連絡橋で丹東を訪問",
+   "title": "金正恩、新開通した北朝鮮・ 中国連絡橋で丹東を訪問",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4zdmJOVTJBTHBpYUd4UC1lN0hmbHJ2R0FIMFhmdnlxSWpSUGJBMTJlTWFxNGx0Wm56VEVlZWdOQkNSUUU?oc=5",
+   "source": "VOI.ID",
+   "country": "JP",
+   "published": "2026-10-27T23:35:44.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은, 신개통한 북한·중국 연락교에서 단동을 방문"
+  },
+  {
    "id": "북한군사행동에높아진한반도긴장군사적억지력과위기관리함께가야",
    "title": "북한 군사행동에 높아진 한반도 긴장…군사적 억지력과 위기관리 함께 가야",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02TTlsdzR3UGw0bENqUHM4VUZDYjFBT3ZwdjhDVWkwcUxqaFhkWHNYbU9kenNteXNBUkt0cl9WSktsaVBTTmg3UVBUamFFZ1dkZi1RdWNtbnllX0FZUXU2NlV2SGhEN0YydURuNg?oc=5",
@@ -825,6 +1792,18 @@
    "published": "2026-10-27T22:52:00.000Z",
    "fields": [],
    "summary": "“북 자주포 보러” 접경지 북적…‘서툰 무력시위’ 노림수는?"
+  },
+  {
+   "id": "northkoreaissuesnewtacticasgunsarepointedtowardstheborderwithachillingmessagetot",
+   "title": "North Korea issues new tactic as guns are pointed towards the border with a chilling message to the US",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMVFnZFR1M0lQZ2tIYkU1WnJoa3ZHNnNteHRzMUJmVzhMN3l6R2NzakF6dnV0S1pMeGxQcExXenAzYkdQektkYkRhNk94MmRrR0RBRWdoMm9zRWR5dERPOEhnUmNrTEJCTms5THRraUJjZ05Pd3BLeFI2eDRVVDNnSDFXX2ZyMVktYVNUMXdDcmtPV3UxcFUwb1RwRU1uUGlaNlE1bw?oc=5",
+   "source": "UNILAD",
+   "country": "GB",
+   "published": "2026-10-27T22:48:49.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 미국에 소름 끼치는 메시지와 함께 총구가 국경을 향해 겨누자 새로운 전술 발표"
   },
   {
    "id": "northkoreansoldiersrightinfrontofmesoscarybutitturnsout",
@@ -1011,6 +1990,18 @@
    "summary": "북한 연계 라자루스, 양자 해킹 공격 개시"
   },
   {
+   "id": "统一部长官郑东泳称地雷为防御性武器朝野在国政监查中展开激烈交锋政治财经日报",
+   "title": "统一部长官郑东泳称地雷为防御性武器，朝野在国政监查中展开激烈交锋: 政治 : 财经日报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMGFsRmFhdWpXSXNoX0YxOERsOVNjLVlJczJOdmxSbk04ekk0d2RmaDllb01oTTRsYU84eTQ3eTRydUVuamtkMXZGWmVuLS1qazh3eVI1NmJDSmszZ2tRMW1B?oc=5",
+   "source": "재경일보",
+   "country": "CN",
+   "published": "2026-10-27T21:55:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "정동영 통일부 장관, 지뢰는 방어무기라 국정감사서 대북 격렬하게 대치 - 정치 : 경제일보"
+  },
+  {
    "id": "북한날씨전지역맑다가밤부터구름서해상주의경보",
    "title": "[북한날씨] 전지역 맑다가 밤부터 구름…서해상 '주의경보'",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jUTAteVg1dDdEUEhSckNnTW9jeWNETTZkMUFxZm00TmRoV2VVZ2s2Y1ZpTG1Vem1CYlFvZ3ZPUkRLSUU5azVLblk2VHE5MzBSdkhhUGxxZ1R5X2tHTE9TMtIBYEFVX3lxTE1jUTAteVg1dDdEUEhSckNnTW9jeWNETTZkMUFxZm00TmRoV2VVZ2s2Y1ZpTG1Vem1CYlFvZ3ZPUkRLSUU5azVLblk2VHE5MzBSdkhhUGxxZ1R5X2tHTE9TMg?oc=5",
@@ -1019,6 +2010,18 @@
    "published": "2026-10-27T21:52:51.000Z",
    "fields": [],
    "summary": "[북한날씨] 전지역 맑다가 밤부터 구름…서해상 '주의경보'"
+  },
+  {
+   "id": "カンシンチョル国防相北朝鮮との有事の際米軍を信じられるか戦時作戦統制権の慎重論を反論",
+   "title": "カン・シンチョル国防相「北朝鮮との有事の際、米軍を信じられるか」…戦時作戦統制権の慎重論を反論",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yaHlucUYyaTZXbXNsVmMzU0kwZmIxWkM1MkhrSEd0Wm9GS3k1X2RhS3QyVWJVMXBkaU1POXlscGdpSWN5UEhFdG1KMHY3R2NWTVZMLUc1VTJ2cGhpX0JFZkRxVQ?oc=5",
+   "source": "재경일보",
+   "country": "JP",
+   "published": "2026-10-27T21:50:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "강신철 국방상 “북한과의 유사시 미군을 믿을 수 있을까”… 전시작전 통제권의 신중론을 반박"
   },
   {
    "id": "김정은중대장대회참가자와사진임전태세위한싸움준비완성",
@@ -1226,6 +2229,18 @@
    "summary": "북한, DMZ 남쪽 ‘자주포’ 배치…‘지뢰 폭발 사건’ 후 긴장 고조"
   },
   {
+   "id": "lawmakersurgesouthkoreanpresidenttoplaycallofdutymodernwarfare4aswakeupcalltosup",
+   "title": "Lawmakers urge South Korean president to play ‘Call of Duty: Modern Warfare 4’ as wake-up call to supposed North Korea threat",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSlZHSjlRdnA2anlfZTcwQWFrS2gtRkp0RTU5M3UtcjZNeVhWN2dpWVgzVWcyZ0VEMGMzblhSaTVGME1RZ0FHMFRqOUVNZ010OUtwUGluVzRCRnlQWk1kdGpCMVpBYVFXUVd0OE9VOXY0TGRPaUJhb0pXX1o5TlIxRUZ6dmNHT0F2MWs0dDZuU09PcXAwOW5JcFV6OTlWV1pKMDZWbXlKTEN5aEJSQ1VmY3ljQkJKUEpKZnBFa3RtSE5DRU5YUVpuTnA5eUdXWlU4eEd0REVCTF91Q3dPN1lrUjUxeDBWNjAzajR4Y2FB?oc=5",
+   "source": "We Got This Covered",
+   "country": "GB",
+   "published": "2026-10-27T21:15:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "국회의원들은 한국 대통령에게 북한의 위협에 대한 경각심을 불러일으키는 '콜 오브 듀티: 모던 워페어 4'를 플레이할 것을 촉구했다."
+  },
+  {
    "id": "foreignministerchohyunacknowledgedthattherearesomedifferencesofopinionbetweenthe",
    "title": "Foreign Minister Cho Hyun acknowledged that there are some differences of opinion between the two co..",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KOFhVcEk1bEJDTWo2aElXN3lvbFlDY2FpcnNyOUlYODZtS1JhdXJVR1JsU2ZudUNaaHRoTjRKSXBxZWlCS19OaTZyYnZUWWRMR2FR?oc=5",
@@ -1298,6 +2313,18 @@
    "summary": "미 입국 탈북 난민 5년째 ‘0’명 – RFA 자유아시아방송"
   },
   {
+   "id": "朝鲜时隔6天再次发动弹道导弹挑衅飞行超700公里",
+   "title": "朝鲜时隔6天再次发动弹道导弹挑衅…飞行超700公里",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdExsTUYtNDl5YjRBa2FnanV6eDFxcmhfbGNIaWFCVWFELVFLamNWek9BUXZmb2hIYlBtT0R2ZjVzWVc5WHYxTTh1bUx6TDFLYjRQb3l2NmNzYWdhWnFPRkNLZi1waEZMUXZ3WHEzdllPWUFwY21WQ05TUElsQzZWdlZ3QXQxQTQ0Nk93R29WZHlYMTFYUzYxSTdHLXNheWdv?oc=5",
+   "source": "朝鮮日報中文版",
+   "country": "CN",
+   "published": "2026-10-27T20:54:04.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북, 6일 만에 또 탄도미사일 도발…700㎞ 이상 비행"
+  },
+  {
    "id": "미전문가中북미대화중재시나리오가능성가장작아",
    "title": "미 전문가 \"中 북미대화 중재 시나리오, 가능성 가장 작아\"",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2MDVFNVNqUWVOVXV2Z0FObGVSV2VBOVVSOWpnY2lCNFBuUXZDUjB2a2g3YzYwaldQaXNKUklyVzNQSmFmWjFNQmY0dXRERXVIYlhqS1Qtbm1XWE95LVQ0YkNuU2FLdUk?oc=5",
@@ -1326,6 +2353,16 @@
    "published": "2026-10-27T20:38:29.000Z",
    "fields": [],
    "summary": "미국은 북한과 다시 대화해야 한다"
+  },
+  {
+   "id": "衝撃の初陣大勝北朝鮮女子が圧巻のゴールラッシュ異例の日本入国でアジア大会に登場いきなり強さを証明keldonjohnsonfsbxyumoyg",
+   "title": "【衝撃の初陣大勝】北朝鮮女子が圧巻のゴールラッシュ！異例の日本入国でアジア大会に登場、いきなり強さを証明 Keldon Johnson (FSBxYUmOYG)",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqVElXcGtlajAyb0NISG9PQ1YzaWlYcFNtZlRqNUJSYkxwVW82TVowYWR2LV9Za2VNNjFYdXJWd0lESVE4QnM4Vmh1QWl6Rnd5Q1BoalljN0pla3JZb1o3WDdsbDM4X3dQaThj?oc=5",
+   "source": "Unisba Media",
+   "country": "JP",
+   "published": "2026-10-27T20:33:12.000Z",
+   "fields": [],
+   "summary": "【충격의 초진 대승】북한 여자가 압권의 골 러쉬! 이례적인 일본 입국으로 아시아 대회에 등장, 갑자기 힘을 증명 Keldon Johnson (FSBxYUmOYG)"
   },
   {
    "id": "isthekoreanpeninsulamovingclosertowar",
@@ -1457,6 +2494,18 @@
     "politics"
    ],
    "summary": "뉴시스: 한국 외교부가 키예프와의 국교 단절을 허용했다."
+  },
+  {
+   "id": "習近平主席金正恩氏と会談７年ぶり訪朝戦略的連携強化",
+   "title": "習近平主席、金正恩氏と会談 ７年ぶり訪朝、戦略的連携強化",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02U1RHZHhubWRMbzF2S2EtRkFDbkw2LXVaVXl0XzZxaGV2TUlDTzhhOWRqX0ZZV2RTa0RMNDRfdFc4c2VFQ1FfZXhrSU1MUWxlclUtQlFwRzBfNjBReWc?oc=5",
+   "source": "山陽新聞",
+   "country": "JP",
+   "published": "2026-10-27T19:45:52.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "시진핑 주석, 김정은씨와 회담 7년 만에 방북, 전략적 제휴 강화"
   },
   {
    "id": "fightingnorthkoreantroopsasaprivatewargamesetinsouthkoreasparksdebateeveninpolit",
@@ -1611,6 +2660,18 @@
     "politics"
    ],
    "summary": "중국은 잠재적인 트럼프-김 정상회담을 중재할 것 같지 않다: 미국 전문가"
+  },
+  {
+   "id": "northkoreaisgettingbattlefieldexperienceinukrainewarandcouldbecomeadangerousmili",
+   "title": "North Korea Is Getting 'Battlefield Experience' in Ukraine War and Could Become a 'Dangerous Military Opponent'",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRDA1TUsxd1pScG5GcnBkeTNsRndpLUwyQnA5T3Fnc3lEQW5Lcm1SeG90amZoNkhDeUlWZzVvd0VnUFJJZTZuSmEwb0EzVjE1RGVEMDFZeFNGc1J0NEV1WElaVWJRdWN5cnBSeTVORlktRFEwaV84OFMySkNydTlSYlRZWll3enJBTl9wU3V6X0pFQmhzZFpxVjZXWElBMDNqVEw4VUtsM2wxVTREVGt4eFA2MEZ4TzUzYmU3dmI3ZDdzRkNxNjNCczh3bUxxckowWThBVGdwMWp3WlNH?oc=5",
+   "source": "National Security Journal",
+   "country": "GB",
+   "published": "2026-10-27T18:42:15.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 우크라이나 전쟁 '전장 경험' 얻고 '위험한 군사적 상대국' 될 수도"
   },
   {
    "id": "hoeryonglecturestargetchinesephoneusers",
@@ -1806,6 +2867,18 @@
    "summary": "미8군사령관 \"북한, 우크라전에서 현대전 경험 쌓고 있어\""
   },
   {
+   "id": "朝韩边境线争端引发半岛新紧张局势",
+   "title": "朝韩边境线争端引发半岛新紧张局势",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaUtyQ0h4SVhKV3VBandIdDVjbDFRRDFwOHV5bVRYWlhSTkFMYUdEMGU0Q2ZDSXczZmJBWlRneWd5RW9JTlN6X1AwWUxqT1JtTTEzTFNTN1Zka3B5QzcwSHNkYThBZEZWZFZ6Y2lIZW5LSlpXWGtqdUhaQVE3dGttdQ?oc=5",
+   "source": "纽约时报中文网",
+   "country": "CN",
+   "published": "2026-10-27T17:03:51.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "남북한 국경분쟁이 한반도에 새로운 긴장을 촉발하다"
+  },
+  {
    "id": "binancesaysitstoppednorthkorealinkedthreatswithoutsystemdamageorassetlosses",
    "title": "Binance Says It Stopped North Korea-Linked Threats Without System Damage or Asset Losses",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53MkJXRzR0UlM1SjF1QWh6V0lUVF9OVzc0dGp6YVFIaGNvNWZ1cEtaLW1YUERxdl9oLUhtdUlDbTRTNG9hYlFtMU1XSWY3MUpDaFZ5aEszdE5XNFk?oc=5",
@@ -1940,6 +3013,18 @@
    "published": "2026-10-27T16:02:41.000Z",
    "fields": [],
    "summary": "국내 MMORPG 클라이언트 게임 '뉴코리아' 11월 23일 정식 출시"
+  },
+  {
+   "id": "southkoreaseespossiblenorthkoreausdialoguediscussionsduringkimjongunschinavisit",
+   "title": "South Korea Sees Possible North Korea-US Dialogue Discussions During Kim Jong-uns China Visit",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGpZbHp2UHdUV2d5MVNSRGd3bl9YbFBLQ1Z0eXlxdkVVQmZHaVNodXNMU1VfWjkzQmczUkMxM25RdkdkTF9jcGVNSmw2RUFQSkU1bUhwUmN4UTU0RVNzcy1NeVBpekdaVzNXX1FfMVhPTTFYeHpudXRMWVdOaHpoZzl3enI1N3B1bXdpOG04a0FJajg?oc=5",
+   "source": "UrduPoint",
+   "country": "GB",
+   "published": "2026-10-27T16:00:09.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "한국, 김정은 방중 중 북-미 대화 가능성 검토"
   },
   {
    "id": "southkoreawithdraws8diplomatsaspowdisputedeepens",
