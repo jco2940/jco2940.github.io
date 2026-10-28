@@ -388,3 +388,46 @@ a.video-card:hover h3 { color: var(--accent); }
 .digest-kcna { background: #1f4e6b; }
 .digest-kcna .digest-badge { background: #f2c45a; color: #2b2208; }
 .digest-section h2 small { margin-left: 8px; font-size: .68rem; font-weight: 400; }
+
+/* 북한인권 라이브러리: 분야 × 문서 유형 지형도 */
+.digest-steel { background: #3f5a78; }
+.lib-grid { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 18px; align-items: start; }
+.lib-card { padding: 18px 20px; border: 1px solid #e3dccf; border-radius: 16px; background: #fffdf8; }
+.lib-card h2 { margin: 0 0 4px; font-size: .95rem; }
+.lib-card h3 { margin: 18px 0 8px; font-size: .74rem; }
+.lib-card .muted { margin: 0; color: var(--muted); font-size: .72rem; }
+.lib-card .small { margin-top: 14px; font-size: .66rem; }
+.lib-issuers { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin: 14px 0 10px; font-size: .72rem; }
+.lib-issuers > span { color: var(--muted); margin-right: 4px; }
+.lib-issuers button { padding: 3px 12px; border: 1px solid #d8d0c2; border-radius: 99px; background: #fff; font: inherit; cursor: pointer; }
+.lib-issuers button[aria-pressed="true"] { background: #2b3550; border-color: #2b3550; color: #fff; }
+.lib-table { display: grid; gap: 5px; align-items: center; margin-top: 10px; font-size: .74rem; }
+.lib-col { display: flex; flex-direction: column; align-items: center; gap: 3px; font-size: .64rem; color: var(--muted); text-align: center; }
+.lib-col i { width: 10px; height: 10px; border-radius: 2px; }
+.lib-row { display: flex; gap: 6px; align-items: center; padding: 6px 8px; border: 0; border-left: 3px solid #3f5a78; background: none; font: inherit; font-weight: 600; text-align: left; cursor: pointer; }
+.lib-row:hover { color: var(--accent); }
+.lib-cell { height: 30px; border: 0; border-radius: 4px; color: #fff; font: inherit; font-weight: 700; cursor: pointer; }
+.lib-cell:hover { outline: 2px solid #f2b84b; }
+.lib-cell.empty { display: flex; align-items: center; justify-content: center; background: repeating-linear-gradient(45deg, #f0ebe2, #f0ebe2 4px, #f8f5ef 4px, #f8f5ef 8px); color: #b9b0a0; cursor: default; }
+.lib-stage { justify-self: center; padding: 3px 9px; border-radius: 99px; font-size: .64rem; font-weight: 700; white-space: nowrap; }
+.lib-stage.on { background: #1d4ed8; color: #fff; }
+.lib-stage.start { border: 1px solid #1d4ed8; color: #1d4ed8; }
+.lib-stage.none { color: #b9b0a0; }
+.lib-legend { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 14px 0 0; font-size: .64rem; color: var(--muted); }
+.lib-legend i { display: inline-block; width: 9px; height: 9px; margin-right: 3px; border-radius: 2px; }
+.lib-side .digest-chips button { font: inherit; font-size: .72rem; cursor: pointer; }
+.lib-side .meter { display: grid; grid-template-columns: 130px 1fr 26px; align-items: center; gap: 8px; margin: 5px 0; font-size: .7rem; }
+.lib-side .meter > i { display: block; height: 7px; border-radius: 99px; background: #eee8de; }
+.lib-side .meter > i > i { display: block; height: 100%; border-radius: 99px; background: #3f5a78; }
+.lib-side .meter em { font-style: normal; color: var(--muted); text-align: right; }
+@media (prefers-color-scheme: dark) {
+  .lib-card { background: var(--soft); border-color: var(--line); }
+  .lib-issuers button { background: var(--paper); border-color: var(--line); color: var(--ink); }
+}
+@media (max-width: 900px) {
+  .lib-grid { grid-template-columns: 1fr; }
+  .lib-table { overflow-x: auto; font-size: .68rem; }
+}
+.lib-scroll { overflow-x: auto; }
+.lib-grid > * { min-width: 0; }
+@media (max-width: 900px) { .lib-table { min-width: 560px; } }

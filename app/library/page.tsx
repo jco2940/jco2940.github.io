@@ -1,11 +1,23 @@
 import type { Metadata } from "next";
-import { PageIntro } from "../components";
+import Link from "next/link";
 import { PROFILE } from "../../site.config";
-import { ArchiveNav } from "../archive/nav";
-import { ArchiveBrowser, type Entry } from "../archive/browser";
+import type { Entry } from "../archive/browser";
+import { PublicHeader } from "../archive/public-header";
 import { DOCS, DOCS_UPDATED, DOC_CATEGORIES } from "./data";
+import { ISSUERS, issuerOf, LIB_TOPICS, topicsOf } from "./topics";
+import { LibraryView } from "./LibraryView";
 
 export const metadata: Metadata = { title: `북한인권 라이브러리 | ${PROFILE.name}` };
+
+const COLORS: Record<string, string> = {
+  law: "#3d3a6b",
+  resolution: "#3f6fd6",
+  report: "#2f8fb0",
+  treaty: "#c2364f",
+  upr: "#1f7a63",
+  policy: "#c4521a",
+  document: "#8a8a8a",
+};
 
 export default function LibraryPage() {
   const entries: Entry[] = DOCS.map((d) => ({
@@ -17,17 +29,23 @@ export default function LibraryPage() {
     facets: d.publisher ? [d.publisher] : [],
     meta: [d.date.replaceAll("-", "."), d.note].filter(Boolean).join(" · "),
   }));
+  const used = DOC_CATEGORIES.filter((c) => DOCS.some((d) => d.category === c.id));
   return (
-    <main className="inner-page">
-      <ArchiveNav />
-      <PageIntro
-        eyebrow="NORTH KOREA HUMAN RIGHTS LIBRARY"
-        title="북한인권 라이브러리"
-        lead={`유엔과 국제사회, 각국 정부가 발간한 북한 인권 관련 법·결의·보고서·정책문서를 모았습니다. ReliefWeb(유엔 인도주의업무조정국 문서 저장소)에서 매일 새 문서를 찾아 더하고, 법령과 주요 유엔 문서는 직접 정리합니다.${
-          DOCS_UPDATED ? ` (최근 갱신 ${DOCS_UPDATED.replaceAll("-", ".")})` : ""
-        }`}
-      />
-      <ArchiveBrowser items={entries} tags={DOC_CATEGORIES.map((c) => c.label)} facetLabel="모든 발간 기관" unit="건" />
+    <main className="digest">
+      <PublicHeader current="/library" title="북한인권 라이브러리" badge="UN · Treaty Bodies · UPR" tone="steel">
+        북한 인권 법·결의·보고서·조약기구·UPR 문서 라이브러리 (총 {DOCS.length.toLocaleString()}건) by 통일연구원 <Link href="/">{PROFILE.name}</Link>
+        {DOCS_UPDATED ? ` · 최근 갱신 ${DOCS_UPDATED.replaceAll("-", ".")}` : ""}
+      </PublicHeader>
+      <div className="digest-wide">
+        <LibraryView
+          rows={LIB_TOPICS.map(({ id, label, icon }) => ({ id, label, icon }))}
+          cols={used.map((c) => ({ id: c.id, label: c.label, color: COLORS[c.id] ?? "#888" }))}
+          issuers={ISSUERS.map(({ id, label }) => ({ id, label }))}
+          docs={DOCS.map((d) => ({ id: d.id, topics: topicsOf(d), category: d.category, issuer: issuerOf(d), publisher: d.publisher }))}
+          entries={entries}
+          tags={DOC_CATEGORIES.map((c) => c.label)}
+        />
+      </div>
     </main>
   );
 }
