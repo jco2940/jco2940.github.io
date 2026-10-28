@@ -7,6 +7,7 @@ import studies from "./data/studies.json";
 import library from "./data/library.json";
 import type { RecordGroup } from "./records";
 import { DAYS as RODONG_DAYS } from "./rodong/data";
+import { DAYS as KCNA_DAYS } from "./kcna/data";
 import { trendDays } from "./trends/data";
 import { DOCS } from "./library/data";
 
@@ -40,6 +41,7 @@ export function recentNotes(limit = 12): Note[] {
   }
 
   // 공개 아카이브의 새 소식
+  for (const day of KCNA_DAYS) notes.push({ href: `/kcna/${day.date}`, external: false, kind: "조선중앙통신 브리핑", date: day.date, title: day.overview });
   for (const day of RODONG_DAYS) notes.push({ href: `/rodong/${day.date}`, external: false, kind: "노동신문 브리핑", date: day.date, title: day.overview });
   for (const day of trendDays().slice(0, 7)) {
     notes.push({ href: `/trends/${day.date}`, external: false, kind: "북한 이슈 동향", date: day.date, title: `${dotted(day.date)} 국내외 언론 동향`, sub: `기사 ${day.items.length}건` });

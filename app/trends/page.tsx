@@ -4,6 +4,7 @@ import { PROFILE } from "../../site.config";
 import { PublicHeader } from "../archive/public-header";
 import { countryName } from "../archive/countries";
 import { DAYS as RODONG_DAYS } from "../rodong/data";
+import { DAYS as KCNA_DAYS } from "../kcna/data";
 import { DOCS } from "../library/data";
 import { STUDIES } from "../studies/data";
 import { TREND_COUNTRIES, TREND_FIELDS, trendDays, type TrendDay } from "../trends/data";
@@ -57,6 +58,7 @@ export default function TrendsPage() {
     ...TREND_COUNTRIES.map((c) => ({ label: `${countryName(c)} 언론`, n: all.filter((a) => a.country === c && !isBroadcast(a)).length, href: `/trends/${days[0]?.date}?facet=${encodeURIComponent(countryName(c))}`, tone: "chip-press" })),
     { label: "국내 방송", n: all.filter(isBroadcast).length, href: `/trends/${days[0]?.date}`, tone: "chip-press" },
     { label: "노동신문 브리핑", n: RODONG_DAYS.reduce((s, d) => s + d.items.length, 0), href: "/rodong", tone: "chip-rodong" },
+    { label: "조선중앙통신 브리핑", n: KCNA_DAYS.reduce((s, d) => s + d.items.length, 0), href: "/kcna", tone: "chip-rodong" },
     { label: "북한인권 문서", n: DOCS.length, href: "/library", tone: "chip-doc" },
     { label: "북한 사회 연구 논문", n: STUDIES.items.length, href: "/studies", tone: "chip-study" },
   ].filter((s) => s.n > 0);
@@ -127,6 +129,19 @@ export default function TrendsPage() {
               <li key={d.date}>
                 <span className="digest-range">{dotted(d.date)}</span>
                 <Link href={`/rodong/${d.date}`}>{d.overview}</Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+        <section className="digest-section">
+          <h2>
+            <Link href="/kcna">최근 조선중앙통신 브리핑 →</Link>
+          </h2>
+          <ul className="digest-weeks">
+            {KCNA_DAYS.slice(0, 5).map((d) => (
+              <li key={d.date}>
+                <span className="digest-range">{dotted(d.date)}</span>
+                <Link href={`/kcna/${d.date}`}>{d.overview}</Link>
               </li>
             ))}
           </ul>
