@@ -47,3 +47,7 @@
 ## 주간 하이라이트
 
 `app/data/rodong-weekly.json`에 한 주(월요일 날짜를 `week`로)의 흐름을 한 문장으로 적는다. 적지 않은 주는 그 주 첫 브리핑의 요약이 대신 보인다.
+
+## 조선중앙통신 브리핑
+
+같은 형식으로 `app/data/kcna.json`의 `days`에 더한다(사이트 `/kcna`). 주간 하이라이트는 `app/data/kcna-weekly.json`. 출처의 `page`는 비워 두고, 보도 제목을 `headline`에 적는다.

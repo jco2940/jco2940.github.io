@@ -4,6 +4,7 @@ import Link from "next/link";
 const LINKS = [
   { href: "/trends", label: "북한 이슈 동향" },
   { href: "/rodong", label: "노동신문 브리핑" },
+  { href: "/kcna", label: "조선중앙통신 브리핑" },
   { href: "/library", label: "북한인권 라이브러리" },
   { href: "/studies", label: "북한 사회 연구" },
 ];
@@ -19,7 +20,7 @@ export function PublicHeader({
   title: string;
   badge: string;
   children: React.ReactNode;
-  tone?: "indigo" | "plum" | "rodong";
+  tone?: "indigo" | "plum" | "rodong" | "kcna";
 }) {
   return (
     <section className={`digest-band digest-${tone}`}>

@@ -385,3 +385,6 @@ a.video-card:hover h3 { color: var(--accent); }
 .digest-rodong { background: #7a2e2a; }
 .digest-rodong .digest-badge { background: #f2c45a; color: #3b2208; }
 .digest-weeks .kind { color: var(--accent); font-size: .68rem; font-weight: 650; }
+.digest-kcna { background: #1f4e6b; }
+.digest-kcna .digest-badge { background: #f2c45a; color: #2b2208; }
+.digest-section h2 small { margin-left: 8px; font-size: .68rem; font-weight: 400; }

@@ -42,6 +42,7 @@ export const ARCHIVES = [
     sub: [
       { href: "/trends", label: "언론 동향" },
       { href: "/rodong", label: "노동신문 브리핑" },
+      { href: "/kcna", label: "조선중앙통신 브리핑" },
     ],
   },
   {
