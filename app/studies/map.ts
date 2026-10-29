@@ -16,7 +16,7 @@ export const TOPIC_COLORS: Record<string, string> = {
 };
 
 const STOP = new Set(
-  "북한 북한의 북한에서 북한과 북한은 북한이 조선 조선민주주의인민공화국 한국 남한 연구 분석 사례 중심 대한 관한 통한 위한 따른 미치는 영향 효과 관계 문제 과정 의미 고찰 탐색 검토 이해 시대 이후 이전 통해 대해 위해 사이 경우 가지 요인 특성 중심으로 함의 변화 현황 실태 방안 모델 접근 관점 측면 기반 결과 경험 연구의 그리고 또는 나타난 미치 비교 인식 질적 활용한 김정 국가 대한민국 어떻게 무엇 새로운 따라 현재 최근 주요 기간 정도 결정 측정 평가 이용 사용 조사 데이터 국경 미국 중국 러시아 여성 교육 경제 정치 노인 장애 청소년 청년 보건 의료 the of and in on for a to from with by north korea korean dprk".split(" "),
+  "북한 북한의 북한에서 북한과 북한은 북한이 조선 조선민주주의인민공화국 한국 남한 연구 분석 사례 중심 대한 관한 통한 위한 따른 미치는 영향 효과 관계 문제 과정 의미 고찰 탐색 검토 이해 시대 이후 이전 통해 대해 위해 사이 경우 가지 요인 특성 중심으로 함의 변화 현황 실태 방안 모델 접근 관점 측면 기반 결과 경험 연구의 그리고 또는 있는 하는 되는 대한 위한 나타난 미치 비교 인식 질적 활용한 김정 국가 대한민국 어떻게 무엇 새로운 따라 현재 최근 주요 기간 정도 결정 측정 평가 이용 사용 조사 데이터 국경 미국 중국 러시아 여성 교육 경제 정치 노인 장애 청소년 청년 보건 의료 the of and in on for a to from with by north korea korean dprk".split(" "),
 );
 const PARTICLE = /(에서의|에서|으로의|으로|에게|까지|부터|이다|과의|와의|들의|들은|들이|들을|들|은|는|이|가|을|를|의|에|도|로|과|와)$/;
 
@@ -79,7 +79,7 @@ export function buildMap() {
       const ws = words(p.titleKo ?? p.title);
       const spot = spots.find((s) => s.kw && ws.includes(s.kw)) ?? spots[0];
       const a = hash(p.id) * Math.PI * 2;
-      const d = Math.sqrt(hash(`${p.id}#`)) * (spot.kw ? 55 : 70);
+      const d = Math.pow(hash(`${p.id}#`), 0.7) * (spot.kw ? 70 : 95);
       stars.push({
         id: p.id,
         x: Math.min(W - 8, Math.max(8, spot.x + Math.cos(a) * d)),
@@ -99,16 +99,51 @@ export function buildMap() {
     }
   }
 
-  // 별자리 선: 같은 묶음 안에서 가까운 별끼리 잇는다
+  // 별자리 선: 묶음마다 밝은 별(분야가 여럿인 논문 우선) 몇 개를 골라 가장 짧은 길로 잇고(최소 신장 트리),
+  // 같은 분야의 키워드 별자리는 그 분야 중심 별자리와, 분야 중심끼리는 이웃한 것과 이어 하늘 전체가 한 그물이 되게 한다
   const lines: [number, number, number, number][] = [];
+  const anchors = new Map<string, Star>();
   for (const c of clusters) {
-    const group = stars.filter((s) => s.cluster === c.key).slice(0, 40);
-    group.forEach((s, i) => {
-      if (i === 0 || i % 2) return;
-      const near = group.slice(0, i).sort((a, b) => Math.hypot(a.x - s.x, a.y - s.y) - Math.hypot(b.x - s.x, b.y - s.y))[0];
-      if (Math.hypot(near.x - s.x, near.y - s.y) < 45) lines.push([near.x, near.y, s.x, s.y]);
-    });
+    const group = stars
+      .filter((s) => s.cluster === c.key)
+      .sort((a, b) => b.r - a.r || hash(a.id) - hash(b.id))
+      .slice(0, Math.min(14, 3 + Math.round(Math.sqrt(c.count) * 1.6)));
+    if (!group.length) continue;
+    // 묶음 중심에 가장 가까운 별을 그 별자리의 '머리별'로
+    anchors.set(c.key, [...group].sort((a, b) => Math.hypot(a.x - c.x, a.y - c.y) - Math.hypot(b.x - c.x, b.y - c.y))[0]);
+    const inTree = [group[0]];
+    const rest = group.slice(1);
+    while (rest.length) {
+      let best = { i: 0, from: inTree[0], d: Infinity };
+      rest.forEach((s, i) =>
+        inTree.forEach((t) => {
+          const d = Math.hypot(s.x - t.x, s.y - t.y);
+          if (d < best.d) best = { i, from: t, d };
+        }),
+      );
+      const next = rest.splice(best.i, 1)[0];
+      lines.push([best.from.x, best.from.y, next.x, next.y]);
+      inTree.push(next);
+    }
   }
+  for (const c of clusters) {
+    if (!c.key.endsWith(":")) {
+      const head = anchors.get(`${c.topic}:`);
+      const me = anchors.get(c.key);
+      if (head && me) lines.push([head.x, head.y, me.x, me.y]);
+    }
+  }
+  const heads = order.map((t) => anchors.get(`${t}:`)).filter((s): s is Star => Boolean(s));
+  heads.forEach((h, i) => {
+    const n = heads[(i + 1) % heads.length];
+    if (heads.length > 1) lines.push([h.x, h.y, n.x, n.y]);
+  });
+
+  // 배경의 희미한 잔별
+  // (해시가 비슷한 문자열끼리 줄지어 나오지 않도록 단순 난수 생성기를 쓴다)
+  let seed = 20261029;
+  const rand = () => ((seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0) / 4294967296);
+  const dust = Array.from({ length: 260 }, () => ({ x: rand() * W, y: rand() * H, r: 0.3 + rand() * 0.9, o: 0.15 + rand() * 0.45 }));
 
   // 핵심 키워드 전체(분야 구분 없이)
   const all = new Map<string, number>();
@@ -119,5 +154,5 @@ export function buildMap() {
     .slice(0, 40)
     .map(([w, n]) => ({ word: w, count: n, ids: papers.filter((p) => words(p.titleKo ?? p.title).includes(w)).map((p) => p.id) }));
 
-  return { width: W, height: H, stars, clusters, lines, keywords, topics: order };
+  return { width: W, height: H, stars, clusters, lines, dust, keywords, topics: order };
 }

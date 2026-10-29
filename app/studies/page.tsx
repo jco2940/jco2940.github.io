@@ -57,6 +57,7 @@ export default function StudiesPage() {
             stars={map.stars}
             clusters={map.clusters}
             lines={map.lines}
+            dust={map.dust}
             topics={topicStats}
             keywords={map.keywords}
             meta={meta}

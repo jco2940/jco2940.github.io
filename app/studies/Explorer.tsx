@@ -17,6 +17,7 @@ export function Explorer({
   stars,
   clusters,
   lines,
+  dust,
   topics,
   keywords,
   meta,
@@ -28,6 +29,7 @@ export function Explorer({
   stars: Star[];
   clusters: Cluster[];
   lines: [number, number, number, number][];
+  dust: { x: number; y: number; r: number; o: number }[];
   topics: Topic[];
   keywords: { word: string; count: number; ids: string[] }[];
   meta: Meta[];
@@ -112,14 +114,24 @@ export function Explorer({
                 </filter>
               </defs>
               <rect width={width} height={height} fill="url(#sky)" onClick={() => setPick(null)} />
+              {topics.map((t) => (
+                <radialGradient key={`g-${t.id}`} id={`neb-${t.id}`}>
+                  <stop offset="0%" stopColor={t.color} stopOpacity={0.32} />
+                  <stop offset="60%" stopColor={t.color} stopOpacity={0.08} />
+                  <stop offset="100%" stopColor={t.color} stopOpacity={0} />
+                </radialGradient>
+              ))}
+              {dust.map((d, i) => (
+                <circle key={`d${i}`} cx={d.x} cy={d.y} r={d.r} fill="#ffffff" opacity={d.o} pointerEvents="none" />
+              ))}
               {clusters.map((c) => (
-                <circle key={`neb-${c.key}`} cx={c.x} cy={c.y} r={30 + Math.sqrt(c.count) * 9} fill={color(c.topic)} opacity={0.07 * (lit(c) ? 1 : 0.2)} pointerEvents="none" />
+                <circle key={`neb-${c.key}`} cx={c.x} cy={c.y} r={60 + Math.sqrt(c.count) * 14} fill={`url(#neb-${c.topic})`} opacity={lit(c) ? 1 : 0.25} pointerEvents="none" />
               ))}
               {hull && (
                 <circle cx={hull.x} cy={hull.y} r={62} fill="none" stroke="#f2b84b" strokeWidth={1.4} strokeDasharray="5 5" pointerEvents="none" />
               )}
               {lines.map(([x1, y1, x2, y2], i) => (
-                <line key={i} x1={x1} y1={y1} x2={x2} y2={y2} stroke="#c9cdf5" strokeOpacity={only || pick ? 0.08 : 0.22} strokeWidth={0.6} pointerEvents="none" />
+                <line key={i} x1={x1} y1={y1} x2={x2} y2={y2} stroke="#d7dbff" strokeOpacity={only || pick ? 0.12 : 0.38} strokeWidth={0.8} pointerEvents="none" />
               ))}
               {stars.map((s) => {
                 const on = lit(s);
