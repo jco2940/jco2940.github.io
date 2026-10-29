@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "items": [
+  {
+   "id": "doi:10.1186/s12939-026-03077-6",
+   "title": "Sex-specific long-term mortality inequities among North Korean refugees resettled in South Korea: a nationwide matched cohort study",
+   "authors": [
+    "Kyoung Jin Kim",
+    "Jimi Choi",
+    "Jung A Kim",
+    "Kyeong Jin Kim",
+    "Yo Han Lee",
+    "외"
+   ],
+   "date": "2026-10-28",
+   "venue": "International Journal for Equity in Health",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "diaspora"
+   ],
+   "url": "https://doi.org/10.1186/s12939-026-03077-6",
+   "source": "openalex",
+   "added": "2026-10-29",
+   "titleKo": "남한에 정착한 탈북난민의 성별에 따른 장기 사망률 불평등: 전국적인 일치 코호트 연구"
+  },
   {
    "id": "doi:10.1111/pafo.70044",
    "title": "Management and Utilization of Leader Gifts in South and North Korea: Implications and an Integrated Post‐Unification Management Plan",
