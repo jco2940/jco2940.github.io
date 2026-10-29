@@ -2,6 +2,987 @@
  "date": "2026-10-29",
  "items": [
   {
+   "id": "northkorealaunchesmorethan10shortrangeballisticmissileskoreaherald",
+   "title": "North Korea launches more than 10 short-range ballistic missiles — Korea Herald",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDJwZS1oUE5TZl9HU1ZEZlFYSDFxcW5WZjNCTldlWTFrejV1M3A5QlRhN2diUlhoc3M5NUE5bG9HQk5XSHc0UVJlNk5iRFh6bFBjRXlkU1R3LUdoQUMzSmROcGhJUDl2NEtVV05PSUVqaGxGVUZOSXlYNWJ0ZWJSLW1NUUFfeUpoNnREaWdJbHdSWWFJcjZnaGtST3pnamxlY1g2clNCajY?oc=5",
+   "source": "UA.NEWS",
+   "country": "GB",
+   "published": "2026-10-29T04:27:01.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 단거리 탄도미사일 10발 이상 발사 - 코리아헤럴드"
+  },
+  {
+   "id": "skoreasaysnorthfiredmissileintoseaofjapan",
+   "title": "S. Korea says North fired missile into Sea of Japan",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDQ1YlJNUFpwcThRUWFGZmItOS1EWG1GU1ZyUzk5c3VhbkFSRmFnMS1ObUlWemJSRlNMVE1lYlhwZndtVE5aR1V2elhRdHZuREtHbWx1cVA1Q2hyTk44LWJJVXFxbVNmeWxuQXplQ1I0WV9RY0ZhYVdNQ2NoR2g1Vk9aVDR6ZlVxZEdBVzhVZ0V5dU44ODFGR09LTUw?oc=5",
+   "source": "Breakingthenews.net",
+   "country": "GB",
+   "published": "2026-10-29T04:27:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "한국 정부, 북한이 동해에 미사일을 발사했다고 밝혔습니다."
+  },
+  {
+   "id": "кндрзапустилаболее10баллистическихракетмалойдальностиkoreaherald",
+   "title": "КНДР запустила более 10 баллистических ракет малой дальности — Korea Herald",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOelNaY1VMUV9iTURfeFJDdXN5ODcyQWUtOEFuR05XWmhvWVZNNnpfZUZNbDU4M2xhMktIUEtLUnkwQTkwWjNkUTVxRWZSM2U3ZmtabVRid2NDOGVmUUhCTTRLZUJpTFBDUllQMUxIOWEwdTJGbGpLYWFNU2NQOVFVWEIzNjJacVg2TWxWclRMdWt3Z2FvdllzanZod2NrU1RUS0lOQk1YeWs?oc=5",
+   "source": "UA.NEWS",
+   "country": "RU",
+   "published": "2026-10-29T04:26:46.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 단거리 탄도미사일 10발 이상 발사 - 코리아헤럴드"
+  },
+  {
+   "id": "southkoreanmilitarysaysartilleryfiredbynorthkoreaatbordernotnewweapon",
+   "title": "South Korean Military Says Artillery Fired by North Korea at Border Not New Weapon",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB1Qnd4Y01NUXU2QktsVVA1Z1NpRnM4b1RnSTFZZDB4MXZHRnd0dC1VNjFOQVBJaUc3TnpCcFU3VzBoTWfSAUJBVV95cUxNYW1icTRRM0J3WmNpVVY1Ump4UlBGbEpjRndubWZUXzdmeUhadS1ZV212MHNva0NFZFNYam1FOXFlZWc?oc=5",
+   "source": "VOI.ID",
+   "country": "GB",
+   "published": "2026-10-29T04:24:51.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "한국군, 북한이 국경에서 발사한 포는 신형 무기가 아니라고 주장"
+  },
+  {
+   "id": "northkorealaunchesanotherprojectiletowardeastseaafter17days",
+   "title": "North Korea Launches Another Projectile Toward East Sea After 17 Days",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YaHRySW5fSnpsQUZfZVFmdDhRMmhwTHZCNDJra2k5ejNWdnZzUy02OVBCcVk3LU1KZVBMTHFZM3RienpZVnRiendzZm5zb2dTUTVubzgzaWVYbjU3UmVldU1SU1g?oc=5",
+   "source": "아시아경제",
+   "country": "GB",
+   "published": "2026-10-29T04:23:30.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 17일 만에 동해상으로 또 발사체 발사"
+  },
+  {
+   "id": "北朝鮮が飛翔体発射日本海へ弾道ミサイルか",
+   "title": "北朝鮮が飛翔体発射 日本海へ、弾道ミサイルか",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ldm53OG9ESjVYMTg2ck9BMXZGTEZaWWRyU1d3VXdVczhOelBmVmk0QnZlc2xBZWRERGZ4OC00blRnclBES2ZXWWV1S3pQR0ZGOHBVdlJGa3FFTlYtX2NfTTZ0ZDJlMjZ3VGRlVWhFTlpvbnE5aHc?oc=5",
+   "source": "産経ニュース",
+   "country": "JP",
+   "published": "2026-10-29T04:22:21.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 비상체 발사 일본해에 탄도 미사일인가?"
+  },
+  {
+   "id": "northkoreanworkerspromotedinrussianonlinejobadsdeepeningbilateraleconomicties",
+   "title": "North Korean Workers Promoted in Russian Online Job Ads, Deepening Bilateral Economic Ties",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tbHNYQVpRbmNxa0NwNUhXV25mVFZVYzhDeDFFMkhlcjY1RDJFekc1dkhkRXVJTWdSSXhlVUdFdUZFQzZaU0R1Q2V1OU13SzBYX0tjc3lpLTZ2WUx3UFEwX3pySHh0TlF6ZXl0MHFR?oc=5",
+   "source": "news.sbs.co.kr",
+   "country": "GB",
+   "published": "2026-10-29T04:22:18.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "러시아 온라인 구인광고에 북한 근로자 승진돼 양국 경제협력 심화"
+  },
+  {
+   "id": "республикакореявыступиласобвинениемвадрескндр",
+   "title": "Республика Корея выступила с обвинением в адрес КНДР",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaFJoV2t2elRtQldyZU5PV0E3VzB1MXlNaHZGeUpTSjJMTVVpMTVlM1doalM3cFlwQ2ZYd2M0WnhGZmh6cHdIWmJOY3ZuZTNlYkFZZldvSmNjUUR5aE95bEpZNWczbFpBbnZpMFhrZU5OR1kxWTRFXzJfN2ZLVGw2WtIBhgFBVV95cUxNMWxwbVBraHA5MlBqUHdReTNja1BqbXlRNWxGT2dRcXRMcFQtdGdQbWUxSmM3emhSRXdmNU1SNDFBY3I1S2c3Q0NGdmdfOE8zTk82Z3A1ZVlxRXJpTWdyQjVQRFpodEUxdGNUVld5SUQwVmlwM1pJSlBOenM1eVBuMzZkYlMxZw?oc=5",
+   "source": "NEWS.ru",
+   "country": "RU",
+   "published": "2026-10-29T04:22:00.000Z",
+   "fields": [],
+   "summary": "한국은 북한을 비난했다"
+  },
+  {
+   "id": "northkoreafiresunknownprojectileintoeastseaseouldefenceministry",
+   "title": "North Korea fires unknown projectile into East Sea: Seoul defence ministry",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzQ2UxMEJnR0NvYngtSVFoNXBxU1duUU1PZW5pdkQtX0gtUXJ6QnB1Q1ZUbVVMbEh1UHN6eUM2UlZ1MkNLM3FjU1JDLXlHWDA2TUpfSXc1NA?oc=5",
+   "source": "Bangladesh Sangbad Sangstha (BSS)",
+   "country": "GB",
+   "published": "2026-10-29T04:21:59.000Z",
+   "fields": [],
+   "summary": "북한, 동해상으로 미확인 발사체 발사 : 서울 국방부"
+  },
+  {
+   "id": "northkoreafiresoffapparentballisticmissile",
+   "title": "North Korea fires off apparent ballistic missile",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjRiUTk2VW9PT2xQT2ZUX0EtNC1RczlUQV9XWVlRVjlrTlkzZWx5LW4teHBkMTNJVlJ6WXd0MUNsWkk0RmZiOURtU2gtZ0dsbndNTWtmTnlkRnlySTlscXUxQ0lSMVA0WVQ3RXpzdVM5UURDYTJsT29nTFZERGIzTHNsTWN0MGFicHRYbnR5eUthUQ?oc=5",
+   "source": "The Japan Times",
+   "country": "GB",
+   "published": "2026-10-29T04:21:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 탄도미사일로 추정되는 발사체 발사"
+  },
+  {
+   "id": "北朝鮮ミサイルで高市首相情報収集分析に全力など指示",
+   "title": "北朝鮮ミサイルで高市首相「情報収集・分析に全力」など指示",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IYkVTYkJjUm1nTGo2cnVjXzBVbnlkRGREVndYSEZZbDhXNUxDaldKTlotYnZOSHI0Q1FGenV4TkQzVmlLYzJ0bUNaRndhTkdZdHhhVHhJYnE1ckM1U1pwQndLRTZBeVFZTXM3M1B3?oc=5",
+   "source": "au Webポータル",
+   "country": "JP",
+   "published": "2026-10-29T04:17:17.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한 미사일에서 다카이치 총리 “정보 수집·분석에 전력” 등 지시"
+  },
+  {
+   "id": "快讯高市就朝鲜射弹指示收集信息",
+   "title": "快讯：高市就朝鲜射弹指示收集信息",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoNy1YRjliWF9SSnF6aHRxVzU3VHZ6RkljRXEzOGJpUVpvdGpIVGRiQmwtVzJvV3lUelFHNXlUb1QwWDF0M0VQYWNnNjAxRTRZd0JPVnE5cw?oc=5",
+   "source": "共同网",
+   "country": "CN",
+   "published": "2026-10-29T04:16:59.000Z",
+   "fields": [],
+   "summary": "속보: High City, 북한의 발사체 지시에 대한 정보 수집"
+  },
+  {
+   "id": "北朝鮮ミサイルで高市首相情報収集分析に全力など指示2026年10月28日掲載日テレnewsnnn",
+   "title": "北朝鮮ミサイルで高市首相「情報収集・分析に全力」など指示（2026年10月28日掲載）｜日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05VzY3MjZkTzdCM3JpTk1Na05ZU25LUlNkUTBPUDBzRkpUQ1N6VHhLYXNMd2VBTFk0akV1T2hYdC1oeVZKMk9yWGJDV2loaTVmTUcwcktzdkREMXU2MEp0VUZndGdrcnIwaEhiTkgxcVRQTFRfRmZuZG9UTURSUQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "country": "JP",
+   "published": "2026-10-29T04:16:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한 미사일에서 다카이치 총리 「정보 수집·분석에 전력」 등 지시(2026년 10월 28일 게재) |일 텔레 NEWS NNN"
+  },
+  {
+   "id": "nkorealaunchesmissilestowardeastsea",
+   "title": "N. Korea launches missiles toward East Sea",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVVDcwcW01UWpVYWx4N2M5ODFFRUpaSlpjMWE1RmNRMWR1dzJNWWhkRDVqT0tiRGZBQ0txNXJZeDN2UzdMVGRuMWZUV0FsWTJhMGdHcnlISQ?oc=5",
+   "source": "The Korea Herald",
+   "country": "GB",
+   "published": "2026-10-29T04:14:58.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 동해상으로 미사일 발사"
+  },
+  {
+   "id": "northkorealaunchesanunidentifiedprojectileoffitseastcoastsouthkoreasays",
+   "title": "North Korea launches an unidentified projectile off its east coast, South Korea says",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSjJBY2FCejRXTHhTUkJBSTRYYTV0MmNDNWdITmgtQkJNcTJDQWxGcjBjTXVIRnlLUVpBTV9MU3l3Uzl0NVh3cVV5My01NXpBa2lBT0h5a1RyTi0wMnp4Nkc5ZTQwVDg1QVo1N0NtdHhSNGt0UlVpZFEtLTZydDQtWGVVSTRnMlJpMjE4bDE4YUMzYXJqdjh1Z2pFWW85MV9QT3F4dGd1UlRmSFc0VDQ4OXpJNU9mMGtOdWVCNnp2Zk5hQ1RsM29yZVFjTDg3TzNy?oc=5",
+   "source": "巴士的報",
+   "country": "GB",
+   "published": "2026-10-29T04:14:40.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 동해상에서 미확인 발사체를 발사했다고 한국 정부가 밝혔습니다."
+  },
+  {
+   "id": "yonhapкндрзапустиланеопознанныйснарядвнаправлениияпонскогоморя",
+   "title": "Yonhap: КНДР запустила неопознанный снаряд в направлении Японского моря",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTU1KeXIwaGl2RUNZbGRYVnJraGJwanNNdmhaNXhSZHFlbGdYMWpDQXNnSmwtMDllUXVCdkY0T1kxWnhMRlMzb2IzTjhMZEtXcFZjeXZQaXlFeE9zOXlhYjNfN0FfN3RSZzhZMTlldDcyY0dJbm9PWVNkT09LbjVWRkVtNUxxb1JLQ00tYWxqR0lDVjhTVTUzSGtNUnAwS3BuYnNHbV9JdmF0Nmdicmc?oc=5",
+   "source": "Report.az",
+   "country": "RU",
+   "published": "2026-10-29T04:11:44.000Z",
+   "fields": [],
+   "summary": "연합뉴스: 북한이 동해 방향으로 미확인 발사체를 발사했다."
+  },
+  {
+   "id": "northkoreafiresprojectiletowardseaoffeastcoast",
+   "title": "North Korea fires projectile toward sea off east coast",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnV4S2MtaUlSSGMxczVTSHhnbTJwTWg1akhuUWlEX3RUb3BLbWFOV3BqcEpnOXRvZG1ERUpaa2pmWXNHMUNkU1JJdGpHWGlMdndlT3E0SG91UFZrT1hUeXRIV1BjTkw3LVBvbW9CZ194QTc5Q0ZwSTZIODhZUXRsMlQyejBmaHh1M1YtOEZxOTl5dWJURGhKYVJDc1ladkVnMXFya0FtWXNKLVAwUDZPLTQ4azM?oc=5",
+   "source": "Free Malaysia Today",
+   "country": "GB",
+   "published": "2026-10-29T04:10:44.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 동해상으로 발사체 발사"
+  },
+  {
+   "id": "northkorealaunchesprojectileintoeastseajcssays",
+   "title": "North Korea launches projectile into East Sea, JCS says",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY1RpUThuemNWQkNRcGt6U1ZZSURQNE1ycWZCak9BdnNvNE8xY2FCRjlYWDdzck9MSHVXUkx1YmdRU09jMUJPSjZTSjVSbXRqeUdkYVBqbzY0eEgtMjQtYmQxT0lCNHpMMGc4ZFFFSlBvdHpLTzVua05TS2oxcC1FZjd3YmtmQkVhNFZGZUR0dVV0R054OEIxcTFNODlyUXRudjFaWHR6aw?oc=5",
+   "source": "Korea JoongAng Daily",
+   "country": "GB",
+   "published": "2026-10-29T04:09:16.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "합동참모본부 \"북, 동해상으로 발사체 발사\""
+  },
+  {
+   "id": "южнокорейскиевоенныесообщилиозапущенномкндрнеизвестномснаряде",
+   "title": "Южнокорейские военные сообщили о запущенном КНДР неизвестном снаряде",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96R19yUklxZnpSMnRXLW5VaVRSTzF6NVRGdDZtSU9NNE5RSmVIQ2VaN2preEZsSFZxbklNNVhWdHJWTF9SVlBQcUk5bGo0dVpVUGRrUFNmXzVqVGpjMExia1lMT3MzcUZGdFhBYtIBckFVX3lxTE1yb0Fvd3hyN0pvWWthWG1LTURwSDlySy1kTnFwNFNKMHBnb0d0LVFwaFVSRnBXLVo2RG5fekxMWEU1WDdQMjdHZ1JVZElNNWtxRmFSenEwNFdWT0E4TklUcllVQjJpN3R0c0VsNmVZYTV4Zw?oc=5",
+   "source": "Газета",
+   "country": "RU",
+   "published": "2026-10-29T04:09:03.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "한국군, 북한이 발사한 정체불명의 미사일 보고"
+  },
+  {
+   "id": "кндрзапустиланеизвестныйснарядвяпонскоеморе",
+   "title": "КНДР запустила неизвестный снаряд в Японское море",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRkNwYXV4bnhFdVBVMklxMTI3LWp3bDMtSElzZnFQck9LUk1YMGhsNDRmeklSY1UzVVhQWjVXbzYzSlFvWjhHbV9YSWE3Y0lfUjc1MFFRY2p1bV9md0E5dzhqN0JKX1NEYldObzBtUjZhdUJLU0duQ2ZsZEk2d3R5MTFtVll5cUtDQkVqSFZBbDRDLWlU0gGaAUFVX3lxTFBOUzhmM1hOcUs1NGd0Y2FDYmxFT2Y0cDdTQkpqcFF1RWhldzFJb0lPVDUtVlhxU1hjV25hOVJWSU9oY1Y1c19TS1BUN2pNT002dWExUlFtcEpUVFNXY3pRZXJxLU14MzVVa244SmpDcWFQNFF4R2xsV0xDa21PSTRidS1pamhvWDVhTnlVV0xoWUFuZUVpZDJHVFE?oc=5",
+   "source": "Рамблер",
+   "country": "RU",
+   "published": "2026-10-29T04:08:46.000Z",
+   "fields": [],
+   "summary": "북한이 정체를 알 수 없는 미사일을 동해로 발사했다."
+  },
+  {
+   "id": "southkoreasaysnorthkoreahaslaunchedanunidentifiedprojectileoffthenorthseastcoast",
+   "title": "South Korea says North Korea has launched an unidentified projectile off the North's east coast",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdVpwR2E0Sk4xemVyV0FFUVBBdWtfcmY2akluaG83LWh4cDZqRkE4SEQ4VzVLWm5BSVRyTUhXamk5N0Y4OFJXUGF1NnR3OWVERmJFR2gyMnpFUVVncGRESWwxNXNzdmY3cnBLS0JjQmVsUFp1eGpQazZEQWhmdEVuUDcwemc4aGIxd1hIcXVwbWVkUURiRDNHWVhlR1lGbTd3Y18tRTJYMVc?oc=5",
+   "source": "Audacy",
+   "country": "GB",
+   "published": "2026-10-29T04:07:33.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "한국 정부는 북한이 북한 동해상으로 미상의 발사체를 발사했다고 밝혔습니다."
+  },
+  {
+   "id": "北朝鮮が弾道ミサイルを発射かすでに落下と推定",
+   "title": "北朝鮮が弾道ミサイルを発射か すでに落下と推定",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55VWZRYlBNN0VtMEg4UENsUk5SV2pCTTlWRWpETW5Cek5XQXROVDVNU2c5U0psUzZZTnB3VWZsQjBUTUhVVXhlZDR2UzZIZTdWV1hPX2VRd1NORHZSa2xXUHFabmd1YVE?oc=5",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-10-29T04:07:25.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 탄도미사일을 발사하는지 이미 떨어지는 것으로 추정"
+  },
+  {
+   "id": "fmcholeavesforusforg20meetingtalkswithrubio",
+   "title": "FM Cho leaves for US for G20 meeting, talks with Rubio",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50OHRPSXFDWVpYa2lSOVJhbF95c1RVcHo2RkxiMDFXRWE5TVpVMzEtOXU0QTJsVVQzYWtkam5EeGQ0dUZ5dXE5M2VYbmNJUUV0OGU0RWFxSQ?oc=5",
+   "source": "The Korea Herald",
+   "country": "GB",
+   "published": "2026-10-29T04:07:14.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "조 FM, G20 정상회담 위해 미국 출국, 루비오와 회담"
+  },
+  {
+   "id": "首相北朝鮮ミサイル発射で情報収集指示",
+   "title": "首相、北朝鮮ミサイル発射で情報収集指示",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xUldaU0EwaXNLS1haSzQ5OWxiZ3hJaHJwaWZDTmVwWGtUTVZLLVdWd0x5RG5xTmt5YjZSaDZDelFiVEduZVFnclI4YnQydEU0dHlWS0h2b2xDdi1GaVE?oc=5",
+   "source": "沖縄タイムス社",
+   "country": "JP",
+   "published": "2026-10-29T04:05:54.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "총리, 북한 미사일 발사로 정보 수집 지시"
+  },
+  {
+   "id": "速報首相北朝鮮ミサイル発射で情報収集指示",
+   "title": "【速報】首相、北朝鮮ミサイル発射で情報収集指示",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EeDhUZVJJYXFKSDRoc05tb2REc3NVa1JCTk9nSjJxUVpHeWpMWWhaRkNGNkFyOWF6QWlBSk1vNFNHWGdYZ29UUjNJcw?oc=5",
+   "source": "47NEWS",
+   "country": "JP",
+   "published": "2026-10-29T04:05:54.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "【속보】 총리, 북한 미사일 발사로 정보 수집 지시"
+  },
+  {
+   "id": "北朝鮮ロシアに労働者派遣軍需工場でも就労人権団体",
+   "title": "北朝鮮、ロシアに労働者派遣 軍需工場でも就労＝人権団体",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUG9JY1ZNamFCcHNSR1JKVXBKWjVjTExzSW5NOEFvOXFIOUJxYnRzRG16M1ZaVW9uVHN4Zjg5Y1lsZjVpaVF0SFlPU0VzY1lXLVIxbG1iQXZRS3lBR2F5amROQmR2b2FXaG9MMmU1UV9WMG1tWXp6MUxmd19DNmdCTEkzdnUyQQ?oc=5",
+   "source": "Reuters",
+   "country": "JP",
+   "published": "2026-10-29T04:05:00.000Z",
+   "fields": [
+    "security",
+    "humanRights"
+   ],
+   "summary": "북한, 러시아에 노동자 파견 군수공장에서도 취업=인권단체"
+  },
+  {
+   "id": "hanmiglobaltoholdseminaronnortheastasiancooperationandtumenriverdevelopment",
+   "title": "HanmiGlobal to Hold Seminar on ‘Northeast Asian Cooperation and Tumen River Development’",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IR1o2TVlyVEZIWG85WkdodFNKVTd4NllvcjFpNFNKdURvakdIY1VCWHFPQkk5aFVrd2s0aVpid2hSVElHRzRIelItZmJMNXFUZTJRV1N6bVM?oc=5",
+   "source": "파이낸셜뉴스",
+   "country": "GB",
+   "published": "2026-10-29T04:03:46.000Z",
+   "fields": [],
+   "summary": "한미글로벌, '동북아 협력과 두만강 개발' 세미나 개최"
+  },
+  {
+   "id": "northkoreafiresunidentifiedprojectiletowardeastseaseoulsays",
+   "title": "North Korea Fires Unidentified Projectile Toward East Sea, Seoul Says",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnpVbktrSElnd1dNYnJuTEZzU1NOOXBvdndjeWFXeGxDM1BKUzY2TnIxM3ZaTE01dU52Yl85WDAwNF9RM3FKX1N1RDNadFNLaEIyMW9pVXRkeS1oNFk5S041d3VVSUJNRmpsZlVhdk1RMkVqeFd6SU1wZUh4akItMEsxbEdkLS1oTzFndWpJd2xpX0xRaVp3VGVOSjh2VVBOYWNjUTdpWmgxTGlZcmc?oc=5",
+   "source": "Seoul Economic Daily",
+   "country": "GB",
+   "published": "2026-10-29T04:03:03.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 동해상으로 미확인 발사체를 발사했다고 한국 정부가 밝혔습니다."
+  },
+  {
+   "id": "北朝鮮朝鮮半島東に未詳の飛翔体発射韓国軍",
+   "title": "北朝鮮　朝鮮半島東に未詳の飛翔体発射＝韓国軍",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54NFhvTUNqUmdRTzZEOGNteEdnZlNNTFRGS040SmRIVzR4eXIxaG5QZ0VvS0t3LVJVeUFCVVBTMTNtZmRGVENBaGVpU3hHWnMyQVcwNjYyX082Uk5ZUDJPNTMtZ19MRW5yNkNESUNCdkZ5RzFOZjhJMml0RHAwaGPSAYQBQVVfeXFMT2xnUzl0YnVYX0J6Ukswb1dUZ3prSlY0UkxvaGc4dDBhTGVmMktOVGpjTVpMcV8zT1hWMEhnYjFOZ2hVa2oyVldrRU4yWDhpd2Z6TlhHdWRyZ09sMGZVZ1VDbFdCTnFrOGVtRlM2MzR1RGdINV9JcnRwX1Z4OFdmMHFuSzBX?oc=5",
+   "source": "ｄメニューニュース",
+   "country": "JP",
+   "published": "2026-10-29T04:03:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한 한반도 동쪽에 미상한 비상체 발사=한국군"
+  },
+  {
+   "id": "suspectedballisticmissilelaunchedfromnorthkoreajapan",
+   "title": "Suspected ballistic missile launched from North Korea: Japan",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc21DZ1IwY19UNTBvVDNGRG1OZlBfUHZCRmNoZ1h5cGVVR1hQdjh0b3lCZjEyVmVzaHlsQ042RTluMVhqeDFGRWdXWHNwSVVpOE9CRDVBQVhuVUxCcW9WVVVxS2c2MmR0ellxVmowb2FMTjFvWTNDVVVpajVnTFd4RjY1QkxiLWJSTzZkbjhyWUw5YWJtaEtsV2dVOUFmM2VNQlNKMWdUcHFTVlhTUkhDWmJBdjZLS0FTX2I4a0x0U3k2dlBlamJKUDB3dG8zMWd0NU1HRlVYb0PSAd4BQVVfeXFMTTNsemxGR0VNY1dhME01dzBoUmRueVJJUXBXNWV6UnAzeFAybFI3UVBxaWNEemFsaVJONFJFZUdpT0ZZSkhxRTRCNkhCblAxaG93QlpsSjlmT1huVFB3a3p2SU5jZ1BvU1M0ZUl6aE42NDQzYmIzY0N4ZnFLaFh6TTFuYU82M0RyQmxabDIzLV83UUtoT3Y0dlVZdUdPNnlCN2psQnAtM2VnTkoweVBXNExDS1pKRHVqS1JMQ1VuQ0lZa0d4MXg0Q212b0hsd0JTb1FqXzVwMWVlam1nbnJB?oc=5",
+   "source": "The Times of India",
+   "country": "GB",
+   "published": "2026-10-29T04:00:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한에서 발사된 것으로 의심되는 탄도미사일: 일본"
+  },
+  {
+   "id": "кндрзапустиланеизвестныйснарядвнаправлениияпонскогоморя",
+   "title": "КНДР запустила неизвестный снаряд в направлении Японского моря",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1dzJma3ZYazQ0VVk0ZXNXYkpHeEZmT0dzNHozZEd6UmxkQ3VYc0N3TGxLUlk3V19Zck8xdmZqbGhJTXFiREZERTJfNXRXQdIBS0FVX3lxTE53NFVLeVZyYnpoRmlZb3BDTndTV2phdlV6Rmcyb3I0X0VzS3o5aWh6cUoyNTF5OFNfTHZYdTdPdkU2RVVwYzYzSUJQaw?oc=5",
+   "source": "Интерфакс",
+   "country": "RU",
+   "published": "2026-10-29T04:00:00.000Z",
+   "fields": [],
+   "summary": "북한이 동해 방향으로 정체불명의 미사일을 발사했다."
+  },
+  {
+   "id": "northkoreafiresprojectiletowardseaoffeastcoastsouthkoreamilitarysays",
+   "title": "North Korea fires projectile toward sea off east coast, South Korea military says",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzNuNVZQdld0MjVjOXNTNjVxUWhBQ0h6TFZ6TEJjZW1ROWc4eDE4MnVrdFoycGpPb2FNN2psZFFTeGFnemVZU0dQYW83TkU2WlJ5NWJTTGZ1Z2ZJYVlFVHUtTUFxeGJSd0xQRGVUUVl5ZE9yOFZJZnR4aTlsYkhTVnRocGZGQ2ZFTnJlNF9QcG9LS3NvX0t5Tk9wV0FpSlFZanZOYWdwb1YxOEQ3LVFZbklFaklBbHVkdW5Wd3doRDd4WlZkNWVxNU1fVWNKUWM3?oc=5",
+   "source": "StreetInsider",
+   "country": "GB",
+   "published": "2026-10-29T03:59:53.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 동해상으로 발사체를 발사했다고 한국군이 밝혔습니다."
+  },
+  {
+   "id": "nkoreafireswhatmaybeballisticmissilejapangovt",
+   "title": "N. Korea fires what may be ballistic missile: Japan gov't",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNFMwb1E3WWs5enlldnB0UENRZkF6ejZEMlhkbnU2aDdVeWVoVGtYT0dQTlB1UGVRNGRlaVc2d1FYSUdaYjJuZ1ktS2ZWVS1Xdm1pamlMdGktQ2RUM1lNRllEUUVoblczMUVLd2REdWJLUVE?oc=5",
+   "source": "毎日新聞",
+   "country": "GB",
+   "published": "2026-10-29T03:58:22.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북, 탄도미사일 추정 발사: 일본 정부"
+  },
+  {
+   "id": "ミサイルは日本のｅｅｚ外に落下か全国のニュースweb東奥",
+   "title": "ミサイルは日本のＥＥＺ外に落下か｜全国のニュース｜Web東奥",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4WnFraVJ3QVEtbGdyYlBmSi1ERTl1UVRJWXg1ODRhSDRQWksxc3pFc2s2Nm82SkVuN0FzWDRVZHZWWlBzWFJWdmFtZUVxNEVXeVIzNVZoOWo?oc=5",
+   "source": "東奥日報社",
+   "country": "JP",
+   "published": "2026-10-29T03:57:23.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "미사일은 일본 EEZ 외부로 떨어지는가 | 전국 뉴스 | 웹 히가시 오쿠"
+  },
+  {
+   "id": "北朝鮮が日本海に向けて飛翔体を発射韓国軍発表",
+   "title": "北朝鮮が日本海に向けて飛翔体を発射 韓国軍発表",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lbEtUak5kN0hRc1ZEOGd2NTl2ay1mUk1Ra0RNSm54cTJHTjJHdDIzTFgyQ2pyVzFJaFBXcVFOM1pOWHh4WU1GMVpoTHl4RUxwYzk0aWpWdw?oc=5",
+   "source": "TBS NEWS DIG",
+   "country": "JP",
+   "published": "2026-10-29T03:55:33.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 일본해를 향해 비상체를 발사 한국군 발표"
+  },
+  {
+   "id": "随着朝鲜炮弹向南靠近非军事区韩国的紧张局势正在加剧",
+   "title": "随着朝鲜炮弹向南靠近非军事区，韩国的紧张局势正在加剧。",
+   "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPUk93ZDhkNXFwUDZHWTl5OWYzbnRCSDFMT2pqLWdVdVNRdFJ6Q3F4eFBCZVFuQi1WQzBxR2l5NEt0NEdPMkF4aVZ1SkctN0NoY0d6Q2Y1OUVwaGRHNGRVSjRFN1M1VFc4SXJxX0FtMVk0b2hIdFdKYzNYSXZjUTRvUDlraFAtVHVsMGhBLVpJa2s1NjAtRmJFWDM2Zk1WWnZzV0E0UVlORnd2UmxOZnNycWlJS2EzLVlDRVNHajRRT2hqVjd6d3dDZkc2ZU9YUDBiel9rZWlKR28tbHpKT0E2cHItbU9CUnJILWhCY2M0d3ZBd0pXc19aUVVBVDFLejlYQVF0bWlnRE9PMnZFQ0lVWGJ0dTVDTVNUOTVKTlVuaVZFLVhZdXBJUkJ3YTF5eVJZUmNGMUxlb3hZaWE2czY0OHhpUy1qVUdhVVpyWUo2ZDdMd1lCQ3VkY2dORWdGZzlOa2hzYWh0TDlELVBrSjVlZmJ6Y0xkOExtZmU1eWdmTDlkTHZJckE?oc=5",
+   "source": "www.arch-web.com.tw",
+   "country": "CN",
+   "published": "2026-10-29T03:55:32.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한의 포탄이 비무장지대(DMZ)에 가까워지면서 남쪽으로 긴장이 고조되고 있습니다."
+  },
+  {
+   "id": "北朝鮮から発射された弾道ミサイルの可能性があるものすでに落下か防衛省",
+   "title": "北朝鮮から発射された弾道ミサイルの可能性があるもの すでに落下か 防衛省",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kZ1ZQLXdRR3JEM2ozWElMSXBJcmQ3aG5BbHlxV1N0aEVvUFF5bnVMdVJiYUJoNUFMYkhHc1dZb3lxY19rYUdETm9kX2NYUUJMTzM4MUw3WVhHSDZCbzVOa2FmWHVCVnp3WnVqeE5IWGdndFE?oc=5",
+   "source": "テレ朝NEWS",
+   "country": "JP",
+   "published": "2026-10-29T03:55:20.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한에서 발사된 탄도미사일의 가능성이 있는 것 이미 낙하 또는 방위성"
+  },
+  {
+   "id": "northkoreafiresunidentifiedprojectiletowardsearokmilitary",
+   "title": "North Korea fires ‘unidentified projectile’ toward sea: ROK military",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0NWV2dQUnNKWXZHRjg1amE3ZTUtbXZNQVBWR3gySWZVTkYycDItMU5wLWNJTHU1elZfR3RYUk9uQmlYaE9Gc3A1M3QyengzRlRUbmtnNFNDU0xBSU1KN2Q5Nl9nR2ItVUp5dXI5MWN2SFpKZzN1OUxEV3VEbjZyMTA2TTNPX3dIbHFtRWlHeTk1UFNRMlJkRXJlMXhNUQ?oc=5",
+   "source": "NK News",
+   "country": "GB",
+   "published": "2026-10-29T03:55:02.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 해상 방향으로 '미확인 발사체' 발사 : 국군"
+  },
+  {
+   "id": "快讯日防卫省称朝鲜疑似发射弹道导弹",
+   "title": "快讯：日防卫省称朝鲜疑似发射弹道导弹",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Nd0lrVGxuS2NVMTVIWTZyX1ZWc3ZiNlkxZktyZGRUbHNrWlBxNnd0d04xX2ktc29ERDUtVC1hbm5ZU25LUVBJRzZVd1ptTC1ocDNfeWVqSQ?oc=5",
+   "source": "共同网",
+   "country": "CN",
+   "published": "2026-10-29T03:54:35.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "속보: 일본 국방부는 북한이 탄도미사일을 발사했을 수도 있다고 밝혔습니다."
+  },
+  {
+   "id": "北朝鮮から弾道ミサイルの可能性があるものが発射防衛省",
+   "title": "北朝鮮から弾道ミサイルの可能性があるものが発射 防衛省",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfaVl1X3h3OWRabDJEYjZheDVqUTg2N2F6RHFrcXRBZXBHcXZHS3pMc0FXU0I0dVBCR1dTYUs2Y1F0TExSc01KVXNZZFpTeGVhOWFGWU5PcUhDQkJLX3NTNTVsUGpGQnFRY1FtQXFWRDR2Q00?oc=5",
+   "source": "テレ朝NEWS",
+   "country": "JP",
+   "published": "2026-10-29T03:54:33.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한에서 탄도미사일의 가능성이 있는 것이 발사 방위성"
+  },
+  {
+   "id": "northkorealaunchesanunidentifiedprojectileoffitseastcoastsouthkoreasaysnationaln",
+   "title": "North Korea launches an unidentified projectile off its east coast, South Korea says | National News | 2news.com",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUTJkdHF1QlpJUEduMTAxdVkyMWZHbkFGTS0wcWl5RGdHWlQyM0RQeFpFckF3UmpkVTV4dFRyakhjdnp0TGNoT2pPS1VSWWkyYkd4X1dnYkxHcHotcFFkN1htdzRKNF9uZ2FBT3J5cGJZTFN3bHZQVnRraThUc0lrdGVrZS1NdXFUZDZTRWk0cUJaZkxwWkl3b0oxZU9MeS1TdkRLSFBucUVpZE96S1JqcDVtZTBmRjVTZldqZkJmcFUxUW1PeEZOOE1kcTJrdWlFRkpkSjk0TlpFaEhiX3ItM2xfWDU0b0FRaUNKUkNxVE5LOS1CQTk2Z1k2NA?oc=5",
+   "source": "KTVN",
+   "country": "GB",
+   "published": "2026-10-29T03:54:26.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 동해상에서 미확인 발사체를 발사했다고 한국 정부가 밝혔습니다. 전국 뉴스 | 2news.com"
+  },
+  {
+   "id": "北朝鮮弾道ミサイル発射かすでに落下したとみられると日本の防衛省",
+   "title": "北朝鮮、弾道ミサイル発射か すでに落下したとみられると日本の防衛省",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1VCbFhwNk5ETHFGTnMzcTRvcGRzTkdhTExFUEFLakZ1OTFlM043bURvd2p3SXdjSHNKclhGc2hsald6N0FRWTVYVFJYelBSVF9RQ0tzOGpzN0t3X2R4eXBwcGJiM1YtTVdZYmI1Z2IyRHZjUVFlaHdGY0Qta1FsOTRBNHF1Z00?oc=5",
+   "source": "Reuters",
+   "country": "JP",
+   "published": "2026-10-29T03:54:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 탄도미사일 발사인가 이미 낙하한 것으로 보이면 일본의 방위성"
+  },
+  {
+   "id": "北朝鮮が弾道ミサイル発射か既に落下とみられる防衛省毎日新聞",
+   "title": "北朝鮮が弾道ミサイル発射か、既に落下とみられる 防衛省（毎日新聞）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yR25rTk80dVF0b0FEbWI4elcwX2lQaDBrUDd5cTRWMmYxM214ekYwcmJLT1NuQXlRaFZzVGt5Q3h1U0luVm9sWVZtSlVycTR1TWlZQzBjYTUtbm5IcG5mRjJPVU16aVFqemxlRkNMRlJhV0lHV090NmRRS2gxMk0?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-10-29T03:53:05.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 탄도미사일 발사나 이미 낙하로 보이는 방위성(매일 신문)"
+  },
+  {
+   "id": "breakingjcsnorthkoreafiresunidentifiedprojectileintodonghae",
+   "title": "BREAKING: JCS: \"North Korea Fires Unidentified Projectile into DONGHAE\"",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DQnlXYlNEWjYwdXpQWERWdS1aeWJXbm1jUXFqWi1ZbGk4VWJfVFlMSGZzZ2tsQkpGYmtEYmhBZk5wQlVPTkZkbkQwQ3VZb3ljbTJhZHdSekJfRENVekw3OTJRVDVwSjlvZnlCYzRB?oc=5",
+   "source": "news.sbs.co.kr",
+   "country": "GB",
+   "published": "2026-10-29T03:52:33.000Z",
+   "fields": [],
+   "summary": "속보: 합참: \"북, 동해에 미확인 발사체 발사\""
+  },
+  {
+   "id": "northkoreafiresprojectilepossiblyaballisticmissilejapansdefenseministrysays",
+   "title": "North Korea Fires Projectile, Possibly a Ballistic Missile, Japan’s Defense Ministry Says",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpTDBOaWVDYm50QUlxai12Smt5ODJTSnJET3M0Z2l1MXZUdy1ncnJpNG5MX0J4RUVGc2p1LWJveENTd2ZaN0RkNkxoS0FEN1d4WTNIbkxibWFxbUc5aDlxaW5GdHV4aUx4bERIX1RsN2hPNHJ5SktrcG9VcW9RU2s?oc=5",
+   "source": "The Japan News",
+   "country": "GB",
+   "published": "2026-10-29T03:52:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 탄도미사일로 추정되는 발사체를 발사했다고 일본 방위성이 밝혔습니다."
+  },
+  {
+   "id": "北朝鮮が弾道ミサイル発射か既に落下とみられる防衛省",
+   "title": "北朝鮮が弾道ミサイル発射か、既に落下とみられる　防衛省",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaXVKZkEyVFJGT3c1cnh6Qm92R3pNZEpxZ1JOZFZabm9ab0pGVVB6Z3FGaWZfTE56ZnN0OFpRLWFTVFJiOXFnWDdwT1dDM2YxTkVEVHZSazVLdGl6WG5XVmtoZXpJRmswRFU5cnlmOXpPemlxU3NVM1NVTExtSno0OFdfZVpBRENJaW8yd1BYNzRFQdIBlwFBVV95cUxPSzlTWVg0VFpiWUhuUXZpdW5wQXhxdk1acjM1dzRlckNsa3dhRmZ1QU1IY0tQa1hwNEpaSFAtQzZVVjktMllrcnpuUktGX2dQdHFVbWdpcHpKSE4tS050VldBbWhVWXlVWGs2LXExd3FnbU1CX2h5R0dTOUZKRThZbFFheG1odWdMcnhFVVRsWF9NcHdlZjhj?oc=5",
+   "source": "ｄメニューニュース",
+   "country": "JP",
+   "published": "2026-10-29T03:52:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 탄도 미사일 발사인가, 이미 낙하로 보이는 방위성"
+  },
+  {
+   "id": "北朝鮮日本海に向けて飛翔体発射韓国軍発表",
+   "title": "北朝鮮、日本海に向けて飛翔体発射 韓国軍発表",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAySm84WGVwYjBHam5JYmRxU3R1WXVmMkY4ZWhKNVU2NmxBRDBrT1JpLTVsbzV4SnFJbVE2c05pTW1PcjEtTDQ0UHF0eFNFLWJoMzhjZXdmUG1tUkhzT09UcXJ4QVlMMDltb043Tw?oc=5",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-10-29T03:50:05.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 일본해를 향해 비상체 발사 한국군 발표"
+  },
+  {
+   "id": "速報北朝鮮から発射された弾道ミサイルの可能性があるものはすでに落下か防衛省",
+   "title": "【速報】北朝鮮から発射された弾道ミサイルの可能性があるものはすでに落下か～防衛省",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rY3lEMS1UT3RucUtlODdzb0diVF8xcUFEM0VVN3pCbE1YSTNUWDV4eTlqZUsxenVBVkVDUVo0YnNVNGhjM1hZRXBmZDlTTEZnb1lWdjdnTlc0SG1scFptdkZtN1dUU3liellnbG12MDFzUGtBdFJHZHVMTW8?oc=5",
+   "source": "日テレNEWS NNN",
+   "country": "JP",
+   "published": "2026-10-29T03:49:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "【속보】북한으로부터 발사된 탄도 미사일의 가능성이 있는 것은 이미 낙하인가～방위성"
+  },
+  {
+   "id": "北朝鮮が弾道ミサイルの可能性があるものを発射すでに落下と推定防衛省発表",
+   "title": "北朝鮮が弾道ミサイルの可能性があるものを発射、すでに落下と推定…防衛省発表",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oWVFjMktYN3dWQ05Mc2hJUG9yWUVXeGVtOTc0QVNIR3ExLXdUaVR6ckVkSERGT2ZOd05rMzJIc3ZUa2FUdmNjMF9Fb294cmNGYlJvMDVZQmo4djAzOG1uR3FDR0tkSzlqXzhEVHg3ZFlyZw?oc=5",
+   "source": "Infoseek",
+   "country": "JP",
+   "published": "2026-10-29T03:49:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 탄도미사일의 가능성이 있는 것을 발사, 이미 낙하로 추정… 방위성 발표"
+  },
+  {
+   "id": "速報北朝鮮が発射した弾道ミサイルの可能性があるものはすでに落下したとみられる防衛省",
+   "title": "【速報】北朝鮮が発射した弾道ミサイルの可能性があるものは すでに落下したとみられる 防衛省",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DaWRNYUYxQXZXNGc5bFJLWXNiQXpnMVdLR1NLYkxHTU5NYXF4S0d1VXY1RlZndjFqRGJxQlpvR0NrUTZhNzV4STlsQy1VMkZyRGlBRW1NQkpvYXNIMnN4RGxyVVJhV1RiUGFyT2p0ZGFvb01qTHFFMkxjcU1VaEE?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-10-29T03:48:24.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "【속보】 북한이 발사한 탄도미사일의 가능성이 있는 것은 이미 낙하한 것으로 보인다 방위성"
+  },
+  {
+   "id": "北朝鮮が弾道ミサイルの可能性があるものを発射すでに落下と推定防衛省発表読売新聞オンライン",
+   "title": "北朝鮮が弾道ミサイルの可能性があるものを発射、すでに落下と推定…防衛省発表（読売新聞オンライン）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yaXdQNExJTmxxekZLMTI0cXVvcTBDRHBiU2pUNC01SEVtVjFGSXB0d1Fzel9palRaZ2Fwek4zN3hnOFpwQ003RjJ1ejM2eXZpVXZBOTIxWGdzUHpmZWdoZ2xSSUx3QU96OUJwWHhpS0xlSGYwRl9tVDRJNG04QlE?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-10-29T03:48:19.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 탄도미사일의 가능성이 있는 것을 발사, 이미 낙하로 추정… 방위성 발표(요미우리 신문 온라인)"
+  },
+  {
+   "id": "速報防衛省によると北朝鮮から発射された弾道ミサイルの可能性があるものは既に落下したとみられる",
+   "title": "【速報】防衛省によると、北朝鮮から発射された弾道ミサイルの可能性があるものは既に落下したとみられる",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FQUdTeUI1cjI0YlNBbnc1RVo1QkpUcHlaR3JzT3BkUmJjWlhaTmVja3c2QnoxbXc4emR5MVBVXzFuMDJHNk9RazhENGVlWjdHMXVhT1dZUzA0aGRETmcxS2kyaHJWZw?oc=5",
+   "source": "時事ドットコム",
+   "country": "JP",
+   "published": "2026-10-29T03:48:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "【속보】 방위성에 의하면, 북한으로부터 발사된 탄도 미사일의 가능성이 있는 것은 이미 낙하한 것으로 보인다"
+  },
+  {
+   "id": "速報北朝鮮から発射された弾道ミサイルの可能性があるものすでに落下か防衛省テレビ朝日系ann",
+   "title": "【速報】北朝鮮から発射された弾道ミサイルの可能性があるもの すでに落下か 防衛省（テレビ朝日系（ANN））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ibzVkSWVDTG5jLTdlLVRGMFNUWVl3MTdyUEhWODFHemhvanhjTXRFejBuV1l4MXkyZUxrQkZGb1JjcHljMzZJNmhaVzJHRWl3eWwyX09uRm8wZ0VnWGtkcmJMRVU0cXo1OHhkamlCT09KdzJFUEVQVHRuQXBETG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-10-29T03:47:08.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "【속보】북한으로부터 발사된 탄도 미사일의 가능성이 있는 것 이미 낙하인가 방위성(텔레비전 아사히계(ANN))"
+  },
+  {
+   "id": "北朝鮮弾道ミサイルの可能性があるものを発射防衛省発表",
+   "title": "北朝鮮、弾道ミサイルの可能性があるものを発射…防衛省発表",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42aDQtYUlNOVh6Ry1tSFlZRUk0eGc5dXFJRW0tTF81b3BabjhheTk3SlNpWk13UEtNUEY2dmNqT0hqelh6NWhYRU45Z2JISHZzVllsdGlOVVh2WDQ2b1Q0dVI0ZVJHekNVc29FNkFB?oc=5",
+   "source": "au Webポータル",
+   "country": "JP",
+   "published": "2026-10-29T03:47:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 탄도미사일의 가능성이 있는 것을 발사… 방위성 발표"
+  },
+  {
+   "id": "速報北朝鮮が発射した弾道ミサイルの可能性があるものすでに落下したもよう防衛省",
+   "title": "【速報】北朝鮮が発射した弾道ミサイルの可能性があるもの すでに落下したもよう 防衛省",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSc2xOWF9LVWdnaEY4TFdGMmJsbXNwNmZjNXVfazB4dFk5bURVN095VE9PMjBoQjRkSGlNTkhfZ3hXaTJDZ29YTEFEVk1HNF9Q?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-10-29T03:46:47.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "【속보】북한이 발사한 탄도미사일의 가능성이 있는 것 이미 낙하한 것처럼 방위성"
+  },
+  {
+   "id": "北朝鮮がミサイル発射か",
+   "title": "北朝鮮がミサイル発射か",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KMnJqMm5hc1Jud2Zwbnp0YnNONU85enRJaU9uc2tQa3pKU2ZpTVhEelduM0xaZ3dWQ3NUejZRdkxVaGplbUw3OHNJbjFlZDF5S1oyTEphOHY?oc=5",
+   "source": "京都新聞デジタル",
+   "country": "JP",
+   "published": "2026-10-29T03:46:24.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 미사일 발사인가?"
+  },
+  {
+   "id": "北朝鮮弾道ミサイル発射か",
+   "title": "北朝鮮、弾道ミサイル発射か",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rSHBhemdodHJrT3lBMFZJTUlrdEU3b0tsc1dQTkZoSWJaVnc4ZGpwZENSaUdyMmRHY1VjMk5KYnhjVDNLTUo0Mm1DZVAzQU5ONTJzTlJvaGhVTldCZUlxbmZ6eWtDRDRpMXFmb2R1UzFsNFFhejUwck5JY07SAYIBQVVfeXFMTkk5NFRXdkFadFY0eHNZb0hrQU5JbWlKN1c4TGdENDhGLXVmVzZXVV85czhSWTRhd0xRbTlJNU1uYkhfTXFxNmRlMkhTR2pvMWFneGhWZEpFTmVkRFI4dWkzQ0xWc1pXMzczQy1POC1lMjIxRkEybm1TSVhFdTg5ZHpGZw?oc=5",
+   "source": "ｄメニューニュース",
+   "country": "JP",
+   "published": "2026-10-29T03:46:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 탄도 미사일 발사?"
+  },
+  {
+   "id": "nkoreafiresunidentifiedprojectiletowardeastseajcs",
+   "title": "N. Korea fires unidentified projectile toward East Sea: JCS",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnMkFGSW5TOGNwQmZvLXhpY2s4WGozR2lXalBFWVN2Wnc0b2dtcFB2bGpDa21LWk5pekZsVHU4SU5SZTNWd0RSVGk2d09JZnZSODRjV0hIVXBLUQ?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "GB",
+   "published": "2026-10-29T03:45:24.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북, 동해상으로 미확인 발사체 발사 : 합참"
+  },
+  {
+   "id": "кимченынпризвалкомандировармиикндрготовитьсяквозможнойвойне",
+   "title": "Ким Чен Ын призвал командиров армии КНДР готовиться к возможной войне",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdm1Ta2E0ZjZhRzNSUXhTcW1aOEtMRUxXZjNiWnFPeTBScDY3VVVpNlV6R3IzNDhHTVlRQW1ndEF2RFNwMGJuVVBjakpDTHVEVW1wMGFGUzN4b2RrN2RBZ3JTX1Q4QThYd3ZZUThhNWpWeWJEWUlPbFFmdzFJZWN6VThSVElrZlBESzhpS2dUQXVkMXd5Y3ZoQnlKdmJjTHA0Y2pibg?oc=5",
+   "source": "Podrobno.uz",
+   "country": "RU",
+   "published": "2026-10-29T03:45:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 북한군 사령관들에게 전쟁 준비 지시"
+  },
+  {
+   "id": "breakingnorthkoreafiresunidentifiedprojectileintoeastsea",
+   "title": "[Breaking] North Korea Fires Unidentified Projectile into East Sea",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CMWJiMkxHT0wtZXFvX1lJN3VDMG11OWQ4VkdrdnkyelN0MGdycF95T0NDanVfVVR4NzYxejBUaUQ0bU5ndjlfWlBlMWFCNjdWUjNfaTVWQWt0Z3FzRXlWbTNFbjk?oc=5",
+   "source": "아시아경제",
+   "country": "GB",
+   "published": "2026-10-29T03:44:20.000Z",
+   "fields": [],
+   "summary": "[속보] 북한, 동해상으로 미확인 발사체 발사"
+  },
+  {
+   "id": "快讯朝鲜向东海发射不明飞行物阿视亚经济",
+   "title": "[快讯] 朝鲜向东海发射不明飞行物- 阿视亚经济",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtRlVSQk1iUUVVRTBLRHhvcDJlSmtRQXVKaUxOeU1RUUZuU1ZxU0tiMjNUUnJ1emtwUG5FXzlNNVFtazF6NFdJNnVxaENhRjAwX1llcnMwbGlNOWt0a0JkSU1lOXc?oc=5",
+   "source": "아시아경제",
+   "country": "CN",
+   "published": "2026-10-29T03:44:20.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "[뉴스] 북한, 동중국해에 UFO 발사 - ATV 경제"
+  },
+  {
+   "id": "速報北朝鮮が弾道ミサイルの可能性あるものを発射防衛省2026年10月28日掲載日テレnewsnnn",
+   "title": "【速報】北朝鮮が弾道ミサイルの可能性あるものを発射～防衛省（2026年10月28日掲載）｜日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Mc3VLNWh1NEZzNDR1aWF2VlNVRGR5ZmxzTTc2U0xmazBtWTBFc050Nnh4THZPdVRxR1NJRy03YlZaMzNCRjdsTUR0YkRNMWlZbzJmTW5KSlhkUDMyZDJsLW5mbE1XUFdwVnMtQVpKVjZiUUlDaHhZWGMwaUg?oc=5",
+   "source": "日テレNEWS NNN",
+   "country": "JP",
+   "published": "2026-10-29T03:44:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "【속보】북한이 탄도 미사일의 가능성 있는 것을 발사~방위성(2026년 10월 28일 게재) |일 텔레 NEWS NNN"
+  },
+  {
+   "id": "防衛省北朝鮮から弾道ミサイルかすでに落下と推定",
+   "title": "防衛省“北朝鮮から弾道ミサイルか すでに落下と推定”",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UV0hfWUFrQ3poLTk1ZC1xVmlfcnBub0xfZE9hYW5HdWtGOU9WeDdHa3RGUTMzQXZfT0Z6SmJNd2ZZckU1eDBGYi1NMHY4bXRyWWZtb0hrbUZJZm05LWhv?oc=5",
+   "source": "NHKニュース",
+   "country": "JP",
+   "published": "2026-10-29T03:43:20.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "방위성 “북한에서 탄도 미사일인가 이미 낙하로 추정”"
+  },
+  {
+   "id": "速報北朝鮮から弾道ミサイルの可能性があるものが発射防衛省テレビ朝日系ann",
+   "title": "【速報】北朝鮮から弾道ミサイルの可能性があるものが発射 防衛省（テレビ朝日系（ANN））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBObnJGQW1mSmJlR18ycHJaYUhFZmhtM19Pa1lSU1JVWnBBbjhxQ3F0NThiUEZPUDgxcVhHaHl3bElPOEVfZDk1RVBEdTNKaUJDYmlxdUZQdVFpbmxDNF84eTY1QWNVektFTVl5UEMtU3RSTGhQVmlzODRfTU5XUkU?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-10-29T03:42:28.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "【속보】북한으로부터 탄도 미사일의 가능성이 있는 것이 발사 방위성(TV 아사히계(ANN))"
+  },
+  {
+   "id": "速報北朝鮮が発射した弾道ミサイルの可能性があるものすでに落下したもよう防衛省tbsnewsdigpoweredbyjnn",
+   "title": "【速報】北朝鮮が発射した弾道ミサイルの可能性があるもの すでに落下したもよう 防衛省（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XN3Z1Z243VlBaT3FaZDBMMTY5TnBJREZsckNOckxUTkVKTVZFYXk3TDd1ajlOa0RXS3I1S0lpYzBLQU9hbTZoYS1GM3hrQWZoWk5CNWpBSF9oWC0zMFB2RVdGOHh4RjZvODNQN0tjM2FhZTdCc3F6cTRPYnQ4Z2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-10-29T03:42:09.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "【속보】북한이 발사한 탄도 미사일의 가능성이 있는 것 이미 낙하한 것처럼 방위성(TBS NEWS DIG Powered by JNN)"
+  },
+  {
+   "id": "速報北朝鮮が弾道ミサイルの可能性のあるもの発射防衛省",
+   "title": "【速報】北朝鮮が弾道ミサイルの可能性のあるもの発射 防衛省",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKX01hblEzZGlFTDdwMTdXaDZndTZzajVMUFl0cVpla3pRTkxySnNteVFiOC1rTG9SR2ZuTHlRQmU1YTZkbDExTy1QVFVKOGNwSWxkX2F2bmhWLVMwaDZBQ1dNVTF0V2FjQlVLRGtn0gFzQVVfeXFMTXdLV0RqNjJnZzNMd01PNDB4cncwdGhsNnJLYlpBTmtWLTJDazBHNnRWQnM5VjlBY1J4Wi1ITE1tRm1HZjM3NUZVMlFjbEFCclMxR0wzU0hnYVRBbjhnNEstY2piUHZXaXd2c1k0TEs1Yk9Pdw?oc=5",
+   "source": "ｄメニューニュース",
+   "country": "JP",
+   "published": "2026-10-29T03:42:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "【속보】북한이 탄도 미사일의 가능성이 있는 것 발사 방위성"
+  },
+  {
+   "id": "北朝鮮が弾道ミサイルの可能性があるものを発射防衛省fnnプライムオンラインフジテレビ系",
+   "title": "北朝鮮が弾道ミサイルの可能性があるものを発射 防衛省（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iWVhRN2pyOTdKS2thejlMMHJDQkpyMTJaWVo0QnZqMG0tNGc0T2ZpdGJVTzZCT1NJNXF1elBmZWFNeVFDcVc0Zi15ZXNXMXpmN2p2cVh5cThwclRDRFdGc3E5cWVMQjBPb0tMcnVELThiTUJHaWYxVTBDY1dNOG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-10-29T03:41:21.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 탄도미사일의 가능성이 있는 것을 발사 방위성(FNN 프라임 온라인(후지TV계))"
+  },
+  {
+   "id": "北朝鮮ipから韓国金融機関へ440万件超の接続試行当局が緊急点検を要請",
+   "title": "北朝鮮IPから韓国金融機関へ440万件超の接続試行…当局が緊急点検を要請",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QOHJjYzZMNlI0RFNSYTE2YW1FdU5FV01uR3B0ZWRrTjFQQ0JZdERxek5Mdk5wXzgzQlByWDdtaTFSRS1RNWpoX3hYYkRNYlZEc0d2YkpReXZra3AxNVJ2eWE4R0JhWGQyc21NVzh5ZXlOUdIBVEFVX3lxTE5kWGtSSkNEcXY1enJtWmtSTVJ3VlJYVUdMQ0h4bGViZ0lGRER3MFVSVFZwVVlWOVJveTMweEJraDJFd01pUGp3ak83Z2V3b0haRjJuQw?oc=5",
+   "source": "AFPBB News",
+   "country": "JP",
+   "published": "2026-10-29T03:15:49.000Z",
+   "fields": [],
+   "summary": "북한 IP에서 한국 금융기관으로 440만 건 이상의 연결 시도… 당국이 긴급 점검을 요청"
+  },
+  {
+   "id": "сшаисоюзникипризваликндротказатьсяотядернойпрограммы",
+   "title": "США и союзники призвали КНДР отказаться от ядерной программы",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSW1MYlhtc3d3bWhxdWZBMEtTQVE0V0tfa240MWNqVFVoYlVWYzFBN1BSN2hhY2ZGVnM4ajA4bVkySVZsRzduSUQwME5mZ25CeWlhVi1ieVU2R1I0OHZkU0VzWGItUjhLT1daa1owTzlpTnlzb0h0WFJyd0EyYU80VkIxYXNTUF9TeUtFVktEUy1mWmZCU1p0SVlyZXdRQWM4?oc=5",
+   "source": "Operativ Məlumat Mərkəzi",
+   "country": "RU",
+   "published": "2026-10-29T03:06:21.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "미국과 동맹국들은 북한에 핵 프로그램 포기를 촉구했다."
+  },
+  {
+   "id": "sixnorthkoreanskilledintraincollisioninrussiasfareast",
+   "title": "Six North Koreans killed in train collision in Russia’s Far East",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NXzZoQ3c5MDdqR0Q0U1B5WGplVlozdGhzSDFfQVRTUXpWcXRzaHdRSkNCMUpTMHVYNXNQWm84MUFGUUhFRTB5SFlDS09yMmNyUFZHYlFiYw?oc=5",
+   "source": "The Korea Herald",
+   "country": "GB",
+   "published": "2026-10-29T03:03:21.000Z",
+   "fields": [],
+   "summary": "러시아 극동지역에서 열차충돌로 북한인 6명 사망"
+  },
+  {
+   "id": "심상치않은북한핵경보시해야할일은자막뉴스",
+   "title": "심상치 않은 북한…핵 경보시 해야 할 일은? [자막뉴스]",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04SnA3TVpqbTdXbGtMREZPV2k3RTVqRGg5ODUxeVVWaDJCa1dNRGxVWFE5LVRWTk1TcEROVUpCVEduQ3VZU0ROTVg1aFkycnY1RFN0Zm1ReHNraVh2TmfSAWNBVV95cUxQbTNZNUc1STB1c1VKSlNEemNvbzEtemxqc3dZcTUxRERPLVpPRlcySS1uOUR2Qk52NE1ldE5raVc2Tk96Wk1nZU1jY0JJQ1FULU93ZUNselRMTEJENEUwQ3N5Rkk?oc=5",
+   "source": "채널A",
+   "country": "KR",
+   "via": "broadcast",
+   "published": "2026-10-29T02:53:00.000Z",
+   "fields": [],
+   "summary": "심상치 않은 북한…핵 경보시 해야 할 일은? [자막뉴스]"
+  },
+  {
+   "id": "northkoreatargetingcashstrappedamericansinexpandingjobscamfbi",
+   "title": "North Korea targeting cash-strapped Americans in expanding job scam: FBI",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzJxc19xVXR1RHVnNlJXQ1M1STB0c0RvQ1ZyNEsxV3Utb0VlSkxwYkllZS0zV0Fvd1ZHZUFFWFRTR3pRTllEOS00Skd6NlhiT1lLRHFEdFctUUNodmxFNTJNSDBkNWkydUNteGZYcVlrWGZQdlRhdHdTbnVjX0doWHhpNHZEQzNhWTlIS05QeW9ucDNnM0Vnb1ZoNzBoTC1yRldtQXYwTy0yUdIBrwFBVV95cUxOV3luODBjWkprMzhhenhFMVA2ZHJLMWw0MFRjWHJEMFU2OGFDQ1lINXQ2RjhKY0x0d1VpTlJPYW5sU2Z6eXh2d25WUGtfS2VUdUw5ajFPSGluQXkza3hNNG9iZGtsZWVVOHVEOEVNQXJGTXNUc0FObnpLVVYySUo5VFdlWk9oR19YYW9wQk8yTWxaRnpFRlFmZ2NxUjNMUll2SW40WkhpTl9XSmNKandv?oc=5",
+   "source": "KTLA",
+   "country": "GB",
+   "published": "2026-10-29T02:47:59.000Z",
+   "fields": [],
+   "summary": "북한, 취업사기 확대로 현금난 미국인 표적으로 삼다: FBI"
+  },
+  {
+   "id": "southkoreasuccessfullytestshypersonicmissile",
+   "title": "South Korea Successfully Tests Hypersonic Missile",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeE9qQ1luZzdiVi1HM1FUTktRZFBjdDRpWjI0N3FNWUxrTTctSTFPTmdsV2hpRElOR0IzT3dtNGtDZmFnQkRVRnRpUXRvMkRHdjg4YWNBZXFKcElGZHBLNVdEbXFXSWNPY3U5Nl9TZVo2TmZrUGdWY1dhZ091STRKWjdXYzFFUjlYRzNZTXBtM3ZDUms?oc=5",
+   "source": "Eurasia Review",
+   "country": "GB",
+   "published": "2026-10-29T02:44:54.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "한국, 극초음속 미사일 시험 성공"
+  },
+  {
+   "id": "сшаввелисанкциипротивроссиянпомогавшихсевернойкореезарабатыватьнаitмошенничестве",
+   "title": "США ввели санкции против россиян, помогавших Северной Корее зарабатывать на IT-мошенничестве",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sbGQtRUJEWVBlc2VRMmZTcHpwYWV2czlEQUxuUS0zUXRibVJZTl8zVFNlTHBGWVlCWng1LV9Ga2ZZUTBOZ0tUSGU1SDZEUlRtdWZCX0F1ZnM2LUFUUzAtUDVubHVncTg?oc=5",
+   "source": "Slavic Sacramento",
+   "country": "RU",
+   "published": "2026-10-29T02:36:36.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "미국이 북한의 IT 사기로 돈을 벌도록 도운 러시아인들에 대해 제재를 가했다."
+  },
+  {
+   "id": "金正恩氏の突然の丹東訪問に沸く中朝国境12年ぶり開通の新鴨緑江大橋が映し出す経済再開への期待と外交の現実",
+   "title": "金正恩氏の突然の丹東訪問に沸く中朝国境､12年ぶり開通の新鴨緑江大橋が映し出す経済再開への期待と外交の現実",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pV3QyQUU5em1yb3NGNVg1c2ZUTHdXZzE5cUJHMW54SVVZbGsyckFMNnhYbElsNUdXV2tWWllkUkNCY2gzdTVKUG1hNC1NeHQwM2daM0dOOUozaUU?oc=5",
+   "source": "東洋経済オンライン",
+   "country": "JP",
+   "published": "2026-10-29T02:30:00.000Z",
+   "fields": [
+    "politics",
+    "security",
+    "economy"
+   ],
+   "summary": "김정은씨의 갑작스런 단동 방문에 끓는 중조 국경, 12년 만에 개통된 신가모 녹강 대교가 비추는 경제 재개에 대한 기대와 외교의 현실"
+  },
+  {
+   "id": "кимченынпотребовалзавершитьподготовкукбоевымдействиям",
+   "title": "Ким Чен Ын потребовал завершить подготовку к боевым действиям",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DUkVCcm1MWWhQTk5nT3YyVDBYaW9iNWpJaW9ZVWV2NG9makliZldETXBqaUFXdkJjSGhGZUxPLWt4WHRhNm0zRWlPOTVvclR3eExKRi1va1JKRDZwNFlzYkswWGJiSG9aMWV6dXF5NDJzLUVuMndrNw?oc=5",
+   "source": "365info.kz",
+   "country": "RU",
+   "published": "2026-10-29T02:26:31.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은, 적대행위 준비 완료 촉구"
+  },
+  {
+   "id": "北朝鮮と韓国で大使を務めた韓半島専門家のコリンクルックス駐韓英国大使が4年以上の韓国大使生活を終え外交官職から退く流暢な韓国語の実力と韓国文化に対する深い理解で",
+   "title": "北朝鮮と韓国で大使を務めた韓半島専門家のコリン·クルックス駐韓英国大使が、4年以上の韓国大使生活を終え、外交官職から退く。 流暢な韓国語の実力と韓国文化に対する深い理解で有名な彼は、韓国人の妻を持ち",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rbFliWE0zbFlKV1ZhNVBieWp1MmtpNzB2SEZrUkJXcGRIckc3TGZhVUJ1RHpYbndZN0NPd1FhcU1wOC1ra2xlU2JEVV9hNU0?oc=5",
+   "source": "매일경제",
+   "country": "JP",
+   "published": "2026-10-29T02:21:23.000Z",
+   "fields": [
+    "politics",
+    "society"
+   ],
+   "summary": "북한과 한국에서 대사를 맡은 한반도 전문가인 콜린 크룩스 주한 영국 대사가 4년 이상의 한국 대사 생활을 마치고 외교관직에서 물러난다. 유창한 한국어 실력과 한국 문화에 대한 깊은 이해로 유명한 그는 한국인의 아내를 가지고"
+  },
+  {
+   "id": "кимченынпризвалармиюготовитьсяквойненафонеростанапряжённости",
+   "title": "Ким Чен Ын призвал армию готовиться к войне на фоне роста напряжённости",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGZMRGFPN1J2dGdOZDRlWkNHcGRKSDcwZWNTaGFQdWlHS0VoUGdycnRCTmFzeGhoYWtMT25UZHhxdHl0b2FRUWhoWmljTnlKNHVRM095SmNkUFVZSkVzMFFlYWxyZnJRZmRRZy1QVktxTi05QVpFdzNCaXd5ZlJMN1lJcWhBX1lPQzU4UC15dkdXcjBVemYyTG9yNGM?oc=5",
+   "source": "TengriNews",
+   "country": "RU",
+   "published": "2026-10-29T02:20:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 긴장 고조 속에서 군대에 전쟁 준비 촉구"
+  },
+  {
+   "id": "朝鲜6球大胜东道主摩洛哥杀进八强向着u17女足世界杯三连冠迈进",
+   "title": "朝鲜6球大胜东道主摩洛哥杀进八强，向着U17女足世界杯三连冠迈进",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc1E0aUJnV2x5cnRlbktNOThmSVZTUkxhV0JyNk1wMDlBTDByV0tCa2dLRjhuQTRTRzhRUXRkMmVGamRxQlNfMEpKY2t5X29CTVl3WC1naHU2S0YwdklYU2VHZmZJc29nWHdyTnpwOXFRMkF2cGw3U0VKQTBzV2oxVnFWQVZsOGpiRnlRRg?oc=5",
+   "source": "搜狐网",
+   "country": "CN",
+   "published": "2026-10-29T02:18:33.000Z",
+   "fields": [
+    "society",
+    "women",
+    "youth"
+   ],
+   "summary": "북한은 개최국 모로코를 6골로 꺾고 8강에 진출해 3년 연속 U17 여자 월드컵 우승을 노렸다."
+  },
+  {
+   "id": "japanalliesreaffirmcommitmenttonorthkoreasanctions",
+   "title": "Japan, Allies Reaffirm Commitment to North Korea Sanctions",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Lc0NFcmpRTE5pYTJkVWVWSTZ2cGNxcXpYTzcyd0lTa2JZSVVoX1pqZzhteUR1YXZJVDJrNWlVOU5naEVJcmZYYVZkMV80Sk9NckhBanl4WQ?oc=5",
+   "source": "The Annapurna Express",
+   "country": "GB",
+   "published": "2026-10-29T02:16:20.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "일본과 동맹국, 대북 제재 의지 재확인"
+  },
+  {
+   "id": "trumpadministrationsanctionsnorthkoreannetworkaccusedofinfiltratinguscompanies",
+   "title": "Trump administration sanctions North Korean network accused of infiltrating US companies",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSFBwd05zdzczbzhraDVqaWc4ZTI1SWtvSFo0ZUpMS3VjUno4NTNDbUJpdUp5aF9TR01RN0xCSWpEMGFQaTJVZ1dxRkFZYWx0bDRYYzh3Q2VHUUR6X2lVeTJjRzFsYnhieG53NlBrUVdfOXVtMGxtZEJrejlCUURYUlRUTE85ZnhXY1FjclpQRElmb3B0dkFTM3VibFFXWXRCMEc2eGR5cGRZVHZJTHM3X3BWS0ZudTdZOWkxbUNZUWkxQdIBxwFBVV95cUxQdDcwdmphUkhNWU5neVJvaTJxZGd3cTJ1R3FHNnJhcmJpeXhzWkhHWHVOQl82Wm0tTGdLdURBMFpOeldTNTRkM0lxRmFzWUN2Wm5mS2l2Mm9fSlg1dGJQQ0VHbXd6aFBfOU55Q3c1Z2NrTlN4NU81dEhzZU9qVDE4UEMyWHhnclZtSG5lbGhndlFIbDU0aEUxWDhPZDhCMm1feXZNYkRJdTZZT3JRbEM3RFowYmY1bWVSZUVyRGp5eF9xNUl4cUxJ?oc=5",
+   "source": "Fox Business",
+   "country": "GB",
+   "published": "2026-10-29T02:09:00.000Z",
+   "fields": [
+    "politics",
+    "economy"
+   ],
+   "summary": "트럼프 행정부, 미국 기업 침투 혐의로 북한 네트워크 제재"
+  },
+  {
+   "id": "moscowpyongyangbacknetworksendingworkerstorussianfactoriesreportsays",
+   "title": "Moscow, Pyongyang back network sending workers to Russian factories, report says",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWVdYTkdlYXpKZmFBYzR0VHlKVU5DQW9USWxUQjdIQ05PTXlzNkF1a2JNYjVxZ0p0VWxEZnpSdkR0M2FBVW16SjI0RS14UGZmdXl2czQwNGxnRTlNMjdhMEpqLUllUDA5RkMyN1QwOGFLYS1CY0ZWZDZaeUE1aENWWFUyVmRKV01rczNRMFJZRG14TmNjUTZncnVqNS1HcjRLem5POFdzbzVvVDJKYjh6WG02VVJqWnVoSXhNZDZVVQ?oc=5",
+   "source": "The Straits Times",
+   "country": "GB",
+   "published": "2026-10-29T01:46:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "모스크바와 평양은 러시아 공장에 노동자를 파견하는 네트워크를 갖고 있다고 보고서는 밝혔습니다."
+  },
+  {
+   "id": "金正恩要求朝鲜军队做好战斗准备",
+   "title": "金正恩要求朝鲜军队做好战斗准备",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yaEQ5bkJUQVRub01UNEl5WGNzNWZjYmh6VEJvT01IT3FWWE1ja1VvNzV3T0lRTk9vRkVLY3lZOWxaU0ZPN1hoZnVfaGcwTUQ3MVdqOFpRbWtYUURvd25TTi1wRkdVMS10dVd5N2duTjg?oc=5",
+   "source": "中华军事",
+   "country": "CN",
+   "published": "2026-10-29T01:36:47.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 북한군에 전투준비 지시"
+  },
+  {
    "id": "트럼프는김정은을기다리는데북미정상회담열쇠베이징이쥐나",
    "title": "트럼프는 김정은을 기다리는데…북미 정상회담 열쇠, 베이징이 쥐나",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93MjdHNV83OU5Mc05HSEtCcGV6MG1iMWFTZVpWQ3R0ZTRIQmdFSVgxUWNHelpEc1JJN3p4VGdsTjZrdmphUHNncFd1S2lmZGd6VmxjZmZxMjFNN21RY1k3a2EzcFZHQQ?oc=5",
@@ -256,6 +1237,16 @@
    "published": "2026-10-29T00:16:09.000Z",
    "fields": [],
    "summary": "북한 IP에서 440 만회의 액세스 시도 금융 기관 공격의 전반적인 해명"
+  },
+  {
+   "id": "seoultokyoreaffirmtrilateraldefensecoordination",
+   "title": "Seoul, Tokyo reaffirm trilateral defense coordination",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb1N0ZFB1dGlNLU5ja0ZuRWYxbDB3YXAtem9EaHp0cEhLc1pURVVtdlFPajZ6ek9qRFVtMWxTclhDM3Flc3pCTmM2U1pnVEJtZ0RIV0t0dnk4bzEwY1BOeF84UDR3OVRaQ0E0N0dvSUFGQnR2aFRhWHBrRXZmN2U2MW9VeEExQlNnb3h6eE0tSzdydHBlbkxjWWVCVjFUWkpCcWlScg?oc=5",
+   "source": "Korea JoongAng Daily",
+   "country": "GB",
+   "published": "2026-10-29T00:14:27.000Z",
+   "fields": [],
+   "summary": "서울·도쿄, 3국 국방협력 재확인"
   },
   {
    "id": "담다코리아랩북한이탈주민첫직원채용언어교육일자리로사회통합실천",
@@ -1094,6 +2085,18 @@
    "summary": "미 의원, 한로 관계 개선의 움직임에 '한국의 자유를 위해 희생된 사람들에 대한 모욕'"
   },
   {
+   "id": "euusalliesurgesnorthkoreatoabandonnuclearmissileprograms",
+   "title": "EU, US, allies urges North Korea to abandon nuclear, missile programs",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmhMbmRKMWh3SHBnSTQwa24zbEpJYzFFUTBMdzFLMjdIc1MxSnRrNThfWlBJYzFnbVRRTHFBTjQ3ZEc3UXVmSFRFb2tBZVN1c0RJT1ZMeDFjd2RHUFh3N1RfenQwXzBLVGxGV2RpSmZscDhWdHdwNF8zUXVkWUJHVkhheTU0cUlqM2ZBcEJqdENVQ1lCOXZFdE9IdGpKSDhlT2cyMnh3X1hER3U50gGyAUFVX3lxTFBZWWkwUDVGMVI1cHRjSlRtaS15Q2U3UzVwME1oYVJPSngyUV92ei04bTFWdnlqQWQ4aU5CTTNycnpZX1ZaQTBWbEY1bWRRRDZKRkVOaldlVVVxSkhjVDVFV2l6VE9iZE1SMzFhbmVVdGVfWTNJSXZvMFNRZlpVTVJ1RnF0UGdvUWtBaE5nTnE4Q1NKemxtRXg5OTV2SVBwYVlDYnVibk1DcjlJWDFtWTBVN1E?oc=5",
+   "source": "A News",
+   "country": "GB",
+   "published": "2026-10-28T20:31:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "유럽연합(EU), 미국, 동맹국들, 북한에 핵·미사일 프로그램 포기 촉구"
+  },
+  {
    "id": "한달간맹공퍼붓더니돌연침묵하는북한국경선요새화에집중",
    "title": "한 달간 '맹공' 퍼붓더니 돌연 침묵하는 북한…'국경선 요새화'에 집중",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6TzRtY2xoVGZCRzFOaUQtSzRMVUc3bjREZmVqeWgzVno5N3hvNl90TFJrOWlmUl84VG9QZTQyM2VYZXhRLUpwR0o3emdfSU1vTldza1QzbzFISUtFV3RV?oc=5",
@@ -1219,6 +2222,18 @@
    "summary": "러 열차 충돌로 북한인 6명 사망…당국은 ‘외국인’으로만 발표 – RFA 자유아시아방송"
   },
   {
+   "id": "callofdutymodernwarfare4portraysnorthsouthconflicttopskoreansales",
+   "title": "Call of Duty: Modern Warfare 4 Portrays North-South Conflict, Tops Korean Sales",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNXNXUGlidHZnS3NyT3doTDR1bkpuR0dlUkVnZlNCcE0yQWRFTjBlbzVQOFlWVlZ0QmJ5MFpBSS1uQmhYMTJiU0lWS3R5c0dyZVJscE41SWk4YmhLUlBEUWRTeFNSTXB6X3NKR2JYUzZSRGRGbW03ZmQxY2taXy1ld3BaSWVGMjdJ?oc=5",
+   "source": "조선일보",
+   "country": "GB",
+   "published": "2026-10-28T20:12:37.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "콜 오브 듀티: 모던 워페어 4, 남북 갈등 묘사, 한국 매출 1위"
+  },
+  {
    "id": "ussanctionsnorthkoreansrussiansforroleinitworkerscheme",
    "title": "U.S. Sanctions North Koreans, Russians for Role in IT Worker Scheme",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR1VlZEdMd2IwQWNvSzgzSEFtel9RUDdxOGxtLUwxWlc5MDVweDZXRXFNRVRMNld5dUlFbS1HN3RtUFlVeVB0Tlc2NEZiZ1ZIYXJyX2tUN2xYRzhlSUQ1Njd1dFpFOFBRTWR0WDladkc4a1RGT2lJTFp6ZnlCdm5SdkFiZE9uczlYamVYNzY2LVlEYks1Q0FOX2IyWmp5ODJSRnVVVg?oc=5",
@@ -1239,6 +2254,18 @@
    "published": "2026-10-28T20:07:28.000Z",
    "fields": [],
    "summary": "한국의 스타벅스는 충격을 받았습니다: 북한 포병이 겨냥되었습니다...희귀한 영상이 노출되었습니다"
+  },
+  {
+   "id": "shakingusnuclearumbrellasouthkoreasnuclearselfreliancedecisionoverdue",
+   "title": "Shaking U.S. Nuclear Umbrella: South Korea's Nuclear Self-Reliance Decision Overdue",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkVWOTZSRUlCdjNWQmRUTnFBbjJQTmtYNGZfUEVDUjlvWk8wand1RTNKazNlbXJhTjctWENtd2txbUVvVzlRMVYtOTBXcDFHNTdNRW9RR2xVUXR6dGFTVUQtR2JSdVdpekV2VUdkYXF3NG1Ec1hLekVsUHNGMFR1ZXA2dXRzb2s?oc=5",
+   "source": "조선일보",
+   "country": "GB",
+   "published": "2026-10-28T20:06:35.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "흔들리는 미국의 핵우산: 한국의 핵자주결정 기한이 지났다"
   },
   {
    "id": "exclusiveusambassadorencouragesnorthkoreandefectorstudents",
@@ -1310,6 +2337,20 @@
     "education"
    ],
    "summary": "【독자】 「부모도 북한 출신」스틸 주한미 대사, 탈북 청소년 학교 방문"
+  },
+  {
+   "id": "随着摩洛哥06u17女足世界杯8强已诞生3席1支东亚劲旅在列",
+   "title": "随着摩洛哥0-6，U17女足世界杯8强已诞生3席：1支东亚劲旅在列",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOUdGVEFiek1TdEFvMS01bFhpVWFCbWhyY2h4Z0MwVUpXY0VIdmhHN2tfQms0RWFWWl83RUROYzgwb3c5alM3ZmZPaWFnODFkWWtZd3lwOERuc3RVRUFzYlBBTTVqYW55b3U0ZGh6NjhSOE1rdmdnSW9PZnRtaU40cXZwLUpnc3VYMTBuUA?oc=5",
+   "source": "搜狐网",
+   "country": "CN",
+   "published": "2026-10-28T19:59:29.000Z",
+   "fields": [
+    "society",
+    "women",
+    "youth"
+   ],
+   "summary": "모로코 0-6으로 U17 여자축구월드컵 8위권 3곳 탄생: 동아시아 강호 1곳 포함"
   },
   {
    "id": "кимченынпризвалпривестивойскакндрвполнуюбоевуюготовность",
@@ -1642,6 +2683,18 @@
    "summary": "미국, ‘위장 취업으로 북한 무기자금 조달’ 10명·단체 1곳 제재"
   },
   {
+   "id": "northkoreawilltrumpkimtalkshappenanytimesoon",
+   "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjd1VEIzM051eUFBbjQtOHdaa3ZRSVFwWFd4MHFRWUhtX1hIWFltcVM0MnhFLVhxbzdSSXR5Rk9pS2hqZmpUclNkaVREOUFPS1VPSUpkd1htNlFVcnV2aEM4ak9jZjJHZkVhb05aNWdJQmFlblBJMVcyTkQwZnA5M1BHZXFtOTBzNXhhRy1CRG1EdWoyZWUzZnRKVEJ0QdIBngFBVV95cUxOcVdlQ0JjUUxVVHppMENVN2xfUkYwYzVDcFNiakw0ZzdfTlo5MDZacGt0Zk4yVUMyck9USXRraXlKRkltMEltYzJQQTVWVjQ4bmpPMUJQbVItUFVNeWhzcG5HWFUtOUNvVm0weDdudVQtTElVMjMtcVdVOGxCSkg1WGU4b1pSb3VNT2NKMmRMdll5QzRXeWJhTjNtRTJxQQ?oc=5",
+   "source": "DW.com",
+   "country": "GB",
+   "published": "2026-10-28T17:43:44.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "북한: 트럼프-김 회담이 조만간 성사될 것인가?"
+  },
+  {
    "id": "сшаввелисанкциипротивітсетиврфкотораяфинансироваларакетыкндр",
    "title": "США ввели санкции против ІТ-сети в РФ, которая финансировала ракеты КНДР",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0UwYzB4UGl6SDZlYnk0MG9WVWptWDVOVGF5RDJXNEpVZFdiYXFzRkZYLTZYMHRCcDVuZFVzSk5sUm1QLTRMekFXVm8xS2FUNE9pOC1MTjVkQURhRmlucTlFNlBhLVZibHd4WE8xd0tmRS1TcDlGaHA2Y3p1RXcyaExobTJraXJqdk12REh5MDZZdkJjd01jdU1R0gGmAUFVX3lxTFBMajY1OGlibVN2ajJHb3NSMFg1bVkwRTIwQ0pRTFpXTHlzMGxWUkh6SS1HUF9jd1NkU2QwcllwNGlmWlpTNUp6cGRtTlhHUTZzTjlqeExPQnc3OGc1d2UzLTZYZEJ5alhkOHF1Yl9yREhXWDhaMkp3dmlZQ2JRY2FUWU1fanUyemdrMDdOWjRzaWNIc0d0dkpwSnZmblJPODdjWVVneEE?oc=5",
@@ -1859,6 +2912,19 @@
     "economy"
    ],
    "summary": "재무부, IT 인력 사기 혐의로 북한·러시아인 10명 제재"
+  },
+  {
+   "id": "金正恩访问的巴士工厂是625战争时中国人民志愿军修理车辆的地方",
+   "title": "金正恩访问的巴士工厂是6·25战争时中国人民志愿军修理车辆的地方",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcXctSXRjU04zRHZYQ1FMSlZQWUdJREdPdXB5cjEzVllxZ01ZN3h2b2ZnLXFZc0I1VUZHNlBLOFpsWWZzVmFMZ2dyNHotbV9XNGQzeEtMSVVVNkVwd09kbGplT0dWdGt0WEdJZF9QYl9FZDZtOTUtdVdqN0pPQUlkYVRIMDl2UWgyS3R1VWhra0JKQQ?oc=5",
+   "source": "朝鮮日報中文版",
+   "country": "CN",
+   "published": "2026-10-28T16:31:05.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은이 방문한 버스공장은 6·25전쟁 당시 중국인민지원군이 차량을 수리했던 곳이다."
   },
   {
    "id": "беларуськндрратификациядоговораодружбемнения28102026",
