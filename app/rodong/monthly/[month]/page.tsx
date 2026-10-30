@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { PROFILE } from "../../../../site.config";
 import { PublicHeader } from "../../../archive/public-header";
+import { topicOf } from "../../data";
 import { MONTHS, REPORT_FIELDS, daysInMonth, fieldStat, monthDays, monthLabel, monthLead, type FieldStat } from "../report";
 
 export const dynamicParams = false;
@@ -159,7 +160,7 @@ export default async function RodongMonthlyPage({ params }: { params: Promise<{ 
                   {s.issues.map((i) => (
                     <li key={i.date + i.title}>
                       <Link href={`/rodong/${i.date}`}>{Number(i.date.slice(5, 7))}.{Number(i.date.slice(8))}</Link>
-                      <span className="kind">{i.topic ?? "기타"}</span>
+                      <span className="kind">{topicOf(i)}</span>
                       {i.title}
                     </li>
                   ))}
