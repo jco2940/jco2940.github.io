@@ -7,6 +7,7 @@ import { EmptyNote } from "./components";
 import weekly from "../data/rodong-weekly.json";
 import { MONTHS, monthLabel } from "./monthly/report";
 import { FOCUS, FocusTrend } from "./focus/trend";
+import { REPORTS } from "./report/report-data";
 
 export const metadata: Metadata = { title: `노동신문 브리핑 | ${PROFILE.name}` };
 
@@ -60,6 +61,14 @@ export default function RodongPage() {
                   <p>분야별 기사를 달마다 주제·날짜·지면별로 집계하고 해석합니다.</p>
                   <span className="rd-card-links">{MONTHS.map((m) => monthLabel(m)).join(" · ")} →</span>
                 </Link>
+                {REPORTS.map((r) => (
+                  <Link key={r.slug} href={`/rodong/report/${r.slug}`} className="rd-card">
+                    <span className="rd-card-kind">{r.kind}</span>
+                    <b>{r.short}</b>
+                    <p>{r.title}</p>
+                    <span className="rd-card-links">월별 추이·국면·쟁점 종합 읽기 →</span>
+                  </Link>
+                ))}
                 {FOCUS.map((f) => (
                   <Link key={f.slug} href={`/rodong/focus/${f.slug}`} className="rd-card">
                     <span className="rd-card-kind">심층 해석</span>
