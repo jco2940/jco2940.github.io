@@ -19,6 +19,7 @@ export type Source = { headline: string; page?: number; url?: string };
 
 export type Issue = {
   field: FieldId;
+  topic?: string; // 월별 리포트에서 묶어 세는 세부 주제 (교육·여성·청년·장애인·보건의료)
   title: string;
   summary: string;
   note?: string;

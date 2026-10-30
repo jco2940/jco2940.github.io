@@ -5,6 +5,7 @@ import { PublicHeader } from "../archive/public-header";
 import { DAYS, FIELDS, formatDate } from "./data";
 import { EmptyNote } from "./components";
 import weekly from "../data/rodong-weekly.json";
+import { MONTHS, monthLabel } from "./monthly/report";
 
 export const metadata: Metadata = { title: `노동신문 브리핑 | ${PROFILE.name}` };
 
@@ -70,6 +71,23 @@ export default function RodongPage() {
                   );
                 })}
               </ul>
+            </section>
+
+            <section className="digest-section">
+              <h2>
+                <Link href="/rodong/monthly">월별 리포트 →</Link>
+              </h2>
+              <p className="mr-method" style={{ marginTop: 0 }}>
+                교육·여성·청(소)년·장애인·보건의료 분야 기사를 달마다 주제·날짜·지면별로 집계하고 해석합니다.{" "}
+                {MONTHS.map((m, i) => (
+                  <span key={m}>
+                    {i > 0 && " · "}
+                    <Link href={`/rodong/monthly/${m}`} className="digest-monthly-link">
+                      {monthLabel(m)}
+                    </Link>
+                  </span>
+                ))}
+              </p>
             </section>
 
             <section className="digest-section">
