@@ -127,7 +127,7 @@ export default async function RodongMonthlyPage({ params }: { params: Promise<{ 
             )}
             {s.id === "education" && (
               <p className="mr-method" style={{ margin: "0 0 14px" }}>
-                교원·지역 교육격차·교육강령 실행·학생용품 생산은{" "}
+                교원·지역 교육격차·교육강령 실행·학생용품 생산·교육후원은{" "}
                 <Link href="/rodong/focus/education-2026-autumn" className="digest-monthly-link">
                   심층 해석 →
                 </Link>
