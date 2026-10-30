@@ -503,3 +503,4 @@ a.video-card:hover h3 { color: var(--accent); }
   .mr-kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .mr-grid { grid-template-columns: minmax(0, 1fr); }
 }
+.mr-cell-sub { display: block; color: var(--muted); font-size: .66rem; }

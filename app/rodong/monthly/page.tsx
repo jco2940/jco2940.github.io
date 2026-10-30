@@ -16,7 +16,10 @@ export default function RodongMonthlyIndex() {
       </PublicHeader>
       <div className="digest-inner">
         <section className="digest-section">
-          <h2>달별 항목 수</h2>
+          <h2>달별 항목 수와 게재일</h2>
+          <p className="mr-method" style={{ marginTop: 0, marginBottom: 12 }}>
+            큰 숫자는 브리핑 항목 수(같은 날 여러 항목이 실릴 수 있음), 아래 작은 숫자는 그 분야 기사가 실린 날 수입니다.
+          </p>
           <div className="mr-scroll">
             <table className="mr-table">
               <thead>
@@ -34,9 +37,15 @@ export default function RodongMonthlyIndex() {
                     <th>
                       <Link href={`/rodong/monthly/${m}`}>{monthLabel(m)} →</Link>
                     </th>
-                    {REPORT_FIELDS.map((f) => (
-                      <td key={f}>{fieldStat(m, f).issues.length}</td>
-                    ))}
+                    {REPORT_FIELDS.map((f) => {
+                      const s = fieldStat(m, f);
+                      return (
+                        <td key={f}>
+                          {s.issues.length}건
+                          <small className="mr-cell-sub">{s.days}일 게재</small>
+                        </td>
+                      );
+                    })}
                     <td>{monthDays(m).length}일</td>
                   </tr>
                 ))}
