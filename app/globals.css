@@ -504,3 +504,24 @@ a.video-card:hover h3 { color: var(--accent); }
   .mr-grid { grid-template-columns: minmax(0, 1fr); }
 }
 .mr-cell-sub { display: block; color: var(--muted); font-size: .66rem; }
+/* 노동신문 심층 해석 */
+.fc-question { margin: -6px 0 16px; color: var(--muted); font-size: .82rem; }
+.fc-grid { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 18px; align-items: start; }
+.fc-reading { min-width: 0; max-width: 72ch; }
+.fc-reading h3 { margin: 0 0 10px; font-size: .74rem; font-weight: 700; color: #5c564c; }
+.fc-reading h3 ~ h3 { margin-top: 18px; }
+.fc-note { margin-bottom: 14px; }
+.fc-note h4 { margin: 0 0 4px; font-size: .88rem; font-weight: 700; color: #7a2e2a; }
+.fc-note p { margin: 0; font-size: .84rem; line-height: 1.85; }
+.fc-watch { list-style: disc; margin: 0; padding-left: 1.1em; font-size: .8rem; display: grid; gap: 4px; }
+.fc-timeline { list-style: none; margin: 0; padding: 0; }
+.fc-timeline li { display: grid; grid-template-columns: 3em minmax(0, 1fr); gap: 8px; padding: 8px 0; border-top: 1px solid #e3dccf; font-size: .74rem; line-height: 1.65; }
+.fc-timeline li:first-child { border-top: 0; padding-top: 0; }
+.fc-timeline a, .fc-timeline span { font-weight: 700; color: #a5483f; font-variant-numeric: tabular-nums; }
+.fc-timeline p { margin: 0; }
+@media (prefers-color-scheme: dark) {
+  .fc-reading h3 { color: var(--muted); }
+  .fc-note h4, .fc-timeline a, .fc-timeline span { color: #e9a79c; }
+  .fc-timeline li { border-color: var(--line); }
+}
+@media (max-width: 760px) { .fc-grid { grid-template-columns: minmax(0, 1fr); } }

@@ -125,6 +125,15 @@ export default async function RodongMonthlyPage({ params }: { params: Promise<{ 
                 </ul>
               </div>
             )}
+            {s.id === "education" && (
+              <p className="mr-method" style={{ margin: "0 0 14px" }}>
+                지역 교육격차·교육강령 실행·학생용품 생산은{" "}
+                <Link href="/rodong/focus/education-2026-autumn" className="digest-monthly-link">
+                  심층 해석 →
+                </Link>
+                에서 따로 다룹니다.
+              </p>
+            )}
             {s.issues.length > 0 && (
               <div className="mr-grid">
                 <div className="mr-panel">

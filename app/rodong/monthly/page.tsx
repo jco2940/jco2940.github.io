@@ -2,7 +2,10 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { PROFILE } from "../../../site.config";
 import { PublicHeader } from "../../archive/public-header";
+import focus from "../../data/rodong-focus.json";
 import { MONTHS, REPORT_FIELDS, fieldStat, monthDays, monthLabel, monthLead } from "./report";
+
+const FOCUS = focus as { slug: string; title: string; subtitle: string; lead: string }[];
 
 export const metadata: Metadata = { title: `노동신문 월별 리포트 | ${PROFILE.name}` };
 
@@ -52,6 +55,21 @@ export default function RodongMonthlyIndex() {
               </tbody>
             </table>
           </div>
+        </section>
+        <section className="digest-section">
+          <h2>심층 해석</h2>
+          <ul className="digest-weeks">
+            {FOCUS.map((f) => (
+              <li key={f.slug}>
+                <span className="digest-range">{f.title}</span>
+                <Link href={`/rodong/focus/${f.slug}`}>
+                  <span className="kind">{f.subtitle}</span>
+                  <br />
+                  {f.lead}
+                </Link>
+              </li>
+            ))}
+          </ul>
         </section>
         <section className="digest-section">
           <h2>리포트</h2>
