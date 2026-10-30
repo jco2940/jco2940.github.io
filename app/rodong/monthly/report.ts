@@ -43,7 +43,32 @@ const tally = <K>(keys: K[]) => {
   return m;
 };
 
+// 해석 글의 {items}·{articles}·{days}·{topic:주제}·{prev.items}·{prev.topic:주제}·{f:분야} 자리에 실제 집계를 넣는다.
+// 없는 주제를 쓰면 빌드가 멈춰, 글 속 건수가 데이터와 어긋나지 않게 한다
+function fill(text: string, month: string, id?: FieldId): string {
+  const prev = MONTHS[MONTHS.indexOf(month) + 1];
+  return text.replace(/\{(prev\.)?(items|articles|days|topic:[^}]+|f:[a-z]+)\}/g, (token, isPrev: string | undefined, key: string) => {
+    const m = isPrev ? prev : month;
+    if (!m) throw new Error(`월별 리포트 ${month}: 전월이 없어 ${token} 을 채울 수 없습니다`);
+    if (key.startsWith("f:")) return String(baseStat(m, key.slice(2) as FieldId).issues.length);
+    if (!id) throw new Error(`월별 리포트 ${month}: 분야 밖에서 ${token} 을 썼습니다`);
+    const s = baseStat(m, id);
+    if (key === "items") return String(s.issues.length);
+    if (key === "articles") return String(s.articles);
+    if (key === "days") return String(s.days);
+    const n = s.topics.find(([t]) => t === key.slice(6))?.[1];
+    if (n === undefined) throw new Error(`월별 리포트 ${m} ${id}: 주제 '${key.slice(6)}' 항목이 없습니다`);
+    return String(n);
+  });
+}
+
 export function fieldStat(month: string, id: FieldId): FieldStat {
+  const s = baseStat(month, id);
+  const note = NOTES[month]?.fields[id];
+  return { ...s, analysis: note && { summary: fill(note.summary, month, id), findings: note.findings.map((f) => fill(f, month, id)) } };
+}
+
+function baseStat(month: string, id: FieldId): Omit<FieldStat, "analysis"> {
   const issues = monthDays(month).flatMap((d) => d.items.filter((i) => i.field === id).map((i) => ({ ...i, date: d.date })));
   const sources = issues.flatMap((i) => i.sources);
   return {
@@ -55,10 +80,10 @@ export function fieldStat(month: string, id: FieldId): FieldStat {
     topics: [...tally(issues.map((i) => i.topic ?? "기타"))].sort((a, b) => b[1] - a[1]),
     byDay: tally(issues.map((i) => Number(i.date.slice(8)))),
     byPage: [...tally(sources.flatMap((s) => (s.page ? [s.page] : [])))].sort((a, b) => a[0] - b[0]),
-    analysis: NOTES[month]?.fields[id],
   };
 }
 
 export function monthLead(month: string) {
-  return NOTES[month]?.lead;
+  const lead = NOTES[month]?.lead;
+  return lead && fill(lead, month);
 }
