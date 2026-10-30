@@ -103,7 +103,7 @@ export default async function RodongMonthlyPage({ params }: { params: Promise<{ 
           </div>
           <p className="mr-method">
             '항목'은 브리핑에서 하나로 정리한 이슈, '기사'는 그 근거로 단 노동신문 기사 수입니다. 브리핑은 분야마다 하루 0~3개 항목만 고르므로
-            지면 전체를 센 것은 아니며, 세부 주제는 항목마다 하나씩 직접 분류했습니다.
+            지면 전체를 센 것은 아닙니다. 세부 주제는 근거 기사마다 하나씩 직접 분류해, 주제별 그래프와 해석의 주제 건수는 기사 기준입니다.
           </p>
         </section>
 
@@ -128,8 +128,8 @@ export default async function RodongMonthlyPage({ params }: { params: Promise<{ 
             {s.issues.length > 0 && (
               <div className="mr-grid">
                 <div className="mr-panel">
-                  <h3>세부 주제별 항목 수</h3>
-                  <Bars rows={s.topics} total={s.issues.length} unit="건" />
+                  <h3>세부 주제별 기사 수 (근거 기사 {s.articles}건 기준)</h3>
+                  <Bars rows={s.topics} total={s.articles} unit="건" />
                 </div>
                 <div className="mr-panel">
                   <h3>날짜별 게재</h3>

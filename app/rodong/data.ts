@@ -15,7 +15,8 @@ export const FIELDS = [
 
 export type FieldId = (typeof FIELDS)[number]["id"];
 
-export type Source = { headline: string; page?: number; url?: string };
+// topic: 기사 하나가 속한 항목과 다른 세부 주제일 때만 적는다 (월별 리포트의 기사 기준 집계)
+export type Source = { headline: string; page?: number; url?: string; topic?: string };
 
 export type Issue = {
   field: FieldId;

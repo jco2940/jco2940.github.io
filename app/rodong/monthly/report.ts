@@ -77,7 +77,8 @@ function baseStat(month: string, id: FieldId): Omit<FieldStat, "analysis"> {
     issues,
     articles: sources.length,
     days: new Set(issues.map((i) => i.date)).size,
-    topics: [...tally(issues.map((i) => i.topic ?? "기타"))].sort((a, b) => b[1] - a[1]),
+    // 세부 주제는 근거 기사 기준으로 센다. 기사에 topic이 없으면 그 항목의 topic을 따른다
+    topics: [...tally(issues.flatMap((i) => i.sources.map((s) => s.topic ?? i.topic ?? "기타")))].sort((a, b) => b[1] - a[1]),
     byDay: tally(issues.map((i) => Number(i.date.slice(8)))),
     byPage: [...tally(sources.flatMap((s) => (s.page ? [s.page] : [])))].sort((a, b) => a[0] - b[0]),
   };
