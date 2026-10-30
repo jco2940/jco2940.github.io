@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "items": [
+  {
+   "id": "doi:10.1080/09557571.2026.2752955",
+   "title": "The panopticon in everyday spaces: surveillance policies in North Korea and China’s Xinjiang Uyghur Autonomous Region (XUAR)",
+   "authors": [
+    "Laçin İdil Öztığ"
+   ],
+   "date": "2026-10-29",
+   "venue": "Cambridge Review of International Affairs",
+   "countries": [
+    "TR"
+   ],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.1080/09557571.2026.2752955",
+   "source": "openalex",
+   "added": "2026-10-30"
+  },
   {
    "id": "doi:10.1186/s12939-026-03077-6",
    "title": "Sex-specific long-term mortality inequities among North Korean refugees resettled in South Korea: a nationwide matched cohort study",
@@ -17,7 +36,10 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "elderly",
+    "health",
+    "women"
    ],
    "url": "https://doi.org/10.1186/s12939-026-03077-6",
    "source": "openalex",
