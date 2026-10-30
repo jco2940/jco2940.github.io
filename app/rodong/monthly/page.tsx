@@ -19,6 +19,21 @@ export default function RodongMonthlyIndex() {
       </PublicHeader>
       <div className="digest-inner">
         <section className="digest-section">
+          <h2>심층 해석</h2>
+          <ul className="digest-weeks">
+            {FOCUS.map((f) => (
+              <li key={f.slug}>
+                <span className="digest-range">{f.title}</span>
+                <Link href={`/rodong/focus/${f.slug}`}>
+                  <span className="kind">{f.subtitle}</span>
+                  <br />
+                  {f.lead}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+        <section className="digest-section">
           <h2>달별 항목 수와 게재일</h2>
           <p className="mr-method" style={{ marginTop: 0, marginBottom: 12 }}>
             큰 숫자는 브리핑 항목 수(같은 날 여러 항목이 실릴 수 있음), 아래 작은 숫자는 그 분야 기사가 실린 날 수입니다.
@@ -55,21 +70,6 @@ export default function RodongMonthlyIndex() {
               </tbody>
             </table>
           </div>
-        </section>
-        <section className="digest-section">
-          <h2>심층 해석</h2>
-          <ul className="digest-weeks">
-            {FOCUS.map((f) => (
-              <li key={f.slug}>
-                <span className="digest-range">{f.title}</span>
-                <Link href={`/rodong/focus/${f.slug}`}>
-                  <span className="kind">{f.subtitle}</span>
-                  <br />
-                  {f.lead}
-                </Link>
-              </li>
-            ))}
-          </ul>
         </section>
         <section className="digest-section">
           <h2>리포트</h2>

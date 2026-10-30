@@ -6,6 +6,9 @@ import { DAYS, FIELDS, formatDate } from "./data";
 import { EmptyNote } from "./components";
 import weekly from "../data/rodong-weekly.json";
 import { MONTHS, monthLabel } from "./monthly/report";
+import focus from "../data/rodong-focus.json";
+
+const FOCUS = focus as { slug: string; title: string; subtitle: string }[];
 
 export const metadata: Metadata = { title: `노동신문 브리핑 | ${PROFILE.name}` };
 
@@ -51,6 +54,26 @@ export default function RodongPage() {
         ) : (
           <>
             <section className="digest-section">
+              <h2>분석 리포트</h2>
+              <div className="rd-cards">
+                <Link href="/rodong/monthly" className="rd-card">
+                  <span className="rd-card-kind">월별 리포트</span>
+                  <b>교육·여성·청(소)년·장애인·보건의료 달별 분석</b>
+                  <p>분야별 기사를 달마다 주제·날짜·지면별로 집계하고 해석합니다.</p>
+                  <span className="rd-card-links">{MONTHS.map((m) => monthLabel(m)).join(" · ")} →</span>
+                </Link>
+                {FOCUS.map((f) => (
+                  <Link key={f.slug} href={`/rodong/focus/${f.slug}`} className="rd-card">
+                    <span className="rd-card-kind">심층 해석</span>
+                    <b>{f.subtitle.replace(/^노동신문 /, "")}</b>
+                    <p>{f.title}</p>
+                    <span className="rd-card-links">읽기 →</span>
+                  </Link>
+                ))}
+              </div>
+            </section>
+
+            <section className="digest-section">
               <h2>
                 <Link href={`/rodong/${DAYS[0].date}`}>주간 하이라이트 →</Link>
               </h2>
@@ -71,23 +94,6 @@ export default function RodongPage() {
                   );
                 })}
               </ul>
-            </section>
-
-            <section className="digest-section">
-              <h2>
-                <Link href="/rodong/monthly">월별 리포트 →</Link>
-              </h2>
-              <p className="mr-method" style={{ marginTop: 0 }}>
-                교육·여성·청(소)년·장애인·보건의료 분야 기사를 달마다 주제·날짜·지면별로 집계하고 해석합니다.{" "}
-                {MONTHS.map((m, i) => (
-                  <span key={m}>
-                    {i > 0 && " · "}
-                    <Link href={`/rodong/monthly/${m}`} className="digest-monthly-link">
-                      {monthLabel(m)}
-                    </Link>
-                  </span>
-                ))}
-              </p>
             </section>
 
             <section className="digest-section">
