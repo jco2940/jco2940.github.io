@@ -3,13 +3,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { PROFILE } from "../../../../site.config";
 import { PublicHeader } from "../../../archive/public-header";
-import focus from "../../../data/rodong-focus.json";
 import { DAYS } from "../../data";
-
-type Note = { head: string; body: string };
-type Theme = { id: string; title: string; question: string; timeline: { date: string; text: string }[]; reading: Note[]; watch: string[] };
-type Focus = { slug: string; title: string; subtitle: string; lead: string; themes: Theme[]; synthesis: Note[]; caveats: string };
-const FOCUS = focus as Focus[];
+import { FOCUS, FocusTrend, Timeline } from "../trend";
 
 export const dynamicParams = false;
 
@@ -23,7 +18,6 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return { title: `${f?.title ?? "심층 해석"} | ${PROFILE.name}`, description: f?.lead };
 }
 
-const md = (date: string) => `${Number(date.slice(5, 7))}.${Number(date.slice(8))}`;
 const briefed = new Set(DAYS.map((d) => d.date));
 
 export default async function RodongFocusPage({ params }: { params: Promise<{ slug: string }> }) {
@@ -40,16 +34,11 @@ export default async function RodongFocusPage({ params }: { params: Promise<{ sl
       <div className="digest-inner">
         <section className="digest-section">
           <p className="mr-lead">{f.lead}</p>
-          <nav className="digest-chips" aria-label="주제">
-            {f.themes.map((t) => (
-              <a key={t.id} href={`#${t.id}`} className="digest-chip">
-                {t.title} <b>{t.timeline.length}</b>
-              </a>
-            ))}
-            <a href="#synthesis" className="digest-chip">
-              종합
-            </a>
-          </nav>
+          <h2 className="ft-title">주제별 보도 추이</h2>
+          <FocusTrend f={f} />
+          <p className="ft-jump">
+            <a href="#synthesis">종합 해석으로 →</a>
+          </p>
         </section>
 
         {f.themes.map((t) => {
@@ -80,15 +69,8 @@ export default async function RodongFocusPage({ params }: { params: Promise<{ sl
                   </ul>
                 </div>
                 <div className="mr-panel">
-                  <h3>보도 흐름</h3>
-                  <ol className="fc-timeline">
-                    {t.timeline.map((e) => (
-                      <li key={e.date + e.text.slice(0, 12)}>
-                        {briefed.has(e.date) ? <Link href={`/rodong/${e.date}`}>{md(e.date)}</Link> : <span>{md(e.date)}</span>}
-                        <p>{e.text}</p>
-                      </li>
-                    ))}
-                  </ol>
+                  <h3>보도 흐름 (최근 달 펼침)</h3>
+                  <Timeline t={t} briefed={briefed} />
                 </div>
               </div>
             </section>

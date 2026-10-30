@@ -536,3 +536,38 @@ a.video-card:hover h3 { color: var(--accent); }
   .rd-card { background: var(--soft); border-color: var(--line); border-left-color: #e9a79c; }
   .rd-card-kind, .rd-card-links { color: #e9a79c; }
 }
+/* 심층 해석 주제별 추이 */
+.ft { overflow-x: auto; }
+.ft table { border-collapse: separate; border-spacing: 3px; font-size: .72rem; }
+.ft th { font-weight: 600; text-align: left; white-space: nowrap; padding: 0 8px 0 0; color: #3d3a35; }
+.ft thead th { font-weight: 500; color: var(--muted); font-size: .64rem; padding: 0; }
+.ft th a:hover { color: #7a2e2a; text-decoration: underline; }
+.ft td { padding: 0; }
+.ft-cell { display: inline-block; width: 18px; height: 18px; border-radius: 3px; background: #efe8dc; vertical-align: middle; }
+.ft-cell.lv1 { background: #e3a99d; }
+.ft-cell.lv2 { background: #c0645a; }
+.ft-cell.lv3 { background: #7a2e2a; }
+.ft-total { padding-left: 8px !important; font-variant-numeric: tabular-nums; font-weight: 650; text-align: right; }
+.ft-legend { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 6px; margin: 10px 0 0; color: var(--muted); font-size: .66rem; }
+.ft-legend .ft-cell { width: 11px; height: 11px; }
+.ft-title { margin: 22px 0 10px !important; font-size: .85rem !important; }
+.ft-jump { margin: 10px 0 0; font-size: .74rem; font-weight: 650; color: #7a2e2a; }
+.ft-compact table { border-spacing: 2px; font-size: .66rem; }
+.ft-compact th { font-weight: 500; color: var(--muted); }
+.ft-compact .ft-cell { width: 9px; height: 9px; border-radius: 2px; }
+.ft-compact .ft-total { color: var(--muted); font-weight: 600; }
+.ft-months details { border-top: 1px solid #e3dccf; }
+.ft-months details:first-child { border-top: 0; }
+.ft-months summary { cursor: pointer; padding: 8px 0; font-size: .74rem; font-weight: 650; color: #5c564c; }
+.ft-months summary b { margin-left: 4px; color: #a5483f; }
+.ft-months details[open] summary { padding-bottom: 6px; }
+@media (prefers-color-scheme: dark) {
+  .ft th { color: var(--ink); }
+  .ft-cell { background: #2a2826; }
+  .ft-cell.lv1 { background: #6e3a33; }
+  .ft-cell.lv2 { background: #b05a4f; }
+  .ft-cell.lv3 { background: #e9a79c; }
+  .ft-jump, .ft-months summary b { color: #e9a79c; }
+  .ft-months details { border-color: var(--line); }
+  .ft-months summary { color: var(--muted); }
+}
