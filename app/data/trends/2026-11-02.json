@@ -2,6 +2,570 @@
  "date": "2026-11-02",
  "items": [
   {
+   "id": "북한날씨전지역대체로흐림함경도엔일부눈비",
+   "title": "[북한날씨] 전 지역 대체로 흐림…함경도엔 일부 눈·비",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhaFJxQk9kcUlDTjB0VWtsd21XWUxGZzItUDNiY1IxVGlmczhzX3hPaVRDS2lmN1FXTlUyUktQSURGOWo0aVlKYl9SWXAzSXFGZ1Jma1lqWXlxeHg2dHVJUGFCaXAwWXVHbW15bWlLUC0wZ0Na?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "country": "KR",
+   "published": "2026-11-01T21:46:09.000Z",
+   "fields": [],
+   "summary": "[북한날씨] 전 지역 대체로 흐림…함경도엔 일부 눈·비"
+  },
+  {
+   "id": "北한미아이언메이스연습비난하며핵전쟁억제력강화",
+   "title": "北, 한미 '아이언메이스' 연습 비난하며 \"핵전쟁 억제력 강화\"",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGUDdtdGEyQnJOUTlYa1c4ZG9OaXlabWVGNUtIU3N5cXJ3OHh3WXl2QVJOVDBPVlktZWhXQ3hHVzlQRW15a3BVNmxycnUwUzZMWDJTSlU4TVE2c3h4YlNadVhGOWFkWjBIOVdkeHdsY1RGZ0ZT?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "country": "KR",
+   "published": "2026-11-01T21:43:16.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "北, 한미 '아이언메이스' 연습 비난하며 \"핵전쟁 억제력 강화\""
+  },
+  {
+   "id": "반갑습네다에미나이들석계역서열린북한체험논란",
+   "title": "\"반갑습네다 에미나이들\"…석계역서 열린 '북한 체험' 논란",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQcW5mSnZlZjItXzRObXB6UzVvaUtuZ1pFbkJmQzA0c3pvUDNHRXdmSXNYc3BXZTFmY1JPRVB2OG1hZU01Yk4wQXRFeXJhSy1ubXJCWkZkWDRLdw?oc=5",
+   "source": "한국경제",
+   "country": "KR",
+   "published": "2026-11-01T21:42:40.000Z",
+   "fields": [],
+   "summary": "\"반갑습네다 에미나이들\"…석계역서 열린 '북한 체험' 논란"
+  },
+  {
+   "id": "fbiussecretserviceirsofficiallystatenorthkoreabehindbinancehack",
+   "title": "FBI, US Secret Service, IRS, Officially State North Korea Behind Binance Hack",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0hTWkFPNExWYXJxMFVDWVUyMGNqRnluOUFXQ3NGQ1d1V0pjeExzSTR0UU0zUW5rVVNSUVV3X3V4LXMzWFJMVGtXem1RVkhSTGtmY3dHaktfV0VqcnBxMUVWTFJSREp6V1pjUzNtZTNMRU9mb0hpdDNVWUJwdTdmMzFCNE1nTmM1ZTkwNFNZNi1wRG5lNHdwemZ2NVgzUmFoRGtZaW5TVUxWZDlnRlh6UzBzejgyZVExbVBHclF6emM?oc=5",
+   "source": "Crowdfund Insider",
+   "country": "US",
+   "published": "2026-11-01T21:36:18.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "FBI, 미국 비밀경호국, IRS, 공식적으로 바이낸스 해킹 배후에 북한이 있다고 밝혔습니다."
+  },
+  {
+   "id": "fbibinanceの60億ドル超流出を北朝鮮と断定tradertraitorの628アドレスとの取引遮断を要請",
+   "title": "FBI、Binanceの60億ドル超流出を北朝鮮と断定 TraderTraitorの628アドレスとの取引遮断を要請",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlS0tYalV3Z0NzWjU1M25zbGNFdW9Zc01CdDF1dlpVMnNOQVRfLUNDWUhjMU1pZVAxazNzVzQyRDBqU29QdmdFWHR2R01qYU04RzdfTkRNT3FhLWpnRUpfaF9xbmVRY0JURkhaSU04SE4wSXM?oc=5",
+   "source": "innovaTopia",
+   "country": "JP",
+   "published": "2026-11-01T21:34:04.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "FBI, Binance의 60억 달러 초유출을 북한과 단정 TraderTraitor의 628 주소와의 거래 차단을 요청"
+  },
+  {
+   "id": "northkorealinkedhackerslootrecord63bcryptoinbinancebreach",
+   "title": "North Korea-linked hackers loot record $6.3b crypto in Binance breach",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFlYQnJQeURXc29KN1VnVXpFUlpSMDZfU0kzMXY1bG5JMU5GNmh4NDVyZ2kyWl9sRlVzcjRLTVJaOTIxa3ZYUXNKVk1JX1YzbU1Ba0s2eWtOSThBZUhWeW5IRnJJbXVpdkFsSldxRktZbktKUlA4aTVTeTBOd1pCUk96YnBRTFg00gGcAUFVX3lxTE41Zy1vMklBa0tKVVQ4QmFfN043Vlc5NURyZE5oRzNUTHZkYzJnaF96T2pKb3JjNE5mLTg3X3pnMHRkRjVkcWJ2aUlGZGFDb0V5T1lWTm5rTzB0WHpLOUduSy1QVzNBWVkzZnR5Y3lMSUZoeDNmMEpQMXhtMXpCWWxiTTY2eVFTb2J0VVkzTXpMTDZwY1lYV0VHV3c3aQ?oc=5",
+   "source": "Chosunbiz",
+   "country": "US",
+   "published": "2026-11-01T21:27:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한 관련 해커들이 바이낸스 침해로 63억 달러 규모의 암호화폐를 약탈했습니다."
+  },
+  {
+   "id": "北에선지금농촌크렉터부품부족가동율저하농사차질",
+   "title": "〔北에선 지금〕농촌 크렉터 부품 부족 가동율 저하...농사 차질",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOdGkyUmVDdWdPc1JpZ3hEMzZrbFNseFY4WDJzb2N6bzZ3N2FKX21qLWpsS3Nrak83WDFIR1lfU2h0c3JrbENxLVp0bEM2SnhyRFNUTXRLOUViMndZYTI2UTNCZkhlZGN2MGdz?oc=5",
+   "source": "SPN 서울평양뉴스",
+   "country": "KR",
+   "published": "2026-11-01T21:24:44.000Z",
+   "fields": [],
+   "summary": "〔北에선 지금〕농촌 크렉터 부품 부족 가동율 저하...농사 차질"
+  },
+  {
+   "id": "朝鲜黑客窃取的比特币数量超过特斯拉持有量仅比特币就价值14亿美元",
+   "title": "朝鲜黑客窃取的比特币数量超过特斯拉持有量：“仅比特币就价值14亿美元”",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tWFA0d2RJaU9BNXZIVW8wVHJNNEtuYko3WTdxV1VyYzAxX3JWNV9vdTlBYTNlWXhjNG55d1RNVzdtWWdGckR5TXBLMFVZSm1mTW9Ual90X0dkSFA2SnhCSHF1Rmo?oc=5",
+   "source": "아시아경제",
+   "country": "CN",
+   "published": "2026-11-01T21:20:28.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한 해커들은 테슬라가 보유하고 있는 것보다 더 많은 비트코인을 훔쳤습니다: '비트코인만으로도 14억 달러의 가치가 있습니다'"
+  },
+  {
+   "id": "바이낸스해킹은북한소행fbi공식확인",
+   "title": "\"바이낸스 해킹은 북한 소행\"…FBI 공식 확인",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2WVJnMGY1WTFGNmFQUFRPQ1czWkxFbTBiRTY1bVJ5M2FjSkE4N29qWFpia0xvN25XZ1RvckpvTzdVT0MzT1pZb2VncjhYVWw0M0ZwUnF5S21MY0hoYm1GN091YzJDeU5lVXc?oc=5",
+   "source": "SBS 뉴스",
+   "country": "KR",
+   "published": "2026-11-01T21:19:50.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "\"바이낸스 해킹은 북한 소행\"…FBI 공식 확인"
+  },
+  {
+   "id": "ｆｂｉバイナンスへのハッキングの黒幕は北朝鮮２０分で１兆円盗まれた日本国際",
+   "title": "ＦＢＩ「バイナンスへのハッキングの黒幕は北朝鮮」…２０分で１兆円盗まれた : 日本•国際",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nVkNZR0dKOFRBNkViQkFtUjlaaEQ2bDRHaU5MSEtPWFJlZ0J0WWtkSExkTVZlalp6SENfUTdsRDRYNS1TRENGM3dFcFVDUk5PUi1EZkRzdHUzbUpRcjZzN0JxcE0?oc=5",
+   "source": "ハンギョレ新聞",
+   "country": "JP",
+   "published": "2026-11-01T21:19:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "FBI '바이넌스 해킹 흑막은 북한'… 20분 만에 1조엔 도난당함"
+  },
+  {
+   "id": "binanceseesspikeinwithdrawalsafter63billionheist",
+   "title": "Binance sees spike in withdrawals after $6.3-billion heist",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeHY1eW1RUGpJMzJvLW03V1dsRGZyU2djWW9RMTU5MlNYS0RJN25SdzRCbktPekluNHBtR012MVFZVFczTzNkNkpQSUxCTzBsNDVTdEpLU1h0NU9wOXFZci1FWWh4aW41NG1pMExCaXE3ekV6eFV1eV9PbkZPdi05VHVRSmNQdjhEdFNJODk5a1Q?oc=5",
+   "source": "The Globe and Mail",
+   "country": "US",
+   "published": "2026-11-01T21:18:10.000Z",
+   "fields": [],
+   "summary": "바이낸스, 63억 달러 강도 사건 이후 인출 급증"
+  },
+  {
+   "id": "ついに日本でも007が誕生するか中国や北朝鮮は警戒モード諜報機関新設への根強い反対論を前に高市首相の腹案デイリー新潮",
+   "title": "ついに日本でも「007」が誕生するか？ 中国や北朝鮮は警戒モード…「諜報機関」新設への根強い反対論を前に「高市首相の腹案」（デイリー新潮）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aZTdJMm1QdHE0MnBkR1d1MnN0bmJZcGJ6WHNTMkEyMVhBNXJNc285al9FMk4wZEM4UE1aTFBSVUNzTWhldmpCOTF3bmdra1JMYWU4Nl9qMHFTN1BFUjcyNXlnVFpQc21OZnpEYzc1MnhZeG9mZGUzcjVYaXRKQVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-01T21:17:44.000Z",
+   "fields": [],
+   "summary": "드디어 일본에서도 '007'이 탄생할까? 중국과 북한은 경계모드… ‘첩보기관’ 신설에 대한 뿌리깊은 반대론을 앞두고 ‘다카시 총리의 복안’(일일 신조)"
+  },
+  {
+   "id": "币安63亿大盗案背后朝鲜网军终于现形",
+   "title": "币安63亿大盗案背后，朝鲜网军终于现形",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wakxmU2ExNWlVbHI1LUpkSW1qazhQdGVTM01fR2NmRE50Qmh0Y0dCNklpRFFycDEzdUFvVGZLdnRiQVc2OTJ1Tw?oc=5",
+   "source": "haiwaiwai.com",
+   "country": "CN",
+   "published": "2026-11-01T21:16:22.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "63억 바이낸스 탈취 뒤에, 마침내 북한 사이버군이 등장했다"
+  },
+  {
+   "id": "트럼프바이낸스해킹北소행이면논의fbi는북한배후공식지목",
+   "title": "트럼프 \"바이낸스 해킹, 北 소행이면 논의\"…FBI는 북한 배후 공식 지목",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1SEVtQ3pQRXo4SmstM1pPakRTWGsxalBzcVpiRkV1R0h4UkFqMDRBZllnakhQQXh6a1MwdTlJUU1jUjBqOWtZYTloQWN5TzNxR3FISUllS3h1UzBy?oc=5",
+   "source": "뉴스핌",
+   "country": "KR",
+   "published": "2026-11-01T21:15:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "트럼프 \"바이낸스 해킹, 北 소행이면 논의\"…FBI는 북한 배후 공식 지목"
+  },
+  {
+   "id": "日本gmo互联网集团遭黑客攻击疑与朝鲜关联组织有关已报备当局社会财经日报",
+   "title": "日本GMO互联网集团遭黑客攻击，疑与朝鲜关联组织有关已报备当局: 社会 : 财经日报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qUXBvMERCbS03dGV0LXVDUkJtNWJ2WVVkS21JVXNITWh0NXFIdEdGRlkzZWMxb3BFU25iMEp2dHJ3SVFyMHV3SlItRlZBVUJXZFhGVWVUWm9WMVBmeUpxQWxR?oc=5",
+   "source": "재경일보",
+   "country": "CN",
+   "published": "2026-11-01T21:15:00.000Z",
+   "fields": [
+    "economy",
+    "society"
+   ],
+   "summary": "일본 GMO인터넷그룹이 해커들에게 공격을 받았는데, 북한 관련 단체와 관련이 있는 것으로 의심돼 당국에 신고됐다."
+  },
+  {
+   "id": "북한해커가훔친비트코인테슬라의보유량넘어북한1년수출액3배",
+   "title": "북한 해커가 훔친 비트코인, 테슬라의 보유량 넘어 북한 1년 수출액 3배",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wOUdiY0pTTGNJOGZrZUh0N05pOF9iMGVhV1pvaXRuV3RXaW9tTHZJTnV4SFc3YmxENjFiMjNuQjZLQ3RYRldGU0Y5dFpibm9rNTh5Vl9sbDNxUjJFc0E?oc=5",
+   "source": "YTN",
+   "country": "KR",
+   "published": "2026-11-01T21:11:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한 해커가 훔친 비트코인, 테슬라의 보유량 넘어 북한 1년 수출액 3배"
+  },
+  {
+   "id": "정보유출일본대기업해킹배후는북한",
+   "title": "'정보 유출' 일본 대기업 \"해킹 배후는 북한\"",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wWEdpNFVjSlRYZHBhUmdqd2g5MFFJWVhQLWFVWjBHUzFWbDdrQTByU2FIM0dZbzN6T2Q3emVoQUZTcGVBTEhHZlBQcnZZb3lZTmtoYklHa2RIZkVoTlI2YXg2aGsyb0RodHlINndoNU0tSE5VTXhfNW1B0gF6QVVfeXFMUFZVZVc0WUs2TklkRmF3ZWZnZ1FCbkhlWDd4RDJaWDIxSndUOUw5Tkh5Z1lzNVZJdkU0RVZYTnRDbnVkaXlnYkItZ0tWVFZpa0xmREIxM3d0QThmeFNpTVVxRTJqTm9zNjAwRXhCdkdURmptM3NVLVhncVE?oc=5",
+   "source": "MBC 뉴스",
+   "country": "KR",
+   "published": "2026-11-01T21:09:35.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "'정보 유출' 일본 대기업 \"해킹 배후는 북한\""
+  },
+  {
+   "id": "毒舌姫金与正吠えるだけ強烈警告が空振りした北朝鮮の事情高英起エキスパート",
+   "title": "“毒舌姫”金与正｢吠えるだけ｣？ 強烈警告が空振りした北朝鮮の事情（高英起） - エキスパート",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcUFzSUtoaFpPdHBwQ19Xam9rSm5hSW5VQWNISjAxdnJpcGVMeHlWQzRqWnU1OWMxU0F0RXoxYlc5N2xBQ1dITHRobHY2STR0N1FrNGROM2pVaWxSSGFlSmJYalY5OFNnWjFOenYzR1FrUnZDWm96VGhNTkJhRUJaUFdVTVYzMl9D?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-01T21:08:51.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "“독설공주” 김여정 “짖을 뿐”? 강렬한 경고가 흔들린 북한 사정 (고영기) - 전문가"
+  },
+  {
+   "id": "8조털릴동안속수무책fbi북한소행",
+   "title": "\"8조 털릴 동안 속수무책\"‥FBI \"북한 소행\"",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96eUlfR1VQaE1VaDd4YUxyYUdqekN3YnkyVDlQWnFDNUlTeWRWekM2a2JXQllmb3gwYnJPTTBpYW9TRTdGRTktQlktMjQ0RlY1SVlzRW9ILVc0MHhBLWtHNUhMNVcwU3BaRkdmNTk5WjVUU3RLcXdORk9n0gF6QVVfeXFMUFk4Vk9tTTkyUmRLcXdQb255LUl1cXppb1hqMVJZTDlROGFCRTJiNG1JZWJydG1WQkJOSWU2OWpmTlktdXVyeFcxRHNxaGRpM01ZT1JSUW1wYldYLVRIWDEwWUM5WWVyVGJjdlF1QTFZMmI3RDdDdjNtMEE?oc=5",
+   "source": "MBC 뉴스",
+   "country": "KR",
+   "published": "2026-11-01T21:08:05.000Z",
+   "fields": [],
+   "summary": "\"8조 털릴 동안 속수무책\"‥FBI \"북한 소행\""
+  },
+  {
+   "id": "随着中国u17女足12遭绝杀朝鲜30横扫美国u17世界杯四强出炉尼日利亚成黑马",
+   "title": "随着中国U17女足1-2遭绝杀，朝鲜3-0横扫美国！U17世界杯四强出炉：尼日利亚成黑马",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjlUU3M1MklBZFJ6OHZibnBQUW5CTUxMRnVycTJDaVNRNnk1ZFJoS2VfRU1TbWVyMGVYdG9KMTJwZmkzUFBvVTNoclNoQnVkci1wd1JIZlJZbXBHUmhOUzI3RWpaSWZQMGFmd1doNkRwVVpWYjd5aUx6cEpRVWZna2RjOFJ2QllSUzF6SA?oc=5",
+   "source": "搜狐网",
+   "country": "CN",
+   "published": "2026-11-01T21:02:59.000Z",
+   "fields": [
+    "society",
+    "women",
+    "youth"
+   ],
+   "summary": "중국 U17 여자축구대표팀이 1-2로 패하자 북한이 미국을 3-0으로 휩쓸었습니다! U17 월드컵 준결승전 발표: 나이지리아가 다크호스가 되다"
+  },
+  {
+   "id": "u17女足世界杯4强出炉日本朝鲜晋级中国女足被逆转美国惨败",
+   "title": "U17女足世界杯4强出炉，日本朝鲜晋级，中国女足被逆转，美国惨败",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMThHXzItS213OWFwSlZKU3g1YUdDMm9VZkR0cnpwRlUzS0dCWnJ2Y1hlWU83SmZfV1JnR0M2Z2pDSmVQNWs3bkJGS2tQWWlQOFpveU9oWUszOW9pSWVfZEJvZUFHblpsSEk0cThBeU5ydjFyb2plazc5WnUtNHJtOXRzWDZPM1F2em1QMA?oc=5",
+   "source": "搜狐网",
+   "country": "CN",
+   "published": "2026-11-01T21:01:47.000Z",
+   "fields": [
+    "society",
+    "women",
+    "youth"
+   ],
+   "summary": "U17 여자축구월드컵 상위 4팀이 발표되고, 일본과 북한이 진출하고, 중국 여자축구대표팀은 역전되고, 미국은 처참하게 패한다."
+  },
+  {
+   "id": "инженераbinanceсвязалисошпионкойкндрответбиржи",
+   "title": "Инженера Binance связали со шпионкой КНДР: ответ биржи",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN00yR05LXzNsZWw5dFVTeFU3STVNZ3N0NXkwX0JEb3lER1hiejlxQXdiOGw0bDhfeVZ0dFdmZjgzSy03Rng4dnh0dnVvOEJSZjJKbmhVSjA0VEI0UmlnNFZXSEN5eFlGeVFXdkxnX1A5NzE5VHJwNDVQandaTDR5dkJZOG1XU2JEMXBPcURXalhJN3FNb1ZGb2hHd3ZKYUpGeGJHYy1oeG9JRGs5YUhvZGJBbTI3dw?oc=5",
+   "source": "Hash Telegraph",
+   "country": "RU",
+   "published": "2026-11-01T21:01:00.000Z",
+   "fields": [],
+   "summary": "북한 스파이와 연결된 바이낸스 엔지니어: 교환 대응"
+  },
+  {
+   "id": "심층기획북한대중수출구조분석①가발텅스텐특정품목에지나친의존저부가가치의덫에빠질수도",
+   "title": "[심층기획: 북한 대중 수출 구조 분석 ①] ‘가발·텅스텐’ 특정 품목에 지나친 의존… 저부가가치의 덫에 빠질 수도",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FbXFsZWtMVlpWcEE3YVpkRGNWSm1OQ3FjUU0zNmNwTW51eFM4aFJUdWs1dERlS0pfMEIweGpXblFWV1hrRUk5cTdqeFRpZ3Z1WDlUVngyU0E2TVJjMGZrVkF4akFyYmtmRllack52UUVjdndVZ3dxVHZmOWU?oc=5",
+   "source": "Radio Free Asia",
+   "country": "KR",
+   "published": "2026-11-01T21:00:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "[심층기획: 북한 대중 수출 구조 분석 ①] ‘가발·텅스텐’ 특정 품목에 지나친 의존… 저부가가치의 덫에 빠질 수도"
+  },
+  {
+   "id": "北과방재협력했던日전문가재난이대화계기될수도",
+   "title": "北과 방재 협력했던 日전문가…\"재난이 대화 계기 될 수도\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11V0VONDFSX0Yxa08wOFRYQmRaaHNzN29GbFlZekU1Z2QyQncxbUw3dmtwcUdGOHVLWTBLOGxqRTdPa00yaXNLcTlWRmN5SGlOMGFfQkN5Qkk2OVZCOU1pcjZySVJHVXc?oc=5",
+   "source": "뉴스1",
+   "country": "KR",
+   "published": "2026-11-01T21:00:00.000Z",
+   "fields": [
+    "society"
+   ],
+   "summary": "北과 방재 협력했던 日전문가…\"재난이 대화 계기 될 수도\""
+  },
+  {
+   "id": "暗号資産約1兆円がわずか20分で流出fbiが北朝鮮の犯行と断定史上最大の窃取事件の全貌16",
+   "title": "暗号資産約1兆円がわずか20分で流出、FBIが北朝鮮の犯行と断定…史上最大の窃取事件の全貌(1/6)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ia0lKemZsWVFONDNadnVJRGJLdy1iamRBMVRLcWNQNEpCMExrNmRxWkZHWXRCOFVXY25hMkJiUXYzdk5HSEJiQXgwRnZYdDhpSmo1a0ZB?oc=5",
+   "source": "JBpress",
+   "country": "JP",
+   "published": "2026-11-01T21:00:00.000Z",
+   "fields": [],
+   "summary": "암호화 자산 약 1조엔이 불과 20분만에 유출, FBI가 북한의 범행과 단정… 사상 최대의 절취 사건의 전모(1/6)"
+  },
+  {
+   "id": "米国から北朝鮮に銃器類など密輸香港拠点の中国人ら民間人集団が介在帰任する北外交官の船便に紛れ込ませたか",
+   "title": "米国から北朝鮮に銃器類など密輸、香港拠点の中国人ら民間人集団が介在…帰任する北外交官の船便に紛れ込ませたか",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSTVtNEVTM2hKOEswV1Z2djRocGxCM3hIeXAwNFdhMzlQWEZUa1dJaFdnT1BDZDl0XzQ1YW5ub2hIWElDc3BiMU1QYWZmbHRVcGZObUEwbmNtUldZUzhOck8zQlh6cUpJcmdFNUFFdTFCM1phX3N3REFsZGc5b2tCSnZOVXBJNjRrdEUwclZn?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-01T20:52:25.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "미국에서 북한에 총기류 등 밀수, 홍콩 거점의 중국인 등 민간인 집단이 개재…"
+  },
+  {
+   "id": "제주도의회안창호43북한배후설발언철회하고사과하라",
+   "title": "제주도의회 “안창호, ‘4·3 북한 배후설’ 발언 철회하고 사과하라”",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00ZTM0c3FQWl9OdjBneTFMSVEyQjBsaF9lYzJsUzl0ZXN1VVJ5TXg5QjZBc19lSFlIcndtYWsxbjgzNkU4YVNvSVVEa3ZFbllCUkFoaC1JV2Vfam4wQUpmZVV1OWIyOFJoTUd5c1NWeW1FUQ?oc=5",
+   "source": "한겨레",
+   "country": "KR",
+   "published": "2026-11-01T20:35:18.000Z",
+   "fields": [],
+   "summary": "제주도의회 “안창호, ‘4·3 북한 배후설’ 발언 철회하고 사과하라”"
+  },
+  {
+   "id": "북한코인17조원훔쳤다북한은어떻게세계1위코인도둑이됐나",
+   "title": "“북한, 코인 17조원 훔쳤다”…북한은 어떻게 ‘세계 1위 코인 도둑’이 됐나",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fN29ab0xIblEzbHVzaEFXM2FzRGF2ZFhpdG5EbklRR2tsdHNKSE1qZ01mR1BaSHg3YVpSWDFKbGFoWFg3bGFibkl4R242WldtNzAwRnE4Ums3ZzlzcVN1M3o0QWxnUm8?oc=5",
+   "source": "한겨레",
+   "country": "KR",
+   "published": "2026-11-01T20:33:43.000Z",
+   "fields": [],
+   "summary": "“북한, 코인 17조원 훔쳤다”…북한은 어떻게 ‘세계 1위 코인 도둑’이 됐나"
+  },
+  {
+   "id": "朝鲜从币安黑客事件中获取的14亿美元比特币至今未动用",
+   "title": "朝鲜从币安黑客事件中获取的14亿美元比特币至今未动用",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZklpMFl6WWdybVZCSHBvMXd2bmFlRTJjc1hUOWZzanNncmpLdU1ITW1OeDRFRkJIYXpIOXo1QW9LcW1reXFvd0RXVDBfSXhQTlBKWFFyY1Z3a0tiTVJaak9PZGllYndld2xkR09NQmd6cEplZ01rQzFPVjhRM2JCcHBRUFp6YnhlVnhaZWNkNENZdWtGUWFaWnhvdExxUEpNVEhVclNjYjFodndNZ3FYc294bHNncV9LZTk3aGkyLW1XOVpwY2tfTEw3QnFVc0pyVUE?oc=5",
+   "source": "Bitcoin News",
+   "country": "CN",
+   "published": "2026-11-01T20:33:10.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한은 아직 바이낸스 해킹으로 인한 비트코인 ​​14억 달러를 지출하지 않았습니다."
+  },
+  {
+   "id": "fbi북한바이낸스해킹배후공식확인",
+   "title": "FBI \"북한, 바이낸스 해킹 배후\" 공식 확인",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aMHZnN01IV0ZGM20xYXRXeDBaZHdIbV9UWVpQaFlheFJZa2FNSkhkbk5wYmh2RkdmTl9OM3d0dWZaNHB5bTdDZ09vSG1XdmYwT1pYekJSRFhqeU5qMEw5WE9lS1NHTUE?oc=5",
+   "source": "연합뉴스TV",
+   "country": "KR",
+   "published": "2026-11-01T20:29:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "FBI \"북한, 바이낸스 해킹 배후\" 공식 확인"
+  },
+  {
+   "id": "북한해커가빼낸63억달러얼마나쓸수있나탈취이후추적전",
+   "title": "북한 해커가 빼낸 63억 달러, 얼마나 쓸 수 있나… 탈취 이후 추적전",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nT21LYkcwYzhGYjdaTFpWRFZvVExTUlBHUUdOVkp4MFBoTVNFUHZUN0hqUktOdlBtTTBOQkdCRGh1VG1RVWtXeTZQN0k2QzRwNDhXajV1UjhTaG0wdGc?oc=5",
+   "source": "뉴스투데이",
+   "country": "KR",
+   "published": "2026-11-01T20:19:00.000Z",
+   "fields": [],
+   "summary": "북한 해커가 빼낸 63억 달러, 얼마나 쓸 수 있나… 탈취 이후 추적전"
+  },
+  {
+   "id": "바이낸스63억달러턴건북한거래소는피해95메웠다",
+   "title": "바이낸스 63억달러 턴 건 북한…거래소는 피해 95% 메웠다",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlpxRllaVW1CQVJGaWVPdUhYTXJDSzQwMlZNMlBXOFJqRWI4dlpPUVZ5Y2pCSjR6bm1tSGJnWTBTMWxLdWE2RGh2SVMwUGhobHhxeFNvWnFlOC1FcVU1MmZCbTZ4NEtBVlBzZjUyUFRUUVRwTHhYeUFPVGphYlNlaHQxNjVjWkRl?oc=5",
+   "source": "글로벌이코노믹",
+   "country": "KR",
+   "published": "2026-11-01T20:15:00.000Z",
+   "fields": [],
+   "summary": "바이낸스 63억달러 턴 건 북한…거래소는 피해 95% 메웠다"
+  },
+  {
+   "id": "fbinorthkoreastole6bfrombinance",
+   "title": "FBI: North Korea Stole $6B+ from Binance",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa0xTT2d5SzRCNTBSalJEMEZKWXcyNDhzVjFnN2FfOGRKRk5PaVlSa3NUMWhha25LV0laYUZIa1ZJdDBQdjdyUXYzU2JNcGhtZHkyelZrVUhkSE5XeHdmVHBjekxvdndOMXdFUkJ4cFBGbWIzdVdZWnMxbm1XYjRrcVpRUWtlNGlkYmRv?oc=5",
+   "source": "Briefs Finance",
+   "country": "US",
+   "published": "2026-11-01T20:14:50.000Z",
+   "fields": [],
+   "summary": "FBI: 북한이 바이낸스에서 60억 달러 이상을 훔쳤습니다"
+  },
+  {
+   "id": "фбрхакерыизкндрпохитили63млрдсbinance",
+   "title": "ФБР: хакеры из КНДР похитили $6,3 млрд с Binance",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rRXdOeWplY3hVa0dzX3Rjbm11RjNTZ0x2UkJRWTJWSC1lU3BXYWFMdnFIU2NaR19XVVpjbkpqQnV0R1hhQ1g5dVd6THMwWDUzOGNzRDI3bzktakdEOXoyeFV0aHVkUE5yVDFDUkZfdW9xRHZx?oc=5",
+   "source": "Techora.ru",
+   "country": "RU",
+   "published": "2026-11-01T20:09:50.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "FBI: 북한 해커들이 바이낸스에서 63억 달러를 훔쳤습니다."
+  },
+  {
+   "id": "fallingtothedefendingchampsnorthkorearollspastusatu17womensworldcup",
+   "title": "FALLING TO THE DEFENDING CHAMPS: North Korea rolls past U.S. at U-17 Women's World Cup",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUDZmVmVGdnNrVWtWSktsRk5nVnRsdFRONjlJY3FDM2pYV3I2cGhOdUFMOEFNQVh1RXpxeHM3aWYwN0FlQ25NNEE5MGJBaTRxM3JYU3RUYlRHUzNCaTFOVnktQ2dCNWdqVGhsLXNlLWJJOV9kUGN6bDUzUXpkT3ZldGdRWnNSTWRuQ1hXb3RCWllVOHFPaFctM2xoTTdPaG9QbUhyNTVBUkNsVGJndDNBVkdRMVgzX05JTUVlUWM4WVVNc1o3?oc=5",
+   "source": "Front Row Soccer",
+   "country": "US",
+   "published": "2026-11-01T20:05:51.000Z",
+   "fields": [
+    "women"
+   ],
+   "summary": "디펜딩 챔피언으로 떨어지다: 북한이 U-17 여자 월드컵에서 미국을 제치고 승리했습니다."
+  },
+  {
+   "id": "우크라전서실전배운北최전선흔들재래무기3종공개",
+   "title": "우크라전서 실전 배운 北…최전선 흔들 ‘재래무기 3종’ 공개",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EVWJQc1BPNVcyMzFmLWlxOEIyQ3lpazdUWllPVmRRZzNvRnRtYjlUeGVjUDNHWWt5Z1NmdlBZenhkRnV4MjZVQzg0OHpVaFhRUG1nTW13?oc=5",
+   "source": "중앙일보",
+   "country": "KR",
+   "published": "2026-11-01T20:00:02.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "우크라전서 실전 배운 北…최전선 흔들 ‘재래무기 3종’ 공개"
+  },
+  {
+   "id": "暗号資産盗難北朝鮮関与ｆｂｉ発表資金洗浄も",
+   "title": "暗号資産盗難、北朝鮮関与 ＦＢＩ発表、資金洗浄も",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYdG9aSF8zRTB0LW9jWDZ0NHl0andHSEdFQlNFQ193cmVxcldZWVBqa05IYlBER3J2QmRPaEdFVHdZY0FfM3hXalNXZjlyNG5fZ1F3NVRJN0NKb2ozOEhwNg?oc=5",
+   "source": "琉球新報デジタル",
+   "country": "JP",
+   "published": "2026-11-01T20:00:00.000Z",
+   "fields": [],
+   "summary": "암호화 자산 도난, 북한 관여 FBI 발표, 자금 세정도"
+  },
+  {
+   "id": "北朝鮮版のクラスター弾を試験国際全国のニュース富山新聞",
+   "title": "北朝鮮版のクラスター弾を試験｜国際｜全国のニュース｜富山新聞",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DNGlIY0hqcWN0ZHQ2TVRzRnR4VzBhWFpScTlzMWdwQ3FZQnVyTFhFUzhwOU5iT2VHYjNMZWo5NUI2TUJILVdmMnZJbjNrNjJ0SWJoWGEtU0hqUQ?oc=5",
+   "source": "北國新聞",
+   "country": "JP",
+   "published": "2026-11-01T20:00:00.000Z",
+   "fields": [],
+   "summary": "북한판 클러스터탄 시험 | 국제 | 전국 뉴스 | 도야마 신문"
+  },
+  {
+   "id": "ｇｍｏ攻撃北朝鮮系関与か複数の痕跡政府に報告",
+   "title": "ＧＭＯ攻撃、北朝鮮系関与か 複数の痕跡 政府に報告",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51TkVBMEM0R00xQ25UZFYtOWkyY1V5cm5EbmNLWTkzM0QyMk5iWVVvUWpfRHBrRUQzNzFIVzdUdDJZT0xyS0tMVjUxaXpxN25QNFBsUTZvam1jT3lzYkE?oc=5",
+   "source": "福井新聞社",
+   "country": "JP",
+   "published": "2026-11-01T20:00:00.000Z",
+   "fields": [],
+   "summary": "GMO 공격, 북한계 관여인가 복수의 흔적 정부에 보고"
+  },
+  {
+   "id": "ｇｍｏ攻撃北朝鮮関与か不正アクセス痕跡複数政府に報告",
+   "title": "ＧＭＯ攻撃、北朝鮮関与か 不正アクセス、痕跡複数 政府に報告",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNYWRnYlgzaDBMcEJzMnd6dlVqQm1BY0JNM1RocG9XRjA0U0gtUGQzLWU4UHdWVzFUQml4TklpRDI3MlRFYmUwLTZtUQ?oc=5",
+   "source": "北日本新聞webunプラス",
+   "country": "JP",
+   "published": "2026-11-01T20:00:00.000Z",
+   "fields": [],
+   "summary": "GMO 공격, 북한 관여인가 부정 액세스, 흔적 복수 정부에 보고"
+  },
+  {
+   "id": "北朝鮮系攻撃関与かｇｍｏ不正アクセス痕跡複数政府に報告朝刊夕刊ニュース下野新聞デジタル",
+   "title": "北朝鮮系 攻撃関与か ＧＭＯ不正アクセス 痕跡複数、政府に報告｜朝刊・夕刊ニュース｜下野新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRM0UwVnFtR1JPQ01LNkFUUzBYQ251RjIwTFlpQzRXSzJXbjlwYUQxSWtHOVJJRjI4UWx5TDY3bWNzNnhSNUFXTkNDLS1DNUk4dGhGTjk5Ql96RGs?oc=5",
+   "source": "下野新聞社",
+   "country": "JP",
+   "published": "2026-11-01T20:00:00.000Z",
+   "fields": [],
+   "summary": "북한계 공격 관여인가 GMO 부정 액세스 흔적 복수, 정부에 보고 | 조간·석간 뉴스 |"
+  },
+  {
+   "id": "девушкапришланасвиданиеиугнала6млрдкаквсетираздуваютфейкпрошпионкуизкндривзломbi",
+   "title": "Девушка пришла на свидание и угнала $6 млрд. Как в сети раздувают фейк про шпионку из КНДР и взлом Binance",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWF9CMTVZeWxkQmxucUE0anNMenRoSTQyMFpSSFU5c280cDVwbFF6OU9NTHl6Z3JtWGxRWjVMMTJGb05sZUxWZWFURU1TZ0N1U1Jzc0NRRE1haXV4WTFXMFEwMERMeFI4N0M4Q21jOVMzZ3VOTkdzVzNxcDZqME1TTUtRNHlnRmVZTnRPbFlRX1ByZmNJRnFiWjZsa1FseE1NMER2c3lDUGlvNGVwMXVkZHRRTXAxaWFQZ1YwMjVfM1ZQNm1RclhrQWZvUFFKTU5mZ09N?oc=5",
+   "source": "iPhones.ru",
+   "country": "RU",
+   "published": "2026-11-01T19:54:32.000Z",
+   "fields": [],
+   "summary": "한 소녀가 데이트하러 와서 60억 달러를 훔쳤습니다. 네트워크가 북한 스파이와 바이낸스 해킹에 대한 가짜를 퍼뜨리는 방법"
+  },
+  {
+   "id": "币安遭劫63亿美元流入金正恩的核武金库",
+   "title": "币安遭劫$63亿美元 流入金正恩的核武金库？",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVDRMR29zMFVtUUZWSGNFdDg2T0V6a1BCOGRDdzFhaXhjM25iMHBhaHhTRnhWU2tzS0hjNTRVYXJYV1AyQ2k1NjNRdUJfUXdOM3M3RlgyOXJBTGJNUzFFRExTeVBKVDUx?oc=5",
+   "source": "文学城",
+   "country": "CN",
+   "published": "2026-11-01T19:53:22.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "바이낸스가 강탈당하고 63억 달러가 김정은의 핵무기 금고로 흘러 들어갔다?"
+  },
+  {
+   "id": "fbiblamesnorthkoreafor6billionbinancecryptotheft",
+   "title": "FBI Blames North Korea for $6 Billion Binance Crypto Theft",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZi03MjdIVUVMcllUY0l6YkRJSV92ZEVrenNlYTdqb285T1RCbkp3WUJyeU9VbVlDS2FfYVVoeTB5YlE2UFFFMHdOczdQdk9YZUVQbTdkc2FfX2tXam1URHZCdGM5MHRFS05tX2pzSnlwX2ZENUZCN3F0NmhlN3hGdWllODNpbTAxdndVU3o1Z3V6enRNTTY4QmFFSExxSnBQQmd30gGoAUFVX3lxTFBxR1B6OHNwMGgtVTMtN0NzdzR1N29za1hrMlRTMUxvQ0NPMUlaMXVkOXlIX2VkRTdONzFlQS1MQkRRQWgzZmZBYmRtRUt1OXZUcHV1RlVNNWZiVUFVTHR6SXh1MU8yTXplS1hSazNDU2QwbG9UcEhlRHBGZTVfZzF6R3dtSHBxX2FFWVNaY0JLQlRnRGlmbVhkMEZadVNTcVVjaFA3bVp4SQ?oc=5",
+   "source": "Security Affairs",
+   "country": "US",
+   "published": "2026-11-01T19:47:23.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "FBI, 60억 달러 규모 바이낸스 암호화폐 절도 배후로 북한 비난"
+  },
+  {
+   "id": "under17womensworldcupnorthkoreaoustsusa",
+   "title": "Under-17 Women’s World Cup: North Korea ousts USA",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSjQ0OGxPTG1wZGw3aHkxXzdwUVh6bWlEVGpacjJDdmtHaXpZdFhKVjM3YUtxWTRNSjZPbXlfT1lnYXhST2FlVUpXX3hJSjRDTXlBQTFjdm9ndjN3ZTd2aWNLckRYT1ZQZ0xrbFhBR2xIRjFSZHVCUXRReTRlU3U4ZkIzNGg?oc=5",
+   "source": "Soccer America",
+   "country": "US",
+   "published": "2026-11-01T19:37:08.000Z",
+   "fields": [
+    "women"
+   ],
+   "summary": "17세 이하 여자 월드컵: 북한이 미국을 꺾다"
+  },
+  {
+   "id": "northkoreabeattheusunder17satthewomensworldcupbutitshouldntcomeasashock",
+   "title": "North Korea beat the U.S. Under-17s at the Women’s World Cup, but it shouldn’t come as a shock",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2tIa2ktbmJ5SGdMV2RTUXJUVjZxSU8tMWVscXdqbm5ONm9sYkFZN3F3eU9GWHM5cHVXeDZLU1NPVjlSOGJ3RHVnbWQtUjRDRkVNU1lxVEt5N0dScVJtbnRkMlNpMUNIZ0FTOF8xQ1p1ZVkycjIza3pZejVfUFFpc0EzRWJHSjBwSUZDODIya2RSalpZRmtLVjA4b20?oc=5",
+   "source": "The New York Times",
+   "country": "US",
+   "published": "2026-11-01T19:32:13.000Z",
+   "fields": [
+    "women"
+   ],
+   "summary": "북한이 여자월드컵에서 미국 17세 이하 대표팀을 꺾었지만 놀랄 일은 아니다."
+  },
+  {
+   "id": "фбрназваловиновныхвкрупнейшейкриптокражевисториизахищениеммиллиардовстоитсеверна",
+   "title": "ФБР назвало виновных в крупнейшей криптокраже в истории: за хищением миллиардов стоит Северная Корея",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTTFqTk9COV9HQUI2bF82MWFjalJaMVdHYS16dUNKc0dPWjVlYl9RdHBSZks3Sm9mbnJicEJnSDY5ZlJtZFJnd1hnRFhpa2hNcW9nYXJkM25UOFJ4RmdULTRjLS1WN2U3djM0X3JwMWhrTWpQR1E2OXZOd0prbUhfMnZ1NDJyRURSckU1NjcxTDBuZzRtM1J3emU5VnRmRlVmdi03WE9iaHZ4czkzRkltLXZkNkRuSUlWa3prRVRlLXBncDJGOHFFVGhTT1JIUXg0UHhvbTRLNzQ5UDkybUY5bg?oc=5",
+   "source": "Otkrito.lv",
+   "country": "RU",
+   "published": "2026-11-01T19:30:17.000Z",
+   "fields": [],
+   "summary": "FBI는 역사상 최대 규모의 암호화폐 절도 책임자를 지명했습니다: 수십억 달러 절도의 배후에는 북한이 있습니다"
+  },
+  {
+   "id": "무섭게진화하는북한정예해커부대위장취업후악성코드심어",
+   "title": "무섭게 진화하는 북한 '정예' 해커 부대... 위장 취업 후 악성코드 심어",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rZWlOOVVVTVRHYUx2cFEwTTY1QzYtQWp4bkl5ZGRFeWlDbzlGSE5DbmJjR0N2dE1fQzNScVljamtCSGlZam42Qi1aOTAzdFJXeGhEODJRbjkyTVZIVTI4dGhEVklhV1pJbzNOeGJRa0JXS1XSAXNBVV95cUxNa2VpTjlVVU1UR2FMdnBRME02NUM2LUFqeG5JeWRkRXlpQ285RkhOQ25iY0dDdnRNX0MzUnFZY2prQkhpWWpuNkItWjkwM3RSV3hoRDgyUW45Mk1WSFUyOHRoRFZJYVdaSW8zTnhiUWtCV0tV?oc=5",
+   "source": "한국일보",
+   "country": "KR",
+   "published": "2026-11-01T19:30:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "무섭게 진화하는 북한 '정예' 해커 부대... 위장 취업 후 악성코드 심어"
+  },
+  {
+   "id": "美北이바이낸스해킹트럼프北확인땐대화",
+   "title": "美 “北이 바이낸스 해킹”… 트럼프 “北 확인땐 대화”",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43ODc1ZmF4Vk50dmI3XzJiOGdQbG9meDJtbENqQTlRTE1GNGRhOVlvNHFpa293V0V5VkRVc0xRdE1NbjR4T0RmXzRFQXhsUGkxYTlSS25ubGNIWll3UUdOclQzT09lZ9IBZkFVX3lxTE43ODc1ZmF4Vk50dmI3XzJiOGdQbG9meDJtbENqQTlRTE1GNGRhOVlvNHFpa293V0V5VkRVc0xRdE1NbjR4T0RmXzRFQXhsUGkxYTlSS25ubGNIWll3UUdOclQzT09lZw?oc=5",
+   "source": "동아일보",
+   "country": "KR",
+   "published": "2026-11-01T19:30:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "美 “北이 바이낸스 해킹”… 트럼프 “北 확인땐 대화”"
+  },
+  {
+   "id": "ｇｍｏ攻撃北朝鮮関与か痕跡複数政府に報告",
+   "title": "ＧＭＯ攻撃、北朝鮮関与か 痕跡複数、政府に報告",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVE8wQmRXU1hTbmJwUVNaX2xBVEZyVmR3ZW0tMG9EV3JWT0VEREIxTTFuU2hvTDl5Z0JvMUVBZm1iby1PWExLeE5uY1UtVjRsWFZVM3M5TEpNNTRjM1luanQ4eGo3OTBndU5JNkhkS1BCRnQ3QUtWdEVOWWExUW5peFI5SFgzdDFv?oc=5",
+   "source": "四国新聞",
+   "country": "JP",
+   "published": "2026-11-01T19:15:28.000Z",
+   "fields": [],
+   "summary": "GMO 공격, 북한 관여인가 흔적 복수, 정부에 보고"
+  },
+  {
    "id": "севернаякореяиспыталабаллистическуюракетуhwasong11dскассетнойбоевойчастью",
    "title": "Северная Корея испытала баллистическую ракету Hwasong-11D с кассетной боевой частью",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUWJwaElrM0lxRFVnTW5EVWFwUWpPN2JHOFNMSUdjRWRWVXVVWldlV2tCcXRRUGI3OVJQelpzNXJFSkg4azNjZ3JoWUIxOWpKUTJfT1F4QjdpNko3bEQzU0hkcWJXQkdlaGlGYmNDYlhJcW9aRzZnOUZyVkY0TFN5aDVGMHVLNUczd3ZZS0pyeFNPdjVRYkdoeDIwYXZRbnVZOEZMZWp2bnJFQ2ZVWEVlc0xJZG1jNFBhMzdZ0gHYAUFVX3lxTFBFZnY0R25aZXhyeHNmOE9Pc2JPZ3ZnaXNucXZLMWtycXhsWkxFNVU5SHJOeGVIX3hxUjhVeC1yLUdlc3BRa3UwQzBVZ3V1VU1sVVhGXzRMWkhNeG9zNjRvUnZmbFFFYTlzV0tPVHVCdUNXTHZsWE9HRU85QnprS0lObUtEVEFKWDc1TEVXXzBFVUZSQ1dpWFg3ZEl0RFpBWE1kLVkzd0wxdXctYmRxNEVjTlpUajlxUXY5ZU9IbFlPNmlZOWdZZUZ5dXZXZU9sQVVTdF9SbTRaUw?oc=5",
@@ -26,6 +590,18 @@
    "summary": "바이낸스 64억달러 해킹···FBI \"북한 소행\""
   },
   {
+   "id": "binanceuserspullbillionsaspayoutsresumefollowingnorthkorealinkedmassivecryptobre",
+   "title": "Binance users pull billions as payouts resume following North Korea-linked massive crypto breach",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSDh6aXFVRzJzd0o0Qmw3VnpKdjA1TTg2XzE2TFg1d2xQOWc5WDNQRXROdDJfbklRY3FWMkJ2ckFGcTNfMGkwQUV4QjRONnptdU4xeG0zQjdLbXhJU0RGOHZWdHZQUVBjQmJEWmxvb0RCOHFBakhVNkthbHdEN2hMYXgwZTJlM21FLVBMU0tQc2U3WjFkRDFYVk9jeTYtQTExaTRReG9CWEZBVkRQLTN4b0Q3US1taERkb0FIY2ZNVGozYXJ0RzlnQW5GUlZhal9oT0JidNIB0AFBVV95cUxQRVV3S19zUFhTSWs1Y05ST2xtSHlOLU1zUnRWaTJJbjJFYlNVTFNlQVpwTW93OHdhdjNiMGJwdzNxakk4R2VfSmtaTnRUX0RmNWFJdnRyQzEzdDRFaE5rOHJpcmlIeG1VM3N0a2YtRlFtc0tmZDJTYVdHMThMTHBscUVzenh6VUxUajZuOVZDMUZRbndoVjN0alBpTTd6SjRRM2U3QXJhUGRLOTM5SjI3d3FVc0JQVHV1WjdQNTgtajJMWnNYcEt2LWFmT1lIRy1Y?oc=5",
+   "source": "The News International",
+   "country": "US",
+   "published": "2026-11-01T19:13:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한과 관련된 대규모 암호화폐 유출 이후 지급이 재개되면서 바이낸스 사용자는 수십억 달러를 끌어 모았습니다."
+  },
+  {
    "id": "币安被黑客攻击损失逾60亿美元加密货币fbi指涉朝鲜黑客",
    "title": "币安被黑客攻击损失逾60亿美元加密货币 FBI指涉朝鲜黑客",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjh1a2xDN2R5T3BZU3RxWURHZUZuYXNMZmM1UlNtTVdKZ0lIRjdabGxRYTZaMF9YOEk5aWpQQ2VTNTJlajg4TThsYnlnNUdVY3V3NkJwTnJ3ck5fSTMxNzJxTV9ua0ZjR1F5ZHpHNVJSWWhKZWNDblRBVmhKZXlEbDZTYXJxTnlhUEZTVU8xbHd0NFQzN3YwWFV1OURveTNRaXhj?oc=5",
@@ -38,6 +614,16 @@
    "summary": "바이낸스는 해킹을 당해 60억 달러 이상의 암호화폐 손실을 입었습니다. FBI, 북한 해커 비난"
   },
   {
+   "id": "暗号資産の不正アクセスに北朝鮮が関与米fbi盗難被害の影響は1兆円規模",
+   "title": "暗号資産の不正アクセスに北朝鮮が関与 米FBI 盗難被害の影響は1兆円規模",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxOTV2OXZsS3lVb0ZwWHpYdF9XcDA0enNMTGhPWjBkUVJOWGR4Sm9CQ1ppbTJib1V4UExsZmxaczBERVhDWDlWUGlUVFlnbzJ5M3ZHZHJPTVFiQkE?oc=5",
+   "source": "ABEMA",
+   "country": "JP",
+   "published": "2026-11-01T19:07:30.000Z",
+   "fields": [],
+   "summary": "암호화 자산의 부정 액세스에 북한이 관여 미국 FBI 도난 피해의 영향은 1 조엔 규모"
+  },
+  {
    "id": "ｇｍｏ攻撃北朝鮮関与か痕跡複数政府に報告四国新聞web朝刊",
    "title": "ＧＭＯ攻撃、北朝鮮関与か　痕跡複数、政府に報告｜四国新聞WEB朝刊",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVVp6VmcwQUtnTTlnVFNLWTlIaG9EVS1scU5vT1ItQ1otV3RPVmV2c1VlRnFtNGRaakxGeTNyNFBlSWR3RXJmdk11LTlqNXV0YzBfUDRnZDRJdGlick10cXJEcHZkV0x4M01UczA5X0lEYUx0WmotMDNNWHBUTGh5VkxXQ3U3QdIBfEFVX3lxTFAtLUV0aU85b293WFVaa2p5M2pqYlBSYURHNHVIWWxEX19KeUVaS3E3UURoc1ZuT3JZR0dVUmNOVFN6bGJrUkV0bjFoTmFvZUN6ZnFtdEdUOVJGampDeW1vOFhEZUdlOFRzYklPWkZycGJuX2pYcGZSTm15Qmk?oc=5",
@@ -46,6 +632,48 @@
    "published": "2026-11-01T19:02:42.000Z",
    "fields": [],
    "summary": "GMO 공격, 북한 관여인가 흔적 복수, 정부에 보고 | 시코쿠 신문 WEB 조간"
+  },
+  {
+   "id": "사설84조해킹北사이버안보위협직시해야머니투데이",
+   "title": "[사설]\"8.4조 해킹\"北 사이버안보 위협 직시해야 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5acHRHWHpVNV9IUDc5VWU4MEJWNmhtbUo5OE9OUW5iRnlNVGRYdkxUS0EtdVE3dEx0YVRVV1RLR21PTExFclpSd3BBc0FsS0p6MkR1cTFGellxVC1jS2ktbWQ4akJJUXhEZXAxOW9vSWzSAXBBVV95cUxOWnB0R1h6VTVfSFA3OVVlODBCVjZobW1KOThPTlFuYkZ5TVRkWHZMVEtBLXVRN3RMdGFUVVdUS0dtT0xMRXJaUndwQXNBbEtKejJEdXExRnpZcVQtY0tpLW1kOGpCSVF4RGVwMTlvb0ls?oc=5",
+   "source": "머니투데이",
+   "country": "KR",
+   "published": "2026-11-01T19:00:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "[사설]\"8.4조 해킹\"北 사이버안보 위협 직시해야 - 머니투데이"
+  },
+  {
+   "id": "バイナンス被害も北朝鮮ｆｂｉ発表暗号資産巨額盗難",
+   "title": "バイナンス被害も北朝鮮 ＦＢＩ発表 暗号資産巨額盗難",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SUEpDSFhUMGg2Q3BGenQ3N015QjZ0c2w4S0pCQnU2WFR6dThaa3hxYWtoVUU1Q1Fnc01JSThUQ2lGNFFpLWtNV3JTelJvNEdERDM0dWk5enl0dw?oc=5",
+   "source": "北海道新聞デジタル",
+   "country": "JP",
+   "published": "2026-11-01T19:00:00.000Z",
+   "fields": [],
+   "summary": "바이넌스 피해도 북한 FBI 발표 암호화 자산 거액 도난"
+  },
+  {
+   "id": "фбробвинилакндрвовзломеbinanceна6млрдипризываетблокироватьсотниадресов",
+   "title": "ФБР обвинила КНДР во взломе Binance на $6 млрд и призывает блокировать сотни адресов",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN3pXUVp0SGFOdjdabC1lWWt6TmFVS2VSREdmREdzdnQwN1JtVng4SHJGSlRIUFM0NXY0bngtXzJvVXJHOEVFUHNVM096OEI3RlBoOTdPZ3JVRlFaNjFUWGlVRGZRbUQxVnB1cEM1dGVOeVhSaFFBXzF1UWpkSzNiY2NJMm9iWHdTbW9HSXZiUkltOXVPZmxIQlBsZmlJNTdIZmZ4YlRqYWIzRzNVZ011SWFGVGRDbFA3OVI0cnpoczlaa3NQQzQyMmJn?oc=5",
+   "source": "Блокчейн24",
+   "country": "RU",
+   "published": "2026-11-01T18:58:33.000Z",
+   "fields": [],
+   "summary": "FBI는 북한이 바이낸스를 60억 달러에 해킹했다고 비난하고 수백 개의 주소를 차단할 것을 요구했습니다."
+  },
+  {
+   "id": "暗号資産の盗難北朝鮮が関与fbiバイナンス事件で",
+   "title": "暗号資産の盗難 「北朝鮮が関与」 FBI バイナンス事件で",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjTEwwVE9vYzJsazJEM2Q3UkloSmVWdk9ETmxuLUt6UFhjTUNWejJCTkt4ejBQNVN5UnJwaXotN3Y3ZWM0MFJmR3ljV2FVaDhtNDUtczIyaUJoVFJIX3c?oc=5",
+   "source": "沖縄タイムス社",
+   "country": "JP",
+   "published": "2026-11-01T18:57:00.000Z",
+   "fields": [],
+   "summary": "암호화 자산 도난 \"북한 참여\"FBI 바이넌스 사건"
   },
   {
    "id": "switzerlandreopensdiplomaticmissioninnorthkoreaamidrisingtensions",
@@ -80,6 +708,18 @@
     "economy"
    ],
    "summary": "바이낸스 63억 달러 해킹 배후는 북한"
+  },
+  {
+   "id": "是朝鲜黑客偷走了币安63亿美金吗",
+   "title": "是朝鲜黑客偷走了币安63亿美金吗",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FdV9Ma29qaU96cnNoRWtidTlMTEd2VFpEOHlvUjBUOWJ1VzZGRjVaeVhGX2xzUVVvSG93MU9ESDZsVlY0NUlEaC0yRFJJMkh5UDhZMDR2dDZIeXQ3NVlZZUVPY2Ytck1NZnBsUlBfbVc?oc=5",
+   "source": "手机新浪网",
+   "country": "CN",
+   "published": "2026-11-01T18:23:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "바이낸스에서 63억 달러를 훔친 것이 북한 해커였나요?"
   },
   {
    "id": "u17女足世界杯八强战朝鲜与日本的胜利之道亚洲足球的崛起与挑战",
@@ -184,6 +824,40 @@
    "published": "2026-11-01T16:56:04.000Z",
    "fields": [],
    "summary": "암호화 자산 9900억엔 상당 유출, 북한 해커 집단의 범행과 단정… FBI 발표 「자금 세정의 움직임」(요미우리 신문 온라인)"
+  },
+  {
+   "id": "북한올해가상자산해킹피해액89차지6년간132억달러탈취",
+   "title": "북한, 올해 가상자산 해킹 피해액 89% 차지… 6년간 132억 달러 탈취",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95WG10VWJ0bHRnSHQ3dkxPX0hFSFE1dldSZERjeUd2TUtybU82eVNHb2xZMTVfM3AyTExpdmlzNVN2QVJURnJEeVV5UTBrTllnak5Yd3ljX2J1cnduRTFsVEEwZnpfVXFj0gFsQVVfeXFMTVVkLVFmbmw5ZXNBaWduSlI1S0s3ckNmVkRuYjB4UlNOenF2SDg0T3M0Z1EzSnRadzVZQkJZQUpESzZEd19URnZla0UyTHZFNjQtWXBBYzZpZDc1UmNTVnlMVkhvWFhjbDNoOEJ5?oc=5",
+   "source": "스타트업엔(StartupN)",
+   "country": "KR",
+   "published": "2026-11-01T16:54:51.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한, 올해 가상자산 해킹 피해액 89% 차지… 6년간 132억 달러 탈취"
+  },
+  {
+   "id": "кндрпоказаладроныкамикадзепохожиенаизраильскиеharop",
+   "title": "КНДР показала дроны-камикадзе, похожие на израильские Harop",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQXzV6OVlnQmxNWW5Lc3phM0NlRzZvWUZQM2xsS1hSQ0xoM1o3bVNSOFRZeVZZUnNSZVB3d0xQclNVTFk4UUVNcHZlTnZxd0d2ejJMVDNhYTA4d1dXajZMSE5JaF96SEU1T0ZXSGdCNTczdlIzVjNXYXVqUzBuSXlqemdjU2ZpdmJjM1E?oc=5",
+   "source": "New-Science.ru",
+   "country": "RU",
+   "published": "2026-11-01T16:53:46.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 이스라엘 하롭과 유사한 가미카제 드론 선보여"
+  },
+  {
+   "id": "onekeyceoraiseshypotheticalnorthkorearisktoblackrocksbitcoinetf",
+   "title": "OneKey CEO Raises Hypothetical North Korea Risk to BlackRock’s Bitcoin ETF",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMZjgwTk9xcHlPLTM4OXNaMTcxbzI4cmk2enowRzAwSEYta1piemdNbWlnYS1TWGVCZVNvMkR0S0ZEM0hZUTFLQ1hES0NTN25LMHpWMDh6WVdYRXc?oc=5",
+   "source": "www.tokenpost.com",
+   "country": "US",
+   "published": "2026-11-01T16:48:38.000Z",
+   "fields": [],
+   "summary": "OneKey CEO, BlackRock의 비트코인 ​​ETF에 가상의 북한 위험 제기"
   },
   {
    "id": "北朝鮮vsアメリカ準々決勝fifau17womensworldcup",
@@ -345,6 +1019,16 @@
     "economy"
    ],
    "summary": "FBI, 북한의 TraderTraitor를 바이낸스 해킹 가해자로 식별"
+  },
+  {
+   "id": "fbiblamesnorthkoreaforstolenbillionsfrombinancemanilabulletinnewspaper",
+   "title": "FBI blames North Korea for stolen billions from Binance | Manila Bulletin - newspaper",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcUpDXzUxMDVJNGNIZmRpdDgzRHFCT1d1NXhCbFVJSTJKaWpBcXVRNEdaZ1RXUGhtUW03cUJuaTBwSDQ3NjN2bThWcmEwQTNlMGpVOTlIaG52dDRZZEI2VGgzczY5RThQNEo2ZzFNV2JsVFp6Vjc1VXI4OE11dnI5UzMxdmdXdFVBSVJxSW9TNXZoeEl4QVNmUEc1QXdTNC1odVZHbEtDVnJ5b18tdU03cGNPU3A2d255QU56UA?oc=5",
+   "source": "Magzter",
+   "country": "US",
+   "published": "2026-11-01T15:56:15.000Z",
+   "fields": [],
+   "summary": "FBI, 바이낸스에서 수십억 달러 훔친 배후로 북한 비난 | 마닐라 게시판 - 신문"
   },
   {
    "id": "핵없이도南초토화北연일무력시위",
@@ -549,6 +1233,18 @@
     "economy"
    ],
    "summary": "FBI는 바이낸스로부터 60억 달러 규모의 암호화폐 도난 배후에 북한이 있다고 밝혔습니다."
+  },
+  {
+   "id": "가상화폐24시북한추정최대코인해킹바이낸스84조피해",
+   "title": "[가상화폐24시] 북한 추정 최대 코인 해킹…바이낸스 8.4조 피해",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WUzd1Y09qMHlnbWk4akNVemxWQUN3U0VXdkJjWDB3NWRScHM5SzIyYXR1RVJPajFhOHFvY3BzU3RLVzZaQjY2dkVPSUE0VkJESFFyaEFLdWxDWVpFRHU3dkRZNlR0U3VFQ2d2RGJ0UlZlUQ?oc=5",
+   "source": "뉴스임팩트",
+   "country": "KR",
+   "published": "2026-11-01T15:16:40.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "[가상화폐24시] 북한 추정 최대 코인 해킹…바이낸스 8.4조 피해"
   },
   {
    "id": "从币安遭窃看共产政权的国家级犯罪行为",
