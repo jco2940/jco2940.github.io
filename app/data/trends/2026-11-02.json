@@ -2,6 +2,494 @@
  "date": "2026-11-02",
  "items": [
   {
+   "id": "южнокорейскийвоенныйпогибнаграницескндрестьтелесныеповреждения",
+   "title": "Южнокорейский военный погиб на границе с КНДР, есть телесные повреждения",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX0UyWmRzbGc1Y0RFX05OUklLeWV5eUMtU1hNSTk3cWFmYUlEVE44cGZVa2k2Nl9EYks2YkFLRzJDZGhsREMwaUk1V1M5R0VVa1RKQ1Z2VU5JTGNGalFXbmRHZ2NFUVV5UmUwYXp0STZFTWE2M3RaRExkZk5zT3NpUlY3cWxZNEs3eW5QM2JteE1IQi14b1ZQbWUyTWhzYnhJV3FUdkg3QXBPdmR6Vlcta2o5MVc1UQ?oc=5",
+   "source": "prospect.com.ru",
+   "country": "RU",
+   "published": "2026-11-02T08:03:38.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한 접경에서 국군 병사 사망, 부상자 발생"
+  },
+  {
+   "id": "northkoreahackedandheistedbinance",
+   "title": "North Korea Hacked And Heisted Binance",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1TWRKQk1TakUwNV81ZjktN2UyZnR2elE5STNLQkl0d1Zuek1JVXBmcnJ3RGRlcy0xMFozMmg4YlpBdzZON0loVXNMd3Z5RGE1a19NWWdlQk1IdWV5YThjYW5udG5nSGd4azFhVG1MQkVzOGRfNWRz?oc=5",
+   "source": "TheFutureParty",
+   "country": "GB",
+   "published": "2026-11-02T08:01:23.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한이 해킹하고 강탈한 바이낸스"
+  },
+  {
+   "id": "kimjongunemphasizesbloodalliancewithchinaamidmilitarysolidaritypush",
+   "title": "Kim Jong-un Emphasizes Blood Alliance with China Amid Military Solidarity Push",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXBJRVFSWXFVUnp2Wm0xZ1Y3NGk3YVJTRHFveVlJcE4xLUswY2dRU1haNEJsQ0ZudVZ1X3k4NkRMSTJIRFZOTE5XOFRuVWFCZHVJVTN5ZkE4eW4xaGcxMWYwak1UeFBnLVdWSG5FQjAtdjhTMnVZTmVvNUFJWVZSdDVhVTJyUjg?oc=5",
+   "source": "조선일보",
+   "country": "GB",
+   "published": "2026-11-02T08:00:24.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 군사연대 추진에도 중국과 혈맹 강조"
+  },
+  {
+   "id": "southkoreansoldierfounddeadnearnorthkoreanborder",
+   "title": "South Korean soldier found dead near North Korean border",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ncUdBYW5mOVgxWGtQc002dzNLUFlORDVNZmtJaEhlU1pSMDhJaVg4MUsxTV9hck9uZHJraFZkYmQ5ZmgzSmtmdmtFTHB4MWRQMTVQeQ?oc=5",
+   "source": "AzerNews",
+   "country": "GB",
+   "published": "2026-11-02T08:00:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한 접경지역에서 국군 병사 숨진 채 발견"
+  },
+  {
+   "id": "binanceusersdrain46bninhoursascryptoexchangereopensafterrecordnorthkoreaheist",
+   "title": "Binance users drain $4.6bn in hours as crypto exchange reopens after record North Korea heist",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWVSMFl6WDhLUjZGWnFheW1hSG96Rm9HRjd0WnUxY1RXWHhScDZrUHRHaWJkejB1LTRrTURLcHNRaGtRdm91TnBUVElJOUl1ZzRMTk14a3Z6b1d3cnQxX195c3BhSVdkNjV1VzFmZ1dOQ3N6QkZDUFF6bWhWbnhseXpLT1JSUDdXNmdvUEtYb1JFVERuRzRyMkxIaEZVaUhqU0VHSQ?oc=5",
+   "source": "The Independent",
+   "country": "GB",
+   "published": "2026-11-02T07:25:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "기록적인 북한 강도 사건 이후 암호화폐 거래소가 재개되면서 바이낸스 사용자들은 몇 시간 만에 46억 달러를 낭비했습니다."
+  },
+  {
+   "id": "southkoreasdefenseministrylaunchesnewdroneunitamidnorthkoreathreats",
+   "title": "South Korea’s defense ministry launches new drone unit amid North Korea threats",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2YxTEhfblhxcU80dEU4RzBsUnd0VFkxRU5RbmZYbmFUdVp6NHhiRlVDQzdIMEZRQ1F4QW45aTRhdDR2cjQ2TjR1amJsNUYwZE5PQ1lpbkk4ZHMzdDJpalNZcjRHNndpbnFVbHcyNjRIUG13UnhkTlQzQmwyZlR0UjhOVEdrTFJyaFN3UjNPb2txTFBlaVlOTUNxZVlXS3psV2pER0F3Y0pnQQ?oc=5",
+   "source": "Defensehere",
+   "country": "GB",
+   "published": "2026-11-02T07:24:12.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "국방부, 북한 위협에도 새 드론부대 투입"
+  },
+  {
+   "id": "fbinorthkoreabehindlatestcryptocurrencytheft",
+   "title": "FBI: North Korea behind latest cryptocurrency theft",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZkJtcjlCYk5zVG02NlZBVU43VXd2NHB0dnNPUW1TX3paMG5rTzBNaFJmTzZqOXpFMDBvMzFiMTN1eERvSnhGOXlHZ2JSR0k2R2tzLTBocFhvVlNiYWkyd1BOT2w3cXlBWmFqdzdoTDBwSXJadWsyVVl3ekZUX2JZdE1YTFNNZ1NuSzdXT1I4enNMaDg3VHdkLWpXSFFwNklrYi1ZWnR1bnY0ZndM?oc=5",
+   "source": "cna.al",
+   "country": "GB",
+   "published": "2026-11-02T07:03:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "FBI: 최신 암호화폐 도난 배후에는 북한이 있다"
+  },
+  {
+   "id": "романспредполагаемымагентомкндри6млрдверсиявзломаbinance",
+   "title": "Роман с предполагаемым агентом КНДР и $6 млрд: версия взлома Binance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS2d5dFF2aEZDNE5KTE8tTE9CODdvUzBudUFoZDl4akdZTHJ2ZDZuamM3S1NYMHkwUTFlSXVlblFMQ0VIMEJabXl4LWtXRWFpRmVzZGJIc0hoVF9IZVFDYVRJb0FZSUhOOGY4eHNUbFJFWUdtVmNmZDc0NU02VVFFQ0htcTQtalZydHdMZjBfZEJpUEw3T3BseFdkRUE3QQ?oc=5",
+   "source": "br.az",
+   "country": "RU",
+   "published": "2026-11-02T07:02:00.000Z",
+   "fields": [],
+   "summary": "북한 요원으로 추정되는 60억 달러와의 불륜: 바이낸스 해킹 버전"
+  },
+  {
+   "id": "northkoreatestsclusterbombwarheadinweekendmissilelaunchstatemediasays",
+   "title": "North Korea tests cluster-bomb warhead in weekend missile launch, state media says",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSTg5b1I3TVZHQ293NHNGRWNMU0ZvZUNIU1BXQjJldXoxX181VDVBclFaelBUR1ZIS2NTQmFpU1BzVUl2OHV2TndQcUZ4bV9RUkdvY2RoYkV4bFdNNTFKd3ZLcGpQYzFtRjNkeGJrZEFzdzhJZUxUMzZZLWZ6TUhqa3Z2aFZKbGZIMXRSZUlKd1gtRzlDdTh4SW9BV3JqRkF3MlRwZ0l3?oc=5",
+   "source": "Stars and Stripes",
+   "country": "GB",
+   "published": "2026-11-02T06:49:37.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 주말 미사일 발사로 집속탄 탄두 시험했다고 국영 언론 보도"
+  },
+  {
+   "id": "пхеньянкндpускоритнаращиваниепотенциалаядерногосдерживания",
+   "title": "Пхеньян: КНДP ускорит наращивание потенциала ядерного сдерживания",
+   "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxOQWJKM0xNMHFWVWU5WE1DNW9IYUFMZFR3NEIwS05fQ3NkWEVzaDRwSGowVEVBSElOLXRaeWZzQUdLTUoyRGRNNVpWQjFGRVlvbjZvUnVuSDRhWkw3NDBiRFFrT1Bfekt3V0JGeWFGV3JJbzZmdElSX29iTFg3M2NVVlh0RldMNjVoWDcxSGU5bmhILTZhMXN0RzY1NjVlMkdWTzI3aFdHZXg2NXdTX1kzclJpTzQ3RGxTeVFuTW02bWpzWEY4TUozclpfM1d0cUVHUzc3TDFMNTVCZlZ5Njl0alhOWlpDbFNUaXdEb3RvSy1NUlJpNklUU1k4UGQzZ1NhMmpWLVZWUzNkSGt5RjhiUWhwZlAxUkROV24xbWlfbzJEV2d4YVJKTDJYUjY2Z3FWMmdGcnRnVGFRQkM1cTJCUk9oVXkxZEIyaFZ3T0otVzIxNm9maFJIdmNqa2ZYS0hDSklhQV9SRl9PWW1vbU1XbENta0VkSDRfR0VpTHFZLVpMWUdTSnJuRC1HczVlc09YSkE3UXNERzhTMHRjODFvYUZva0RNek1oOFZnM3RyMUhZWk02TThTSW1ZbEtTdGNFaWFyQkNaMElTVHdCUzBRTHoxMEs2cWcyanEwbVk4amlxVi1vUUZ6LXFSVGlURVRGYnJHbUJoNzJUUGJ5eVhvTmI2TnFZU19JNVJZVGZhXzIzUUdWNzdERkJXcUk0TmkxajVwMzhqejJ0alFKSlc0LUNjQjYzX29heG1z0gHABEFVX3lxTE9ESVFLZWJmM1AtbHpPcHNRX3dRZnI4TTVBQnFRMGZyNWlFMWRVOWlXdHUxVTA0aUgxVHhtYzFXdGdESGpGX0NRdy1oTzNEdllPaVBtaEczSEh4Y0NsamNEem96RVdEeWEyWHl6c2FaeEVSYkF5S0pBRkFIR2pPWEFyS1pwWVdPaVdpcmV4bTlReWpReWRkdlozVG1hUXJIeFlZb2VNMm1FNlFUNTl1OThpYkJ4eXAxay1HNDBzcnpTQldlclNTQ1NGamZSdmZZcTNwU1hEVkhOYzA3RkJXZXFHZ2RNMkFLTU1lVWpKTHNaeXJ4U24zMTVLbnc0N0dmSW03R00tQjhfR2liQjkwdS1vRGVQNkN0WFlhTzhDUWViVmpTNmdhaDBGRDBoWEpodzA0bUZEMGRtZy1ZRGxQUVBqN2tlMW0tbTN5VWVtRTg5XzBHeV90QlZheUpmdFNsNHR4VlB5NXFhckNoUUtKQkRmakN4M0dIQ3EwTXdHN1BUNFloQXNkU2pZMWpwLUJoaWs0NEdad3lMek1Zbk5vbUlzLTFJOEtaQTJSbjZ6WE5UMjdndEFUTkhDdWNWUGNSZEdsQXpNam8wQk9OcE5oc0FPc0sxTXBnWklCZjk0Z0dYdVJ0TDhGQVhNZDNuV093dUlpaWwyODMzekJ6b3Q5LUFQMk1xa1A4dzJMQnJZY0VxWWNidGhNcmUxZi1iRk9xaEpUY2t6ZC1pcTQ0eVhyVWFBZUJfNng1eHNmM3pGanY0Vg?oc=5",
+   "source": "تسنیم",
+   "country": "RU",
+   "published": "2026-11-02T06:48:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "평양 \"북한, 핵 억지력 강화 가속화할 것\""
+  },
+  {
+   "id": "фбробвинилосевернуюкореювпохищенииболее6млрдизкриптобиржиbinance",
+   "title": "ФБР обвинило Северную Корею в похищении более $6 млрд из криптобиржи Binance",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXVjTzBNX0RsajVQbWZybm1Rd3NNX3ROSjdVV3FwV0NFZFhjU21hazN5T3lkUV9GUF9DRUg0MlROSVljY1F3Z2NFRmZqZ0l4Uk5TcFZMSzhBeWJ6cHNrMF94SDFOR3kwSjVJTnBzQk1qSGt6dmJlcS15X0VHRHdYMVVHSkx0LXlKTmFTZXAzMlVGTkFIbzloTFA1UFI4Mnk1ZEhtUFlBQzdXNGRRU3dTTg?oc=5",
+   "source": "Delo.ua",
+   "country": "RU",
+   "published": "2026-11-02T06:46:19.000Z",
+   "fields": [],
+   "summary": "FBI는 북한이 바이낸스 암호화폐 거래소에서 60억 달러 이상을 훔쳤다고 비난했습니다."
+  },
+  {
+   "id": "southkoreansoldierfounddeadatfrontlinepostnearnorthkorea",
+   "title": "South Korean soldier found dead at frontline post near North Korea",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDA4NkY1OUpJSFJXaUdCSWt3cEdfdWh4SHBwamswT1hySFgzQTFmMDRXODFYSl8xZjBDOHE1MGMtdXRBOHQ0cVU0UlFlRXFROG5YVmdWNUt1djhWMU1TWUU2TTE0UEdqQWVSazQ2MGMwdkJCRnhrRy1oTlRrVHhwYTRSSzdWeGpsZ3lmSU1Fa3lVUFJYQUxXOGZ5a0lUQzdOSlNXU3B4N3RnTU5IS0NtSkpB?oc=5",
+   "source": "Anadolu Ajansı",
+   "country": "GB",
+   "published": "2026-11-02T06:45:38.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한 인근 최전방에서 우리 군인이 숨진 채 발견"
+  },
+  {
+   "id": "southkoreansergeantkilledonnorthkoreanborderastensionsbegintoboil",
+   "title": "South Korean sergeant killed on North Korean border as tensions begin to boil",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ua1BxMjhNLTY0MDYyMnFUb1Fjbm9wME44NF9NdXlVZFBMS3JSQXd1OXdyS2pmSk1wSUdiaDVqeHdIaUpDaU5pcEcyWGs4VEtUNDlKc2xZbTFUYVVHOHJR?oc=5",
+   "source": "The Jerusalem Post",
+   "country": "GB",
+   "published": "2026-11-02T06:41:29.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "긴장이 고조되기 시작하면서 북한 국경에서 한국 상사가 사망했습니다."
+  },
+  {
+   "id": "рёнхаптвнаграницескндрпогибсержантармииюжнойкореи",
+   "title": "«Рёнхап ТВ»: на границе с КНДР погиб сержант армии Южной Кореи -",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXVSV21HdEEyZmJwRWZtamN6X0d5RDZ5V2t2Zm5CZndHRUllV2Y4NjZxaGVkVThmcXdEVC1iYWU2ekF2X1Y0Ym4yOGE4Yld6T1hhS01KcEN3cGMwM1VTMURUbVNRU2RWbXFnMTV3TFh3MUF1QzlMV2hiVnlLT0VMa3pycG1hTWh4cjFPOA?oc=5",
+   "source": "ZERKALO.AZ",
+   "country": "RU",
+   "published": "2026-11-02T06:38:23.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "연합TV: 남조선 육군 중사가 북한 국경에서 사망 -"
+  },
+  {
+   "id": "northkoreamovestosecureunescoheritagestatusfortaekwondoasjointbidstalls",
+   "title": "North Korea moves to secure UNESCO heritage status for taekwondo as joint bid stalls",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaUx3bmpJcEVMVEdCWFNZay0zSlUxNVNDaXBiakJVQ2o5MldHdDRqalJWYmQzZXdRSU1EQmZkdWQxaHZnXzZFUTZLN2dtR1ZwVUxKQ2NJQUJKUnRMUjJaWlVJVTJhb3JqUkxYdDVLWnBvUktIU0dnbnNpbjRjeWQzb9IBlAFBVV95cUxOdEtqV2VqRzR4d1FHVmNhUHhUdGdPa0Nya0lrVzZsSjJuWGtVd1N2aU84MGh1a2ZpeTR2RjB3dE1ZYWZhWkJCNlZreWRqenVxMVp1Nkl1R1Zqbk5OaXlERnJOR280TURnMmJIek5MUXZ2bjEyQmZObDZVQ182Y1NqamJVN3Y4QUVnM1RZdm1rdm1MdkRr?oc=5",
+   "source": "Chosunbiz",
+   "country": "GB",
+   "published": "2026-11-02T06:35:00.000Z",
+   "fields": [],
+   "summary": "북한, 태권도 유네스코 문화유산 공동입찰로 확보 움직임"
+  },
+  {
+   "id": "загадканаграницекндрсержантнайденстравмами",
+   "title": "Загадка на границе КНДР: сержант найден с травмами",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yb1NSZW0tTDFZa0l2V3dLODdTeF9SaEFQZlBONFZETnBYR3ZZUXVuX1lZclpaUVZnZFJaS3VaSjhUTnd1XzBwb2JfeHkwZktiRWFubQ?oc=5",
+   "source": "Axar.Az",
+   "country": "RU",
+   "published": "2026-11-02T06:35:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한 국경의 미스터리: 부상당한 하사관 발견"
+  },
+  {
+   "id": "southkoreaprobesdeathoffrontlinesoldiernearnorthkoreanborder",
+   "title": "South Korea probes death of frontline soldier near North Korean border",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVEk1TkNkSFBWWUlYdVB0TlptVnB6TU14U3VjX3ZiYVpNU1gxcGNySDRsQmR5dUJRZEFjZTJ1NkVEVm5uN04zMGRVV056S3pEUXhMUlViQ0dwR2lsSXVBSWxZVDlxNnhremVTSG41TjRBY2tacWFIZWhyS0pqZjRtdUhKaWlhclNvbE9mM3ZpeXNsVkd3QWI4OW9YTnNEeTBPWTVZTnJnYm1wUlpCTDBjUktzQnpfNlNTU05vRi1zWG01QdIBwgFBVV95cUxPOFVyTWlvTFktSFNnSGpBTVlFdllldzJMSGtud1ZnRGZLWHRFRGdYcmxES0dTeWx4TmJtRXBPcmJ1dFY2clJXQ3Y2dFdlWHRfcEd5ZXJ0ejdJTzcxNE5vb3FNQTN4aHdyYjJhSThrT25Vd3NlTWcxa3M3bWxQQXZjX0xmczkwU2VqN0VHUlRfWUx5YmtSalphZEk3VHV1a20wazNsY3Bvc2tscWlIa2ZEMGVKeG1kcUNxTFFHUjNPbnVXdw?oc=5",
+   "source": "South China Morning Post",
+   "country": "GB",
+   "published": "2026-11-02T06:25:45.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "한국, 북한 국경 근처 최전선 병사 사망 조사"
+  },
+  {
+   "id": "fbiconfirmsnorthkoreabehindrecord636bbinancecryptoheist",
+   "title": "FBI confirms North Korea behind record $6.36B Binance crypto heist",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWxrUnN6RUtNZ1ozMTEzaVlpQmRZRVFYUzFRNm45QzBOaFU0NXJ1S3c3NkNMVFVycDZpYU5YVTZtRkd1a0JxT3BBZlVKSzFrdUJ6ekRLUjdHTEp0NVB0VWUwVF84emNsZnJ6VFhSa29hYUpFSkpSYVFBV183c3A5N1dLcTZQRGpoaFZsYUNXSXhRMG5FV211NQ?oc=5",
+   "source": "NK News",
+   "country": "GB",
+   "published": "2026-11-02T06:24:53.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "FBI, 기록적인 63억 6천만 달러 규모의 바이낸스 암호화폐 강도 사건 배후에 북한이 있음을 확인"
+  },
+  {
+   "id": "reportssaynorthkorealinkedhackerslikelybehindgmocyberattackaheadofceobriefing",
+   "title": "Reports say North Korea-linked hackers likely behind GMO cyberattack ahead of CEO briefing",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLV9fVGVlR29jODNEYllVNWNMcGlDZjY1OElmekhwMlFxWThCVDVPZ01DeXd6dFZIYzNReU1KaEtobDQ3S0QzOXFaQVlqNUlJd1dnSEJOVHJ4TzN4NlN0WV9iZ3FDNGZiUW1lb2k3LTJEMjZheG9wczhOeXFHd0ZhS1Zn?oc=5",
+   "source": "Mezha.net",
+   "country": "GB",
+   "published": "2026-11-02T06:23:53.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "보고서에 따르면 CEO 브리핑을 앞두고 GMO 사이버 공격의 배후에는 북한 관련 해커가 있을 가능성이 높습니다."
+  },
+  {
+   "id": "northkorealinkedbinancebreachtriggers364bncustomerwithdrawals",
+   "title": "North Korea-linked binance breach triggers $3.64bn customer withdrawals",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU3NrcHA1bzlaYVNGeHE1SElQWXhjU0lKNWVEaUtpVC1mSXFZMlNpdi04UHNvNEpzV0ZseGNLNXpaUkR1SGx1Nkp2VkN1aFl6cWJ4ZW80WFRtRTVEa2JlY3hIX3RTNDNhR3ZLa2pCeUFjT2NvaXhVcFdDa2VTcWlvd2ZfTjF0R2g5YUdYdDBwdTVleko1dlcyVUtQem5QOWI3OUplZGZ6YzVWLXdrTDRHeG8zY9IBuAFBVV95cUxPemU5TUZkNUxHeHdzSEx5V1owNnVQYkowR0wzLUFCQjVoNHlNVVNOc2VZX0c2RzlaZGtlOWZhdklwbHBQd3J5WDg5NUVackpLQWZrUU1iN01UX0Z0dDQ3Ry0xSEtuRG9ILWtvWDBXYVJBc2lEeFVKNWlXa1hxaUxibm5adXM5QmRHeHYyVEpZQi03emg3aHdmQ1NBY2ViVXVZSnNYNmpFZmtKX1hWa1BSRW9idDVqa2pV?oc=5",
+   "source": "Businessday NG",
+   "country": "GB",
+   "published": "2026-11-02T06:22:06.000Z",
+   "fields": [],
+   "summary": "북한과 연계된 바이낸스 위반으로 36억 4천만 달러 규모의 고객 인출 발생"
+  },
+  {
+   "id": "northkoreashackerssuperchargecryptoheistswithaiskills",
+   "title": "North Korea’s Hackers Supercharge Crypto Heists With AI Skills",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOekRBR0dKanh1bXRKMVJuNGdsODV4NUZpaDJueC1leGRvVkVUeHhhdkdzVHdzMmM2TWpwYXBfaTZ6WEdlWk92R0JROEZ5d2FfLXNqaUQ3WEJHWTJEdnZuRUN6MnhVLUw0UlFaUDRiUGJ6Z3RjWmxsWnFhWHE0cE4tblNHd2dWTHExc3NSWGZIMjlpZnpKdi1VLW0wczRtOGg5OGkzbzEtTy1pbUZPZ0RoWGZ6OA?oc=5",
+   "source": "Bloomberg",
+   "country": "GB",
+   "published": "2026-11-02T06:22:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한 해커, AI 기술로 암호화폐 강도 강화"
+  },
+  {
+   "id": "кимченынпоказалновыеударныедронычтоизвестноотехнологияхкндр",
+   "title": "Ким Чен Ын показал новые ударные дроны: что известно о технологиях КНДР",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQVl5bDJ4RHJLYXJvYW9tOG1SYTBGNGFZMHBuMUpCZDNrYzJHZ25taDlhZks4eXBxcmlJSGc4cGVCTlJMY084M2RvbGlidE9Ka1hFVmlUNjBuYUY1VENHcDJvdGlTQnRkZFpJaGZrcGxaMTJyQ3c5eFYxQ1ZlTE5oQjdOaERLUzdnNHdGZ0930gGTAUFVX3lxTE1BT1diUllLb0kzcWdJUWNHTFdTUTBBbzRBbHctYm4wNlNzbmlmWURiQ0MwaDhYUUxhekFGS3FoREtRZ0hsbzZ3MmJ5SERyUGxuLUVHendKeUFNTUd2dXpWSDJobk4tMTRIZjZ1bVZqaThPaVRJaElNa1NyenU3SU1SRDFIc2hXLWVoRXNhc3lFRGN5Yw?oc=5",
+   "source": "24 Канал",
+   "country": "RU",
+   "published": "2026-11-02T06:15:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 새로운 공격 드론 선보여 : 북한 기술에 대해 알려진 것"
+  },
+  {
+   "id": "кибератакунаgmoвяпониисвязалисхакерамиизкндрthejapantimes",
+   "title": "Кибератаку на GMO в Японии связали с хакерами из КНДР — The Japan Times",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONS1COWw3T2FSUE0tZGxCYTFDNlozaUVYVEpGeVMwXy01WS1DRkRkb3BNbkl1YTdNdzJnMHpQNkEweVB1ejFGYlo1NDhPYTdXbGdqWkQ3MDNlX3RuMDI1LXFxdmkwT0hWU1hhY1NDdERPZDZrX0tNVWNfb09ZNlNlOERjNjZfbGJGTWVjRGNtMkJiZFROdHBNU3FXNlNuelVURjdtX3NB?oc=5",
+   "source": "UA.NEWS",
+   "country": "RU",
+   "published": "2026-11-02T06:10:54.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "일본의 GMO에 대한 사이버 공격, 북한 해커와 연관 - The Japan Times"
+  },
+  {
+   "id": "binanceresumeswithdrawalsafterbillionsstoleninhack",
+   "title": "Binance resumes withdrawals after billions stolen in hack",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2JVOFNWN1VweERIZkZjY19JVlZtcG9DVGlrcXFDcDM0WUw1a1Q0eE1URzhFT2dQT0lHVTlxdkNDX0NENXVrd0VldklPcGhORmFnQnhZWUg0b1EtU3Y0UVptcHVPV044MDc3b3c1eGx0RFFSUlg0VXdFWTFvUFZOQTQ5Z2JnQXB5T3dUYnlKeklHNmdDU1luLQ?oc=5",
+   "source": "Euronews.com",
+   "country": "GB",
+   "published": "2026-11-02T06:10:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "바이낸스, 해킹으로 수십억 달러 도난 후 출금 재개"
+  },
+  {
+   "id": "dpkwelcomesleesbudgetspeechpppslamsfailuretoaddressnkoreaeconomicwoes",
+   "title": "DPK welcomes Lee's budget speech; PPP slams failure to address N. Korea, economic woes",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUXl2NFZMVFNKY1U5V3hJNl95bTFuTDhDeWlzQlcxeXdReGFnRXlCV3BhRVByaTd6cjkycWdMN1JBcjJFZzIwTXVNclhIaEhGc0kzNWxpeERuM29WbGt1clBQWjVqUDc5RDc2M3lRY3JNeGQ5TXFUZ2p1YVF2Z1VPX2xoTUc4WE9IRGlDT0xrbFlQeXBxU2lJYzBqdUVRWE83anhsUWI5UWFxblQxckZVeHZGdGJBelRMZHJONDdzZWpsbUtZS0xKYkdGNl9MRTFLVExnWHVjd9IB3AFBVV95cUxNN1FTYVd5SXhxVWRqbTF1NGhDdFVxSGRXZDhTN1FvRDllRE1ocmFwblhyNlFtUzFRZ0NfTlRSZDhfZzltQ0ZTcE9vOVVTYUxZOGo1bEMwd205OFMwV2JsanpocmFZMWxXYWVBUWJnalVoWkFHNEhBZ3J5aGxzcHlrVkpwWjZXMjFwREZBeDNfck1VTTFDVWpNSmlRYkZnNF9rQWtuU3NkUVQzRWZjMkFKNjNUZlUwVEdBcnpzY21wb3BkLTQ1NWFLUmplYVc2V2JNWkQxVWxpeTlxdjhh?oc=5",
+   "source": "The Korea Times",
+   "country": "GB",
+   "published": "2026-11-02T06:04:04.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "DPK는 이의 예산 연설을 환영합니다. PPP, 대북 경제난 해결 실패 비난"
+  },
+  {
+   "id": "binanceопроверглароманинженерасошпионкойкндррадивзломана63млрд",
+   "title": "Binance опровергла роман инженера со шпионкой КНДР ради взлома на $6,3 млрд",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd0VPY1BJbWFMM2JST3lvUkRmMzRGbXhYLXh5TDJQTTZadVZJaG9xWGpxazhRclN5bTdpY2pWa0c4czE3aEdxNUJBaHB0cFZWMVp4WjN6OHZZQVVLWEVKblVubWl5QU9FQ2lDRXZNa1FzcVZoa0Jmbm1vZkRFalVuX2dOUEVoVWEtbmFZTjZyQ2lLUElYQVMyaE1n?oc=5",
+   "source": "Life.ru",
+   "country": "RU",
+   "published": "2026-11-02T06:03:23.000Z",
+   "fields": [],
+   "summary": "바이낸스, 63억 달러 해킹에 대한 북한 스파이와 엔지니어의 관계 부인"
+  },
+  {
+   "id": "skoreaofficiallyrecognizes3fishingcrewmenabductedbynkoreain1973",
+   "title": "S. Korea officially recognizes 3 fishing crewmen abducted by N. Korea in 1973",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEZm84b2pJYk5nM19RQW9rbXFEcWY3WXZqMTFHTVdxak5wR2pZczRtemdvWGQ1SXdCdm5kRVpQWWpTX1FxMlpmSUpHQldQbTBKNzV1Um9XSmdOQQ?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "GB",
+   "published": "2026-11-02T06:02:10.000Z",
+   "fields": [
+    "humanRights"
+   ],
+   "summary": "정부, 1973년 납북 어선원 3명 공식 인정"
+  },
+  {
+   "id": "insidetradertraitornorthkoreasshadowyhackinggroupbehind63billioncryptoheist",
+   "title": "Inside TraderTraitor: North Korea's shadowy hacking group behind $6.3 billion crypto heist",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MYlZmVXd1aWtNckR6WFZkUzhKY3p1ZnhKa2JxbnBMRkMtUFN3clIzVnhaOEdIXy1xcVNORDhIR3JQcEN0aGotc2Z4Y1V2S04tY0VXeWY3S0tQbFVOX09rMGpLVQ?oc=5",
+   "source": "Ynetnews",
+   "country": "GB",
+   "published": "2026-11-02T06:00:46.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "Inside TraderTraitor: 63억 달러 규모의 암호화폐 강탈 배후에 있는 북한의 비밀 해킹 그룹"
+  },
+  {
+   "id": "northkoreansseenaslikelyhackersinmassivebinanceheist",
+   "title": "North Koreans Seen as Likely Hackers in Massive Binance Heist",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Nc1dYWEttSkwzZUNEamg0ZnlmYzBJYjRsVUFuMGZHU0czZ3BLUm84ZmVNNEVTcEZWWDIyNFdLSnRlbEwzaXdBOVJvZ2x2MEY1Q3NJSXZKSnRMUk5hMnJfS1hfWUJqd2lYNTBVczdXTjZ5ejQ?oc=5",
+   "source": "Claims Journal",
+   "country": "GB",
+   "published": "2026-11-02T06:00:38.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "대규모 바이낸스 강도 사건에서 북한 사람들이 해커일 가능성이 있는 것으로 보인다"
+  },
+  {
+   "id": "pepperdinehostskoreanmessiahbooktalk",
+   "title": "Pepperdine Hosts ‘Korean Messiah’ Book Talk",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iSmh5UEU0NVlZRjcyRDN1YjJWaGJGT3pmY1hLNXR1RktOVzk4U2d1ekZ4V19XQ2diaWtfUi15VDl2LU9yaUQ2N0ptaGMxWEctY2VpWUc1cWUzZUcyNFlXVEdZTFNId25Xd3BkLVB6Y3JyNkVoX0VrZUdSQUpJdw?oc=5",
+   "source": "Pepperdine Graphic",
+   "country": "GB",
+   "published": "2026-11-02T05:58:30.000Z",
+   "fields": [],
+   "summary": "페퍼다인, '한국의 메시아' 북토크 진행"
+  },
+  {
+   "id": "newfieldschoollikenedtonorthkoreaassilentcorridorruleintroduced",
+   "title": "Newfield School likened to North Korea as 'silent corridor' rule introduced",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWpHWFBLeC1JV1BOeXBiU1FjQ1ZVeUtRZ1JKWEN0WFZlMWlSejVFaGJySVBoX2UyVFJKY2ctbEsxaGRBTU9VRGNEX1p6RVd5RlNUZHM1Rkx4aHVkcXlBNW5rV005T3dJTlNyZk5nYmN5UTVkemc1T0Z2elVjUUMxdlI3LS1KVGJHRHZqMVNNc1pIaWRwaWpkNE9Dc0tSVll2UEp0LVREdUsyQVZ1WVpLOFZ1TGNwWW5lb1JrM2kzbldnZE9P?oc=5",
+   "source": "The Star",
+   "country": "GB",
+   "published": "2026-11-02T05:58:00.000Z",
+   "fields": [
+    "education"
+   ],
+   "summary": "뉴필드학교, '조용한 복도' 규정 도입한 북한에 비유"
+  },
+  {
+   "id": "blockchainintelligencefirmslinknorthkoreato63bhackonbinance",
+   "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lV1liSjZIOWF0Wm9XRGpCYlVjT2ZReV9fbFBnQkZVbHpQWko2dFk1bHhXazJYVXJISFVlMjg4Sko0bVJvTVZESHlPSVR4bU9vWjBwbjlB?oc=5",
+   "source": "朝日新聞",
+   "country": "GB",
+   "published": "2026-11-02T05:55:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "블록체인 정보 회사들은 북한을 바이낸스의 63억 달러 해킹과 연관시킵니다"
+  },
+  {
+   "id": "nkoreaslamssouthkoreausnucleardrillsvowstoacceleratenuclearbuildup",
+   "title": "N. Korea slams South Korea-US nuclear drills, vows to accelerate nuclear buildup",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mcHpYZTNDeTdDODNFRG1uSHUxREhLYURqZE9xdm5rOThINkZyVGxVSHQ2dGFTbUVkUW9ZUDNVaWdVSFZUcG8zczdKZ3RYdjRjdkxWZ1dncw?oc=5",
+   "source": "The Korea Herald",
+   "country": "GB",
+   "published": "2026-11-02T05:54:05.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북, 한미 핵훈련 비난, 핵 증강 가속화 다짐"
+  },
+  {
+   "id": "южнаякореязаявилаогибеливоенноговблизисграницейскндр",
+   "title": "Южная Корея заявила о гибели военного вблизи с границей с КНДР",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZOWM4NENYVTE5T0V0VTJLUHg3UGlzVGRXd0hoQnlwaUJjN2FTNVV1RkdDOUE4aDRIMFI5Q29Jc29PbUU2R0E?oc=5",
+   "source": "NEWS.am",
+   "country": "RU",
+   "published": "2026-11-02T05:54:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "한국은 북한과의 국경 근처에서 군인의 사망을 발표했습니다."
+  },
+  {
+   "id": "beefwithasideofpropagandanorthkoreasbarbecueboom",
+   "title": "Beef with a side of propaganda? North Korea's barbecue boom",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa1pqRmFSNU1uanNzdDNsOHJyZVlXMF9CLV90WkpuVjBkQUVzbFlhYk9nV1kxbC1KWGpqREdwVUs0ZWNUYkhOZzV0UC1XdWprODktdnBvMUM2WXN3bWdJbGsteVhHVzFfVTBCVFN6UkFabVkyd2xZOTN3ckY1Ylk1VktBQjdocXoteUE?oc=5",
+   "source": "Yahoo",
+   "country": "GB",
+   "published": "2026-11-02T05:53:00.000Z",
+   "fields": [],
+   "summary": "선전을 곁들인 쇠고기? 북한의 바베큐 붐"
+  },
+  {
+   "id": "northkoreasaidbehindgmocyberattackaheadofceosfirstbriefingonhacking",
+   "title": "North Korea said behind GMO cyberattack ahead of CEO’s first briefing on hacking",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBISjlrckd5bEpyZzVPdUNCdUI5TEg3cGRoNVNBT3BVZlk2REd6c1lVNVVORXFadElzd3ZqeHRnZXNkbGdnR1VWOEhSZ0V2X1ZGYXNKLURBUndKZExmZWIzWXNCX2JjQkw5cE45eFdWemV6T0FvTFMtUFpzVQ?oc=5",
+   "source": "The Japan Times",
+   "country": "GB",
+   "published": "2026-11-02T05:52:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한, CEO 첫 해킹 브리핑 앞두고 GMO 사이버공격 배후 밝혀"
+  },
+  {
+   "id": "majordisastercouldopendoortonkoreatalksjapanesedisasterexpertsays",
+   "title": "Major disaster could open door to N. Korea talks, Japanese disaster expert says",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYzVWeDRlWF91SVVlazRNSHcySDVHRDVic3VySVNOVU94ZnFtNkZBUnhmN2dvS0R2SjFiT2FjOERVZ3RpVXBrODR3SHltbUpYM1JlT3pJRjRPcmJLRTc0a1Bfb2hWNXEzTjN5SXdlY0RJM2Z5SkkydjIwYU5jTU1lVGpkbkpnWll6NXFCVzRzUVlSYnRQR2J0ZXY1NGlaUFR4TVMxaExESGJ2MWx0VVlSZFRlRUViZUJIUmhlc2dBS0hFNHRIaVdCSERKbEJiTHRfMFdvWVpaVGLSAd4BQVVfeXFMTXlfY0IteHdaVUFxMUtkU2xySktiLTRLa05adnQ0dTZaRWVQeGVMdnFUQ1FrZ3JkNVdyQmIxZEFWNDczSmtJaTdlcXpfcEl6UURiTXhSWkFXdmRqY2JoRkxfajRxSzk2aWdsM1VtNERITUVtdE02WlJPOE5NM2M1ZFgzY1NvaDlHaWNTWGI3THczQi1NUno5MEpXd3ZvTFJXdWxlUVdTNWZUTE5MNzBQWElKSk9FYXBKcUk2bXJUM2JxeG1ZMElIMnZkVkhNcGVBMDdTNVRncUtpMlRCdjBR?oc=5",
+   "source": "The Korea Times",
+   "country": "GB",
+   "published": "2026-11-02T05:50:04.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "日 재난 전문가 “대형 재난, 남북 회담 문 열릴 수도”"
+  },
+  {
+   "id": "кндрзаподозриласшаиюжнуюкореювподготовкекядерномуудару",
+   "title": "КНДР заподозрила США и Южную Корею в подготовке к ядерному удару",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNi1qUXZzd21IMFRSc2l1RDdOUHNMbHRMWlFNTVhfdlhsMmJIOXZQVFoyRXVGa2xlNWszc2p3b1VTM2NNRWNEUHRiaWd6VlA1SWxpdUJXN2ZUdHVHQjhaMXA4RVZvLVQ2UDU2cGwySFJVU004ZFQ3TzVYNER0SzdOcU0xczNSOWJXOFNVQ1FxZS1xcDZYcXYxeFR3MnhTOVBK?oc=5",
+   "source": "Vesti.az",
+   "country": "RU",
+   "published": "2026-11-02T05:49:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한은 미국과 한국이 핵 공격을 준비하고 있다고 의심했다."
+  },
+  {
+   "id": "binancehackfbilinks6bthefttonorthkorea",
+   "title": "Binance Hack: FBI Links $6B Theft to North Korea",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zNVFjb1ZlTllaOVpFS1JYSDY1QmRTWHE3YnVpOFItLWlrTFhqWVBJRUgtNnNiZnZTY2RqbktqRzBCSnk5V1NTMkFCVGhacWhuWi1hSmI5T3E0NkRWOUYza3B0YjctMkNNUDBwYVllTEhnSm1BYXZmVmlnVEvSAXxBVV95cUxOczVRY29WZU5ZWjlaRUtSWEg2NUJkU1hxN2J1aThSLS1pa0xYallQSUVILTZzYmZ2U2Nkam5LakcwQkp5OVdTUzJBQlRoWnFoblotYUpiOU9xNDZEVjlGM2twdGI3LTJDTVAwcGFZZUxIZ0ptQWF2ZlZpZ1RL?oc=5",
+   "source": "The Cyber Express",
+   "country": "GB",
+   "published": "2026-11-02T05:46:28.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "바이낸스 해킹: FBI, 60억 달러 규모의 도난을 북한과 연관시키다"
+  },
+  {
+   "id": "northkoreavowstoacceleratenuclearbuildupafterussouthkoreadrill",
+   "title": "North Korea Vows to Accelerate Nuclear Build-Up After US-South Korea Drill",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11RVJGQjdiSE5RNkRYcmk4MHlkX0QtTHB1d0U1Sm5qbTZvWjA5M1Z6RTdzdTlJbk1xZUhpRlRVcm9vY3hrN1dJektDbU9DT1lNeV9zMlNudFR6a1BrXzFKRE9LQXJSRHhtSjEzUUttVHZKRGtMUGswaDQwSE5RQQ?oc=5",
+   "source": "Khaama Press",
+   "country": "GB",
+   "published": "2026-11-02T05:46:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 한미 훈련 이후 핵무기 증강 가속화 약속"
+  },
+  {
+   "id": "сержантпогибвприграничнойчастиюжнойкореиchannelnewsasia",
+   "title": "Сержант погиб в приграничной части Южной Кореи — Channel NewsAsia",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdW1SN3huSEdFVjQzZWJHMUVxTTdEN1dfcEdIeFl4aDk3ejdtb2JjMHdfTFEtd01nTHg1R21wODdvU1o2eGdsdW5oMWoyTTh5a2U1cWxNS3czb1ZKOEVER0tzb1NiY2hwRUJqekY1YjJwMkgya1V5azlEaURZT3N0LThydFRUWWhxQlpGVmNBNjAteXE0WWFXWVpMNW1ZTEpzbzQyWUdmM19uaEJW?oc=5",
+   "source": "UA.NEWS",
+   "country": "RU",
+   "published": "2026-11-02T05:35:26.000Z",
+   "fields": [],
+   "summary": "한국 국경 지역에서 하사가 사망했습니다 - Channel NewsAsia"
+  },
+  {
+   "id": "государственныесмикндрсообщилиоболеечемдесяткересторановпулькогиthejapantimes",
+   "title": "Государственные СМИ КНДР сообщили о более чем десятке ресторанов пулькоги — The Japan Times",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZTFmTnY5OVZZaHBYWnpuem0yWHNuVWUzNjdtc1Q2ZFJKQ2RtLWcwYXZabi0zMzV5dDVfcWJXNElLaFFzODAtQW5XQkpRNEVEVG1BZE45MDRjMTQzVzRGdmk5am0yeEJfbHZKdHFnYUJqNUhFX0RUejdoZ0JTLWMxWlBqRGsyM2pibzd4bnRnelF4UW1vU3NpMHBjclBSaGRVUXgtenRrMldtdDI1S1NOdkY4dw?oc=5",
+   "source": "UA.NEWS",
+   "country": "RU",
+   "published": "2026-11-02T05:21:20.000Z",
+   "fields": [],
+   "summary": "북한 관영 매체는 12개 이상의 불고기 식당을 보도했습니다. - The Japan Times"
+  },
+  {
    "id": "пхеньянненамеренотказыватьсяотнаращиванияядерногопотенциала",
    "title": "Пхеньян не намерен отказываться от наращивания ядерного потенциала",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaGc0LWxocEl6VW5XSUw1RDk3VGMwQlZLSXpFd0ZadFVUOUQ5dTJXYWZmb1hHSk5ScjZzMVdvOEUtSkxLbi1uYkp2YWNYTmxvdHBRNHpZeDF1YTl2RDNiM0ctMDBIV3JJZmVWX1pRbGp2bVMxZ3Byc2JGa05nYWN1UmdiaU5OTmp2T0diaDR5WDQ1WHd6Y3FGR3hJMUVoaVd3bVE?oc=5",
@@ -177,6 +665,18 @@
    "summary": "북한, 집속탄두 시험발사, 한국군 대응"
   },
   {
+   "id": "фбрраскрылокакхакерыкндрвзломалисистемуbinanceвсеподробности",
+   "title": "ФБР раскрыло: как хакеры КНДР взломали систему Binance? (Все подробности)",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnpwQlIwWlN5ZDBmTzlXVVpwa1ZqLUxfaTY0QzdQN1VoZXdnbG8zZ0piY1pHaDNtZHR4bW1EMEVjM1NYZU5JYnBaai14OFNCSjU3Z1pERUJmTzZfbldYdWRwdmtBNkcwX2s0MkpHVmdRZGpUdXlsTUxHMWxkUkJqeUdTSXJLbDF5VEZFNU5NOHg5STZkd0d4cnluT3JSMV96a2NfUmpOendpdw?oc=5",
+   "source": "Zamin.uz",
+   "country": "RU",
+   "published": "2026-11-02T03:50:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "FBI 공개: 북한 해커들이 바이낸스 시스템을 어떻게 해킹했나요? (모든 세부정보)"
+  },
+  {
    "id": "северокорейскиххакеровподозреваютвкрупнейшейвисториикражекриптоактивов",
    "title": "Северокорейских хакеров подозревают в крупнейшей в истории краже криптоактивов",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTFNKdG10VmZ2QUtXem5EY3F3T0JNcGE4bTNXVDR3S2FhSEJFaXpUeGtOdHQ1N1d4TTRjdlZkUk5DaXdXajNwTHU5ZlM5Z2dQNm12eW9rTTJsMDJrUTRuekRiQnNmWmt2UHVWLWNOQlhjQ0toWlZnWXgyYWh2M0VMTGNyaDdQV3dUTTVMdEVTZjNxN3V0Q195UU5Ia1V1LTdzSkZ1djRXZFg2ZGNObndoN19OM3F3NmdYSzN0TURvSjNoSE5ieVllRjVGQQ?oc=5",
@@ -269,6 +769,18 @@
     "security"
    ],
    "summary": "북한 접경지역의 한 군부대에서 국군 병사 1명이 사망했다."
+  },
+  {
+   "id": "вкндротреагировалинаобвиненияфброкражекриптысеверокорейскимихакерами",
+   "title": "В КНДР отреагировали на обвинения ФБР о краже крипты «северокорейскими хакерами»",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTFlZZ3NtemNNSTBqZjNQRWV6QU1FS0tsNGg0YVRmTG1XMU9oaVh5RnlNczB3dkY4VHh2Z0NPTy1qbnlIblo2ZnRIY2FSSkhRV0JrX0I1TzZseGh1RGJYeG9ZVlJ3N0hkTktNVXR1QW1jUlhGZlh1RnpOWkV1cXB0a0RqZGhnRk9hSzJVZi1SN3VrMnNfb1NEaWdyU2tLaWJvMjhXeWZ1ZGJGWEoyOFA1YXNQQ1ZNQlRVOEswcnE4d19YckRx?oc=5",
+   "source": "Единство - главные новости недели",
+   "country": "RU",
+   "published": "2026-11-02T03:19:56.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한은 “북한 해커”에 의한 암호화폐 절도에 대한 FBI의 비난에 대응했습니다."
   },
   {
    "id": "фбробвинилохакеровизкндрвовзломеbinanceна6млрд",
