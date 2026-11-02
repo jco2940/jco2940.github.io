@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-02",
  "items": [
   {
    "id": "doi:10.1080/09557571.2026.2752955",
@@ -11009,6 +11009,368 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "1950년대 폴란드의 북한 디아스포라"
+  },
+  {
+   "id": "doi:10.57228/krj.66.14",
+   "title": "Christian Perspective and Role for Promoting Human Rights in North Korea: Focusing on Relational Rights",
+   "authors": [
+    "Kwang Min Ha"
+   ],
+   "date": "2023-12-31",
+   "venue": "Korean Reformed Journal",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "humanrights"
+   ],
+   "url": "https://doi.org/10.57228/krj.66.14",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "북한인권 증진을 위한 기독교적 관점과 역할: 관계적 권리를 중심으로"
+  },
+  {
+   "id": "doi:10.37181/jscs.2023.7.4.027",
+   "title": "A Study on International Development Cooperation and ODA Expansion of Mineral Resources such as North Korean Rare Earths",
+   "authors": [
+    "Taegu Science University Defense Security Institute",
+    "Hye Won Yang"
+   ],
+   "date": "2023-08-31",
+   "venue": "Taegu Science University Defense Security Institute",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.37181/jscs.2023.7.4.027",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "북한희토류 등 광물자원의 국제개발협력과 ODA 확대에 관한 연구"
+  },
+  {
+   "id": "doi:10.32580/idcr.2023.15.1.17",
+   "title": "The Implementation of Sustainable Development Goals for North Korea: An Assessment of Its Compliance with No Poverty Goal",
+   "authors": [
+    "Korea Association of International Development and Cooperation",
+    "Jisung Yi",
+    "Seokwoo Kim",
+    "Jiyoung Kim"
+   ],
+   "date": "2023-03-31",
+   "venue": "Korea Association of International Development and Cooperation",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.32580/idcr.2023.15.1.17",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "북한의 지속가능발전목표 이행: 빈곤퇴치 목표 준수 여부 평가"
+  },
+  {
+   "id": "doi:10.46751/nplak.2022.18.4.59",
+   "title": "Law on “International Development Cooperation with North Korea” from the perspective of UN Sustainable Development Goals (SDGs)",
+   "authors": [
+    "National Public Law Review",
+    "Daein Kim"
+   ],
+   "date": "2022-11-30",
+   "venue": "National Public Law Review",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.46751/nplak.2022.18.4.59",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "UN 지속가능발전목표(SDGs) 관점에서 본 '북한과의 국제개발협력'에 관한 법률"
+  },
+  {
+   "id": "doi:10.32580/idcr.2022.14.3.17",
+   "title": "An Exploratory Study on the Accountability of South Korean NGO's Humanitarian Assistance and Development Cooperation Activities on North Korea",
+   "authors": [
+    "Korea Association of International Development and Cooperation",
+    "Jaeeun Shin",
+    "Somin Jung"
+   ],
+   "date": "2022-09-30",
+   "venue": "Korea Association of International Development and Cooperation",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.32580/idcr.2022.14.3.17",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "한국 NGO의 대북 인도적 지원과 개발협력 활동의 책임성에 관한 탐색적 연구"
+  },
+  {
+   "id": "doi:10.21212/iasr.26.3.4",
+   "title": "The Implementation of the SDGs in North Korea and the Tasks of the International Community",
+   "authors": [
+    "Jong-Woon Lee"
+   ],
+   "date": "2022-09-30",
+   "venue": "International Area Studies Review",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.21212/iasr.26.3.4",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "북한의 SDGs 이행과 국제사회의 과제"
+  },
+  {
+   "id": "doi:10.56115/rias.2021.09.30.3.1",
+   "title": "North Korea’s Sustainable Development in Statistics: Focusing on Technical Assistance and Capacity Building Programmes of CBS and UN Agencies",
+   "authors": [
+    "Juhee Son"
+   ],
+   "date": "2021-09-30",
+   "venue": "Review of International and Area Studies",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.56115/rias.2021.09.30.3.1",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "북한 통계의 지속가능한 발전: CBS와 UN 기관의 기술지원과 역량강화 프로그램을 중심으로"
+  },
+  {
+   "id": "doi:10.46561/kua.2020.32.2.04",
+   "title": "Sustainable Development Goals and Possible Cooperation with DPRK: Focusing on Capacity Building for the Land Environment Management",
+   "authors": [
+    "Hyun-Ah Choi"
+   ],
+   "date": "2020-11-30",
+   "venue": "The Korean Journal of Unification Affairs",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.46561/kua.2020.32.2.04",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "지속가능한 개발 목표와 북한과의 협력 가능성: 국토환경 관리 역량 강화를 중심으로"
+  },
+  {
+   "id": "doi:10.31536/jols.2020.17.2.009",
+   "title": "MReview of Research Trends and Alternative Theories on North Korean Development Cooperation - Focused on the Theory of Legal Sociology -",
+   "authors": [
+    "통일학 박사, 통일부 서기관",
+    "Ki Ho Han"
+   ],
+   "date": "2020-08-31",
+   "venue": "Journal of Legislative Studies",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.31536/jols.2020.17.2.009",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "M북한개발협력에 관한 연구동향과 대안이론 검토 - 법사회학 이론을 중심으로 -"
+  },
+  {
+   "id": "doi:10.14363/kaps.2020.21.2.93",
+   "title": "Determinants of an Individual’s Attitude toward the Government’s Position on North Korean Human Rights, 2009-2018",
+   "authors": [
+    "현재 고려대학교 국제대학원 연구교수임",
+    "Jin-won Chung"
+   ],
+   "date": "2020-06-30",
+   "venue": "THE JOURNAL OF PEACE STUDIES",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "humanrights"
+   ],
+   "url": "https://doi.org/10.14363/kaps.2020.21.2.93",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "북한인권에 대한 정부 입장에 대한 개인의 태도 결정요인, 2009~2018"
+  },
+  {
+   "id": "doi:10.35390/sejong.26.1.202002.002",
+   "title": "지속가능 산업화 논의의 북한 적용",
+   "authors": [
+    "박지연"
+   ],
+   "date": "2020-02-01",
+   "venue": "National Strategy",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.35390/sejong.26.1.202002.002",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "지속가능 산업화 논의의 북한 적용"
+  },
+  {
+   "id": "doi:10.17321/rnks.2019.22.2.006",
+   "title": "북한과 유엔의 진화하는 협력 게임: 유엔의 대북 개발협력 유형의 변화 분석을 중심으로",
+   "authors": [
+    "LEE KYUNG HEE"
+   ],
+   "date": "2019-08-01",
+   "venue": "Review of North Korean Studies",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.17321/rnks.2019.22.2.006",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "북한과 유엔의 진화하는 협력 게임: 유엔의 대북 개발협력 유형의 변화 분석을 중심으로"
+  },
+  {
+   "id": "doi:10.36514/itl.2019..143.003",
+   "title": "북한 투자보장협정에 있어서의지속가능발전 요소 도입방안",
+   "authors": [
+    "이주형"
+   ],
+   "date": "2019-05-01",
+   "venue": "International Trade Law",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.36514/itl.2019..143.003",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "북한 투자보장협정에 있어서의지속가능발전 요소 도입방안"
+  },
+  {
+   "id": "doi:10.2139/ssrn.3706729",
+   "title": "동남아 사회주의 국가의 여성연맹 연구를 통한 북한 여성 관련 개발협력 사업에의 시사점: 베트남, 라오스, 미얀마 여성연맹 사례를 중심으로 (A Study on Women’s Unions in Southeast Asian Countries and its Implications for North Korean Development Cooperation on Gender: Cases from Vietnam, Laos and Myanmar)",
+   "authors": [
+    "En Ha Chang",
+    "Eun Kyung Kim",
+    "Jiso Yoon",
+    "Jung-Soo Kim",
+    "Yoonjung Park",
+    "외"
+   ],
+   "date": "2019-01-01",
+   "venue": "SSRN Electronic Journal",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.2139/ssrn.3706729",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "동남아 사회주의 국가의 여성연맹 연구를 통한 북한 여성 관련 개발협력 사업에의 시사점: 베트남, 라오스, 미얀마 여성연맹 사례를 중심으로 (A Study on Women’s Unions in Southeast Asian Countries and its Implications for North Korean Development Cooperation on Gender: Cases from Vietnam, Laos and Myanmar)"
+  },
+  {
+   "id": "doi:10.35158/cisspc.2018.04.18.233",
+   "title": "Cross-border Development Cooperation and Relations of Two Port Cities - A Comparison between North Korea\"s Rajin Port and Russia\"s Zarubino Port -",
+   "authors": [
+    "Young-Jin Choi"
+   ],
+   "date": "2018-04-30",
+   "venue": "Cultural Interaction Studies of Sea Port Cities",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.35158/cisspc.2018.04.18.233",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "두 항구도시의 국경간 개발협력과 관계 - 북한의 나진항과 러시아의 자루비노항의 비교를 중심으로 -"
+  },
+  {
+   "id": "doi:10.3390/su9061054",
+   "title": "Spatiotemporal Patterns of Forest in the Transnational Area of Changbai Mountain from 1977 to 2015: A Comparative Analysis of the Chinese and DPRK Sub-Regions",
+   "authors": [
+    "Hui Tao",
+    "Ying Nan",
+    "Zhi-Feng Liu"
+   ],
+   "date": "2017-06-17",
+   "venue": "Sustainability",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.3390/su9061054",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "1977년부터 2015년까지 장백산 초국경지역 산림의 시공간적 패턴: 중국과 북한 소지역의 비교 분석"
+  },
+  {
+   "id": "doi:10.19035/nal.2017.10.3.7",
+   "title": "A Critical Review on the Reactions of North Korean Human Rights Related in Both International and Domestic Societies",
+   "authors": [
+    "전북대학교 법학전문대학원 교수, 전북대학교 동북아법연구소 연구원.",
+    "Young Sun Chung"
+   ],
+   "date": "2017-01-31",
+   "venue": "Northeast Asian law journal",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "humanrights"
+   ],
+   "url": "https://doi.org/10.19035/nal.2017.10.3.7",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "국내외 사회의 북한인권 반응에 대한 비판적 고찰"
+  },
+  {
+   "id": "doi:10.12783/dtem/icem2016/4051",
+   "title": "“One Belt One Road” Strategy and the Sustainable Development of Asia: The Case of Afghanistan and DPRK",
+   "authors": [
+    "Yan-zhe ZHANG",
+    "Hui-zhi ZHANG"
+   ],
+   "date": "2016-11-29",
+   "venue": "DEStech Transactions on Economics and Management",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.12783/dtem/icem2016/4051",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "일대일로 전략과 아시아의 지속가능한 발전: 아프가니스탄과 북한의 사례를 중심으로"
+  },
+  {
+   "id": "doi:10.17789/discou.2016.19.4.005",
+   "title": "A Study on SDG Indicator of North Korea and Its Discourse",
+   "authors": [
+    "박지연",
+    "조동호",
+    "문경연"
+   ],
+   "date": "2016-11-01",
+   "venue": "Discourse 201",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.17789/discou.2016.19.4.005",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "북한의 SDG 지표와 담론에 관한 연구"
   }
  ]
 }
