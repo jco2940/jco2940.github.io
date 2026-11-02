@@ -580,7 +580,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "health"
+    "health",
+    "sdgs"
    ],
    "url": "https://doi.org/10.21807/jnas.2026.9.120.271",
    "source": "openalex",
@@ -2103,6 +2104,7 @@
    "topics": [
     "diaspora",
     "education",
+    "humanrights",
     "youth"
    ],
    "url": "https://doi.org/10.47116/apjcri.2026.07.29",
@@ -4113,7 +4115,8 @@
    "lang": "",
    "topics": [
     "diaspora",
-    "economy"
+    "economy",
+    "humanrights"
    ],
    "url": "https://doi.org/10.69953/ijlsr.v14i2.893",
    "source": "openalex",
@@ -5239,7 +5242,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "humanrights"
    ],
    "url": "https://eprints.bournemouth.ac.uk/41885/1/Transnational%20Mobility%20and%20Wellbeing%20of%20North%20Korean%20Defectors%20in%20the%20UK.pdf",
    "source": "openalex",
@@ -7848,7 +7852,8 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "education"
+    "education",
+    "humanrights"
    ],
    "url": "https://doi.org/10.1007/s12564-025-10073-y",
    "source": "openalex",
@@ -9083,7 +9088,8 @@
    ],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "sdgs"
    ],
    "url": "https://doi.org/10.1515/ajle-2025-0042",
    "source": "openalex",
@@ -9465,7 +9471,8 @@
    "topics": [
     "diaspora",
     "education",
-    "health"
+    "health",
+    "humanrights"
    ],
    "url": "https://doi.org/10.12771/emj.2025.00367",
    "source": "openalex",
@@ -10148,7 +10155,8 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "humanrights"
    ],
    "url": "https://doi.org/10.1093/ijtj/ijaf006",
    "source": "openalex",

@@ -52,6 +52,16 @@ const TOPICS = {
     kci: ["북한 장애", "북한 장애인", "북한 특수교육", "북한 장애인권리", "탈북 장애인", "북한이탈주민 장애"],
     ko: ["장애", "특수교육", "농아", "시각", "청각"],
   },
+  humanrights: {
+    openalex: `("human rights" OR "human right" OR "Commission of Inquiry" OR "special rapporteur" OR "Universal Periodic Review" OR UPR OR "prison camp" OR "prison camps" OR "political prisoners" OR kwanliso OR "forced labor" OR "forced labour" OR torture OR "crimes against humanity" OR abduction OR abductee OR abductees OR "forced repatriation" OR "freedom of expression" OR "religious freedom" OR "transitional justice" OR accountability)`,
+    kci: ["북한인권", "북한 인권", "북한 정치범수용소", "북한 강제송환", "북한 납북자", "북한 인권침해", "유엔 북한인권", "북한 종교자유", "북한 전환기정의"],
+    ko: ["인권", "수용소", "강제송환", "납북", "고문", "강제노동", "인도에 반한", "전환기 정의", "종교자유", "표현의 자유"],
+  },
+  sdgs: {
+    openalex: `("Sustainable Development Goals" OR "Sustainable Development Goal" OR SDGs OR SDG OR "2030 Agenda" OR "Voluntary National Review" OR "sustainable development" OR "development cooperation" OR "Millennium Development Goals")`,
+    kci: ["북한 지속가능발전목표", "북한 SDGs", "북한 지속가능발전", "북한 자발적국별보고서", "북한 개발협력", "북한 VNR"],
+    ko: ["지속가능발전", "지속가능한 발전", "SDG", "개발협력", "VNR", "자발적 국가별", "새천년개발목표", "2030 의제"],
+  },
   elderly: {
     openalex: `(elderly OR "older adults" OR "older people" OR aging OR ageing OR "old age" OR pension OR pensions)`,
     kci: ["북한 노인", "북한 고령", "북한 노년"],

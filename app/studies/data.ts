@@ -8,6 +8,8 @@ export const STUDY_TOPICS = [
   { id: "youth", label: "청(소)년" },
   { id: "disability", label: "장애인" },
   { id: "elderly", label: "노인" },
+  { id: "humanrights", label: "북한인권" },
+  { id: "sdgs", label: "SDGs" },
   { id: "health", label: "보건의료" },
   { id: "economy", label: "경제" },
   { id: "politics", label: "정치" },
