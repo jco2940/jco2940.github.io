@@ -48,7 +48,10 @@ const H = 620;
 
 export function buildMap() {
   const papers = STUDIES.items;
-  const mainTopic = (p: Paper) => STUDY_TOPICS.find((t) => p.topics.includes(t.id))?.id ?? "politics";
+  // 논문이 여러 분야에 걸치면 좁고 구체적인 분야를 별자리로 삼는다(넓은 경제·정치에 묻히지 않게)
+  const PRIORITY = ["humanrights", "sdgs", "disability", "elderly", "women", "youth", "health", "education", "diaspora", "economy", "politics"];
+  const rank = (id: string) => (PRIORITY.includes(id) ? PRIORITY.indexOf(id) : PRIORITY.length);
+  const mainTopic = (p: Paper) => [...p.topics].filter((t) => STUDY_TOPICS.some((x) => x.id === t)).sort((a, b) => rank(a) - rank(b))[0] ?? "politics";
   const topics = STUDY_TOPICS.map((t) => t.id).filter((id) => papers.some((p) => mainTopic(p) === id));
 
   // 분야마다 자리를 타원 위에 고르게 나눈다(논문이 많은 분야를 가운데 가깝게)

@@ -56,11 +56,15 @@ const TOPICS = {
     openalex: `("human rights" OR "human right" OR "Commission of Inquiry" OR "special rapporteur" OR "Universal Periodic Review" OR UPR OR "prison camp" OR "prison camps" OR "political prisoners" OR kwanliso OR "forced labor" OR "forced labour" OR torture OR "crimes against humanity" OR abduction OR abductee OR abductees OR "forced repatriation" OR "freedom of expression" OR "religious freedom" OR "transitional justice" OR accountability)`,
     kci: ["북한인권", "북한 인권", "북한 정치범수용소", "북한 강제송환", "북한 납북자", "북한 인권침해", "유엔 북한인권", "북한 종교자유", "북한 전환기정의"],
     ko: ["인권", "수용소", "강제송환", "납북", "고문", "강제노동", "인도에 반한", "전환기 정의", "종교자유", "표현의 자유"],
+    crossref: ["North Korea human rights", "North Korean human rights", "DPRK human rights", "North Korea Commission of Inquiry", "North Korea prison camps", "North Korean defectors forced repatriation", "North Korea abduction", "North Korea Universal Periodic Review", "North Korea transitional justice", "북한인권"],
+    match: /human rights?|commission of inquiry|special rapporteur|universal periodic review|\bUPR\b|prison camps?|political prisoners?|kwanliso|forced (labou?r|repatriation)|torture|crimes against humanity|abduct|transitional justice|religious freedom|freedom of (expression|religion)|인권|수용소|강제송환|납북|고문|강제노동|전환기 ?정의|종교 ?자유/i,
   },
   sdgs: {
     openalex: `("Sustainable Development Goals" OR "Sustainable Development Goal" OR SDGs OR SDG OR "2030 Agenda" OR "Voluntary National Review" OR "sustainable development" OR "development cooperation" OR "Millennium Development Goals")`,
     kci: ["북한 지속가능발전목표", "북한 SDGs", "북한 지속가능발전", "북한 자발적국별보고서", "북한 개발협력", "북한 VNR"],
     ko: ["지속가능발전", "지속가능한 발전", "SDG", "개발협력", "VNR", "자발적 국가별", "새천년개발목표", "2030 의제"],
+    crossref: ["North Korea Sustainable Development Goals", "North Korea SDGs", "DPRK Sustainable Development Goals", "DPRK SDG", "North Korea Voluntary National Review", "North Korea sustainable development", "North Korea development cooperation", "North Korea 2030 Agenda", "북한 지속가능발전목표", "북한 SDGs", "북한 개발협력"],
+    match: /sustainable development|\bSDGs?\b|2030 agenda|voluntary national review|\bVNR\b|development cooperation|millennium development goals?|\bMDGs?\b|지속가능|개발협력|새천년개발|자발적 ?국가별/i,
   },
   elderly: {
     openalex: `(elderly OR "older adults" OR "older people" OR aging OR ageing OR "old age" OR pension OR pensions)`,
@@ -230,6 +234,55 @@ async function fromKCI(topic, words, key) {
   return out;
 }
 
+// Crossref 는 키 없이 쓸 수 있는 공개 서지 API다. OpenAlex 한도가 바닥났을 때도 받을 수 있게, crossref 검색어가 있는 분야는
+// 여기서도 찾는다. 검색은 느슨하므로 제목에 북한이 들어가고 제목·초록에 그 분야 말(match)이 있는 것만 남긴다
+const NK_RE = /north korea|dprk|pyongyang|nordkorea|북한|탈북|북조선|조선민주주의인민공화국|北朝鮮|朝鲜/i;
+const CR_TYPES = new Set(["journal-article", "book-chapter", "book", "dissertation", "monograph", "edited-book"]);
+async function fromCrossref(topic, queries, match) {
+  const out = [];
+  for (const q of queries) {
+    let cursor = "*";
+    for (let page = 0; page < 5 && cursor; page++) {
+      const url = new URL("https://api.crossref.org/works");
+      url.searchParams.set("query.bibliographic", q);
+      url.searchParams.set("filter", `from-pub-date:${since}`);
+      url.searchParams.set("select", "DOI,title,author,issued,container-title,type,abstract,language,URL");
+      url.searchParams.set("rows", "200");
+      url.searchParams.set("cursor", cursor);
+      url.searchParams.set("mailto", "jco2940@gmail.com");
+      const res = await fetch(url, { headers: { "User-Agent": "jco2940.github.io north korea studies (mailto:jco2940@gmail.com)" } });
+      if (!res.ok) throw new Error(`Crossref ${res.status} ${q}`);
+      const msg = (await res.json()).message;
+      for (const w of msg.items) {
+        const title = (w.title?.[0] ?? "").replace(/<[^>]+>/g, "").trim();
+        const abstract = (w.abstract ?? "").replace(/<[^>]+>/g, " ");
+        if (!title || !CR_TYPES.has(w.type) || !NK_RE.test(title) || !match.test(`${title} ${abstract}`)) continue;
+        const parts = w.issued?.["date-parts"]?.[0] ?? [];
+        if (!parts[0]) continue;
+        const date = `${parts[0]}-${String(parts[1] ?? 1).padStart(2, "0")}-${String(parts[2] ?? 1).padStart(2, "0")}`;
+        if (date < since) continue;
+        const doi = w.DOI.toLowerCase();
+        out.push({
+          id: `doi:${doi}`,
+          title,
+          authors: shortAuthors((w.author ?? []).map((a) => [a.given, a.family].filter(Boolean).join(" ") || a.name).filter(Boolean)),
+          date,
+          venue: w["container-title"]?.[0] ?? "",
+          countries: [],
+          lang: w.language ?? (HANGUL_RE.test(title) ? "ko" : "en"),
+          topics: [topic],
+          url: `https://doi.org/${doi}`,
+          source: "crossref",
+        });
+      }
+      cursor = msg.items.length === 200 ? msg["next-cursor"] : null;
+      await new Promise((r) => setTimeout(r, 300));
+    }
+  }
+  return out;
+}
+const HANGUL_RE = /[가-힣]/;
+
 const data = JSON.parse(await readFile(DATA, "utf8"));
 const exclude = new Set(JSON.parse(await readFile(EXCLUDE, "utf8")));
 
@@ -245,6 +298,15 @@ for (const [topic, q] of Object.entries(TOPICS).filter(([t]) => !onlyTopics || o
     } catch (err) {
       warn(`OpenAlex ${topic} 수집 실패: ${err.message.slice(0, 250)}`);
       if (/budget/i.test(err.message)) openAlexDown = true;
+    }
+  }
+  if (q.crossref) {
+    try {
+      const cr = await fromCrossref(topic, q.crossref, q.match);
+      report(`Crossref ${topic}: ${cr.length}`);
+      found.push(...cr);
+    } catch (err) {
+      warn(`Crossref ${topic} 수집 실패: ${err.message.slice(0, 250)}`);
     }
   }
   if (process.env.KCI_API_KEY) {

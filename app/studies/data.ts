@@ -26,7 +26,7 @@ export type Paper = {
   lang: string;
   topics: string[];
   url: string;
-  source: "openalex" | "kci";
+  source: "openalex" | "kci" | "crossref";
   added: string;
 };
 
