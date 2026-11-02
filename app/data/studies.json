@@ -580,8 +580,7 @@
    "lang": "en",
    "topics": [
     "diaspora",
-    "health",
-    "sdgs"
+    "health"
    ],
    "url": "https://doi.org/10.21807/jnas.2026.9.120.271",
    "source": "openalex",
@@ -9088,8 +9087,7 @@
    ],
    "lang": "en",
    "topics": [
-    "economy",
-    "sdgs"
+    "economy"
    ],
    "url": "https://doi.org/10.1515/ajle-2025-0042",
    "source": "openalex",
@@ -11295,26 +11293,6 @@
    "titleKo": "두 항구도시의 국경간 개발협력과 관계 - 북한의 나진항과 러시아의 자루비노항의 비교를 중심으로 -"
   },
   {
-   "id": "doi:10.3390/su9061054",
-   "title": "Spatiotemporal Patterns of Forest in the Transnational Area of Changbai Mountain from 1977 to 2015: A Comparative Analysis of the Chinese and DPRK Sub-Regions",
-   "authors": [
-    "Hui Tao",
-    "Ying Nan",
-    "Zhi-Feng Liu"
-   ],
-   "date": "2017-06-17",
-   "venue": "Sustainability",
-   "countries": [],
-   "lang": "en",
-   "topics": [
-    "sdgs"
-   ],
-   "url": "https://doi.org/10.3390/su9061054",
-   "source": "crossref",
-   "added": "2026-11-02",
-   "titleKo": "1977년부터 2015년까지 장백산 초국경지역 산림의 시공간적 패턴: 중국과 북한 소지역의 비교 분석"
-  },
-  {
    "id": "doi:10.19035/nal.2017.10.3.7",
    "title": "A Critical Review on the Reactions of North Korean Human Rights Related in Both International and Domestic Societies",
    "authors": [
@@ -11332,25 +11310,6 @@
    "source": "crossref",
    "added": "2026-11-02",
    "titleKo": "국내외 사회의 북한인권 반응에 대한 비판적 고찰"
-  },
-  {
-   "id": "doi:10.12783/dtem/icem2016/4051",
-   "title": "“One Belt One Road” Strategy and the Sustainable Development of Asia: The Case of Afghanistan and DPRK",
-   "authors": [
-    "Yan-zhe ZHANG",
-    "Hui-zhi ZHANG"
-   ],
-   "date": "2016-11-29",
-   "venue": "DEStech Transactions on Economics and Management",
-   "countries": [],
-   "lang": "en",
-   "topics": [
-    "sdgs"
-   ],
-   "url": "https://doi.org/10.12783/dtem/icem2016/4051",
-   "source": "crossref",
-   "added": "2026-11-02",
-   "titleKo": "일대일로 전략과 아시아의 지속가능한 발전: 아프가니스탄과 북한의 사례를 중심으로"
   },
   {
    "id": "doi:10.17789/discou.2016.19.4.005",
