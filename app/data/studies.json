@@ -2,6 +2,22 @@
  "updated": "2026-11-02",
  "items": [
   {
+   "id": "doi:10.12987/9780300291841-013",
+   "title": "Appendix C: Leading Organizations Monitoring and Advancing Human Rights, Governance, and Developments in North Korea",
+   "authors": [],
+   "date": "2026-12-31",
+   "venue": "Privileged but Powerless",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "humanrights"
+   ],
+   "url": "https://doi.org/10.12987/9780300291841-013",
+   "source": "crossref",
+   "added": "2026-11-02",
+   "titleKo": "부록 C: 북한의 인권, 거버넌스, 발전을 모니터링하고 발전시키는 주요 기관"
+  },
+  {
    "id": "doi:10.1080/09557571.2026.2752955",
    "title": "The panopticon in everyday spaces: surveillance policies in North Korea and China’s Xinjiang Uyghur Autonomous Region (XUAR)",
    "authors": [
@@ -662,6 +678,24 @@
    "titleKo": "김정은 시대 북한의 지방경제적 자립과 국가품질관리"
   },
   {
+   "id": "doi:10.24145/kjpa.64.3.6",
+   "title": "North Korea’s Sustainable Development Implementation: A Focus on Environmental SDGs",
+   "authors": [
+    "박순애"
+   ],
+   "date": "2026-09-30",
+   "venue": "행정논총",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.24145/kjpa.64.3.6",
+   "source": "openalex",
+   "added": "2026-11-02",
+   "titleKo": "북한의 지속가능발전 이행: 환경 SDGs에 초점"
+  },
+  {
    "id": "doi:10.5392/jkca.2026.26.09.1022",
    "title": "Phenomenological Study on the Process by which Volunteering to Counsel North Korean Youth Affects Counselor Development and the Reduction of Cultural Prejudice",
    "authors": [
@@ -1113,6 +1147,7 @@
    "lang": "en",
    "topics": [
     "economy",
+    "humanrights",
     "politics"
    ],
    "url": "https://doi.org/10.52909/grdebi.v1i3.416",
@@ -1409,6 +1444,7 @@
    ],
    "lang": "",
    "topics": [
+    "humanrights",
     "politics"
    ],
    "url": "https://doi.org/10.1163/18754112-20263010",
@@ -1551,6 +1587,25 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "미국에 대한 인식의 변화와 반미주의의 유형적 변화: 북한 정권과 조선공산당, 1945-1953"
+  },
+  {
+   "id": "doi:10.53865/kspa.2026.5.37.2.255",
+   "title": "Expert Perception Types and the Policy-Perception Landscape of North Korea’s Sustainable Development: A Q-Methodological Approach",
+   "authors": [
+    "Chanwoo Kim",
+    "Soonae Park"
+   ],
+   "date": "2026-08-31",
+   "venue": "한국사회와 행정연구",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "sdgs"
+   ],
+   "url": "https://doi.org/10.53865/kspa.2026.5.37.2.255",
+   "source": "openalex",
+   "added": "2026-11-02",
+   "titleKo": "북한의 지속가능발전에 대한 전문가 인식 유형과 정책 인식 환경: Q-방법론적 접근"
   },
   {
    "id": "doi:10.55152/kerj.47.2.69",
