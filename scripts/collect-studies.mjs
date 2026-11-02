@@ -242,16 +242,15 @@ async function fromCrossref(topic, queries, match) {
   const out = [];
   for (const q of queries) {
     let cursor = "*";
-    for (let page = 0; page < 5 && cursor; page++) {
+    for (let page = 0; page < 8 && cursor; page++) {
       const url = new URL("https://api.crossref.org/works");
       url.searchParams.set("query.bibliographic", q);
       url.searchParams.set("filter", `from-pub-date:${since}`);
-      url.searchParams.set("select", "DOI,title,author,issued,container-title,type,abstract,language,URL");
-      url.searchParams.set("rows", "200");
+      url.searchParams.set("rows", "100");
       url.searchParams.set("cursor", cursor);
       url.searchParams.set("mailto", "jco2940@gmail.com");
       const res = await fetch(url, { headers: { "User-Agent": "jco2940.github.io north korea studies (mailto:jco2940@gmail.com)" } });
-      if (!res.ok) throw new Error(`Crossref ${res.status} ${q}`);
+      if (!res.ok) throw new Error(`Crossref ${res.status} ${q}: ${(await res.text()).slice(0, 200)}`);
       const msg = (await res.json()).message;
       for (const w of msg.items) {
         const title = (w.title?.[0] ?? "").replace(/<[^>]+>/g, "").trim();
@@ -275,7 +274,7 @@ async function fromCrossref(topic, queries, match) {
           source: "crossref",
         });
       }
-      cursor = msg.items.length === 200 ? msg["next-cursor"] : null;
+      cursor = msg.items.length === 100 ? msg["next-cursor"] : null;
       await new Promise((r) => setTimeout(r, 300));
     }
   }
