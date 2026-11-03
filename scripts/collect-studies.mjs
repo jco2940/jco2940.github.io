@@ -248,8 +248,7 @@ async function fromCrossref(topic, queries, match) {
       url.searchParams.set("filter", `from-pub-date:${since}`);
       url.searchParams.set("rows", "100");
       url.searchParams.set("cursor", cursor);
-      url.searchParams.set("mailto", "jco2940@gmail.com");
-      const res = await fetch(url, { headers: { "User-Agent": "jco2940.github.io north korea studies (mailto:jco2940@gmail.com)" } });
+      const res = await fetch(url, { headers: { "User-Agent": "jco2940.github.io north korea studies" } });
       if (!res.ok) throw new Error(`Crossref ${res.status} ${q}: ${(await res.text()).slice(0, 200)}`);
       const msg = (await res.json()).message;
       for (const w of msg.items) {
