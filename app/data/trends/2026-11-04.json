@@ -2,6 +2,286 @@
  "date": "2026-11-04",
  "items": [
   {
+   "id": "뉴스동서남북북한연이어탄도순항미사일집속탄두시험",
+   "title": "[뉴스 동서남북] 북한, 연이어 탄도·순항미사일 집속탄두 시험",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uZmgwaEg3RlZid0E5TEM4UHVTbU1xQ3l1eGtZMThlQUkzTjE2dzZIR0Zidk9vTnRmXzZyTXNpY25HUkpocU54Qjd1ckdQODhW0gFTQVVfeXFMT3lYMHg3ck9raERmZG05WjcxMC1taDZKdHZYcXpEY1VmQzFWTnNLbHh4WkRUd0g3bFBWYnpLVjBwQWhIQ1Z0dE5xZGRvNkF2cXF6LWs?oc=5",
+   "source": "VOA 한국어 홈페이지",
+   "country": "KR",
+   "published": "2026-11-03T19:17:35.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "[뉴스 동서남북] 북한, 연이어 탄도·순항미사일 집속탄두 시험"
+  },
+  {
+   "id": "不審アカウント残る足跡gmo不正アクセス問題声明拡散犯行関与か背後に北朝鮮の存在も",
+   "title": "不審アカウント 残る足跡 GMO不正アクセス問題 声明拡散 犯行関与か 背後に北朝鮮の存在も",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzaXJEOUU5U2xZZXZqUGphUWlBemlRTVlhNEhDVXhNU1g5RE1CVWRiZkI1ck9MT3otZlR0bWJIR3F3NDY1X3Zva2VEaTk1NjNwTFNrM2JUd0JFSFlIR3c?oc=5",
+   "source": "沖縄タイムス社",
+   "country": "JP",
+   "published": "2026-11-03T19:00:00.000Z",
+   "fields": [],
+   "summary": "수상한 계정 남은 발자국 GMO 부정 액세스 문제 성명 확산 범행 관여인가 배후에 북한의 존재도"
+  },
+  {
+   "id": "northkoreacallsusaccusationoverbinanceheistaprovocation",
+   "title": "North Korea calls US accusation over Binance heist a ‘provocation’",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTDdDWDE3aEN6ak1TcFNCNHI4NlR2ZnUyT1p0X0tPNHdqc2hxZGFlUjhYVDJWWUkzNlY4ZU43OVpsTTdZcG9DU0JlekJjUnVWZWFLUE9ETjBzNzgwU0RVZnNmbkxtLUE3X013SlItcmZncWZ6eExjbGxCQ3lkZ3IyUUhmZHLSAYoBQVVfeXFMUFB2bnUwQVZnbjE2OUxNaHQxczRreDNNQk9MajF6cG1kTFBfd0htMDdiOTBXRWM2VGNMZWVtWjF2UUZDWHVIdEVUaFFHaks0Q0tHT1JOblVjaUZDM0lacFBybVhCY004eGxXU05HMXJhYXNENE9BLW5OeXo0U0NxRGVSbVQwZWJsNWpB?oc=5",
+   "source": "The Hill",
+   "country": "US",
+   "published": "2026-11-03T18:55:00.000Z",
+   "fields": [],
+   "summary": "북한, 바이낸스 강탈에 대한 미국의 비난에 '도발'"
+  },
+  {
+   "id": "binancesaysfakejobinterviewsaitoolusedinus6blntheftblamedonnkorea",
+   "title": "Binance says fake job interviews, AI tool used in US$6 bln theft blamed on N. Korea",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wckE0SGI4VHFzRmN3eU50QnNBSlVIZ2VtbXBpYlE4bERvYVVIXzZUem5ZOE5lTzVHRXpjZkp1QUY1TjBRUi1tdkZHLUpPblFkeU9HSERSTjQyQQ?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "US",
+   "published": "2026-11-03T18:51:51.000Z",
+   "fields": [],
+   "summary": "바이낸스, 가짜 취업 면접과 60억 달러 절도에 사용된 AI 도구, 북한 소행으로 지목"
+  },
+  {
+   "id": "northkoreadeniesinvolvementin63bbinancehackcallsfbiclaimsabsurd",
+   "title": "North Korea denies involvement in $6.3B Binance hack, calls FBI claims absurd",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCYXhkdzZ3Vl9iSHlEWFhTalpGWUVzTW96X19qSzU0YVFSc0IwSnVpamhkSlJqdW9IbHN0TnJrVnB1R0QyeHpaZnoyc2tMcEl5Nl9SV3pDSkNpZw?oc=5",
+   "source": "Cryptonews.net",
+   "country": "US",
+   "published": "2026-11-03T18:48:47.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한, 63억 달러 규모의 바이낸스 해킹 연루 부인, FBI 주장 터무니없다"
+  },
+  {
+   "id": "севернаякореяотверглаобвинениявпохищениикриптовалютыизbinance",
+   "title": "Северная Корея отвергла обвинения в похищении криптовалюты из Binance",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS0ctVjZBQTQ1V0llSTZvd1Z6SVhTcFRVaENZekRjekJURU5ma0NyRlhHWm5ZMlVJMGRJTTEwRk5BV29rLS1fT1V5NVBna0sxUXZXY09BVVd3bm1YbEFpN1dvd0IxTHdrTUttN0d1dkFjc3g5WGh3eHFuMEE5TmtkRW90VWVtMEp5MWs3czAteTBoSWQxQWVPVzJuU3hZNEs1aW1oRUdFLVfSAbABQVVfeXFMTzJXbDRFSGxxX0MyeWd0RHZiOGRpUVpkR09lOTV5U1RfRk9PUUYzZThMX2V0NjV2eGFfRzVadlc3WVBKQkpFZWl3U0MxWmhad1hKWXVwdmpkRkVPX2JLR0w2OU9kOGJUTkpFaVY5WnZ3QjNYZlBQYWNkMGFZV2dhdkVhNVN3cmRodmtvSkJuMGl6a0V0MkdtZ3I1Vm5oMUdKYmM2U1VDQzVYSUJnbjVnTjA?oc=5",
+   "source": "Парламент.UA",
+   "country": "RU",
+   "published": "2026-11-03T18:43:00.000Z",
+   "fields": [],
+   "summary": "북한, 바이낸스 암호화폐 절도 혐의 부인"
+  },
+  {
+   "id": "북한해커바이낸스직원가짜면접해컴퓨터에악성코드심었다",
+   "title": "북한 해커, 바이낸스 직원 가짜면접해 컴퓨터에 악성코드 심었다",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xZC1ka3k3Mkx6bU5lajhQcHZmdWEwcUxOaU12UlJTdlliQmJzSGdHYloyNUE1a2JaWlVMeWktanBheEh5RHpHSlJ2dllPMFBud2lIbXJqRGhhVU5TaUJqbDREQUw5TTItcXUtZHBBdlZnQ2RO0gF0QVVfeXFMTUg4cnNJcXZQSkF4Tm40MmowWUhSWHlKX3lBMXhNYTNTMG0wck02Vl84LXZCbWdOcTZmeXFkQzhXWGdfU2llS3FBV010a1dUYlh6ZjFYa252cEFNSkNfQkNrZzZlZnE1U1RGRVkycUhvUEdRZzI?oc=5",
+   "source": "MBC 뉴스",
+   "country": "KR",
+   "published": "2026-11-03T18:23:23.000Z",
+   "fields": [],
+   "summary": "북한 해커, 바이낸스 직원 가짜면접해 컴퓨터에 악성코드 심었다"
+  },
+  {
+   "id": "eagertorebutroguenationimagenorthkoreadeniesroleinbinanceheist",
+   "title": "Eager to Rebut Rogue-Nation Image, North Korea Denies Role in Binance Heist",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeUktVk5mZ21YSzJvSzJ1SW9IV3JrN1lhQjFnXzlJTnFfQXJhR2Fta29kdEdrLXZ4Y1ItbUhWMWR2R2gzYU5MZmNBMDdOVThDZzM1YnAwU2szeVc1ZTkwamx2a0VWMkUxaEZkMUZjMENUMngyaS1VajB6bDlXT2lhRnVVSS1LTFFCYlpoTy1XaXhmRGpHSEZuMVBYd2c3OG5tYjVCZ2RJeVJOWl9VM0J5OVl4RTc?oc=5",
+   "source": "WSJ",
+   "country": "US",
+   "published": "2026-11-03T18:15:00.000Z",
+   "fields": [],
+   "summary": "북한은 불량 국가 이미지를 반박하기 위해 바이낸스 강도 사건의 역할을 부인했습니다."
+  },
+  {
+   "id": "севернаякореязаявилаоновыхиспытанияхракеты",
+   "title": "Северная Корея заявила о новых испытаниях ракеты",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNEtmb3MwRE1hN2E4ajNhbHdFTnVLY3NvSjByU3ZleUp0VU4wWk82QzF5ZDFuNUNhd1doeFRKMVdIanR5TUJKc1ZTa1ExczVPU3pub25TWXBzMGt0MFg2WHBVWllkQUxFLUhNWWVvcHlmY1RHdUVlTWNoUUhzcHlZNDFBLUlzMDA0clpOTWtxV2poRDBRTHZuTU130gGXAUFVX3lxTE9jTHdOOXJwM00zYUJDTEYzT0FPR0NhbUJaVElPUnE3TkhCdzJPQ3lLTjIxd1RUNVEzR1JjdE5FOGxQdDQtTXYwajFLbXFucW9JZjRNRG42c2wxVy1jaWhsNkkyUFVXemtFLW1JYUtSZG9vSmluVldEOHdZUV9Ob1BIN2dyQ2RUclkxd3I3WWdSRmxHeDEwOWM?oc=5",
+   "source": "Korrespondent.net",
+   "country": "RU",
+   "published": "2026-11-03T17:59:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 새로운 미사일 시험 발사 발표"
+  },
+  {
+   "id": "youngnorthkoreanwomenstophidingsexualassault",
+   "title": "Young North Korean women stop hiding sexual assault",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNajF4YlRzT1ZmNm03a0h2MVdQUlF6Yko4ejl3aGpiUEFzTXQzSFJneE0tNUhpU044WFl4VEgwa2xiX3ZUc0kxellEck5CYllwLW12VDBQNy1ITzhUSEZ1c2xvSmVaTmFFWmFwSm9RbkZTc0NrX2pEdGkxdTd6OHdhLVdlX09HeEgwUWc?oc=5",
+   "source": "데일리NK",
+   "country": "US",
+   "published": "2026-11-03T17:56:48.000Z",
+   "fields": [
+    "women",
+    "youth"
+   ],
+   "summary": "북한 젊은 여성들, 성폭행 숨기지 말라"
+  },
+  {
+   "id": "тримировыхрекордаишестоезолотокндритоги8годнячм2026потяжёлойатлетике",
+   "title": "Три мировых рекорда и шестое золото КНДР: итоги 8-го дня ЧМ-2026 по тяжёлой атлетике",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTdyektkZGZXZHVUWTJyeXV6VHM0TDZTekFjYWJJT2poNFMzVFRIRmZLT05PMFVvblZBQ1BLcVFIV3JjZUZGYmtRVjdWY3pPVC10eWpzR3gtcnVEamZfTUJERVBOSDRsN2NDZUtzaHZYMGpPNWdQVmhFZjU5VThwS3dvazBHd1kyaWJLaHdOa0M1c3k1dkVjWXVyRGlOUlFHN2NhMlpHWG42cklvR1ctVUEwOWF3VTAtc0ljQw?oc=5",
+   "source": "Новости спорта Армении",
+   "country": "RU",
+   "published": "2026-11-03T17:51:29.000Z",
+   "fields": [],
+   "summary": "3개의 세계신기록과 조선민주주의인민공화국의 6번째 금메달: 2026년 세계역도선수권대회 8일차 결과"
+  },
+  {
+   "id": "всевернойкореепоявилсясвойredmagicсподэкранкойиmediatek",
+   "title": "В Северной Корее появился свой Red Magic с подэкранкой и MediaTek",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQXA4M2VBbFB0RkFCNlBaNWFNXzk2ZnZXZGZ2c3BPaHpiUkVKdHlJTm4tS05sUHVKVVRoc1hhWmJ0WE1FVTM4SkRpNjFEV09rVzdUTTlUQXNVR2tCakthZk1jREhpLThyT2lOb3hMQjJPbFlRN3hZLUNQOHlKZmRGcXJMMjR5WjVfVzRLaVVaWm1jTjg?oc=5",
+   "source": "MT Today",
+   "country": "RU",
+   "published": "2026-11-03T17:44:08.000Z",
+   "fields": [],
+   "summary": "북한은 서브스크린과 미디어텍을 갖춘 그들만의 레드마법을 갖고 있다"
+  },
+  {
+   "id": "binancesaysfakejobinterviewshelpednorthkoreanhackersstealover6billion20outletsco",
+   "title": "Binance Says Fake Job Interviews Helped North Korean Hackers Steal Over $6 Billion: 20 outlets compared",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOczBwb2UzZWxWUDd3dWdnclhHWWV2ZWxJVVdLdG85VGp6UFFtTDJUV2k0OVg4aDA0UFl2a1pCaFRSNWR4d0R1QkRRN21qVkVRdERFdXFZQkgtMEdvS2JyRW14ZjJwd2tqRzBqUnVTMUFUZy1vM25ZR1RIVTFTcnZ5X2hrR0tsUU1qanZUMzJ1cUJodkc5SGY3aXMyVlc0bE95UERYaE1XUkZDbkQtU1ZiWnZtTUpjN0FKMzBfalVyQlkycEVXaWtqZm1veTMxREVGeHJ4b1lNbmhHMGpPQmdpcDctbUZqbUlC?oc=5",
+   "source": "NewsCord",
+   "country": "US",
+   "published": "2026-11-03T17:35:09.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "바이낸스는 가짜 취업 인터뷰가 북한 해커들이 60억 달러 이상을 훔치는 데 도움이 되었다고 밝혔습니다: 20개 매장 비교"
+  },
+  {
+   "id": "fivewaysnorthkoreabreaksintocryptofirmsandhowbinancewashacked",
+   "title": "Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONXZqblc2dWpkT3U1UW5uNE5Hc2dUX05LdE5oMkVXc3RxTnM3TnRnbnpCS19VbV9lQmpKSEFha0lneTN3eWdSa2lmU2ZEb2hYcDVKMVNVYU9EZ294emxXZWxWZ0pnaFpNZFpQNmMyTzBmYUFZX25KSE5YWnFyakhIdDl2R2pFSEJGcTFpRVg5S1QyZkRkaWpiZ3V3TndDNEtE?oc=5",
+   "source": "Decrypt",
+   "country": "US",
+   "published": "2026-11-03T17:30:54.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한이 암호화폐 기업에 침입하는 5가지 방법과 바이낸스가 해킹된 방법"
+  },
+  {
+   "id": "binanceblocked57northkorealinkedcyberthreatsbefore63bnhack",
+   "title": "Binance blocked 57 North Korea-linked cyber threats before $6.3bn hack",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4bFdHVFZOc21XNVd4aWNIcDVHVGFoZVI3VTBKS3RuRGo4WmQzYTdmWDFQaFZwY1VfVEhuYWdOajQ3cHZjLTgyMzZSQjdjbTg5X293SE9ZRDFGWTFnVUlUU3ZLeWd6aWxFNWduZ05ENnN5QlFScXIxYVZUZzY?oc=5",
+   "source": "Technext24.com",
+   "country": "GB",
+   "published": "2026-11-03T17:28:29.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "바이낸스는 63억 달러 규모의 해킹이 발생하기 전에 북한과 관련된 57개의 사이버 위협을 차단했습니다."
+  },
+  {
+   "id": "кндрусиливаетракетныйарсеналкассетныморужиемэкспертыоценилиполучитлиегороссия",
+   "title": "КНДР усиливает ракетный арсенал кассетным оружием: эксперты оценили, получит ли его Россия",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjFLTUN6WHpTbG41RWpLb3l1NHJSMjZIYk1KTFJmTU9kTVA0Q1hfeFpKSkZGVC1kMnpENjJvczlxWi0tbmFmVk93SWdIajZ1MGhnOHo0NDZmNy1XbmJVSmlkUDNMa2w2NXZYUkc3UHUxQ3gxMmRlTko4b09odlJDekwwNkJzdGtvY3FoYXJ4RTFWdXZwc0lXZHNQS2QwcEk3eERTSmJGbUpxVEZmT2VDUFZB0gHPAUFVX3lxTE9MTjBWVV9xTG1iNTdhZHZnb3NYaEZ4NGtuYk9WZS1yWXdDR1dmSS13cVdPRmY3TlhYeUNhX2ZDd0dRaC1GWl82OVNNbE1FLUwxTTA2c1Q0Qk5aa210ODRzcC1fR1lPT1phYV9sXzdCUWhRMG1jQWpSckt2TkFCZG1aSDNiUXV0bjBoaEhkeVBDY1gzMkNWdHlaZkI0RFRhS0FROFEzdTdpcm9jSnY4TXVqRFBmMXlETHFSdjBDUHNFVjVITGN2WkdmenpzcjJFMA?oc=5",
+   "source": "УНИАН",
+   "country": "RU",
+   "published": "2026-11-03T17:28:08.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한은 클러스터 무기로 미사일 무기고를 강화하고 있습니다. 전문가들은 러시아가 이를 수용할지 평가합니다."
+  },
+  {
+   "id": "вышелсатирическийинструментdprkaptchaдлязащитыотхакеровкндр",
+   "title": "Вышел сатирический инструмент DPRKaptcha для защиты от хакеров КНДР",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN1RZQXhOVGQ2M1NQSUtXWnBpVTNGSFh6S3VTX0FEMVctXzZPd0MybnU3T2ZfZUhlZFVzY2pZSDFkRFhGeWFVdHA5V3I2azNRc0l4LS1rbjFHSXg3SFhWZkxFNUlZQl9DWDJuS2RYMU5fRkJXN3l3ZXFkdzQwODlmTW84Y0x3R1QwTl9Gbk9qUEdrSUlhTU5N?oc=5",
+   "source": "Techora.ru",
+   "country": "RU",
+   "published": "2026-11-03T17:24:47.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한 해커로부터 보호하기 위해 공개된 풍자 도구 DPRKaptcha"
+  },
+  {
+   "id": "러외무부한미연합훈련한반도긴장악화北선제공격연습목적",
+   "title": "러 외무부 \"한미 연합훈련, 한반도 긴장 악화…北 선제공격 연습 목적\"",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nSExkNFBvQzhjUDBIUS1MbktLRzVZbDl3dmc0N1YtNS1wSXZ0MWZweW9qckZLOEhvY2loaXRseU1iYi1CV3JxU1podXFjcldYcnRSRkpCdUdSUlJ6b01SbdIBeEFVX3lxTE5RZkJmRHJNN2NaMFVqVG51TzlCemFhbm9DTUtSMXRiOWZzUFZ3V3dPSG1tNmd4amFNZHIyYnVHZmxjVGduTGJRb1lKRThsWGRHS1VackNPdEIya2RUcHFiLUFrYWg2NHoxanFVUi1FMElJdDBDdDhhYw?oc=5",
+   "source": "뉴시스",
+   "country": "KR",
+   "published": "2026-11-03T17:11:03.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "러 외무부 \"한미 연합훈련, 한반도 긴장 악화…北 선제공격 연습 목적\""
+  },
+  {
+   "id": "историяпроясняетсяхакерыизкндрпровелиинженеруbinanceлиповоесобеседованиеивзломал",
+   "title": "История проясняется. Хакеры из КНДР провели инженеру Binance липовое собеседование и взломали биржу на $6,3 млрд",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLWowQ0t2NEZaNS1PckhqVFJXUGgtR3pXRm9RbU1wOHpFLU9ldE9SZ3hVWXJUMjR5MVJaVUVtY0ZuTF9JOXJKN0NPV2hzdHpmRTJ3ajh6OVVUcXRxNVR6ZUkzN0hmRnZ6ZXBrYU9ZVzMxR2RRM2p6ZGFPTjJ4YUM4aXp6ejFoMTJqSXJqdUhkYW56bFoxOVNYOUhZbTQ1WkIyZ1p4Zlg2ZUI5R1pwZGhxSWxTbjVRa2lDa0hMQzZBbmxuYXBPdG1sY20zb0VoY0lhaVZ4bk14ZzBZRjBHYzhHcVdmd0plMmot?oc=5",
+   "source": "iPhones.ru",
+   "country": "RU",
+   "published": "2026-11-03T17:10:25.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "이야기는 더욱 명확해진다. 북한 해커들이 바이낸스 엔지니어와 가짜 인터뷰를 하고 63억 달러에 해당 거래소를 해킹했습니다."
+  },
+  {
+   "id": "northkoreadeniesrolein6billionbinancehackafterfbiaccusation",
+   "title": "North Korea denies role in $6 billion Binance hack after FBI accusation",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUmd0WXMweFl0dHJyWW51SkRBa1N6RVhuMmNlNWVMREVHajRkTDZSeDVsTnV6X3A1TFNycmNIbmhEdkFhaHd6WkszUmE5S3RaUWxjZDg2a1JfQ3lGMGpVZU5YU0d6bnA3U2E4WGMwUGZzeEduY2Eyb296cjZtcHF5UGpIeVFXM0M5bW9RV05yaGdYb2JIOEYtV0JOSQ?oc=5",
+   "source": "CryptoSlate",
+   "country": "US",
+   "published": "2026-11-03T17:10:03.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한은 FBI 고발 이후 60억 달러 규모의 바이낸스 해킹에 대한 역할을 부인했습니다."
+  },
+  {
+   "id": "northkoreadeniesfbiallegationsoverbinancetheft",
+   "title": "North Korea denies FBI allegations over Binance theft",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43NkZUYWk4YTV2S0t4SWlkcVZBeUwxc3RCVnpLNVVJQmxmWGFvOFVkUjBieWVaQXZvYTRHUy1nQ1hMdU5DSGhiUTRHdXo1endQcDNIQ3otdzRTNVVmQ01Tdll1UQ?oc=5",
+   "source": "NHKニュース",
+   "country": "US",
+   "published": "2026-11-03T16:44:11.000Z",
+   "fields": [],
+   "summary": "북한, 바이낸스 절도에 대한 FBI 의혹 부인"
+  },
+  {
+   "id": "northkoreanleaderssisterdeniesrolein64bbinancehack",
+   "title": "North Korean Leader’s Sister Denies Role in $6.4B Binance Hack",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORG1xaEQ4bkRHWjNlSEdjZzI3QXlIUGZWQm1ONmhCLXduRm9VaUVtejJQUXo1QWNtb1pBRjhjdjlrc09oOW1FUmRMZHZuN3FCZWNZeVJpRHRDMHBDdFNfYU0xSnBXbk9jQkVZV1E2ZEc3UjFyN2NXTk5OazU3NlYzUDVSYnlFMU5NV2pmRmdheWZSZFFl?oc=5",
+   "source": "Yahoo",
+   "country": "US",
+   "published": "2026-11-03T16:41:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한 지도자의 여동생이 64억 달러 규모의 바이낸스 해킹에 관여했다고 부인"
+  },
+  {
+   "id": "binancesaysitblocked57suspectednorthkorealinkedthreats",
+   "title": "Binance says it blocked 57 suspected North Korea-linked threats",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VcUZsUlByQy1HR3NFZ0RDMmJMSjdVSFRnSHh4bEI3bzBOTGRZUzFNNXBxeGo5Y1M1aHhiczZfQXVhSUk0SGtDVWYxRzhZNnJESVllanhJVEdXTHQ1VkZ3dHBjQ1FjOEpoYTFyeWpqemZsLXFTV1psQ2NIaC1mNjg?oc=5",
+   "source": "Crypto News",
+   "country": "US",
+   "published": "2026-11-03T16:40:44.000Z",
+   "fields": [],
+   "summary": "바이낸스는 북한과 관련된 위협으로 의심되는 57건을 차단했다고 밝혔습니다."
+  },
+  {
+   "id": "미북한사이버범죄전지구적문제점점더의존",
+   "title": "미 \"북한 사이버범죄, 전지구적 문제‥점점 더 의존\"",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GaGNFbEZ0WlQxQU4xd3UwNTVSVjF0a0dORlZ5M2VKUm0zOEVSd1lEdUxJQ1Jyb0RuT3p2RmduMEw1Y2VkbkVyczNpdHJUaU1lUmxBNHp3VkUxd3lXMUphYzRpTDBTMWhESEljdlpMSnJHRkJ40gF0QVVfeXFMUGhsa3ktSTRSb3VZM09NbGVrNHVGX2NKZnJscFg0WDZ6clJURjQ2bzlULUlleHkzbC13NERZZ0tiMURWQjVQc2l4TmxjTFlEN05VNF83bkVHSGtPVm1acTZ1cDM5dTlVQW5ETW1scE5aSVVVN2k?oc=5",
+   "source": "MBC 뉴스",
+   "country": "KR",
+   "published": "2026-11-03T16:40:30.000Z",
+   "fields": [],
+   "summary": "미 \"북한 사이버범죄, 전지구적 문제‥점점 더 의존\""
+  },
+  {
+   "id": "northkorealinkedhackersinfiltratedbinanceformonthsbefore63billionhack",
+   "title": "North Korea-linked hackers infiltrated Binance for months before $6.3 billion hack",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORmtqSXhqTk4tRWpKeXBoemQ4VGpfeUNVVlNWSXU0aVV1aXpHMUZDNUtZcmRuR1ZtZi1zV2pxUW5uM3pFQU1jSWZiV2xYTkZNd1JUX1NxTFA0aWFVX3JfYUl2VG15ckEwUWNkYXUwOHZNQ0Y0VnJPMkV3Q18tU3pGdi02M3RfazJ6WExHdDVJVi1IR2RUQTREcUZVaXJnMkdmbjhReUlnYmFnSWwwVE40ZUVkX2s3WXM3TWtSUQ?oc=5",
+   "source": "CoinDesk",
+   "country": "US",
+   "published": "2026-11-03T16:32:29.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한 관련 해커들이 63억 달러 규모의 해킹이 발생하기 몇 달 전에 바이낸스에 침투했습니다."
+  },
+  {
    "id": "northkoreadeniesinvolvementin63bbinancecryptoheist",
    "title": "North Korea denies involvement in $6.3B Binance crypto heist",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXBpUjdZTmtHT0swejUwMHNBWTlYYlMxZ2l4bVFkX2ppSkZqWkhVRnduUm9ZUFdmdFp0dXR1LVBiLXpPVDI4dE5uUk9wQTFaLVRRTlg5REdRVC1aVjlQSExFTG8wWXMwMnZCUW5uNFQ1WXdnMWdjZHE3Q3FSQ2c0NVJlRURmcENlbVY4QUlydmlBU3ZZdDNnZy0yNGVnUDlQLVBJTS1pZlIzMGR0TWc?oc=5",
@@ -88,6 +368,16 @@
    "summary": "미국, 북한 미사일 프로그램에 자금을 지원하는 IT 사기 네트워크 제재"
   },
   {
+   "id": "binancesaysoutflowsnormalisedasnorthkorearejectsusallegationoverheist",
+   "title": "Binance says outflows normalised as North Korea rejects US allegation over heist",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUzFjN3B4WGpqc2I0RjhiakJ1MHFNNGNFSk85VUtYdjJ3ZzhiUWRPNFE2WWM4ZTNkOFNPTmpJaXlUbWJ4QUh2RG1uNVUyOXc1a2U1RXpfMlRWVjNVRDZodkJfcFF4ODIyWk56eWNiYVE2QjkweHRJWi1lN1dIYUxmM1E3Rm9kc013b0JRMzUwei1mQQ?oc=5",
+   "source": "Yahoo",
+   "country": "US",
+   "published": "2026-11-03T16:06:47.000Z",
+   "fields": [],
+   "summary": "바이낸스는 북한이 미국의 강도 사건 주장을 거부하면서 유출이 정상화됐다고 밝혔습니다."
+  },
+  {
    "id": "northkoreatestscruisemissilewithclustermunitionsverticalstrike",
    "title": "North Korea Tests Cruise Missile with Cluster Munitions, Vertical Strike",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUF1LUF2Q0RsWnZjRllDNm1IbTRIN1dJSEVuZEFjbDBIRXdZQzc3MXdyT2dDVjhac203QUcwMGk2RFZnUzJZZm8zOHJ6SU9KNUNhcHVfRFZ4NEpUVGxtS29WUUZLWkZ2clJPZC12YnktZGNNcTRlSG9OdHhpbEVlX2gxTzczbzFE?oc=5",
@@ -98,6 +388,18 @@
     "security"
    ],
    "summary": "북한, 집속탄·수직타격 탑재 순항미사일 시험발사"
+  },
+  {
+   "id": "northkoreaslamsusaccusationasabsurdnonsensewarnsofissuestoreconsider",
+   "title": "North Korea Slams US Accusation as \"Absurd Nonsense,\" Warns of \"Issues to Reconsider\"",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RQlJsNDFHREZUYVgySW40VUl5STZUQWRKWXVIeGduWUYzXzdYU2pSVlVyazMwVmtRSjRpZmMzS1JiZTlRNm1nMzdSNnZsa3FPZThGN3ZyVnVVUVpHQVg1Q2pEUkNiZ9IBZkFVX3lxTE5RQlJsNDFHREZUYVgySW40VUl5STZUQWRKWXVIeGduWUYzXzdYU2pSVlVyazMwVmtRSjRpZmMzS1JiZTlRNm1nMzdSNnZsa3FPZThGN3ZyVnVVUVpHQVg1Q2pEUkNiZw?oc=5",
+   "source": "SBS 뉴스",
+   "country": "US",
+   "published": "2026-11-03T16:06:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 미국 비난에 “터무니없는 말도 안 된다” 비난, “재검토할 문제” 경고"
   },
   {
    "id": "мидроссииобратилсяспризывомкюжнойкорее",
@@ -168,6 +470,28 @@
    "summary": "면허증은 「1장 20엔」…“다크웹”에서 매매되는 개인정보 「새로운 정보는 고가로 거래」 사이버 공격의 그림자에 북한계 해커【news23】"
   },
   {
+   "id": "币安2026年拦下57起疑似朝鲜黑客攻击但10月仍有634亿美元被盗",
+   "title": "币安2026年拦下57起疑似朝鲜黑客攻击，但10月仍有63.4亿美元被盗",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HQWtyNzd5XzgxbndqcklTMjhsN0trZmkxdXNvQzNDRXdySnNhbkFQOXFIZWttNUlpVGtvTVJfLXJIN2pfX1lzWHdR?oc=5",
+   "source": "区块周刊BlockWeeks",
+   "country": "CN",
+   "published": "2026-11-03T15:59:12.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "바이낸스는 2026년 북한 해커로 의심되는 공격 57건을 차단했지만 10월에도 여전히 63억 4천만 달러를 도난당했습니다."
+  },
+  {
+   "id": "кндрназвалапровокациейобвиненияфбрвпричастностиквзломуbinance",
+   "title": "КНДР назвала «провокацией» обвинения ФБР в причастности к взлому Binance",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnU5MEdIRXcyMlR4ZEtSRmhkVlIxRVJMX3p4ckROclJ0UEJ2ZlNMVU15VzhhRFZfUzdIMEF4OGkxU1Zwak5oTG1TcVJabG92ZUZPYVhIUGhYT0JVYUREbFBiZFphX3NPcV9ZRHhHUmpoeUZNVnlyaXRXYzRWeENWVXFfSHlpRXBnem1WSy1haHpqQ05lQzVjMkhVNVlTbF9PUFhHZm5laW8?oc=5",
+   "source": "Портал РЕПОСТ",
+   "country": "RU",
+   "published": "2026-11-03T15:53:25.000Z",
+   "fields": [],
+   "summary": "북한, 바이낸스 해킹 연루 FBI 비난에 “도발”"
+  },
+  {
    "id": "binancecofoundersaysexchangeblocked57suspectednorthkorealinkedcyberthreatsthisye",
    "title": "Binance Co-Founder Says Exchange Blocked 57 Suspected North Korea-Linked Cyber Threats This Year",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GYzZ6RUxhTHB0LXc4czhXS2VTUUxvdllIclo5WHZfbDJKd1E3UUxla1pTekNQVGctbS0zNmE0SzRQOVR2RzVseTd5YWZFMG94VWRsLQ?oc=5",
@@ -226,6 +550,28 @@
    "summary": "집속탄 이어… 수직으로 내리꽂은 北 순항미사일"
   },
   {
+   "id": "北朝鮮集束弾に続き垂直打撃も新型巡航ミサイル試験",
+   "title": "北朝鮮、集束弾に続き垂直打撃も…新型巡航ミサイル試験",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGFrRE56dUVJZVZJbkRwWmp6d1YyN0Y2MVpjR3k1ZVhXVlNNTFJoMUlpUENpSlpBUWsxU1NiUHNxc1BpM1ZBeUFTWDA3R1VZT3A4MXdGLU9aMnpqOGhCZmxCcmpqcUV3cFRRcVZiZlRQMjh5VFdXeDc0WkVwMHotS3lodlhSdWphdUpjVEtB?oc=5",
+   "source": "조선일보",
+   "country": "JP",
+   "published": "2026-11-03T15:49:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 집속탄에 이어 수직 타격도… 신형 순항 미사일 시험"
+  },
+  {
+   "id": "币安披露2026年拦截57起疑似朝鲜关联网络攻击",
+   "title": "币安披露2026年拦截57起疑似朝鲜关联网络攻击",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14ZW9GZlg0Sm55RWlEd1dsWmcwTEp2bzlpSExpMEJqdUhUMTNGTlpMUHZON3VoUndRQUxMZ2lUNzZ3NmlhYmY3QXhWNVoyM01tOS1aQkRNaWg3RlBfcjFfMWllN1lQcFE?oc=5",
+   "source": "TradingView",
+   "country": "CN",
+   "published": "2026-11-03T15:48:21.000Z",
+   "fields": [],
+   "summary": "바이낸스는 2026년 북한 관련 사이버 공격으로 의심되는 57건을 차단했다고 밝혔습니다."
+  },
+  {
    "id": "northkoreadeniesitwasbehind64bbinancehack",
    "title": "North Korea denies it was behind $6.4B Binance hack",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmamN4QzVESVZNNkRBaWFWekZnMV9OTm44ZnFMdnp4cmJKZ1JvQkJCekR1M2Zibnd1X0FsRHVMYV9odGltem41R3htYWVDUkFsZ3VZTUpkZ2dILWp2eVdCSGt3Y2l2X3NxMnEwTVd3QXk3ZXdNajZ4Mm9iSzlhaE0?oc=5",
@@ -236,6 +582,18 @@
     "economy"
    ],
    "summary": "북한은 64억 달러 규모의 바이낸스 해킹 배후가 자신들이 아니라고 부인했습니다."
+  },
+  {
+   "id": "northkoreadeniesitwasbehind64bbinancehackcoindeskvideos",
+   "title": "North Korea denies it was behind $6.4B Binance hack | CoinDesk Videos",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmdOUkxjX3kySWRNQ29iMm96Y2JnR1R6ZWNfLXRxbGcxLVIzbm10LVVDWmZxdjBFQ2d1eTdVSm9abHI5QkRRem9FU1Q3X1Iyd0cyOXVXMWhlckFJaU5pWVd1WVJsWFpaN1dtRlE3bVZjMS05bGQzU2tHRm1LUHhQc0poOW5weEE?oc=5",
+   "source": "CoinDesk",
+   "country": "GB",
+   "published": "2026-11-03T15:36:31.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한은 64억 달러 규모의 바이낸스 해킹 배후가 자신들이 아니라고 부인 | CoinDesk 동영상"
   },
   {
    "id": "реакциямидроссиясчитаетмерыпринимаемыепхеньяномполностьюоправданными",
@@ -260,6 +618,26 @@
     "security"
    ],
    "summary": "북한이 분산 탄두를 장착한 순항 미사일을 시험했다고 KCNA가 밝혔습니다."
+  },
+  {
+   "id": "кндротрицаетпричастностьквзломуbinanceна63млрдназвавобвиненияфбрпровокацией",
+   "title": "КНДР отрицает причастность к взлому Binance на $6,3 млрд, назвав обвинения ФБР провокацией",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFpsdDJpVWg5b0dpdmp5MmMzQVdkaGJXNXZ1X1B1dDltbjhEY3lOWS1qZnBFY3o5WERsU0pMRk1BUS1BN2dmUS1TMEk4Y0JCNElnZWVWWHF6V2Nrb2tkdGVWX0pwZXZuYlRTSWRfdVU1YlhRZFhHa3JaTC1TNEktejh0RlYyMFplVWZqRGxpZDZmLVB3c2h6bWRMdGN1Q0cwYVh1RGNlbW9jUWpHTmpIRjkxUWI3dnFDMjNVUGVhVEZGNDFzN1l4RA?oc=5",
+   "source": "Bitcoin News",
+   "country": "RU",
+   "published": "2026-11-03T15:25:08.000Z",
+   "fields": [],
+   "summary": "북한은 63억 달러 규모의 바이낸스 해킹에 연루된 사실을 부인하고 FBI의 비난을 도발이라고 비난했습니다."
+  },
+  {
+   "id": "northkoreasaysitsopeningnewbarbecuerestaurants",
+   "title": "North Korea says its opening new barbecue restaurants",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVcyQXIwWWhoY0w4ZUd2ektEMy14WnpQUXhMUWRqMHFHOUlKb2JPbXlZZDA2aEJBR1doaFZ2Zk4yNWtjYlRRQnd6Nlpxa0NYaFJYeWZYSm8yTnJnRXlqQlBNR3dMcGlmZ2c1SjZldTlXd3EtcVhEaUxqc0xyNkxQaFU4UC1keTk5SGVIZHBXYmJEZlhEMjQ0bQ?oc=5",
+   "source": "The Pig Site",
+   "country": "US",
+   "published": "2026-11-03T15:20:35.000Z",
+   "fields": [],
+   "summary": "북한, 새로운 바베큐 식당을 열었다"
   },
   {
    "id": "习近平今日访问朝鲜朝鲜无论谁承认与否拥核国地位都绝不会退让",
