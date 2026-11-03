@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "items": [
   {
    "id": "doi:10.12987/9780300291841-013",
@@ -16,6 +16,28 @@
    "source": "crossref",
    "added": "2026-11-02",
    "titleKo": "부록 C: 북한의 인권, 거버넌스, 발전을 모니터링하고 발전시키는 주요 기관"
+  },
+  {
+   "id": "doi:10.1080/20008066.2026.2745524",
+   "title": "Psychosocial pathways linking PTSD and DSO symptoms to somatic symptoms among female North Korean defectors",
+   "authors": [
+    "Hokon Kim",
+    "Ocksim Kim",
+    "Sang Hui Chu"
+   ],
+   "date": "2026-11-02",
+   "venue": "European Journal of Psychotraumatology",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "diaspora",
+    "women"
+   ],
+   "url": "https://doi.org/10.1080/20008066.2026.2745524",
+   "source": "openalex",
+   "added": "2026-11-03"
   },
   {
    "id": "doi:10.1080/09557571.2026.2752955",
