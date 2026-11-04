@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "items": [
   {
    "id": "doi:10.12987/9780300291841-013",
@@ -16,6 +16,70 @@
    "source": "crossref",
    "added": "2026-11-02",
    "titleKo": "부록 C: 북한의 인권, 거버넌스, 발전을 모니터링하고 발전시키는 주요 기관"
+  },
+  {
+   "id": "doi:10.1007/s12524-026-02526-7",
+   "title": "Analysis of Spatio-Temporal Variability of Drought Considering the Effects of NDVI and Land Surface Temperature in the DPRK",
+   "authors": [
+    "Chol-Ho Ryang",
+    "Chang-Bok Rim",
+    "Chol Kim",
+    "Su-Song Kim"
+   ],
+   "date": "2026-11-03",
+   "venue": "Journal of the Indian Society of Remote Sensing",
+   "countries": [
+    "KP"
+   ],
+   "lang": "en",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.1007/s12524-026-02526-7",
+   "source": "openalex",
+   "added": "2026-11-04",
+   "titleKo": "북한의 NDVI와 지표온도의 영향을 고려한 가뭄의 시공간적 변동성 분석"
+  },
+  {
+   "id": "doi:10.1080/03068374.2026.2745057",
+   "title": "FRACTURED PANOPTICON: SURVEILLANCE, MARKETIZATION, AND FRAGMENTED ADAPTATION AMONG PYONGYANG’S YOUTH",
+   "authors": [
+    "Si-Hyo Lee"
+   ],
+   "date": "2026-11-03",
+   "venue": "Asian Affairs",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "politics",
+    "youth"
+   ],
+   "url": "https://doi.org/10.1080/03068374.2026.2745057",
+   "source": "openalex",
+   "added": "2026-11-04",
+   "titleKo": "분열된 파놉티콘: 평양 청소년의 감시, 시장화, 단편화된 적응"
+  },
+  {
+   "id": "doi:10.1080/03068374.2026.2745059",
+   "title": "RECONFIGURING THE PANOPTICON? WORKERS’ EXPERIENCES OF LABOUR DISCIPLINE AMID MARKETISATION IN NORTH KOREAN STATE ENTERPRISES",
+   "authors": [
+    "BAEK Myoeng-Sook",
+    "Kim Sung-bae",
+    "Si-Hyo Lee"
+   ],
+   "date": "2026-11-03",
+   "venue": "Asian Affairs",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "politics"
+   ],
+   "url": "https://doi.org/10.1080/03068374.2026.2745059",
+   "source": "openalex",
+   "added": "2026-11-04",
+   "titleKo": "PANOPTICON을 재구성하시나요? 북한 국영 기업의 시장화 속에서 근로자들의 노동 규율 경험"
   },
   {
    "id": "doi:10.1080/20008066.2026.2745524",
@@ -37,7 +101,45 @@
    ],
    "url": "https://doi.org/10.1080/20008066.2026.2745524",
    "source": "openalex",
-   "added": "2026-11-03"
+   "added": "2026-11-03",
+   "titleKo": "탈북여성의 PTSD와 DSO 증상과 신체증상을 연결하는 심리사회적 경로"
+  },
+  {
+   "id": "doi:10.32355/oughtopia.2026.10.41.2.179",
+   "title": "The Introduction of the Health Insurance Fund-Based Medical Security System in North Korea: Background and Policy Implications",
+   "authors": [
+    "Ju Hyun Um"
+   ],
+   "date": "2026-10-31",
+   "venue": "OUGHTOPIA",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.32355/oughtopia.2026.10.41.2.179",
+   "source": "openalex",
+   "added": "2026-11-04",
+   "titleKo": "북한의 건강보험기금 기반 의료보장제도 도입 배경과 정책적 시사점"
+  },
+  {
+   "id": "doi:10.14431/jms.2026.10.19.3.307",
+   "title": "Toward Research on the South Korean-Born Children of North Korean Migrants: ‘Second Generation’ as an Analytic Category",
+   "authors": [
+    "Soojung Lee"
+   ],
+   "date": "2026-10-31",
+   "venue": "The Journal of Multicultural Society",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "diaspora",
+    "youth"
+   ],
+   "url": "https://doi.org/10.14431/jms.2026.10.19.3.307",
+   "source": "openalex",
+   "added": "2026-11-04",
+   "titleKo": "북한이주민의 남한 자녀 연구를 위해: 분석범주로서의 ‘2세대’"
   },
   {
    "id": "doi:10.1080/09557571.2026.2752955",
@@ -756,6 +858,25 @@
    "source": "openalex",
    "added": "2026-10-28",
    "titleKo": "재난취약성 생성: 북한 다락밭정책 실패의 PAR모형과 인과루프도 분석"
+  },
+  {
+   "id": "doi:10.31147/iall.110.09",
+   "title": "Records of the Escape and Asylum among North Korean Students Studying Abroad in the Post-Cold War Era and the Politics of Border Crossing",
+   "authors": [
+    "Tae-young Oh"
+   ],
+   "date": "2026-09-30",
+   "venue": "국제어문",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "education",
+    "politics"
+   ],
+   "url": "https://doi.org/10.31147/iall.110.09",
+   "source": "openalex",
+   "added": "2026-11-04",
+   "titleKo": "탈냉전 시대 북한 유학생들의 탈북과 망명 기록과 월경정책"
   },
   {
    "id": "doi:10.21185/jhu.2026.9.107.005",
