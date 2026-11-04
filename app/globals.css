@@ -589,6 +589,7 @@ a.video-card:hover h3 { color: var(--accent); }
 .m0 { background: #2a78d6; }
 .m1 { background: #eb6834; }
 .m2 { background: #1baf7a; }
+.m3 { background: #eda100; }
 .rp-legend { display: flex; gap: 14px; margin: 0 0 10px; font-size: .7rem; color: var(--muted); }
 .rp-sw { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 5px; vertical-align: -1px; }
 .rp-pairs { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
@@ -610,6 +611,7 @@ a.video-card:hover h3 { color: var(--accent); }
   .m0 { background: #3987e5; }
   .m1 { background: #d95926; }
   .m2 { background: #199e70; }
+  .m3 { background: #c98500; }
 }
 @media (max-width: 760px) { .rp-kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 .ft-auto { display: inline-block; margin-right: 5px; padding: 0 5px; border-radius: 3px; background: #efe8dc; color: #7a5422; font-size: .6rem; font-weight: 650; vertical-align: 1px; }
