@@ -2,6 +2,493 @@
  "date": "2026-11-04",
  "items": [
   {
+   "id": "在攻破币安63亿美元之前朝鲜黑客是如何在数十起攻击中打磨其虚假求职剧本的",
+   "title": "在攻破币安 63 亿美元之前，朝鲜黑客是如何在数十起攻击中打磨其虚假求职剧本的？",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ubV80SUgyOW1rMnVEWlk4czhLZzQzbExLMXdHWnlyclVkemdRcS1haDU2Zi1sanNlWGF2T0ZhbHRJaFlydE9ZY1BfLUEtZFQ2UzZQaQ?oc=5",
+   "source": "深潮TechFlow",
+   "country": "CN",
+   "published": "2026-11-04T07:52:46.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한 해커들은 바이낸스(Binance)를 63억 달러에 해킹하기 전에 어떻게 수십 건의 공격을 통해 가짜 구직 플레이북을 연마했을까요?"
+  },
+  {
+   "id": "northkorealaunchesmissilestowardtheseaaspyongyangprotestsagainstusclaimsonbinanc",
+   "title": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXUxX29zSjF6OWU2Z1VoWkk0OV94WHVFZmJaRXhrTUo2ZE9nN0g1eDljNjFuUXlacTFZXzd0U29hcHRYRF9DQV9mb3ZPWEFfMG9tVC1zRlNPQkF2VVptTndGbUwwYXIwak5EQ3EzRHU1V012eXFDY25UcEg0Z1YtWFVsWmVPeFNZaG9QY1VHRGlpTnFQQlFoNnUzVmgxYS1HSG1UTE9aSHVWeDBsYW1HS3V3?oc=5",
+   "source": "WRAL",
+   "country": "GB",
+   "published": "2026-11-04T07:46:08.000Z",
+   "fields": [
+    "security",
+    "economy"
+   ],
+   "summary": "북한이 바이낸스 해킹에 대한 미국의 주장에 항의하자 바다를 향해 미사일을 발사했다."
+  },
+  {
+   "id": "朝鲜发射导弹",
+   "title": "朝鲜发射导弹",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pVWR0RXRqRVBtT1lxemxOem1CYmJPajNDTGl5cTNleDZaUlJ0LWlGNUxKWWRYOFQzU2ozSjF5blkzUVMtNTBZMjF1clk2allZUjhkTld0WHZkOGRSbG1xSk1QSlQ4UGk2YnlWVmxpaDVuUVk?oc=5",
+   "source": "VOV World",
+   "country": "CN",
+   "published": "2026-11-04T07:39:09.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 미사일 발사"
+  },
+  {
+   "id": "нашапозицияяснавкндрвысказалисьопереговорахссша",
+   "title": "«Наша позиция ясна». В КНДР высказались о переговорах с США",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NQmJ1UnF5OXZHa1JJaFZ1TGR0S2czaUtvbkpHYXQzcWJkWFMxaGdhUC10aFRRb0tQQTNkTGlad0taaUhNNTMxbHFuRnoxYnlqbEtRYjZEbw?oc=5",
+   "source": "ФОНТАНКА.ру",
+   "country": "RU",
+   "published": "2026-11-04T07:33:07.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "\"우리의 입장은 분명하다.\" 북한이 미국과의 협상을 언급했다."
+  },
+  {
+   "id": "новостикндрпредседательгосударственныхделкимченыникорейскиеженщины",
+   "title": "Новости КНДР: Председатель Государственных дел Ким Чен Ын и корейские женщины",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1PYnNJOE9TYXVwX3E3MzVQUFFiQ0JDdThIU1ZTTVlCTzUxR0NxUkp1NzBJcDF5TEs5ZXd3WFE1a2JLdw?oc=5",
+   "source": "ДВ-РОСС",
+   "country": "RU",
+   "published": "2026-11-04T07:29:36.000Z",
+   "fields": [
+    "politics",
+    "women"
+   ],
+   "summary": "조선민주주의인민공화국 뉴스: 김정은 국무위원장과 조선 여성들"
+  },
+  {
+   "id": "kimjongunvowstobuildnorthkoreasmostpowerfulwarships",
+   "title": "Kim Jong Un vows to build North Korea’s most powerful warships",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ0dwV2tkMU1yb0tCaDlXTjNFZ2I4Zi1JNmw1aEtzcElBMGV1aHFnWVh4YjRXT2FBbzB4MXVlTEh2Zk1rV29FUU1lOW9oanVEd093ekVBYXB6cUxEWlhPbm5sVDNsM0NhNmRUZklPekJMZjJPNUxGbTA5a3JRbDNSdGVXZkJ0ZU85emtTOFhtbVJoYlQ3REVOeTVpLWN2MTBVT2xnN3NYdw?oc=5",
+   "source": "TheReport.live",
+   "country": "GB",
+   "published": "2026-11-04T07:19:49.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 북한의 가장 강력한 군함 건조 약속"
+  },
+  {
+   "id": "кимёчжонкндрневидитсмыславдиалогессшаприихвраждебнойполитике",
+   "title": "Ким Ё Чжон: КНДР не видит смысла в диалоге с США при их враждебной политике",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1WQ21yb1ZNZ2Zhdzh4TTR3UG9pVkh3eDEyT2ExczkyMjQ2NWVablNaQ2pja09GUW82U0VEcnNlYlpRSnZQZEE?oc=5",
+   "source": "NEWS.am",
+   "country": "RU",
+   "published": "2026-11-04T07:12:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김여정 \"북한, 적대시 정책으로 미국과 대화 의미 없어\""
+  },
+  {
+   "id": "northkoreafiresmissilesaskimyojongrejectsusdialogue",
+   "title": "North Korea fires missiles as Kim Yo Jong rejects U.S. dialogue",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVNIcmF3UHBNd0YyMkNObEJnb3ZhUEhjcmNFNDI5X2w3XzYyOFVPcUFUa2Y3bjVmYkE1ZGVNaVFBWGJ0TzU4OFZrZWNmQ1F6ODBKYWcyWjRTRC1qa1Q2T2hVMkQ1Tll2OFlUMTRyaGtybUVSdHZGOE9kanRDMTJjc1Jjb2F2TkJFeVhVQmh2N1VvNWZvSkJSUUVwQXpwOXPSAaQBQVVfeXFMTWlMckYzY0JFVXNaS1piS2UyTk93WlNaT0VfR3QwaF80dXZXN3UyQTgzaVFTQ0dGQzk1UEdZa3hTVnVrNEZmaS1zOHg4dHI4OV83RVFkcFkzS1o4elFrcDVEeDhYV3k5SEhITldtNmJlSFZkaG1xc2hnODJ5cFEtcDl1OGJuTHFYVjVSQzVPcllPelk2UmNsbFVSMjQ2dUNsNTNBUlA?oc=5",
+   "source": "upi",
+   "country": "GB",
+   "published": "2026-11-04T07:02:44.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "북한, 김여정이 미국과의 대화 거부하자 미사일 발사"
+  },
+  {
+   "id": "northkoreafiresmultiplemissilestowardseaofjapan",
+   "title": "North Korea Fires Multiple Missiles toward Sea of Japan",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95czMzMWxsdW5VUXdITHlUdnBQMVZsWVlvVEM2MFgzWG4wSC1BTmZybXNjUkEyT212ek92Ulh5UFZMTFBmb2VMeWpOQnUtalZtWVNZMFhwRnU5SUpod1pZNDNoSnQ0QlhORjhHSUI0eVVRVXJpaG5wZXYtSHZuZw?oc=5",
+   "source": "The Japan News",
+   "country": "GB",
+   "published": "2026-11-04T06:56:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 동해 방향으로 여러 발의 미사일 발사"
+  },
+  {
+   "id": "edjointregistrationoftaekwondoinorder",
+   "title": "[ED] Joint registration of taekwondo in order",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWViTlNleHF4Q2ZjMHhQNEF3VnFQYlZrQm1GeEFZbG4wbjRVbmNQdmNzVXlLaHEzS0tZNlgzbnY3RUNyQXpiME1UOERrZGlrRFVVTW9hQkZiV0dNekFzc2tMUlpVSlhLZGQzZTJmWDRDN29keHVQLW9HaTNxbE5WRGxBSWFvMnkxYllxaFBPYlkwR3d4VE1fcW55WVBad1dt0gGmAUFVX3lxTFB5WE4wUFRlVUctSmlQZVVsWTEtMEw1a2hBUnNmRmlYY3pyTnBxcjV0RDhETDBTcTVGaEpZVElMQmxJWXVhTEtOMlZZV3RrNWxhcVZoWGhvODY5WVM0VkFZcjJCOHZwWGNYU0s3OGlkTnp6ekVUX2lNZXFaN3N6bGxPakloWkhodVozTDFnMWRRd3MzWWpqQkNianIycVpXOGI3VjRCWEE?oc=5",
+   "source": "The Korea Times",
+   "country": "GB",
+   "published": "2026-11-04T06:51:02.000Z",
+   "fields": [],
+   "summary": "[ED] 태권도 공동등록 순차"
+  },
+  {
+   "id": "кндросуществилановыеракетныепуски",
+   "title": "КНДР осуществила новые ракетные пуски",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94RXB4X3dpakZiZjJ2dExKSDBIeE5oOW5WcDR2MWF4UlhsSVNGYU1FSVNHRm4waWYzTnNESHhIa2dKTDM5LXI5ZHgxcEt3anluc1V4X2FJS0JsdVZ2X19ld29qYnFoVDhLT2w0RzRwajdtRlZuVlR3ZTVyaVY?oc=5",
+   "source": "Казинформ",
+   "country": "RU",
+   "published": "2026-11-04T06:50:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 새로운 미사일 발사를 단행했다"
+  },
+  {
+   "id": "кндрпровелапускнеопознанногоснарядавсторонуяпонскогоморя",
+   "title": "КНДР провела пуск неопознанного снаряда в сторону Японского моря",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOVBCQ0FyLXhBd2FLSHNqX3lhN1YwNERERkhMZTZZTWJMY2lOTDhUWnl0LVNTNjNBSUZrdXRvRkxfV2h5REZDRDVhSG1iRHFWUTFNTGlMSzVabXZtV2VoSV91dlktNEJsbUtyS3RPZ2x5dHhVY3puTEhiUmVFamVYZHphU19nVU1OcUF3YnZnYmNaVzVuV0VRa0hqQnpHMDNNd2NPMXUxekbSAagBQVVfeXFMTTlQQkNBci14QXdhS0hzal95YTdWMDREREZITGU2WU1iTGNpTkw4VFp5dC1TUzYzQUlGa3V0b0ZMX1doeURGQ0Q1YUhtYkRxVlExTUxpTEs1Wm12bVdlaElfdXZZLTRCbG1Lckt0T2dseXR4VWN6bkxIYlJlRWplWGR6YVNfZ1VNTnFBd2J2Z2JjWlc1bldFUWtIakJ6RzAzTXdjTzF1MXpG?oc=5",
+   "source": "СБ. Беларусь сегодня",
+   "country": "RU",
+   "published": "2026-11-04T06:48:00.000Z",
+   "fields": [],
+   "summary": "북한이 동해 방향으로 미확인 미사일을 발사했다."
+  },
+  {
+   "id": "кимченынрассказалобуникальныхвозможностяхновоговоенногокораблякндр",
+   "title": "Ким Чен Ын рассказал об уникальных возможностях нового военного корабля КНДР",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMHJUblBiTkFyd2RETElGQWJDSzdGZkwzTlczU0otVnZDeUNLbFdOUkJsWDBvR3JmRXZDYm0xNTdBendUV0t3TFRMdkhsSDZxS1ZDWWlYV3Y2TnA3eG03V1FQR2JNSXVwZUwxLUNyYnJ6WlNmZUREdjVBWlhHcHJKYzFiVHd5UmFhRmhrZWs5aUdDV19nRXd4S3NLN0ZnZV9ySnB4U2RhRkhtbEtBdmk4SlJrWdIBuwFBVV95cUxQREpLSUxaeDJkYk5WOEFsa1g0elVlWkQxQkIyYzVoQktRaDVDQW5wS01mOWZ0YUgzT3lXMHFDd3ZzUnRreElSX1ZVMUpfamlkMl9CaUZfRTRHbE95UGQ1bGltUzZaWGpSRndEUGRwTm4xVzhLamdweGcwbEltUS1jeVhSeGVrZV8tTHl2YzVVX2wtTlJPTGlpNlNNcWlma3FObXh1TFRybjFZTVEwMDZJbVpfQkhDbVhnSWtZ?oc=5",
+   "source": "СБ. Беларусь сегодня",
+   "country": "RU",
+   "published": "2026-11-04T06:48:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은 위원장, 새로운 북한 전함의 독특한 능력에 대해 언급"
+  },
+  {
+   "id": "韩军称朝鲜向东部海域发射多枚导弹",
+   "title": "韩军称朝鲜向东部海域发射多枚导弹",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05eFpnTE1TZkNsSTcyYWRlV0NpdnZvVkpfakk2eFlRdHYzRDEtc3RBWTYydjNNT0RvZEtHUFFjU1U0YVdPcFd1Z3hJdUhXRTlORkxuSVRYSUVUTWlPZHkxeDJNWnVIRmFyZ0h5WlVBYXlxOGt6VWc?oc=5",
+   "source": "韩联社",
+   "country": "CN",
+   "published": "2026-11-04T06:46:01.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "한국군, 북한이 동해상으로 여러 발의 미사일을 발사했다고 밝혔습니다."
+  },
+  {
+   "id": "nkoreafiresmultipleprojectilestowardseaofjapanskoreamilitary",
+   "title": "N. Korea fires multiple projectiles toward Sea of Japan: S. Korea military",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LUFp0NWVuMThlV29Hd2N2ejcySXVPd3hQUE1ER0dvbFBrM1BJMDB6MXo2dHNHZENsaUNLdWxvem90UEQwNDFmSUZTT0VveGZOdTFmU0Y1ZGNYUQ?oc=5",
+   "source": "Japan Wire by Kyodo News",
+   "country": "GB",
+   "published": "2026-11-04T06:40:24.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북, 동해 방향으로 다발 발사체 발사: 주일군"
+  },
+  {
+   "id": "cz首度复盘63亿美元惊魂夜当对手变成朝鲜黑客币安如何打赢这场国家级暗战",
+   "title": "CZ 首度复盘 63 亿美元惊魂夜：当对手变成朝鲜黑客，币安如何打赢这场国家级暗战",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55S0tHbWkyZFJ6ZmU4TXFiZlh3VmVvcG5lN016T3h2Qk01czFyM2FEd3MxZ1MzYWZwSGZCMVhicjR5VkJmaXgtZlBaYnF4TVdaenZZOA?oc=5",
+   "source": "Odaily星球日报",
+   "country": "CN",
+   "published": "2026-11-04T06:32:13.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "CZ는 63억 달러 규모의 호러 나이트(Horror Night)를 처음으로 검토합니다. 상대가 북한 해커가 되면 바이낸스는 어떻게 이 국가 차원의 비밀 전쟁에서 승리할까요?"
+  },
+  {
+   "id": "northkoreafiresseveralmissilesintoseaofjapan",
+   "title": "North Korea fires several missiles into Sea of Japan",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd29Ja1VoclZ5VFRUbzQ4bDMtWkJaaG5fMHpvSzh3cUxsdmF5UWRmVmNLRHVfWHR1Ynh1Yy1aUmhKMTBoRVhRRVJWUjB6WFZtZTRsNmJXQktRSDVhcnJRaXI3RjBVd2xUeFdzc3BEeEdxb1Z3bFk5NDhDbW9NakhuelZfd19CX2xTLVZlNEt1Wlk5Z2tRSkQ5bA?oc=5",
+   "source": "アラブニュース",
+   "country": "GB",
+   "published": "2026-11-04T06:28:51.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 동해상으로 미사일 여러발 발사"
+  },
+  {
+   "id": "朝鲜美国持续发出对朝敌对信号",
+   "title": "朝鲜：美国持续发出对朝敌对信号",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13eGRNX1d3Q29sRUtXaU14eTlqbnlHbXV4dWxlbjZibVZ6TUFjemt3Q1RFcFctUXRKRG5RTWtYd1R4ejNmcHYyaGswZFdVNHdwR1lUY3ZteU5aTlgtUTItSGtxQWJ0eGpWMnNtdWRLY1VWYnhJSTJ3dw?oc=5",
+   "source": "新浪财经_金融信息服务商",
+   "country": "CN",
+   "published": "2026-11-04T06:21:29.000Z",
+   "fields": [],
+   "summary": "북한: 미국은 계속해서 북한에 대한 적대 신호를 보내고 있다"
+  },
+  {
+   "id": "northkoreaskimtourshugewarshipordersshipyardupgrades",
+   "title": "North Korea's Kim tours 'huge' warship, orders shipyard upgrades",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdkg1UUQ0Y1YzUVJOenYyeHQ5dDg3Y0NXQmlxQ0xYdVktRG1JZGRWSWJ3WGU2VTZ2SHZDUTVXMjI0cllBY1JBZGJLZGhHMEVIY1N0NTFGU0w1a2ItdEtkZDRTRzY2d3c4ZEJhMlFkTUtYZFBjQV96M1pzazZBbmxJdnpOa01LVHZPWmp2Tk9n?oc=5",
+   "source": "CNA",
+   "country": "GB",
+   "published": "2026-11-04T06:18:46.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한 김 위원장, '거대' 전함 견학, 조선소 업그레이드 지시"
+  },
+  {
+   "id": "northkoreatestsanewwarheadforcruisemissilesaeronautmedia",
+   "title": "North Korea Tests a New Warhead for Cruise Missiles - AERONAUT.media",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbVpjM09CWEJGdVNfeUpXalVzZjQwWUp5RDdQODlWWnB4NGdCc3FvdVN5WlBmVTFrSzM3WVhDcE5xV1dPTC1UaHMteml1VHVNMzgzbVdNNEdSOW1KYUxLTEI2a3JtWnQtZDMwSENHRGxhdjJJN0ZPTzRKVngxTlc0NFptbFBrSjA0QVk5ZEIzR2kwOVY3MlNZaXg4YmI5bG1GSUo4MFMtMUk5YzhnblVYYWltLVpScVo1MmptMTlyQnVaS2h3U19GVU9VS2Q?oc=5",
+   "source": "Root-Nation.com",
+   "country": "GB",
+   "published": "2026-11-04T06:11:24.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 순항미사일용 신형 탄두 시험 - AERONAUT.media"
+  },
+  {
+   "id": "详讯韩军称朝鲜向东部海域发射多枚导弹",
+   "title": "详讯：韩军称朝鲜向东部海域发射多枚导弹",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RTzJ3R0diblRLcFo3SnZtNnFSdF9sc2RYZnBvSXprSGRubWt5SUNBSXVRZTBwR1hwWl9JMVVObTFNRnZ4bjhTcHotSFptS2EyUjhSamQxR2Vkdw?oc=5",
+   "source": "韩联社",
+   "country": "CN",
+   "published": "2026-11-04T06:10:04.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "세부사항: 한국군은 북한이 동해상으로 여러 발의 미사일을 발사했다고 밝혔습니다."
+  },
+  {
+   "id": "透視國際線川普若我在選票上肯定會有壓倒性勝利",
+   "title": "【透視國際線】川普：若我在選票上 肯定會有壓倒性勝利",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uVDFhVW1VMmF5V3hicFplekhIT2J6RVpRRUpoWXkwWVRSRnl6SElnV2RmQ3kxeDBJS3VNTDZHNnBwTGVfS3Y0TGNldG5jX2tPNHJWUmdPWHdPVnp5ekwtZ9IBZkFVX3lxTE1CMjhaSGo0R2FWcnVTaWctcVpoWnpoUF9KaklvTUd5M2ZGRWRfSzV0Y0lmQzZtdm90NmdkaXRtNlJNNEYxMGlBbFkyUzRYc3FWbDdyM0Q2UlJiZmR5TGR6MHd5THdqUQ?oc=5",
+   "source": "新唐人電視台",
+   "country": "CN",
+   "published": "2026-11-04T06:08:16.000Z",
+   "fields": [],
+   "summary": "[국제인사이트] 트럼프 “내가 투표에 나갔다면 분명 압승했을 것”"
+  },
+  {
+   "id": "northkorealaunchesunknownmissileamidhackingallegations",
+   "title": "North Korea Launches Unknown Missile Amid Hacking Allegations",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tdUxoRklaYURZSkk4c1dEbEFVaDdweUJ1TG5yQmtnOFQtQkZ1OHk3RkxIMndBZVBDb1ZNbFRhMTdSMDZWSTI0M1hGTnpnVXZTbko0dFBZRWdQeGw0UXJIUmk3WDgzVEFHNVNxQWVHMlVDZlBsNFNqcQ?oc=5",
+   "source": "Ratopati",
+   "country": "GB",
+   "published": "2026-11-04T06:04:50.000Z",
+   "fields": [
+    "security",
+    "economy"
+   ],
+   "summary": "북한, 해킹 의혹 속에 정체불명의 미사일 발사"
+  },
+  {
+   "id": "金与正再就币安被盗事件发声视为美国敌对政策延伸",
+   "title": "金与正再就币安被盗事件发声，视为美国敌对政策延伸",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84R1pXU2QxVzJVLXlXd2FlRmktanMxWDZscm9vVXRIWjlHbGRHekdpLWlIMDJmMXVPOGpwRmxXMWxlOTFtY0RvUGhvemVLMTFtYjZkNEdoeDlqS3pO?oc=5",
+   "source": "CryptoRank",
+   "country": "CN",
+   "published": "2026-11-04T05:56:44.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김여정은 미국의 적대정책의 연장선으로 평가되는 바이낸스 탈취 사건에 대해 다시 한번 입장을 밝혔다."
+  },
+  {
+   "id": "朝鲜否认参与币安黑客攻击公开质疑美国指控",
+   "title": "朝鲜否认参与币安黑客攻击，公开质疑美国指控",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uSXdISVdtVGNPbjBrRFZRTWpzR2tQV0NaUmItSTgxVG1fbGY0YXhTQzhFbVI2UW1tLTJyNlFzOHZTRC1obDZOR1Fn?oc=5",
+   "source": "区块周刊BlockWeeks",
+   "country": "CN",
+   "published": "2026-11-04T05:54:28.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한, 바이낸스 해킹 연루 부인하고 미국의 비난에 공개적으로 의문 제기"
+  },
+  {
+   "id": "時事金掃描川普收格陵蘭大禮幣安被盜揭朝鮮黑客祕辛",
+   "title": "【時事金掃描】川普收格陵蘭大禮 「幣安」被盜揭朝鮮黑客祕辛",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLby0xSl8wTktIaTZsdnhITkpjZWk4N2R3QVFFdkxvb2hQTVplWUowR1hqQVItX3FCQ0g2NWM4MUVGLW9ZclFtdnliejNxbk11WjlEaDYtQmkxSGpxdVZRONIBZkFVX3lxTE5MZUhuWUdhV3ctU2Q4Rm9lTnlqc2I4enNiN2VGZGZ2T2dwaW1RMV9QVnFDWEdXLVpLbnZqYmctc3RzSmExLUdOVU1vTE5sMWZ0aHZjMEkxeGpSRThVWVAzU29JUldyUQ?oc=5",
+   "source": "新唐人電視台",
+   "country": "CN",
+   "published": "2026-11-04T05:54:14.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "[시사 골드스캔]트럼프, 그린란드로부터 거액 선물 받았다, '바이낸스' 도난 당해 북 해커 비밀 밝혀졌다"
+  },
+  {
+   "id": "northkoreakimjonguncallsforshipyardupgradestobuildpowerfulnavyvideos",
+   "title": "North Korea: Kim Jong Un Calls For Shipyard Upgrades To Build Powerful Navy | Videos",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQelEwUVlIdjZBVEFfQ2ZHeUJabVVrbDJac1c4T2RaOXBvLW5vVWhqQXIwbjdvWTZhSW96d2k2bkt3YW9DWmZ4cHZXWmw1LWxGSjVubGhDY0REUDI4VWtGeFpmOWp2c2J4MENQb0ZURy1DdjZhODhaZ29yU0tneXlzWW1ZVHYzaTRTMWU5SGRlYkpNQ2JXUk1pOURnN0lTcjdpaEttR0lxbC11NFlBYjNIZWFpeThZZzRPNkJURElWZHV3ZWl0MGRsajRmYkRhUdIB0wFBVV95cUxNME5FR0pmVi1FMnFYS3hPT0d1Mk1zLTZtWU9lcnNGVWJkbmFQRHBZT2tfOTNhR2JUWGFLTlJwQzdCeGxnMzR0M1hfc2FqYnRtblpuZjFVa2t5VlQ0TEliUDJKOVF1TFV5UWhxb1dEdEt1UVZSMUFFbGNId3FkS00wSGkxbC0td0tMQTJBUWVRYUhFekNhSmJVcEZwSUpJaXdaQWw4N3BSV2RLQkRhcTVUM2FxbVVuTE9mRUQxVVRyY19jOFo5MXdzTzRwdlNITnNlaV9V?oc=5",
+   "source": "Hindustan Times",
+   "country": "GB",
+   "published": "2026-11-04T05:35:30.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "북한: 김정은, 강력한 해군 건설을 위해 조선소 업그레이드 촉구 | 비디오"
+  },
+  {
+   "id": "кимченыноценилстроительствоновогобоевогокораблякндр",
+   "title": "Ким Чен Ын оценил строительство нового боевого корабля КНДР",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUlfbEVOY0JPMEs5dWZva2UxVFRqb0VpcTFWNXJsUVB5empBQ2IyTXlrUGlYZ1l3QklIZHB3S0JQTHk0QmVIbkZSWWFQbVpwckRTSVotUlI5bWVPTUZhYmdSMkJYM1hicVhzRmsxX21uU1ZiR1FOZjdZTEljaFlLOWVUSldlNlNLbUdrWng3LUctY1lq?oc=5",
+   "source": "Бакинский рабочий",
+   "country": "RU",
+   "published": "2026-11-04T05:30:09.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 위원장, 북한의 새로운 군함 건조를 칭찬"
+  },
+  {
+   "id": "朝鲜各地狂晒烤肉餐厅热潮民众盛装享用专家曝大内宣真相",
+   "title": "朝鲜各地狂晒“烤肉餐厅”热潮 民众盛装享用 专家曝大内宣真相",
+   "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNclRPQllLTzZydFlsQTlJbFFvQURURlhoUFR1N3l4Z09IQzB1V0Y3aTNOQ0psZXBmQ2VOZzROMGV2WnBic2t1UnJLanhZTG9iLU1WWF9GTXZRWjVQamVuNEo5RGNZc19pRy0zdldMV00wYU1ZVVpIUE4ydk5FbnlhM3lwQWhVX0RDQnd6VHlTYWwydTFEUUN1QkQ4Y3JtU29udTVaMmhUTWZHeDJHZFBpbFVBYWd3SnV1X2NlZ1lCZXBXcW8yTXBPbjl5RE50akFYVU1GWDZVZ1NKUXBQNW1LTV9QbHBCUWhubjRYTXQwZmlKaU5lYjdqOER3YVViM1R1SUNJUkhLcGZYbnBaQVhtd3h4eWNHN2dUOUFnWXJRMW5rNGdURVdHSzNQbnZiR0djU2VfYjBZSm5uYlNucHA5XzFNS3JFa1lLOTUzTVFYcXgwWTByWGxtbzBnMTVRSUdhSnpVV3VMSHM5aDlPVlBUMHBpOUw1dWZENG9WZTJJVFJEWmFVa3plRXRnZGNkaTFCZEk5bTFmOFNzWUZnNmxDNDlxXzhlMW4xbjlLTGlNNmdzR2FrN3pv?oc=5",
+   "source": "香港01",
+   "country": "CN",
+   "published": "2026-11-04T05:29:00.000Z",
+   "fields": [],
+   "summary": "북한이 전국 곳곳에서 '바비큐 식당' 열풍을 과시하고 있다. 사람들은 그것을 즐기기 위해 옷을 입습니다. 전문가들이 내부 선전의 진실을 밝힙니다."
+  },
+  {
+   "id": "вкндрстроятвоенныйкорабльфото",
+   "title": "В КНДР строят военный корабль - ФОТО",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54T2pSWGdiNy1QNWhEQ2FmRml0WE5fV1FEQzl2dmhJamM4SFdEdHpJOEFmUnpNb2J2VUNxQnZydGUtY2NKaW1fZElYbjhIdFl3VWR6VF94VHg0bWh4MUNyU3JMYw?oc=5",
+   "source": "Caliber.Az",
+   "country": "RU",
+   "published": "2026-11-04T05:28:49.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 군함 건조 중 - 사진"
+  },
+  {
+   "id": "кндрзапустиланеопознаннуюракету",
+   "title": "КНДР запустила неопознанную ракету",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2RDd4ZmtYNEJWS2dtenZVZjdlTEVIWVUtVllUa0tEbUdFQ2FoUGFFaEV1RDlPcnNrWE5yZDBpNkhKMlQzbmFNUEpCQ25xLW9keGpKQTFQSUVaSEtLc3RKUXR2RUQwcklucTRB?oc=5",
+   "source": "Caliber.Az",
+   "country": "RU",
+   "published": "2026-11-04T05:16:47.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 정체불명의 미사일을 발사했다."
+  },
+  {
+   "id": "nkoreafiresmultiplemissilesdeniesusclaimsonbinancehack",
+   "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXpDX29iOWZfM0JZd3hobEU3SVFHamNBUlZoUGkxS3dLZzRhbE9yTjRCMFFRSklaZlNPdlZfdUd2a0pUY1FtcEEwenJqN05ZelFuNHVRTE1SZm92TkdzZWtONjVZdmFTaTNrczYxRUdGc2xleWhIY1NESVFKS0E0RHBYQ3VZcTB2azJMU2dtazZJY0M2WEc0N1RPX2VZdTJmLWk4OHgtajbSAa4BQVVfeXFMTnJkR0RtM2s0VzB3Wi1NZ3RqNWJHRVZuVnVmbnotZVdhczRjZ3VZRWY1YjdlRVhyTU9LbUF2Q3ZfOE5OWmozMXhXR21EMElQRmtsQWhxbjNUUU11QTFoVUU1NUM4TWloVEhrcUFVVXZod016QVl2a1VteGs1MWh4QzFuMTVrNlJUUDY2U29QNkM3aE81WkVaR2xuNkNMTHZ2S2YwbExvM3k0T2lCQktB?oc=5",
+   "source": "Al Jazeera",
+   "country": "GB",
+   "published": "2026-11-04T05:15:57.000Z",
+   "fields": [
+    "security",
+    "economy"
+   ],
+   "summary": "북한, 여러 발의 미사일 발사, 바이낸스 해킹에 대한 미국의 주장 부인"
+  },
+  {
+   "id": "whynorthkoreaskimseesnoneedforanotherphotoopsummitwithtrump",
+   "title": "Why North Korea’s Kim sees no need for another ‘photo-op summit’ with Trump",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVWlKX250T1BrQXEyQ2xySlk0TWVXUUswTF91TFBqQ3luTS0wSFZSZUFER21BNTZsOW4zZTV4MHdMaDJWVmZ4VzVOY05hTmxMYnBXaGNlenNZYUFyaUx5ZEZzTTdhMjRpNm8xWERjOFQ4b2s2S3lkNVlEdFF1U09fclo0N3h0NU0tbURXQjBSLXZnZ2MydHhodFlXcWFSd1FQeXBJQnVVc0VaenlacS1DV0N5bUxITmYyMm9n0gG7AUFVX3lxTE9BX3NWSVAyY0lodjVNSE5HbVVBOUFxR1AyVzh5NFByclJWdzRRZlJnQ29wT1l4R1JXbTNVNExjb2FIOTdON3hERTFWUy1QREdjRWhqeXBOQkpMM0hUMExIVmhwUmhlbWpZbzIyb2JuUldCU25wakFQTDd3aTV1UndWVXQ3TXhlWkVBX0NWNlRxbXpWcldKUVBVcmM3XzlYZl9ueE9NLUUzV3BHSWQ4ekd0MWpxVWZkV1FPc2M?oc=5",
+   "source": "South China Morning Post",
+   "country": "GB",
+   "published": "2026-11-04T05:14:56.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "북한 김 위원장이 트럼프와 또 다른 '사진 회담'을 할 필요가 없다고 생각하는 이유"
+  },
+  {
+   "id": "northkorealaunchesmultiplemissilestowardswatersoffeastcoastsouthkoreasays",
+   "title": "North Korea launches multiple missiles towards waters off east coast, South Korea says",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2hHRVozck8wdUxMMUN0QWIzT0k4b1IxQllfT2dPcUJnbHBBSkotcGRHOS1mcmdVaVhLdHdNWjB3blYtekctQzh5dFVWX3NiTElfbmV2aXZmUktjTVBPY1luQTYtT2U1aHBzMXFMTkJpR2hnSDFabnI4dl9vZ0FmeDh0YTdZVk1TV3NWR2MzeV9uVlFNWGRPT0ljSXBJcFp3b1E?oc=5",
+   "source": "The Independent",
+   "country": "GB",
+   "published": "2026-11-04T05:14:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한이 동해상으로 여러 발의 미사일을 발사했다고 한국 정부가 밝혔습니다."
+  },
+  {
+   "id": "金正恩称要强化海军遏制外部威胁",
+   "title": "金正恩称要强化海军遏制外部威胁",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81SFlNNWJMVjR0Y2JlQUMxemlrd05OUjBVeFZsb050Sm5lOW9VT0E5bUJ2b3dVbmNobUI2TWRxdDg3d3ZQaXduZ0tKaFNFRllzSEI1TnlSQXRvVmlvVVNMZW1NLUpQdW9wOXhTa1BMUmg?oc=5",
+   "source": "中华军事",
+   "country": "CN",
+   "published": "2026-11-04T05:13:07.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은 \"해군 강화해 외부 위협 막아내겠다\""
+  },
+  {
+   "id": "northkoreafiresmissileshoursafterrejectingusaccusationsoverbinancehack",
+   "title": "North Korea fires missiles hours after rejecting US accusations over Binance hack",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSllMRGlCcTdQczV0QUE1b2FDS2ZJV0VMdGJOQ0RxQ182OHZ6QkxSLVZ5cGpsRjl0c19QY2trUG4yMjlhNnh4eHVhUnRQWkxHQUhreVdNOXY2VFR5NzBja3ZMX0EyRTJkQlBfUjE0d3lKRG9DSkdMWW5QclQ5TUlDQmZlRWFmSDlUV21tanRGRUJZZHVZOVVsUGgwWlBLc1BiV1RRZE8wMzVlM21WYlg5eTVfQktzb3ZYTzNObFFGQ21FazhJVFJ4SlZXam1oX2N2YndRVll3ZWRfQW5KMzZIc3hualFUOFJTNmFPYmF5ajhoRl9aS3fSAfsBQVVfeXFMTVNnQXBWbUcwcGVyNXJqRHhJVENNRnFWODgxRDQxZmF2YkVDWXN6Tkx3eVhibzRYN0o3clNkbUYzS1pTbEJ1ZVkza0lPcV9KOFlIRE5RZ0VvejhhRHU3cUlxWktueW9fQ3JFN1gwa2VIcDQ2UGwtNUhPS0RXZzMyV2hXRTlIQl9BdktfdDAyX2FXUksxaUxaSDZVMzRkMnFTVmtyVS1XNVlIbHdKNFBNM2duM01TVjl1c3g2aWlTVzl0UDlCaWlIdnBEamxBMW9sbVVFRmpXSFVfM1J4X3dsa25QM2N5VHk5WnB6RTR6ektmODZKTE5vZUFJT3M?oc=5",
+   "source": "The Times of India",
+   "country": "GB",
+   "published": "2026-11-04T05:01:00.000Z",
+   "fields": [
+    "security",
+    "economy"
+   ],
+   "summary": "북한, 바이낸스 해킹에 대한 미국의 비난을 거부한 지 몇 시간 만에 미사일 발사"
+  },
+  {
+   "id": "northkoreafiresseveralmissilestowardsseaofjapanseoulsays",
+   "title": "North Korea fires several missiles towards Sea of Japan, Seoul says",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMS16a0dFSVJtQ1JZLTZwRW5JZk1PQ0dOWWRoT2QzSEpjOFhnVE1VT282ZGpXN201bVVMUGZRV3JDTlhXRHM2enBPdXUzLWEyMDBCU0haaklvRWVORGpwTjA4ckxxbmZDY2IzMUVpbjVQVWJiRHBjckdSMEpvOXAwRUhBVTNmSGp2SGV2a1JrbUgwOVI1MHc?oc=5",
+   "source": "Yahoo",
+   "country": "GB",
+   "published": "2026-11-04T04:48:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 동해 방향으로 여러 발의 미사일 발사했다고 정부 발표"
+  },
+  {
+   "id": "northkoreasaysithasnoneedtositfacetofacewithus",
+   "title": "North Korea says it has ‘no need to sit face to face with’ US",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rOUVrQlpJbHpqNE1xWlFVUEFaYlIwbnkzdDFYdkE4ZXJsX1Z5OFBVRlBOSGhMMXk0SmpNLXRQQUtCRHlPWS02ZDhDelFNQ0RQMXRNRElCbEp1TGxTc0hJNXRlMmhCTUNndzhLdzI1Rk9UeVh3VWJOQ0treG9FUQ?oc=5",
+   "source": "Hankyoreh : English Edition",
+   "country": "GB",
+   "published": "2026-11-04T04:44:00.000Z",
+   "fields": [],
+   "summary": "북한 \"미국과 마주 앉을 필요 없다\""
+  },
+  {
+   "id": "northkoreapourscoldwateronkimtrumpmeetingasapecsummitlooms",
+   "title": "North Korea pours cold water on Kim-Trump meeting as APEC summit looms",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN0d1eUczVGZ1NUVIR3FoQ25ObzZLdU1MNl9EckJuaW1nSWVyUC1UbHNzWWl5ZVZ2Mk9vZVZzMlVaSmFFQzNDN0lSaHhLeXRzR0UyQjhza0IxX2RWeXM2bko4ZGozZjB3WkwwZEkzWHdnOGR6dmhNbm45ejlvUlB2bnBLWW41blNjQlc3UE9zUnBtdw?oc=5",
+   "source": "The Japan Times",
+   "country": "GB",
+   "published": "2026-11-04T04:43:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "APEC 정상회담이 다가오자 북한은 김-트럼프 회담에 찬물을 끼얹었다."
+  },
+  {
+   "id": "朝鲜向东部海域发射数枚导弹",
+   "title": "朝鲜向东部海域发射数枚导弹",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WS2ZPZ29uMVpXR015U3VsYy1EVGl3QjFvelpUaDlJelc4c3UwTHJ2V2kwTmdsVVh3WEp0djBVZHB0Tjd1QjZlOGwzZElyaXZjUm5sX3N4WEg3QVdI?oc=5",
+   "source": "뉴스핌",
+   "country": "CN",
+   "published": "2026-11-04T04:37:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 동해상으로 미사일 여러발 발사"
+  },
+  {
+   "id": "朝鲜在美中期选举期间发射飞行器评论员称意在传递对美信号",
+   "title": "朝鲜在美中期选举期间发射飞行器，评论员称意在传递对美信号",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wM05jNTRVaTBzUzByZkZ6di1BU3VWTUc0VHktN0tLbGlzbFFiQ3NZNllCanBSc29FYmVhczRzNGxzc3J5MDkyOVpSUnEzTHlQcmc?oc=5",
+   "source": "凤凰网",
+   "country": "CN",
+   "published": "2026-11-04T04:32:23.000Z",
+   "fields": [],
+   "summary": "북한이 미국 중간선거 기간 중 미국에 신호를 보내려는 의도로 항공기를 발사했다고 논평자들은 전했다."
+  },
+  {
    "id": "лидеркндркимченынпризвалбыстроукрепитьфлотanadoluagency",
    "title": "Лидер КНДР Ким Чен Ын призвал быстро укрепить флот — Anadolu Agency",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVWRrY3J1al9LR0ZueERLRVBMd19Lc0xjdmk3bHljRGhmSGRpUVVGZnV3c3BRbTNsRnF6Wk83UjBhb0RnSkpLQ3JIY05PY0d1M1BUTTRXaW1iTkxYcmZOaVBRUEZrWVhrUEg5blV0QUd6MVNmRGo2SGJtaFNPWXJVcGdsc1VfcENNWlNLWkJmcUFIZDVPeWdzSXlRUXVnaFBhbHRqVA?oc=5",
@@ -49,6 +536,18 @@
     "security"
    ],
    "summary": "북한 지도자, 미국의 '적대'에 대해 북한이 더 강력한 대응을 경고함에 따라 '빠른' 해군력 증강 촉구"
+  },
+  {
+   "id": "northkorealaunchesmissilestowardeastsea",
+   "title": "North Korea Launches Missiles Toward East Sea",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTENkMUJZZHlOUXpLc1VZVHZ1SW1lZWFoSzhRQUltOXNkVXE3T2VFTF9YV0JJQUxPaWJXaUZiSUoyRHhqaHEtLXFKSXZ2OFFuNVFVNUhLd1RDVkR1VC1QU0dTUlBYVENNdlFkMTNLUXo0ZE1OeElfQnJmLU9lZ3FxbW9ValRpa1FO?oc=5",
+   "source": "조선일보",
+   "country": "GB",
+   "published": "2026-11-04T04:08:46.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 동해상으로 미사일 발사"
   },
   {
    "id": "northkorearejectsbinancehackaccusationwarnsagainstustalks",
@@ -112,6 +611,29 @@
    "summary": "북한, 나흘 만에 두 번째 탄도미사일 발사 의혹"
   },
   {
+   "id": "朝鲜批美国持续发出对朝敌对信号",
+   "title": "朝鲜批美国持续发出对朝敌对信号",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSVN1Mlh1SzNKdEhkYkQ3R3ZPdlFzVkwzOWlEckhueVdZQUJMTFNFLXBwSlVyWDdBU2UtS0huVjB0QXZBcFcwem5yNHZMa1VPVHpTM2NOVXllWjYxR2xha1JnOFVfaXhDQkRaUnlDSUQ0TEU3U3VxU3N0OWwwWEN6eEhaV3BIRVh6UVh3?oc=5",
+   "source": "中国评论",
+   "country": "CN",
+   "published": "2026-11-04T03:41:08.000Z",
+   "fields": [],
+   "summary": "북한이 미국이 대북 적대시 신호를 계속 보내고 있다고 비난했다."
+  },
+  {
+   "id": "金正恩要朝鲜建造最先进军舰国际",
+   "title": "金正恩要朝鲜建造“最先进”军舰 | 国际",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XR1FjZ0JoU2w2QUo4cGdybTlNSFVCQnRBbTM5SGZnbWFXZG14SEgzUnZ1LWFUVnJVLWc4TmNFWE1LeE1YMVZodk9sSVRIeS1QaTVHSUdSY2RBSE04OHN6b3JxMksySW9wMkVUM2NWeTk0NGZOdmVHMg?oc=5",
+   "source": "马来西亚东方日报",
+   "country": "CN",
+   "published": "2026-11-04T03:39:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 북한이 \"가장 진보된\" 군함 건조를 원해 | 국제적인"
+  },
+  {
    "id": "虚假招聘钓鱼币安披露朝鲜关联攻击全链条",
    "title": "虚假招聘钓鱼？币安披露朝鲜关联攻击全链条",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zZWF0RDJyUGhTSUQzVVplSTYzQVFxajBUdHFESGh5cHF2Xzl0WE5kalI3SkthOWZ3bl9aNUVLeE1FQnVNdmd2Mm9RdzV0d2ZQcWJqVw?oc=5",
@@ -130,6 +652,18 @@
    "published": "2026-11-04T03:25:00.000Z",
    "fields": [],
    "summary": "“완전히 합법적이고 정당하다”: 자카로바는 북한의 안보 조치를 지지했다"
+  },
+  {
+   "id": "northkoreafiresballisticmissileusmidtermselectionsareunderwayinshorts",
+   "title": "North Korea fires ballistic missile | US midterms elections are underway | Inshorts",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkZmQklpOFByMExZYmhoNDFneFI3RzlIcnN1Nk1Fd0tfV1ljeUtWdDBHX2h0N0txOVBqV3k4UWhfWHp5c0U3NE1lVmt6d2tNdk5XTmYtVmdBSUIxbmprUUJIN2QyZHZYVEVXUjFCMHpOeDI1RmNzTXVBMldBTVNFUlI5NkbSAYoBQVVfeXFMTkI4dEY2djZkRW16S3hzdElyODRDZExhVmlIYktnWGNtSklWek82SHdfbjNFaklBb0F1VmlkNWtIZHVlNWtvbnZCTnRodHZoX1ZsRzVNb0JrU0lac3E0dDVtbGNTelh0aWhkMWk4elZwYlAtSWxZck9kNms2S2VmQjFLTk9ka3NLZEV3?oc=5",
+   "source": "Inshorts",
+   "country": "GB",
+   "published": "2026-11-04T03:21:15.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 탄도미사일 발사 | 미국 중간선거가 진행 중입니다 | 반바지"
   },
   {
    "id": "据新华社援引朝中社4日报道朝鲜劳动党中央委员会部长金与正当天发表谈话称美国持续发出对朝敌对信号促使朝鲜从多方面重新考虑美国这一实体金与正说所谓朝鲜所为加密货币黑",
@@ -153,6 +687,18 @@
    "published": "2026-11-04T03:19:56.000Z",
    "fields": [],
    "summary": "연합뉴스: 북한이 동해 방향으로 미확인 발사체를 발사했다."
+  },
+  {
+   "id": "kimjonguncallsforrapidnorthkoreanavalbuildupatnamphoshipyard",
+   "title": "Kim Jong-un calls for rapid North Korea naval buildup at Nampho shipyard",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVEdMdGpUM1JzeEU0d2xVUkhDWVhBdmVfZlVxc0o1ZWV6dmNlM3ZZaEZyVzRNUFlZM2dNYk5pNjFydy05MFVaMXBFX2FfRjA4a0dKUVE3a0g2ZWxtU2cwVGNSU3M0NktvSFpnamtybHRSU0FsOWpLM3N6YzZsZ3lIR2VXVmh2cE5lSEt2YWZ5UXRoMlBadzBRWHdaZV84RGl0aFRiVE9Zd0VWYk1BZVp4YUd3OV9TSkRmQWhsS3FB?oc=5",
+   "source": "Korea JoongAng Daily",
+   "country": "GB",
+   "published": "2026-11-04T03:05:20.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은, 남포조선소 해군력 증강 촉구"
   },
   {
    "id": "朝鲜从宣德一带向东海发射数枚导弹阿视亚经济",
@@ -270,6 +816,31 @@
    "published": "2026-11-04T02:45:00.000Z",
    "fields": [],
    "summary": "북한은 미국과의 대화 재개에 대한 의지가 거의 없음을 나타냄"
+  },
+  {
+   "id": "김여정미국에반사적대응마땅대화와국익동일시아냐",
+   "title": "김여정 \"미국에 반사적 대응 마땅...대화와 국익 동일시 아냐\"",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tYWVyRElpS2tjeWFqLU8zQ2tGd3ExbTYzbERkczVnbVVwSTR1TEhILVlZYlhlcF94c2xSSXM5bGM0MENyY1k3bnBfZXBLR3NjelFzSHhLWDdGbjkydHc?oc=5",
+   "source": "YTN",
+   "country": "KR",
+   "via": "broadcast",
+   "published": "2026-11-04T02:45:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김여정 \"미국에 반사적 대응 마땅...대화와 국익 동일시 아냐\""
+  },
+  {
+   "id": "seniorofficialsofsouthkoreaswitzerlanddiscussnorthsituationfollowingswissforeign",
+   "title": "Senior officials of South Korea, Switzerland discuss North situation following Swiss foreign minister's Pyongyang trip",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNkk3TThHa2NqeVRSYnN0QmxESnpxV0xvM2xaMHFvcU93NENXdkNNR0FHNGJWRlRsdXdjYUZ1VHNCT0ExdWt5am9qWDdNTFd4ejNKY2lXUmQtQkFjZDdCSXY3R1MyckRsUmcyYWdscTlQS1R5dm40QVFFVnYyblhVeWwzcjh5ZTFKVURmRTFONXF5ODRTeGYyRlFsS2tHWDQyZkFCNkc3M0w2UTZVbzdKR2JEcGl3MTRPWWtwS3FNWHY3SURtNnJYRWtkRmxKdktwLWhFekJvdGlsT1laeG8yQWVpVTlOMmtkRUNTaGNmTkxzVnlrbTZlVG53?oc=5",
+   "source": "Korea JoongAng Daily",
+   "country": "GB",
+   "published": "2026-11-04T02:42:56.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "한-스위스 고위관리, 스위스 외무장관 평양 방문 후 북한 상황 논의"
   },
   {
    "id": "fbi指朝鲜黑客盗币安63亿美元朝鲜否认",
