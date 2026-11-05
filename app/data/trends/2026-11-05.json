@@ -8,7 +8,8 @@
    "source": "prospect.com.ru",
    "country": "RU",
    "published": "2026-11-05T13:53:08.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "한국이 해적방지구역을 호르무즈해협으로 더 가깝게 옮길 예정이다."
   },
   {
    "id": "朝鲜连射多枚导弹金正恩巨型军舰曝光",
@@ -20,7 +21,8 @@
    "fields": [
     "politics",
     "security"
-   ]
+   ],
+   "summary": "북한, 미사일 여러 발 발사, 김정은 거대 군함 노출"
   },
   {
    "id": "김종석의리포트北강철비미군활주로때린다",
@@ -51,7 +53,19 @@
    "source": "Lenta News",
    "country": "RU",
    "published": "2026-11-05T10:20:31.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "한국은 자하로바의 발언에 응했다."
+  },
+  {
+   "id": "한지인류무형유산눈앞태권도는북한단독등재유력",
+   "title": "한지, 인류무형유산 눈앞...태권도는 북한 단독 등재 유력",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBid19WTGZ6bk9uMVFwd3E2czUwWHRSOVluWjRpZEJod3VsV3p6cVRoT0tFVXhfZ3ItUXVIZEFaR0hfQkFRVVI2YktmSVBUYTE2UUduRlJNNWJaVTdkWFE?oc=5",
+   "source": "YTN",
+   "country": "KR",
+   "via": "broadcast",
+   "published": "2026-11-05T10:20:00.000Z",
+   "fields": [],
+   "summary": "한지, 인류무형유산 눈앞...태권도는 북한 단독 등재 유력"
   },
   {
    "id": "northkoreatestsnewairdefensesystemfiresmissilesintoeastsea",
@@ -62,7 +76,8 @@
    "published": "2026-11-05T10:15:00.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "북한, 신형 방공체계 시험하고 동해상으로 미사일 발사"
   },
   {
    "id": "севернаякореяпровелаиспытательныйзапускновойзенитнойракетнойсистемы",
@@ -73,7 +88,8 @@
    "published": "2026-11-05T10:13:58.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "북한, 신형 대공미사일 시스템 시험발사"
   },
   {
    "id": "从一场假面试开始朝鲜黑客正在升级攻击剧本",
@@ -84,7 +100,8 @@
    "published": "2026-11-05T10:13:35.000Z",
    "fields": [
     "economy"
-   ]
+   ],
+   "summary": "가짜 인터뷰를 시작으로 북한 해커들이 공격 플레이북을 업그레이드하고 있다."
   },
   {
    "id": "withpenandinkagraphicnovelistgetstoknowadictator",
@@ -93,7 +110,8 @@
    "source": "The New York Times",
    "country": "GB",
    "published": "2026-11-05T10:00:34.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "펜과 잉크를 통해 만화 소설가는 독재자를 알게 된다"
   },
   {
    "id": "pyongyangtrialsnewairdefensesystemandcruisemissilestrikecapability",
@@ -104,7 +122,8 @@
    "published": "2026-11-05T09:51:00.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "북한, 새로운 방공 시스템과 순항 미사일 공격 능력 시험"
   },
   {
    "id": "southkoreatestsarcticshippingrouteamidrussiawestrow",
@@ -113,7 +132,8 @@
    "source": "DW.com",
    "country": "GB",
    "published": "2026-11-05T09:46:10.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "한국, 러시아-서쪽 분쟁 속에서 북극 항로 시험"
   },
   {
    "id": "southkoreastallsadditionalsanctionsonnorthkoreascyberactivities",
@@ -124,7 +144,8 @@
    "published": "2026-11-05T09:42:57.000Z",
    "fields": [
     "economy"
-   ]
+   ],
+   "summary": "한국, 북한의 사이버 활동에 대한 추가 제재 중단"
   },
   {
    "id": "brazilsfirstambassadortonorthkoreainadecadetakesuppostinpyongyang",
@@ -133,7 +154,8 @@
    "source": "NK News",
    "country": "GB",
    "published": "2026-11-05T09:41:04.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "10년 만에 처음으로 북한 주재 브라질 대사가 평양에 부임했다."
   },
   {
    "id": "northkorealikelytosecureunescolistingfortaekwondo",
@@ -142,7 +164,8 @@
    "source": "NHKニュース",
    "country": "GB",
    "published": "2026-11-05T09:27:24.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "북한, 태권도 유네스코 등재 가능성 높아"
   },
   {
    "id": "imageofnkoreanmilitaryaimingartilleryatcoffeeshopisaigenerated",
@@ -153,7 +176,8 @@
    "published": "2026-11-05T09:17:18.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "커피숍에서 대포 조준하는 북한군 이미지는 AI로 제작됐다"
   },
   {
    "id": "northkoreatestsnewairdefensesystemstrategiccruisemissile",
@@ -164,7 +188,8 @@
    "published": "2026-11-05T09:13:01.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "북한, 신형 방공체계·전략순항미사일 시험발사"
   },
   {
    "id": "chineseforeignministercallsforcontinuousgrowthintieswithnorthkorea",
@@ -175,7 +200,8 @@
    "published": "2026-11-05T09:12:54.000Z",
    "fields": [
     "politics"
-   ]
+   ],
+   "summary": "중국 외교부장, 북한과의 '지속적인 발전' 촉구"
   },
   {
    "id": "китайзаявилоготовностиуглублятьсвязискндрsouthchinamorningpost",
@@ -184,7 +210,8 @@
    "source": "UA.NEWS",
    "country": "RU",
    "published": "2026-11-05T09:09:06.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "중국이 북한과의 관계를 심화할 준비가 되어 있다고 밝혔습니다. - 사우스차이나모닝포스트"
   },
   {
    "id": "northkoreatestsnewlydesignedairdefencemissilesystem",
@@ -195,7 +222,8 @@
    "published": "2026-11-05T09:08:04.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "북한, '새롭게 설계된' 대공미사일 시스템 시험발사"
   },
   {
    "id": "chineseandnorthkoreanofficialsstepupdiplomaticdriveinwakeofkimvisit",
@@ -206,7 +234,8 @@
    "published": "2026-11-05T09:01:01.000Z",
    "fields": [
     "politics"
-   ]
+   ],
+   "summary": "중국과 북한 관리들은 김 위원장의 방문을 계기로 외교적 드라이브를 강화하고 있습니다."
   },
   {
    "id": "northkoreatestsnewairdefencesystemandlongrangecruisemissile",
@@ -217,7 +246,8 @@
    "published": "2026-11-05T08:50:00.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "북한, 신형 방공체계와 장거리 순항미사일 시험발사"
   },
   {
    "id": "вкндриспыталиновыйкомплекспво",
@@ -226,7 +256,8 @@
    "source": "Большая Азия",
    "country": "RU",
    "published": "2026-11-05T08:43:19.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "북한이 새로운 대공방어 시스템을 시험했다."
   },
   {
    "id": "chinaandnorthkoreastrengthentheirpoliticalandstrategicallianceinbeijing",
@@ -237,7 +268,8 @@
    "published": "2026-11-05T08:42:33.000Z",
    "fields": [
     "politics"
-   ]
+   ],
+   "summary": "중국과 북한이 베이징에서 정치·전략적 동맹을 강화한다."
   },
   {
    "id": "粮价飙升还债遥遥无期秋季分配临近农场员们叹息",
@@ -246,7 +278,8 @@
    "source": "데일리NK",
    "country": "CN",
    "published": "2026-11-05T08:41:50.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "곡물값은 치솟고, 빚상환은 멀고, 가을 배급이 다가오자 농장 일꾼들은 '한숨'을 쉰다."
   },
   {
    "id": "northkoreafiresmissilesinresponsetoalliedairdrills",
@@ -257,7 +290,8 @@
    "published": "2026-11-05T08:38:55.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "북한, 연합군 공중훈련에 대응해 미사일 발사"
   },
   {
    "id": "unescobodybacksnorthkoreantaekwondolistingwithoutsouthsinvolvement",
@@ -266,7 +300,8 @@
    "source": "NK News",
    "country": "GB",
    "published": "2026-11-05T08:30:55.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "유네스코, 한국 개입 없이 북한 태권도 등재 지지"
   },
   {
    "id": "southkoreadelaysbinancehacksanctionstalksagainstnorthkorea",
@@ -278,7 +313,8 @@
    "fields": [
     "politics",
     "economy"
-   ]
+   ],
+   "summary": "한국, 북한에 대한 바이낸스 해킹 제재 협상 연기"
   },
   {
    "id": "chinastopdiplomatmeetsvisitingnkpartysecretary",
@@ -289,7 +325,8 @@
    "published": "2026-11-05T08:14:02.000Z",
    "fields": [
     "politics"
-   ]
+   ],
+   "summary": "중국 고위 외교관, 북한 당 서기와 회담"
   },
   {
    "id": "northkoreahasconductedatestofthelatestairdefensesystem",
@@ -298,7 +335,8 @@
    "source": "ИА Ореанда-Новости",
    "country": "GB",
    "published": "2026-11-05T08:10:18.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "북한이 최신 방공체계 시험을 실시했다."
   },
   {
    "id": "王毅会见朝鲜劳动党代表团中方愿同朝方加强治党治国经验做法交流互鉴",
@@ -309,7 +347,8 @@
    "published": "2026-11-05T08:08:19.000Z",
    "fields": [
     "politics"
-   ]
+   ],
+   "summary": "왕이 위원장, 조선로동당 대표단 회견"
   },
   {
    "id": "northkoreatestsnewmissilesystemamidrisingtensions",
@@ -332,7 +371,8 @@
    "published": "2026-11-05T07:54:07.000Z",
    "fields": [
     "politics"
-   ]
+   ],
+   "summary": "벨로루시 대표단, 조선민주주의인민공화국과의 친선협력조약을 비준"
   },
   {
    "id": "кндрпровелаиспытанияновогокомплексапвоиучениястратегическихракетныхподразделений",
@@ -343,7 +383,8 @@
    "published": "2026-11-05T07:54:00.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "북한, 신형 방공체계 시험과 전략미사일부대 훈련"
   },
   {
    "id": "кндротвергларезолюциюеспоправамчеловека",
@@ -505,7 +546,8 @@
    "published": "2026-11-05T06:54:06.000Z",
    "fields": [
     "politics"
-   ]
+   ],
+   "summary": "한국, 유엔 북한인권결의안 공동제안 결정 - 코리아헤럴드"
   },
   {
    "id": "seoulcosponsorsunresolutiononhumanrightsinnorthkorea",
@@ -635,7 +677,8 @@
    "fields": [
     "security",
     "education"
-   ]
+   ],
+   "summary": "북한 미사일 쏘는데 우리 군은 워킹 교육…\"제정신이냐\" [지금이뉴스]"
   },
   {
    "id": "记录校园里美好瞬间",
@@ -1093,7 +1136,8 @@
    "published": "2026-11-05T03:37:44.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "북한이 새로운 방공체계를 시험하고 동해상으로 여러 발의 미사일을 발사했다."
   },
   {
    "id": "fbiblamesnorthkoreaforbinanceheist",
@@ -1122,7 +1166,8 @@
    "source": "白俄罗斯新闻",
    "country": "CN",
    "published": "2026-11-05T03:18:00.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "벨라루스 국회의원, 북한과의 우호협력조약 비준"
   },
   {
    "id": "北朝鮮新型対空ミサイル発射実験と長距離巡航ミサイルの発射訓練を明らかに4日の日本海への発射か",
@@ -1653,7 +1698,8 @@
    "published": "2026-11-05T01:36:29.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "북한, 신형 대공미사일 시험발사 현장 영상"
   },
   {
    "id": "northkoreatestsnewairdefencemissilesystemstatemedia",
