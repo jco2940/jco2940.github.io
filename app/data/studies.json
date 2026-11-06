@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "items": [
   {
    "id": "doi:10.12987/9780300291841-013",
@@ -50,6 +50,7 @@
    "topics": [
     "diaspora",
     "economy",
+    "education",
     "health",
     "politics"
    ],
@@ -146,6 +147,27 @@
    "titleKo": "탈북여성의 PTSD와 DSO 증상과 신체증상을 연결하는 심리사회적 경로"
   },
   {
+   "id": "doi:10.1016/s0140-6736(26)01482-0",
+   "title": "North Korea's health revolution in its 2026 medical journals",
+   "authors": [
+    "Yo Han Lee",
+    "Hyun Kyoo Choi",
+    "Young-Hoon Kim",
+    "Sin Gon Kim"
+   ],
+   "date": "2026-11-01",
+   "venue": "The Lancet",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "health"
+   ],
+   "url": "https://doi.org/10.1016/s0140-6736(26)01482-0",
+   "source": "openalex",
+   "added": "2026-11-06",
+   "titleKo": "2026년 의학저널에 실린 북한의 건강혁명"
+  },
+  {
    "id": "doi:10.64725/kjft.2026.12.2.51",
    "title": "A Case Study of a Middle-Aged Female North Korean Defector on Safely Expressing Inner Experience: Centered on the “Protect the Flock of Sheep” Problem-Solving Doll Therapy Program",
    "authors": [
@@ -202,6 +224,24 @@
    "source": "openalex",
    "added": "2026-11-04",
    "titleKo": "북한이주민의 남한 자녀 연구를 위해: 분석범주로서의 ‘2세대’"
+  },
+  {
+   "id": "doi:10.36527/kcsss.24.4.2",
+   "title": "Turning Points in North Korea-China Economic Cooperation and Future Directions -Focusing on 2018∼2019 and 2025∼2026-",
+   "authors": [
+    "Hyun Joo Oh"
+   ],
+   "date": "2026-10-31",
+   "venue": "Korean-Chinese Social Science Studies",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy"
+   ],
+   "url": "https://doi.org/10.36527/kcsss.24.4.2",
+   "source": "openalex",
+   "added": "2026-11-06",
+   "titleKo": "북-중 경제협력의 전환점과 향후 방향 -2018∼2019년과 2025∼2026년을 중심으로-"
   },
   {
    "id": "doi:10.1080/09557571.2026.2752955",
