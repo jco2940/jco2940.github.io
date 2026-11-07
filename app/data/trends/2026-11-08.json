@@ -2,6 +2,272 @@
  "date": "2026-11-08",
  "items": [
   {
+   "id": "오늘의북한날씨중부이북지역눈비",
+   "title": "[오늘의 북한 날씨] 중부 이북 지역 눈·비",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XQ01Zd1RPQkhTVDNkWFBGdlJNY094Y1RaT05LOFZGUjRaZE11YjdjRjNEdGpIckM2bGxHakRUNGs4NllWNWNHWi1HejQ4OUJPTWdBRkxTU2VNRFdPc09hcnVENFltRXZieF9R?oc=5",
+   "source": "SPN 서울평양뉴스",
+   "country": "KR",
+   "published": "2026-11-07T21:35:58.000Z",
+   "fields": [],
+   "summary": "[오늘의 북한 날씨] 중부 이북 지역 눈·비"
+  },
+  {
+   "id": "zelenskyyrussiausednorthkoreankn23missilesinukraineattacks",
+   "title": "Zelenskyy: Russia Used North Korean KN-23 Missiles in Ukraine Attacks",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVAzd0tOUW1pWmFvdTg2cHg4Mk5DM3ZOY0ZCSlNmN0RNcUJiVHdEQXlxUmhxcnBMS0lENmFxY2xmNzM5SEZuZEZSUTB6OFJqQ3hnanc0NlBKQ0hFWDRDTkkzd1d0czFCdXZiNG5IV3FaUFVwRUdBOGIxZzdtQUJYWk9kTVo?oc=5",
+   "source": "조선일보",
+   "country": "US",
+   "published": "2026-11-07T21:34:51.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "젤렌스키: 러시아, 우크라이나 공격에 북한 KN-23 미사일 사용"
+  },
+  {
+   "id": "젤렌스키북한kn23미사일우크라에너지시설공격에사용",
+   "title": "젤렌스키 \"북한 KN-23 미사일, 우크라 에너지 시설 공격에 사용\"",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeEpLVlBsbUV2Y1B5a3RPTlY3TElvRnJVT2dubDh0ZlNxMkViTHhFN0NkM2VPMWREVmVnV2xOdnpxTUxyb05vcy15RE9fWjBfdTEyUTNCRk0yV3QxSGgzZFBSdGJmTGNRMzRKSlZWQ3lJaU5rOVdIWTBqWmtfWDljMWZ3bTVyQ2E2SURRbmRQQ2x3WTdzOEJVdGVsQVE4Zw?oc=5",
+   "source": "조선일보",
+   "country": "KR",
+   "published": "2026-11-07T21:31:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "젤렌스키 \"북한 KN-23 미사일, 우크라 에너지 시설 공격에 사용\""
+  },
+  {
+   "id": "ゼレンスキー大統領北朝鮮のkn23ウクライナのエネルギー施設攻撃に使用",
+   "title": "ゼレンスキー大統領「北朝鮮のKN-23、ウクライナのエネルギー施設攻撃に使用」",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjE4VDVoVElQN3hGczIwbHlyZFhEWXdtNjhkOHk4WXplS3lLbHM4eFdsalpsWUlERUNBa0RIVDVabjNzcnhrVm9BSDdOa1ZSY2NLZVZJOC1ldTFYbFlpa1ZzWkJkUkk4NE93S1lGa1Y2V0wzRGhUR29HZ090Zk1VMnc0UHZKX2xD?oc=5",
+   "source": "조선일보",
+   "country": "JP",
+   "published": "2026-11-07T21:31:00.000Z",
+   "fields": [],
+   "summary": "젤렌스키 대통령 \"북한의 KN-23, 우크라이나의 에너지 시설 공격에 사용\""
+  },
+  {
+   "id": "金正恩の娘ジュエは高級レザー少年少女は山奥で過酷な薪集め金王朝特権階級の異常な格差",
+   "title": "金正恩の娘“ジュエ”は高級レザー、少年少女は山奥で過酷な“薪集め”…金王朝「特権階級」の異常な格差",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQm5EdGZPVlVzZ000UElicEhaSFM1d1VhYm9mZE5sc1oyc09sb2VET3lTUU5CRGJvdTZ5S0s5WWhDbUdsaW9LLVV5T1JfaGZ5S1R3M1ZYSC1zOTllY3pkVTZpSFg2VmZ2OWJlZWZ5MXI1ZG1GbndIdThLaVE2N3JqS015SlBoN3Jn?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-07T21:13:50.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은의 딸 “쥬에”는 고급 가죽, 소년 소녀는 산속에서 가혹한 “장작 모으기”… 김왕조 “특권계급”의 이상한 격차"
+  },
+  {
+   "id": "よど号犯が北朝鮮で死去外交官待遇56年の亡命生活",
+   "title": "「よど号」犯が北朝鮮で死去…“外交官待遇”56年の亡命生活",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zY2dOeS1wQ2laMEE1bF9PZ1R6cm9DTUdPbDdiRzkyMXpzWEE2WVlSVmlEd0NLc3QzamxFeWxyZnM4RTRQSjBMZTVqSGFVMVE?oc=5",
+   "source": "現代ビジネス",
+   "country": "JP",
+   "published": "2026-11-07T21:05:48.000Z",
+   "fields": [
+    "politics",
+    "society"
+   ],
+   "summary": "‘요도호’범이 북한에서 사망… ‘외교관 대우’ 56년 망명생활"
+  },
+  {
+   "id": "靖国神社の石碑が北朝鮮の国宝に100年越しの数奇な運命",
+   "title": "靖国神社の石碑が北朝鮮の“国宝”に…100年越しの数奇な運命",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Pd3NhNG9lSEYwU2VsWlRrNVYxTHpZVF85b2pOajdpZFpVUDFwdk9TcHpoNWFydnJMTlc0THVwdjlfMmxlc2hlcFUwRjd3M3c?oc=5",
+   "source": "現代ビジネス",
+   "country": "JP",
+   "published": "2026-11-07T21:03:40.000Z",
+   "fields": [],
+   "summary": "야스쿠니 신사의 비석이 북한의 “국보”에… 100년 넘은 수기적인 운명"
+  },
+  {
+   "id": "泽连斯基能源设施遭袭使用了朝鲜产kn23导弹国际财经日报",
+   "title": "泽连斯基：“能源设施遭袭，使用了朝鲜产KN-23导弹” : 国际 : 财经日报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aSElwOEdEVWhmOEJmcFlzUnRtX1pWTU9LQ29hOUlHbzhQQ3lYYmMxTGViT0tvOXZlQjhvNDFwNDFuZ1J4RUk0Zk8wM2poUHNWeUduYkllLWpKVm4xYVAyMVBn?oc=5",
+   "source": "재경일보",
+   "country": "CN",
+   "published": "2026-11-07T20:46:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "젤렌스키 “에너지시설 공격, 북한산 KN-23 미사일 사용” : 국제 : 파이낸셜데일리"
+  },
+  {
+   "id": "zelenskyynorthkoreankn23missilesusedinattackonenergyfacilitiesglobaljkn",
+   "title": "Zelenskyy: \"North Korean KN-23 missiles used in attack on energy facilities\" : Global : JKN",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjMmdkR2M0ejlINU5MQUVoaFcwUDR3UXEyZGgxbGs0R2RYanhvWEhhX0hRNE9RLTZIMHBXZVBmemlLYmRtazd1RFliTWw0b29WaVYzdXh0bmo5cUFocnBXQnpR?oc=5",
+   "source": "재경일보",
+   "country": "US",
+   "published": "2026-11-07T20:45:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "젤렌스키 \"북한 KN-23 미사일, 에너지 시설 공격에 사용\" : 글로벌 : JKN"
+  },
+  {
+   "id": "ゼレンスキー氏エネルギー施設への攻撃に北朝鮮製kn23ミサイルが使用された国際財経日報",
+   "title": "ゼレンスキー氏「エネルギー施設への攻撃に北朝鮮製KN-23ミサイルが使用された」 : 国際 : 財経日報",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwcVo3UEd5MEphRThBMHFTWEVGUmVER2g1aEYzRnhSa3RCYV9qNXctaGQ4anI5RGpLYVRaWEdMMkVzVWdtdnpidVBCZUM1N1BISTdJZC1zbnlSN0lDWU1xaXdoQQ?oc=5",
+   "source": "재경일보",
+   "country": "JP",
+   "published": "2026-11-07T20:45:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "젤렌스키 씨 “에너지 시설에 대한 공격에 북한제 KN-23 미사일이 사용되었다” : 국제 : 재경일보"
+  },
+  {
+   "id": "북연이은집속탄타격시험군사력강화과시",
+   "title": "북, 연이은 '집속탄' 타격 시험...군사력 강화 과시",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xeVRpZXFScG13NE51UldQNmtUWjI5aWlDbWdTbWZ3Vk1aWE9jX05ONHEzYkl4ZVNEMHhVeS1jMDBpeEZxMHJtbnJBU2h4RFpBQ3JueXdCbGh2Vm1JM2t4Mjl3WWQ1SFBuOWNCTkY3dw?oc=5",
+   "source": "YTN",
+   "country": "KR",
+   "published": "2026-11-07T20:44:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북, 연이은 '집속탄' 타격 시험...군사력 강화 과시"
+  },
+  {
+   "id": "nigeriasflamingoschampionsoftheworld",
+   "title": "Nigeria’s Flamingos champions of the world",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TWWlBMTRNMlAxLWlDNWllbVpUckVkUUNSVGRSSmh1Wi1IOXJKNjlSQVhLQzNVTzEySkwzdnlMQnlzWUZPZklJcThmMEo4NmgwZ2tyRkt0djdWYXk2ZlJiUERwRF9KWUFoWmNiUkpSVHNvS25PQ2JxZGJB?oc=5",
+   "source": "Score Nigeria",
+   "country": "US",
+   "published": "2026-11-07T20:42:31.000Z",
+   "fields": [],
+   "summary": "나이지리아의 플라밍고 세계 챔피언"
+  },
+  {
+   "id": "대북제재엇박자외교부검토중vs통일부제재도움안돼",
+   "title": "대북제재 엇박자?...외교부 \"검토중\" vs 통일부 \"제재 도움 안 돼\"",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WcG05NHB0aWFUVXNqSGFRT2ZVNVFGc01LVkpwaWsyVjlCU05vSlNYLWNCYTVUdXZocnRIWmc0Qmk5NFRfUy05NXR5Y0Nnb3R0WEdCcTZ0RHdTRVoxUkdOVDJpcGlYWF9IX1NlSEpodw?oc=5",
+   "source": "YTN",
+   "country": "KR",
+   "published": "2026-11-07T20:40:00.000Z",
+   "fields": [
+    "politics",
+    "economy"
+   ],
+   "via": "broadcast",
+   "summary": "대북제재 엇박자?...외교부 \"검토중\" vs 통일부 \"제재 도움 안 돼\""
+  },
+  {
+   "id": "朝導彈再現烏戰場北約警告俄是長期威脅",
+   "title": "朝導彈再現烏戰場！北約警告：俄是長期威脅",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRemR5ZWlUaWUxNmppQkQzOHNRMzRqdDhJazZpVWpGNE1BMVJkRUo2dDhHVWZSS0dFNFFhQmZfaGo1ajMxMndZcWtGRXpwX2lDazN1UW5MWVNyaGNDNW5ucNIBZkFVX3lxTE41cHhBdXJMSXUtMk8ybnpBMm1BNEVfVTlJX3FEc1lZZ0ItT3F1MHYtbEhnSG5JeXgyOGVwNlhwWFBuUk1fa05ubWstMlpzYS1MckwydE5GVUpwaU96am44SGlvYVh4Zw?oc=5",
+   "source": "新唐人電視台",
+   "country": "CN",
+   "published": "2026-11-07T20:29:59.000Z",
+   "fields": [],
+   "summary": "북한 미사일이 우크라이나 전장에 다시 등장합니다! 나토(NATO)는 “러시아는 장기적인 위협”이라고 경고했다."
+  },
+  {
+   "id": "대북송금이화영재심청구새증거인정될까",
+   "title": "'대북송금' 이화영, 재심 청구...'새 증거' 인정될까",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZZm45UW9TRjNlM0VEeHotejA3dGN5VlRmSXlYQ0FaWlZOR2JYQ3RCSEc2SVJxVzJEVkJrZVJEYS1KcXlfYzlpYzRNX1ZVczJkSzVuN0hjR1hSV0dGb1E?oc=5",
+   "source": "YTN",
+   "country": "KR",
+   "via": "broadcast",
+   "published": "2026-11-07T20:26:00.000Z",
+   "fields": [
+    "humanRights"
+   ],
+   "summary": "'대북송금' 이화영, 재심 청구...'새 증거' 인정될까"
+  },
+  {
+   "id": "미국무부바이낸스해킹뒤대북제재이행공조촉구",
+   "title": "미 국무부, 바이낸스 해킹 뒤 대북 제재 이행·공조 촉구",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxWmVscjZ2WGVwT2E0czcyWVZFT2NzcnYydUFmRFRqdlYwNllYSHFaY1pjSUtCUnhvUnd0ZkV1QTFGT3N3VHp6Tkw4Zlp3djBWMkxaZ1dEMknSAV5BVV95cUxOcXlWN2JDVU9jUVk1czl2dmtXYVRtOVMzVURjb3lUV2V0Y2kzSWVMTHNuRlcwQm5nQlR0Ui1CME5HMDJCS1BzNjYzcW9iY200NTRPU2NoaTYzQkJMT2ZB?oc=5",
+   "source": "토큰포스트",
+   "country": "KR",
+   "published": "2026-11-07T20:04:38.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "미 국무부, 바이낸스 해킹 뒤 대북 제재 이행·공조 촉구"
+  },
+  {
+   "id": "두부밥꽈배기로잇는이웃동두천서북한이탈주민과북한음식나눔",
+   "title": "두부밥·꽈배기로 잇는 이웃…동두천서 북한이탈주민과 북한음식 나눔",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Gend5MEZucHQ0UDFXZDN4TzFqWUdjVnB1WlV1RmFNZnR4MTh1Nk1IU1E0TzRRV3VpdkJsdGJHRlA1MWlIU1ZJQUI2RFdzcG84aWM4QlgxekFydXV1bnRPRW0xNlloMzA?oc=5",
+   "source": "씨원뉴스",
+   "country": "KR",
+   "published": "2026-11-07T19:49:22.000Z",
+   "fields": [
+    "society"
+   ],
+   "summary": "두부밥·꽈배기로 잇는 이웃…동두천서 북한이탈주민과 북한음식 나눔"
+  },
+  {
+   "id": "zelenskyyrussiausednorthkoreanmissilesinstrikeonukrainianenergyfacility",
+   "title": "Zelenskyy: Russia used North Korean missiles in strike on Ukrainian energy facility",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CVUN6ZkZyWl9ZblluZVVENmJva1VqSUtqdldZQTcwVGk1eS1Vbjc0cU13N0VKcmxtYTNmUWRudDRZTWxIVVVnR3BNLUMwWFdkZHlR?oc=5",
+   "source": "سانا",
+   "country": "US",
+   "published": "2026-11-07T19:47:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "젤렌스키 \"러시아, 우크라이나 에너지시설 공격에 북한 미사일 사용\""
+  },
+  {
+   "id": "trtнарусскомтрамппригласилхабибаиисламаработатьвбеломдоме",
+   "title": "TRT на русском - Трамп пригласил Хабиба и Ислама работать в Белом доме",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNnRISjEwdW1wYTJFNm5nYnZ1dXhxOGcxU0FjZFY5OVh4MDNtMHljNktwQ29LdmFCUkZ4c2pUa0x5U0NVZEl4ZGdxZ2xhOWE1RTFucFM2dVBiSUpmQ1R0WTBSYkpGZjJqanJkRFRHN2U2M3o5RERFWlkxQ09zWFJSVm1zN1Y4cnJjek51Yi1YeW4tN3BaaHE0MmZid1FrcS15THZQUHVLSlRhMExUZzFvS3o5SUEwR1gtdkVpZUJtbnRBMll5TzhaUGhNQkl5alZI?oc=5",
+   "source": "TRT Russian.",
+   "country": "RU",
+   "published": "2026-11-07T19:44:42.000Z",
+   "fields": [],
+   "summary": "러시아어 TRT - 트럼프는 하빕과 이슬람을 백악관에서 일하도록 초대했습니다."
+  },
+  {
+   "id": "trtнарусскомгерцогпоручитайзенкотусформироватьправительствоизраиля",
+   "title": "TRT на русском - Герцог поручит Айзенкоту сформировать правительство Израиля",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONjBxc2dIVWk2YWJEdTEtcE5jRFAyYnlVQVNUaXJ4aDZMSHc5bW9DNk1mTEctcnBhYXFUQUxEejI5Nm9pNmxjdU9weUNkSDVhMGo2ZV94c0ZvWUNSdmoxT3JuU1o2YmdXdEdTM0FhZGdhV3NMRnJaUE8ybEZwVTdDV1NOMGJBV3VQcGl6dzQxVi0zQ2xfT0RyWDFvRVU4M1lpS2pqd05CbUlqYWhGaVJDNHJXa0JscS05cllGdERxRDlKWUJibnQ5QzN4bw?oc=5",
+   "source": "TRT Russian.",
+   "country": "RU",
+   "published": "2026-11-07T19:44:41.000Z",
+   "fields": [],
+   "summary": "러시아어로 된 TRT - 공작은 아이젠코트에게 이스라엘 정부를 구성하라고 지시할 것입니다."
+  },
+  {
+   "id": "リモート面接で北朝鮮工作員を見抜く金正恩踏み絵動画が話題",
+   "title": "リモート面接で北朝鮮工作員を見抜く「金正恩踏み絵」動画が話題",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GakxJdGFuRFVlWnhrUmJvUmQ5ZVo2WTVLaHBmakxpQmh6QlVDOUw4TTg4VTBlWTNRT3dYeGIxVWU1ZVVTNWVUYzRtajJIUHhVNklhQ2ZPRQ?oc=5",
+   "source": "X",
+   "country": "JP",
+   "published": "2026-11-07T19:39:14.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "리모트 면접으로 북한 공작원을 간파하는 '김정은 발판' 동영상이 화제"
+  },
+  {
+   "id": "젤렌스키북한kn23미사일우크라이나에너지시설공격에사용",
+   "title": "젤렌스키 “북한 KN-23 미사일, 우크라이나 에너지 시설 공격에 사용”",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2NGEyYzItZ0RoY29BbHNHd050em1CbTlBc1lXQ1FwSzByYWxrS3c4d09kcUttWTBTUjJzdGVjUFZmOUx1LTFReXpfbHVTaW00azI5Z3hhc3pwNzA?oc=5",
+   "source": "KBS 뉴스",
+   "country": "KR",
+   "published": "2026-11-07T19:29:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "젤렌스키 “북한 KN-23 미사일, 우크라이나 에너지 시설 공격에 사용”"
+  },
+  {
+   "id": "trtнарусскомроссияатаковалакиевракетамикндрзаявилзеленский",
+   "title": "TRT на русском - Россия атаковала Киев ракетами КНДР, заявил Зеленский",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ2FEZ2dxV1o4ekgtSDIxTm5hMGtlTFZEV05Kdmp1bWxhOGtndVBucnQ5TVlqaHViMDV0d1RLZ01TZUFXMkNERldaN1hrNmxvMVNQakh6WWF6YjFFVFBOYzJHZnlkdG9RRHpJR25faUtleDNmR2VzOTY3WUtpaEgzdmhzOEU5a1RFSTBWMEh3eDRYNnl2RzFiS1hCX3FLNFEtejdhd0pTZUg0WEVrTElLYzY0QlVJU0FGRzMyRlc3V1FQTjdGT2E2VkJNaw?oc=5",
+   "source": "TRT Russian.",
+   "country": "RU",
+   "published": "2026-11-07T19:26:36.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "TRT in Russian - 러시아가 북한 미사일로 키예프를 공격했다고 Zelensky가 말했습니다."
+  },
+  {
    "id": "uscallsforcoordinatedactionagainstnkoreancyberthreatsfollowingbinancehack",
    "title": "U.S. calls for coordinated action against N. Korean cyber threats following Binance hack",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xUHRaTXdnaGVlWlRPTldjMldqbzU0dDNpU2dZOUZBdExzclFwaWFhVEljUzBuVU50ME1DU1BXRGMyNjZJNklVcGsxczRvVmN4eWQ4N1pEVm03dw?oc=5",
@@ -12,6 +278,18 @@
     "economy"
    ],
    "summary": "미국, 바이낸스 해킹에 따른 북한 사이버 위협에 대한 공동 조치 촉구"
+  },
+  {
+   "id": "whytrumpshouldstilltalktonorthkorea",
+   "title": "Why Trump Should Still Talk to North Korea",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcFVnZTdKVVk5TzNOZHBPeVoxRDA0VFRtTEduQ1h2bWZrUGtKQUk2ZENEVl9IWFhqM1ptYkRhSjBCanpvRG5SbHZxTFJWMTlBR2l2bnZGeWtnM0Q3Mml0SWxLTVJzc1lmMHUzT1BidktoSXVMSjEySnZGVWU2V19MZEtB?oc=5",
+   "source": "Newsweek",
+   "country": "US",
+   "published": "2026-11-07T19:01:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프가 여전히 북한과 대화해야 하는 이유"
   },
   {
    "id": "northkoreathrashbraziltofinishthirdbest",
@@ -56,6 +334,16 @@
     "security"
    ],
    "summary": "러시아는 국방부의 이익을 위해 장치를 갖춘 로켓을 우주로 발사했습니다."
+  },
+  {
+   "id": "northkorea60brazilnov72026playerstats",
+   "title": "North Korea 6-0 Brazil (Nov 7, 2026) Player Stats",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YZ3Q0b0Faa2tERmY3UDRvaE1odkR5amNGMHNfZ2xRaVVSNXA4ck5HN3lZaXM1WUVvdHhJX1V2ZkpyYm00OWM5UDVlTUJKZ2FUNzRuczQ3WDBJSHp3QmRrLXpkVU9KVlVFSkpr?oc=5",
+   "source": "ESPN",
+   "country": "US",
+   "published": "2026-11-07T18:25:21.000Z",
+   "fields": [],
+   "summary": "북한 6-0 브라질 (2026년 11월 7일) 선수 통계"
   },
   {
    "id": "собянинпоздравилмосквичейсгодовщинойпарада1941годанакраснойплощади",
@@ -112,6 +400,18 @@
     "security"
    ],
    "summary": "한국의 탄도학: 북한이 우크라이나 도시에 대한 테러를 위해 러시아를 무장시킨 방법"
+  },
+  {
+   "id": "russiafiresnorthkoreankn23missilesatukraine",
+   "title": "Russia fires North Korean KN-23 missiles at Ukraine",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVW4yb0FWbzN3V0JsZG9yVnNYbFJ4SWFtMndLTE1XNWEtM0l4c0FyRTYwdTA5RzhPcW9tQ3p2SDVVSlZpWGthMDdzQUcwM0Etczg0allHUjBNdFluV2MxT3hjeTBPeVBmcTJheDhheEFqeGRieDhjMjFUeDZOOWVoNnAwc9IBiAFBVV95cUxOWjBVWURlNVhNVHgwTHB6dWQ3d2htZDZCR3paX1JhelpFOWxpdVNlQ3ZvdThscXMySzh0Y2V1bTJRcHllc3ZxZjMtWlVoalEtS1VZX1JJVE0weXhBVHFwV0FmZ2daTUFjSDdqTjNDdExBdlVuV3dta1VPaXZ2c295NFczRlZyc012?oc=5",
+   "source": "The Defence Blog",
+   "country": "US",
+   "published": "2026-11-07T17:35:53.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "러시아, 우크라이나에 북한 KN-23 미사일 발사"
   },
   {
    "id": "젤렌스키러우크라에너지시설공격에북한kn23미사일사용",
@@ -324,6 +624,16 @@
    "published": "2026-11-07T15:20:36.000Z",
    "fields": [],
    "summary": "종주국에 꽂힌 北 ‘선등재 돌려차기’…지역 태권도장도 ‘허탈’"
+  },
+  {
+   "id": "北朝鮮製の短距離弾道弾kn23使用かウクライナのエネルギー施設攻撃",
+   "title": "北朝鮮製の短距離弾道弾「KN23」使用か ウクライナのエネルギー施設攻撃",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RdHF5MHNGOUVtT1VmdnFPRWstZzlvYWFlb0hEOXl6d185NHhoejdwTDY4QzBGSUc3a2ptazJZb0pfUFN1VkFxRDdWcUtUYmROVWQzMUZaNnk1dEE4NEVQUzJYSUlRdnlVOE5ZYUJjWUQwb3U3SWc?oc=5",
+   "source": "産経ニュース",
+   "country": "JP",
+   "published": "2026-11-07T15:19:25.000Z",
+   "fields": [],
+   "summary": "북한제의 단거리 탄도탄 「KN23」사용인가 우크라이나의 에너지 시설 공격"
   },
   {
    "id": "今日の歴史11月8日",
