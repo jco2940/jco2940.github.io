@@ -2,6 +2,396 @@
  "date": "2026-11-10",
  "items": [
   {
+   "id": "northkoreaslamsunchiefoverbordertensionsrejectscallfordialogue",
+   "title": "North Korea slams UN chief over border tensions, rejects call for dialogue",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnRIVGlFSnFRSTR6azZGQmx4cVlCdENDTENLU2FVdzVWX1ZMd1A0b2lLeTVjX0ZScVJrWEpTRXBLMWdqc0FMc0V4dTVOLXdSTmVnYVkyT0FaNm1CNTJ4TnQtNzRZRWlCUW9HRFNuWGJLckR6RWdwTzhCZnJTTVRGclQtVVdZZUltNVB6cEloNkxCdUhYTGhFdGYyYmpvUmRLR21NaTd3VjNMWFVNRHJPRVlBLTBGQQ?oc=5",
+   "source": "Anadolu Ajansı",
+   "country": "GB",
+   "published": "2026-11-10T07:55:25.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 국경긴장 우려 유엔사무총장 비난, 대화 요구 거부"
+  },
+  {
+   "id": "northkoreaskimyojonghitsbackatunchiefscallfordialoguesaysheisspeakingforsouthkor",
+   "title": "North Korea's Kim Yo Jong Hits Back at UN Chief's \"Call for Dialogue,\" Says He Is \"Speaking for South Korea\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaRC01anZsekFTNF9WaGV1aUZiNE0weVhBSUx5WkY0X04yVDlxTFdJeTlzcU9ILTZHa1NXZzRxQmlnSmg1SC1FcWUzRzZ1LVRjN0Q1LTlqRHkwaVZyQXN5OFpiYXc?oc=5",
+   "source": "아시아경제",
+   "country": "GB",
+   "published": "2026-11-10T07:34:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "북한 김여정, 유엔 사무총장의 '대화 촉구'에 \"남한을 대변하고 있다\" 반박"
+  },
+  {
+   "id": "russianvisitstonorthkoreaplateauedinfirstninemonthsdatashows",
+   "title": "Russian visits to North Korea plateaued in first nine months, data shows",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObG90Wld1d0RLczJhZVJfU2E1c0RXbzhFVnBiNU5wT1NHT1FqMGhtdUNRQjJHQWJsbVV0bmRyX1gyRXlWMWVVY2h4OG1DUzNFcE9ibXhLY0x2eFpGcDNNa0kxbDY3ek1lX3JDcTNzajY1U3hQWTFfOVhCMEd5UExmdkpoUEFpRlFydEVkWnRIUllQX2NKM3BId29jaEpkUG9POUdpT3FB?oc=5",
+   "source": "NK News",
+   "country": "GB",
+   "published": "2026-11-10T07:30:36.000Z",
+   "fields": [],
+   "summary": "러시아의 북한 방문은 첫 9개월 동안 정체됐다."
+  },
+  {
+   "id": "leadnkorearejectsunchiefscallforinterkoreandialogueaftermineblast",
+   "title": "(LEAD) N. Korea rejects U.N. chief's call for inter-Korean dialogue after mine blast",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FNHJIVlVMNzJuS3BoVFFxakNaU1BFbHdYcWFzZ3FTM1pnYzRKSGdjNWFEdDBLV29Odk5uQUVwQ2hUQ2hOZi1FcDNvd1dYVkhsTDVCb0VPWGJHdw?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "GB",
+   "published": "2026-11-10T07:22:49.000Z",
+   "fields": [],
+   "summary": "(리드) 북한, 지뢰 폭발 후 유엔 사무총장의 남북대화 요구 거부"
+  },
+  {
+   "id": "nkoreaslamsunheadsremarksasprejudiced",
+   "title": "N. Korea slams UN head's remarks as 'prejudiced'",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXV3U2E3TUxZVllKVDRUMXE4d0REdWNWazNrSmNNZE9LXzQ3ME40UFpnTVlERGpwbkpraHNTQlAzU1czVUVyVVRlZVdTb0RITnVJUlpuQ094N283TjhmTlM3cGlxMkJqTXY5Q1k0aUJldU9KNFFRbTRMbnUtXzZHbHM5b3lSYkZRYlR5aTJTSHJ3QWxTUTVsdQ?oc=5",
+   "source": "Breakingthenews.net",
+   "country": "GB",
+   "published": "2026-11-10T07:20:00.000Z",
+   "fields": [],
+   "summary": "북, 유엔 사무총장 발언에 '편견' 비난"
+  },
+  {
+   "id": "surgeinnorthkoreandelegationsvisitingchinaputscommercialtiesinfocus",
+   "title": "Surge in North Korean delegations visiting China puts commercial ties in focus",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT0hSVl81Q0xwWHBaR1ZpUlNOR3ItN1hCQmZXekFqa2swOUZrVU9veUo4a3JTeHpBZF9KRjhqMXVFM1hGdTB4QnRNYXV4bFpaUjEzS2FGZlpBdlJ4TTd3LUMyMnN6dFdMX1dBU1RQakFTSFlINkFJSjdCSjJEckhfVXFSckFHZTdBZHpFa0J5THBCUEQ4Z01obzczWE9nUnh3dFR6QXdvTXFGZw?oc=5",
+   "source": "NK News",
+   "country": "GB",
+   "published": "2026-11-10T07:17:31.000Z",
+   "fields": [],
+   "summary": "중국 방문 북한 대표단 급증으로 상업적 관계에 집중"
+  },
+  {
+   "id": "southkorearescuednorthkoreanfishingboatadriftineastseathismonth",
+   "title": "South Korea rescued North Korean fishing boat adrift in East Sea this month",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdHFhOWlta0FQMGRtMGhpT3B4OHFWWkhCOFpKal9raVBxTDF4XzhCVFdYSk1UX1RGSzZxTllXYWJ0V0h2VlhxZVdZbGVZZy0tT1RvVmhNNnd3UkY4VUpJVm5BQVhqRndMX2ZSdE9CWGluRkVSbzdqZWdCdXhGeWRLRm9MSkx6N0xqMUJwdW01LXFOTHNpWVdIYVJGR19wMmlZMW9UR2thMy1oaFU?oc=5",
+   "source": "NK News",
+   "country": "GB",
+   "published": "2026-11-10T07:14:30.000Z",
+   "fields": [],
+   "summary": "정부, 이달 동해상 표류 북한 어선 구조"
+  },
+  {
+   "id": "guestessayseoulcantaffordtoignoretherestorationofchinanorthkoreaeconomicties",
+   "title": "[Guest essay] Seoul can’t afford to ignore the restoration of China-North Korea economic ties",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZW9vS0t1cWFMd2NIREY4N2l5Rld0M1huV0xjUGhTanlqZXVDMXplaHk0bjhPX3BKdDQzMUFtdnlpSDZBR1pIYjNsTmRkQ0h5WV9uNkpibEZPT195TEVOeUZZal9MRThmSTdJUnpRZS1ZcVA3WFJ4TDh5ZlFYM3l3Yg?oc=5",
+   "source": "한겨레",
+   "country": "GB",
+   "published": "2026-11-10T07:14:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "[게스트 에세이] 한국, 북중 경제관계 복원을 무시할 수 없다"
+  },
+  {
+   "id": "northkoreaaccusesunchiefofsidingwithsouthkoreaoverbordertensions",
+   "title": "North Korea accuses UN chief of siding with South Korea over border tensions",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZDBKLXN6MG1Pd2lGS3FKX182aThCZFdGWXBtckRCb0lZVEczWm1jV2syUDk4STc1WVlPd0wwWjc2VVRKMWVnc29jRGJha1lWUU9yRVJIY2s3Q3NoazFiMGZWMDdYV2ptQkdRdGd1Z2tOSXVMNXd1ZXdkbHhsb3U2VjdxWnRfUmJ6a29BZ1dmLXc0NFlfS2Z0UldlLWpyakpsVkg2NTVuZzRya3VlLXpJMjBrQVgtcm5vcFJPZA?oc=5",
+   "source": "LBCI Lebanon",
+   "country": "GB",
+   "published": "2026-11-10T07:09:52.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 유엔 사무총장이 국경 긴장과 관련해 남한 편에 섰다고 비난"
+  },
+  {
+   "id": "opcontransferwillinevitablyweakenallianceexusdiplomatsays",
+   "title": "OPCON transfer will inevitably weaken alliance, ex-US diplomat says",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMEFrNmdtTGF0Nmkyb1NRYThCdU93Qm8zemk1WUF2TVY5cWZpR3M5aW5JWkdhdTY3ZWFyVmoxVjdCRERWMTE3ZVluLVpkT1M2dHNfS1hxTWMycm9NYmpMa3BhZWFTRVZ1RUVESl9EbXUzQ0k2aU1NTWFDWjJGeGlpZ3FjdTBOZmYxekZmS3lCOVFSVWpfQnpBc1RrYXhIYVFQcDh5N3RrblE2NmlNOEdsSjlkMEIyb2lhanRv0gHAAUFVX3lxTE5YaXhPNlJQOUZiOFlZeVgtZmJHV0hFWjBnSF9uODJPQnU4QkdnWmxHOTNWNDI5VzNKZDFtZkRMNkQ3MFotRFFTbllvWW00WEN3STFyODk4ODMxVHI5LUdVWHNhZEhUZll0eVlDQ2plOW9GLVF0UTZ6U1NGR0Z4d0hoelBua0M0bkcta0lrUDlxZVlNMTduN3NFNHBXZHloSW9zUnVoM3RmMGNlN1VHMkxwdFpvZVJJQmw1STNmVVllaQ?oc=5",
+   "source": "The Korea Times",
+   "country": "GB",
+   "published": "2026-11-10T07:09:02.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "전작권 전환은 필연적으로 동맹을 약화시킬 것이라고 전 미국 외교관이 말했다."
+  },
+  {
+   "id": "kimyojongslamsunsecretarygeneralasignorantandweakaccusinghimofshiftingblameforth",
+   "title": "Kim Yo Jong slams UN secretary-general as “ignorant and weak,” accusing him of shifting blame for the landmine incident onto North Korea",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94RHU5UlZ0VzNfZ2YtbVA2ZzFkcFpWTDVRamp5ZThTMnZYQzk0M0Z3R0I3YWVpQUp1dW9WSUlqMTVheGtNdXAzcVJPbU5tdV9adnRKREpRSW8?oc=5",
+   "source": "파이낸셜뉴스",
+   "country": "GB",
+   "published": "2026-11-10T06:59:47.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김여정은 유엔 사무총장을 '무지하고 나약하다'며 지뢰 사건 책임을 북한에 전가했다고 비난했다."
+  },
+  {
+   "id": "kimyojongcondemnsunchiefssouthkoreaprovocativesophistry",
+   "title": "Kim Yo-jong Condemns UN Chief's South Korea 'Provocative Sophistry'",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHVNOUt6bHJRRGY2Qy1KN1lBWVFSVHBFTDFSb3BfTlgyOWtMcG16cnBMZ1o0ZEV2bHRxOE4wRk5YNWpYWlR5Z2szZzUxNGJhamMydTlZYmZycWZ3TTBQTEJ3dmRyUXFtNlVuU1ZmMnNnakFCZDUzOUtoRy1GUTNESGhLandMOGhFZFAzQQ?oc=5",
+   "source": "조선일보",
+   "country": "GB",
+   "published": "2026-11-10T06:57:30.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김여정, 유엔 사무총장 한국의 '도발적인 궤변' 규탄"
+  },
+  {
+   "id": "хакерыизкндрсоздалимемкоиныдляотмыванияукраденныхуbinanceсредств",
+   "title": "Хакеры из КНДР создали мем-коины для отмывания украденных у Binance средств",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckdBYTlXTEc5Wkk5T1BMNkFpWFNkZl9kUFoxRE11UUdxV3NFVk05TG43ZzlMU3IwS3BLdkJOelFvUTRZZXlNakN6bXhkVmhvdjFUM294UHFMcnNBTkh2VFhtV2IzRVhXTk43Q09xUE1WM0RudkpIU1JJanc0U1VHNTdCbFhRMUg0UnJJSG9NMFRLakpzRnJMUFY5aWNUOGVwSFQ1ZA?oc=5",
+   "source": "ForkLog",
+   "country": "RU",
+   "published": "2026-11-10T06:50:01.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한 해커들이 바이낸스에서 훔친 자금을 세탁하기 위해 밈 코인을 만들었습니다."
+  },
+  {
+   "id": "knewnorthkoreasconsentisessential2yearsagojointtaekwondoinscriptioneffectivelyfa",
+   "title": "Knew 'North Korea's Consent Is Essential' 2 Years Ago... Joint Taekwondo Inscription Effectively Falls Through",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnYkJtSTIwMEtyTXV6bVdQTVVwSXhaeUZSeC1QYzZET2JpRTdxd2FVOE1RcklHc2R3TGNncWVOSXZwVi1wSlo0YTVwX0ZXXzlfcHduNjBIZEFmMWdNbGh3ZS1NSnQ?oc=5",
+   "source": "아시아경제",
+   "country": "GB",
+   "published": "2026-11-10T06:45:56.000Z",
+   "fields": [],
+   "summary": "2년 전 '북 동의 필수' 알고…태권도 공동비문 사실상 무산"
+  },
+  {
+   "id": "必须获得朝鲜同意两年前就已知情跆拳道共同申遗事实上告吹阿视亚经济",
+   "title": "“必须获得朝鲜同意”两年前就已知情……跆拳道共同申遗事实上告吹- 阿视亚经济",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RNmxndlE2RHB3VE9sYlkwSkZQQ2U3NVNKX0h0TVhiem1zNWRlMVRHUDdnWHZPOERkbjR2Umt0NmF3N3EzZFIwUXl5QU10V25FaDJ2bG9VaFBQaGxFdFNWNUhuODQ?oc=5",
+   "source": "아시아경제",
+   "country": "CN",
+   "published": "2026-11-10T06:45:56.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "\"북한 동의 받아야 한다\" 2년 전 알려졌다…태권도 세계유산 공동신청 사실상 무산 - ATV이코노믹스"
+  },
+  {
+   "id": "кндриспыталановейшеескоростноеторпедноеоружие",
+   "title": "КНДР испытала новейшее скоростное торпедное оружие",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NRGEtemJsUExFZEZFbXFoVVlkazBISzVuNlRXMTE2ZHd1bWt4b0w4VlhzYVBzMmNYc2hYSENDbVhYelVQX1M5dXdwNUI0V1l3?oc=5",
+   "source": "CentralAsia.media",
+   "country": "RU",
+   "published": "2026-11-10T06:39:59.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 최신 고속 어뢰 무기 시험"
+  },
+  {
+   "id": "kimyojongunchiefrepresentssouthkoreasshamelessstanceexpressesregret",
+   "title": "Kim Yo-jong: UN Chief Represents South Korea's 'Shameless' Stance, Expresses Regret",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vNVNFRVV5NmhRUG9mMjlHUzBsal82eVB2VVJ0bGJYbzRiTEE3cmRleDBGYzBxQmxJVXphVmdNRm12ZmVCdURKZWJET2tWeGZEM1diOTVZSklhLVBxSGNLMmJxUmo1dmthODVaZl93?oc=5",
+   "source": "news.sbs.co.kr",
+   "country": "GB",
+   "published": "2026-11-10T06:39:19.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김여정 \"유엔 사무총장, 한국의 '뻔뻔한' 입장 대변, 유감 표명\""
+  },
+  {
+   "id": "nkorearejectsunchiefscallforinterkoreandialogueaftermineblast",
+   "title": "N. Korea rejects U.N. chief's call for inter-Korean dialogue after mine blast",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBySWNQcGdNWW53NGtWT2FhTnZJSHAzVGJFN3hFVVRtRktmR1NRS0d5cUtaV0hud3VWY2ltRVlpU21TSmlfaXVEanhsdllwX19HYmYyWlE1NEI5Zw?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "GB",
+   "published": "2026-11-10T06:36:11.000Z",
+   "fields": [],
+   "summary": "북한, 지뢰 폭발 후 유엔 사무총장 남북대화 요구 거부"
+  },
+  {
+   "id": "鸳鸯小憩",
+   "title": "鸳鸯小憩",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wOHFyb1UtQW1JRFpQQVNDRHlYQTVzb0ZUY1hseFpiVVFMb1I3bllEczk5QjdyT1FsTlluZWhjdHJ6MDZmVVRoa3hxZUFxRnRvYmlNdE9uTVlVb3VMQlJRR2YxU2ZCak56NjVTQS1aeFhzOWRTeXc?oc=5",
+   "source": "韩联社",
+   "country": "CN",
+   "published": "2026-11-10T06:13:39.000Z",
+   "fields": [],
+   "summary": "원앙이 낮잠을 자다"
+  },
+  {
+   "id": "northkoreandefectorsseekimjongunsdaughteraslikelysuccessor",
+   "title": "North Korean defectors see Kim Jong Un's daughter as likely successor",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2Q5WWJSd1hlYXJMWWZuX0JGN2VxNlRUdlk5aWlxdzB2emFUakVyUEpFSTI0ZF8wbXFCelhodkJpTUc4RVVJRHB0RjhHRjNGZXJISF9FQldtR016eUlIR2ZLMjAxb0JEakZIWEFKVmtzQy1rTnhDUm16c1pCT2xad25CWHFFUWZ6LUltYUFjbThpdEZaTDRCNmlOekRpRU1nZVNKcjBXR3ZaUDZfNFE?oc=5",
+   "source": "United News of Bangladesh",
+   "country": "GB",
+   "published": "2026-11-10T06:01:56.000Z",
+   "fields": [
+    "politics",
+    "humanRights"
+   ],
+   "summary": "탈북자들, 김정은 딸을 후계자로 본다"
+  },
+  {
+   "id": "армиякндриспыталановоеторпедноеоружиеnewsrucoil",
+   "title": "Армия КНДР испытала новое торпедное оружие - NEWSru.co.il",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ocnpTSjhJaGFFZmx6TEd0OVFZSWZhWlp1bkVmc0dkTU55NkJneHRzYjVBUmluMS11ZFNxS1VXSmpMVVBuY1ZBazFGXzg5cWhBd05yTG9pZGllRlFKYVJnU2x5Qy1QUdIBbEFVX3lxTE16Wll5UXdxdDhGbGFPVzQ2WHpjTTV6Y2lFUmphOVE1U05raWZiblRZdkV5ZE5BWXpIeFpYSXpfZGc0Q3NkWUdRTVFBTzE0TDRzczNkZWFHN0Vkem1CNDlMSE0xbVlad1RRUzRNcg?oc=5",
+   "source": "NEWSru.co.il",
+   "country": "RU",
+   "published": "2026-11-10T05:49:56.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한군, 새로운 어뢰 무기 시험 - NEWSru.co.il"
+  },
+  {
+   "id": "лицомаскаифальшиваяторговлякаккндрпрячетукраденнуюкрипту",
+   "title": "Лицо Маска и фальшивая торговля: как КНДР прячет украденную крипту",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHdybzdORkZQV3ZxcktBbFJEMzV0MUJIR0tKa3NFOW9pMHMzWFpkUkFNZUc3UkJCY2VPUVJFaFdXUDRqVk9GLWo2WnE1ay03OWZWaWJkbl9hR2VXa0xpT2VyT2UzcldHV3lVbHF1T09CaFlnako3WVBOQnZGOW1tdUw5QjNHM3NJT0xnUUtGUnY0QTB0ZnlGd29pUDY3RjAtYTZIQ1VFS19NdEp4QkZ1WUtR0gGyAUFVX3lxTFBwd3JvN05GRlBXdnFyS0FsUkQzNXQxQkhHS0prc0U5b2kwczNYWmRSQU1lRzdSQkJjZU9RUkVoV1dQNGpWT0YtajZacTVrLTc5ZlZpYmRuX2FHZVdrTGlPZXJPZTNyV0dXeVVscXVPT0JoWWdqSjdZUE5CdkY5bW11TDlCM0czc0lPTGdRS0ZSdjRBMHRmeUZ3b2lQNjdGMC1hNkhDVUVLX010SnhCRnVZS1E?oc=5",
+   "source": "Cursorinfo",
+   "country": "RU",
+   "published": "2026-11-10T05:46:45.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "마스크와 가짜 거래: 북한이 도난당한 지하실을 숨기는 방법"
+  },
+  {
+   "id": "likegodsreigningoverhumanswhykimjongunsdaughtercouldinheritnorthkorea",
+   "title": "'Like gods reigning over humans': Why Kim Jong Un's daughter could inherit North Korea",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdTR3QVlVSWxHMGdiYV9QN3daT3NzS1FtRXB3NmhOcVhwN3FWWWVJMXozUy1yeERpY0FUa0FNVlNDN0dueGloWVh0Vld2X2M4b29pNTVLSGw0cGR5ZEdmQXFsQlFGTkxSRWRKd0Z3aG1wOGg0VDdtSkhoWENxZjBLajlGajlKX1o5M3hoY1l1QWUyRmM0cmVLd2ZwZ1VlV3dSN1VoSzdOX1pDTHdhMVYzXzAzYUFSaXpmZjJCQm9hd04xcEZNUEZWWXUwclowRGV3Mnd1akNsS0M0LWl0VnhjY0pCeXV2clp5a0lqcUVHcW5ESzZRNDVN0gH8AUFVX3lxTFBkYmFoS3Q2SF9NdE8tY3dfeHpVY0psRTFoNThpTjNlVS1ETW1RWDJoTW0tUUFVbmNuZkpxMzgyN0l2ckJpVzNHalhBbzJqY3VYekptc01WaWNvSkNjRkd2clZNelJaUTVRazU2UXI4N3hJblRacjNqSVFmTW41TTc4NVpOTU5pM3F2QS1jOE5tc2xSeEkyX2h0LXIyZktfMnhsd2VsdWpSeElONXNpRVBtQ25XblpGTk00amJUV19FLS1LMkY4dWo1WWdZa29wcjZPNzBGRnI5a1lza2V0cVRGZEdVeDhxMVc1Q3o1STVJU09OaWpkQlZnX3RLVQ?oc=5",
+   "source": "The Times of India",
+   "country": "GB",
+   "published": "2026-11-10T05:46:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "'인간을 다스리는 신처럼': 김정은 딸이 북한을 물려받을 수 있었던 이유"
+  },
+  {
+   "id": "whymanynorthkoreandefectorsseekimjongunsyoungdaughterasheirapparent",
+   "title": "Why many North Korean defectors see Kim Jong Un’s young daughter as heir apparent",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNGRmX012NG9XOEIwWXdXbFdSR0R5NzhCV1Z0UDAtb3ZHN1J4RTVJMW5GbFhNSHF3blZFdk1iaUxKTG8wem9ESWtJcE41Mm1uT19KRXJJUkZoYnVBcTFPOHpMcHA0bjJsT0ZXcGoyUlFHQkJ2U2l5LW5JMGRRTVVrNXo3Q2JRbmJJZ19xeUZSVzlSeWJUTmprYktWZDZoT1kyUzIzSm9GTEljTEk?oc=5",
+   "source": "The Independent",
+   "country": "GB",
+   "published": "2026-11-10T05:38:00.000Z",
+   "fields": [
+    "politics",
+    "humanRights",
+    "youth"
+   ],
+   "summary": "많은 탈북자들이 김정은의 어린 딸을 후계자로 보는 이유"
+  },
+  {
+   "id": "althoughnorthkoreaisdemandingrecognitionofitsstatusasanuclearpowerasaconditionfo",
+   "title": "Although North Korea is demanding recognition of its status as a nuclear power as a condition for th..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VZlZWY2RJWkZGdWlnMlVZZlVNTmdVUEt6WTNyTjFBMzMyajFtVExBSFY2TmNqZkNGd3pjMV9nSzBIWkprU051amVBaS1maEE?oc=5",
+   "source": "매일경제",
+   "country": "GB",
+   "published": "2026-11-10T05:36:05.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한은 핵보유국 지위 인정을 요구하고 있지만.."
+  },
+  {
+   "id": "honeytrapnvidiaspyscandalputskoreaonalert",
+   "title": "'Honey trap': Nvidia spy scandal puts Korea on alert",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalpiRlhHLUlPalBSUTRUREM0SHhjMFhfT2dmaVZaMndrZVFmQjM0OHJ3U2VJR3N1cGNTbnhpUGd0dlBocnRrNW1mV2pNYW9XN1ZxcFg2THJUUjdsSHpjdEl3aU5oLU05OUJyLU4ybmd5UEZRaG1rOWhQeklvZF80eUNiNWN4dC10Ql9UR2xSaW4zVEJlQ2dzWGotZEpCaGtCU1JFalZ6WGpqb1E0V1HSAbMBQVVfeXFMT1pRWWJzNmc1Z2dYbUxXTlM0RVIxYmV0eS1obEFGbWQ4b1llRnd1Z2JCZ3lrVEpCWHBmYmR0MFpQd0dxeVhnclJ3c3hpTkwxVzZmMVh6X05qdFZtUjFBaEd3YkFvLVoxZGk2cEdMLVJrWDJxbFFnaGNmeG9BWC0wTUNYczdkV0N6ajFJeUg1MTZXTnh6aU5IV2F6c2pBbWtUWmtuS2pmY241SDhiSS1QVGJVLW8?oc=5",
+   "source": "The Korea Times",
+   "country": "GB",
+   "published": "2026-11-10T05:34:03.000Z",
+   "fields": [],
+   "summary": "'허니 트랩': 엔비디아 스파이 스캔들로 인해 한국이 경각심을 갖게 되었습니다."
+  },
+  {
+   "id": "мемкоиныслицомилонамаскакакхакерыкндротмываютмиллиардыпослекриптокражи",
+   "title": "Мемкоины с лицом Илона Маска: как хакеры КНДР отмывают миллиарды после криптокражи",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3U0RC05RnhxZDE2ZjJuT1NQRTVzem5LMlh1WXFDTGVMMExCZm5MaHZULVhIR1BuX29QaDRycW5BUDlnbXZISEJmVnRtT29ILWROMXVfVXlXeWVMRjdXM3JuUHFnSUJvM3ljRHQ4TWMxR3ZiVlJKcFYtU1RTZ3NCeGtDWldDRHVRbzQweEUzamd1SUg3ZmFlSktKQ1MzRlI2OGlRWkViMVVnWWFPRURjMWl5dWF5YTFBOHo5WUJB?oc=5",
+   "source": "РИА Мелитополь",
+   "country": "RU",
+   "published": "2026-11-10T05:17:14.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "Elon Musk의 얼굴을 가진 Memcoins: 북한 해커들이 암호화폐 도난 후 수십억 달러를 세탁하는 방법"
+  },
+  {
+   "id": "armydronecrashesingimpoduringtraining",
+   "title": "Army Drone Crashes in Gimpo During Training",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMW5TaE94YmdJVE45aWxqZ05HNTdZRjJRYVlfQTRkZ1VNMnNIc3dJQ0RGS0xQbUlEVHJmZ0tGUm9ieVdRNkxKQTlVVDItaXFxbXpka2lCTkNKbnFyaVd2X2UyZHdNQV9CNk1tNXh6TWlOb0VwaHNRaXJxWTJSRnVoaDJIU1lWV3lB?oc=5",
+   "source": "조선일보",
+   "country": "GB",
+   "published": "2026-11-10T05:11:05.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "육군 드론, 훈련 중 김포서 추락"
+  },
+  {
+   "id": "elon2028presidentmonkeyduckandmorehownorthkoreanhackerslaunderedstolenbinancecry",
+   "title": "'Elon 2028 President', Monkey, Duck and More: How North Korean Hackers Laundered Stolen Binance Crypto",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOajZkbVdsUnA2ejgzSWdKUEtIaWxkRzFjNC10Sjk4VzVvNHVVN2xhdWdaQlRuYWQ1aUdaTG04Q2l5SGY0MXdDWGRGUTRpTzJ3RXMzQWJIRHVvRHdGODN4bkpSRkM0SzBpcGdoVThzQ0NiR2RhcDNJb3o5OWlYUmo2MnI2MFU4WFVpUzQxLXloVjRiQ244TnR2QkVKei1tbkJoWFZJNzlnYk05TjBBaWlSd3pfQQ?oc=5",
+   "source": "Benzinga",
+   "country": "GB",
+   "published": "2026-11-10T04:57:10.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "'Elon 2028 President', Monkey, Duck 등: 북한 해커들이 훔친 바이낸스 암호화폐를 세탁한 방법"
+  },
+  {
+   "id": "exusdiplomatsaysopcontransfermaynotmoverapidlycitesnoconsensusinwashington",
+   "title": "Ex-U.S. diplomat says OPCON transfer may not move rapidly, cites 'no consensus' in Washington",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnSGV1NzdsRGRqeVFidktzeFRPX2djWHdaWUgzWjFoU2R2RDlfa2lfdGY1VVZrdFk1MHhNYjhKWkptMTRvSWhyX0RuUjA0TXFQSFlNb2EzaERlQQ?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "GB",
+   "published": "2026-11-10T04:56:11.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "미국 외 외교관은 OPCON 전환이 빠르게 진행되지 않을 수 있다고 말하고 워싱턴에서 '합의가 없다'고 언급"
+  },
+  {
+   "id": "nkoreaacceleratesunderwaterwarfarepushwithnewtorpedotest",
+   "title": "N. Korea accelerates underwater warfare push with new torpedo test",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xSFJPZHFPdVF1bURJa3BvZ1ZXWHFqX2x1cEtjTWU3cHBYYnBMM0NCVUZ5WHA1a0JyUzAxc3dSRF9mNUF1dkhRWWxCQmF3eDZNa0xXT0w1OA?oc=5",
+   "source": "The Korea Herald",
+   "country": "GB",
+   "published": "2026-11-10T04:54:58.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한, 새로운 어뢰 시험으로 수중전 추진 가속화"
+  },
+  {
+   "id": "кндротмываетукраденнуюсbinanceкриптовалютучерезмемкоинысизображениемилонамаска",
+   "title": "КНДР отмывает украденную с Binance криптовалюту через мемкоины с изображением Илона Маска",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNmFCV0ZPemU5S2xqeGxNcG5DdEpiVmtWQ3lOOVhHVWRKUUJvWnhNUzF5Mnh5OVk1WkRtbTdadW1Ua3FzRWNZS1VYRGxMMXl2bGttLWNBeW4zQVRuXzlPUkRvREN5Ym12M3pjTWxTckp5ZjdwTDg5ZDU4TDlIeHJMbkhMT3lmdjZla1M5UFlrN0lPYTZDNGFCY0lidThaaHpBOTk3UmtUQ3ZsTnQ1QUttYVJQOFRoOUI5dE9FZ1paaU1JRUZlckNJVTJwVF9wUVNMejRvVdIBzwFBVV95cUxNY3ctQTltcWVBZXlHVmlMblRSUEpBUGp5cEdoc3lFQVVtUWtYUHZwNEdYVUhCVzJEQTZoNG56b2cxYUVySmszUlp0VzdyUU95R1lIQkFISy1ESDVMaGYyX0lSSHJNYklGRUp3UzdYTHBuWDZiX3JoUUtyODNyQ1BtTjVnSzNJMkozSmQxeklzYndrQlNLTmdVLXhKOHN4cm5nOVkxZnpFdG5wdGdhNkdtS2NlajFzLWtBdndfNkRQMnNNUExaUEFPTWd3aTNOY00?oc=5",
+   "source": "NV Бизнес",
+   "country": "RU",
+   "published": "2026-11-10T04:50:00.000Z",
+   "fields": [],
+   "summary": "북한, 엘론 머스크 이미지가 담긴 밈코인을 통해 바이낸스에서 훔친 암호화폐 세탁"
+  },
+  {
+   "id": "leadnkoreaskimstressesimportanceofagriculturevowstoimproverurallife",
+   "title": "(LEAD) N. Korea's Kim stresses importance of agriculture, vows to improve rural life",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvT2xDMWhUOG9DTmI1eHdEWE1nUThvdzc1dGZYaG1sZ0tvVTAyUE82SW5SalpaaWRWY2ROMmNGdWh6VUIwd29HUW1ndG5VVUtidHl4VTcxWE5Odw?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "GB",
+   "published": "2026-11-10T04:49:07.000Z",
+   "fields": [
+    "society"
+   ],
+   "summary": "(리드) 북한 김 위원장, 농업 중요성 강조, 농촌 생활 개선 다짐"
+  },
+  {
+   "id": "чтослучилосьэтойночьювторник10ноября",
+   "title": "Что случилось этой ночью: вторник, 10 ноября",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WdjFjU1RWeUVrWmVZMlhoeWJCd2NwVlZ3WE83eWRpbFliR0p6RF9hOXRXREEzcjUxMjRFZkhWeU9sSHM0bWtwOFdfONIBS0FVX3lxTE1WdjFjU1RWeUVrWmVZMlhoeWJCd2NwVlZ3WE83eWRpbFliR0p6RF9hOXRXREEzcjUxMjRFZkhWeU9sSHM0bWtwOFdfOA?oc=5",
+   "source": "Интерфакс",
+   "country": "RU",
+   "published": "2026-11-10T04:30:00.000Z",
+   "fields": [],
+   "summary": "오늘 밤 무슨 일이 있었나요: 11월 10일 화요일"
+  },
+  {
    "id": "кндриспыталановуюскоростнуюторпедувяпонскомморе",
    "title": "КНДР испытала новую скоростную торпеду в Японском море",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUDhJOEJxbUd6c2ZlOTRNSExtb05YWDJpZndoWkllY0txRVlQWTU4bDZUYWFrbExiNTZCNlppN0NnWjhJSFZhOThFdkpWMmFhMmJZbzV3NFhTd1hRZE5ETW1xTWJvN0prbEEzSkJ6eWtwZ2QwVDdhN1VjTjVxMllIekF4YVYxdlJpOWJWNG5wYUdZQ3ZMTGJRMGlRX2VRbXNXX3VMcXQzNUh3QQ?oc=5",
@@ -119,6 +509,18 @@
    "summary": "탈북자들은 김정은의 딸을 후계자로 보는 방법"
   },
   {
+   "id": "朝鲜63亿美元币安黑客案因迷因币出现戏剧性转折",
+   "title": "朝鲜63亿美元币安黑客案因迷因币出现戏剧性转折",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGxERGZfNmVjOVRFV0hSUlBWUWdRSDdjLURwZExBNWtZNjN3Q2d1WXQ3R3lKUjByUlhCNC1NbjFlWFgwQXJEX0ZNcWJtNEE4eDR3NE81em50djBYZ1dGajN3UmxCQV9SUWdyUUFaUjlueThQWHJTSG1ySnhiemx5ZC1IMmFpc1ZqaF9WYmRoRS1qeEg2QzdQSWdxVGd3VWNkMWRJdDVYZVhtd1pkTDlZYmlNenFNdWhMRmRxU2x1QQ?oc=5",
+   "source": "Bitcoin News",
+   "country": "CN",
+   "published": "2026-11-10T03:05:10.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "63억 달러 규모의 북한의 바이낸스 해킹, 밈 코인으로 인해 극적 반전"
+  },
+  {
    "id": "北朝鮮子供の強制労働学校教育の一環に幹部家庭は免除高英起エキスパート",
    "title": "北朝鮮「子供の強制労働」学校教育の一環に…幹部家庭は免除（高英起） - エキスパート",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMXB3Mk5NY3RHa1VmOWFid0p5SWhRbW1FdDc2WVM5NTFnVkRUYXV6VzJYN3I2Vi1qNG5palMyR2tWNmMyOXFQSlJyQlpVTEZxR3RoWm80X3Y2Si1iNVQ0engwd1pBTHp2OWZpRG9WVWtSLVp2M2w1dFU1MkhMRkQtSnhteFl1azZF?oc=5",
@@ -196,6 +598,30 @@
     "security"
    ],
    "summary": "드론 추정 물체 김포 주택가 추락…군, 북한 연관 가능성 조사"
+  },
+  {
+   "id": "dronelikeobjectcrashesingimporesidentialareamilitaryinvestigatingpossiblenorthko",
+   "title": "Drone-like object crashes in Gimpo residential area; military investigating possible North Korea link",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84OWU2cUY1Q3dqempXbGdHZTNVaEE4NFp2X244bUV5Ym53X05OdUtyM2lJMklILUNjOWxyVE5YeDBEa29KeXY0cjJnR2dzLUgtaW9YWmN0ZWM?oc=5",
+   "source": "파이낸셜뉴스",
+   "country": "GB",
+   "published": "2026-11-10T02:35:38.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "김포 주택가에 드론 유사 물체 추락… 군, 북한 연계 가능성 조사 중"
+  },
+  {
+   "id": "militarydronecrashesingimponociviliandamagereportedarmy",
+   "title": "Military drone crashes in Gimpo; no civilian damage reported: Army",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNFVYbVBuQWpTS1RiSUZXRkkwbFowRk01NW83eGh2bmJPYnFmU0JMQ3paZFBJaTYwNGJfTGhPQlRrdnd1YUJoc2VDTmVoczl5YkZOcko2RkllSVZCWVNudGN2TTU1dkFlNWNUVklmNVRKeWtIVHU1cmZ2UXVsVGJ3VHhHTnJjQmVPeEIwWUdYUHJ1Z3FNV2lpWEEyek04STVjcnU2MnpTdW5yb2hzQ2F6eTk0VldtQkRzUkNDOTVR0gHDAUFVX3lxTE93VHp2REZnQlY4c1lJUm1BeVh5Vzh2M0lycHVmTmttSHJKS1l2SE12bGZINkZRV2thWHdNM0VGeUtFUUpHX2t5NDZ4TW5iSFJ6M182WG51YklCbUlhVVowdXFuLS03M0F4SnIwLUZUS0JYaXJnSlRTeHlxMGc5aU9ranZPYlpGMEsteFM2TlJ3eXJLRFVDYzZSMjhISV9GeWhxdk1nQVJLLUtGWk82VkdYRjZBWmNmMDQyeUpWMVNmLWZsWQ?oc=5",
+   "source": "The Korea Times",
+   "country": "GB",
+   "published": "2026-11-10T02:31:03.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "김포서 군용 드론 추락… 민간인 피해는 보고되지 않음: 육군"
   },
   {
    "id": "g7foreignchiefsvowtocooperateovernkoreascyberattacks",
@@ -690,6 +1116,18 @@
     "economy"
    ],
    "summary": "북한 관련 해커들이 밈 코인을 사용하여 훔친 암호화폐를 옮겼습니다."
+  },
+  {
+   "id": "币安8万亿韩元被黑事件引发关注8年来被通缉的北韩黑客朴镇赫曾涉嫌攻击索尼影视与孟加拉国央行",
+   "title": "币安8万亿韩元被黑事件引发关注，8年来被通缉的北韩黑客朴镇赫曾涉嫌攻击索尼影视与孟加拉国央行",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wMVZRRVRLMFA1U0RZQk0teFpDUm1IVklzU213LUZtQlQzYjBtZ3FOZ3FCNHhOcnN4M09DR2IwbE8xaDVnYnpmVUpiYVEyS0lwYXk4YlpsVkkyTnI2OFZOOXdR?oc=5",
+   "source": "재경일보",
+   "country": "CN",
+   "published": "2026-11-10T01:20:09.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "8조원 규모의 바이낸스 해킹 사건이 주목을 받고 있다. 8년 동안 수배 중인 북한 해커 박진혁이 소니픽쳐스와 방글라데시 은행을 공격한 혐의를 받고 있다."
   },
   {
    "id": "朱昌日会见中共中央党校代表团",
@@ -1240,6 +1678,16 @@
    "summary": "북한 해커, 자작 밈코인으로 바이넌스 도난 자금을 씻는가=Elliptic 보고"
   },
   {
+   "id": "菜肴从朝鲜百姓饭桌上消失连买大米都困难dailynkchinese",
+   "title": "菜肴从朝鲜百姓饭桌上消失，连买大米都困难- Daily NK Chinese",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPWm1FaXVGYlp5RTFDS1Z3T2ExcmVzbXVjQ2JsSlpURERUVF9TMGJyWDJSWDBralY0Z05WaDM3eDVCSFVrRUxTVk1pdHg1a0EtaDVmTE4xRFMtNEJHem9nR1ctMzRFck1oeW1ta2haYVF4c2drcTEtNllVYVdXZGVUVlJfeEN4akJ6ZzkwR0RtTnZVQVkwaUNGdnhLVUlkbnpOWUR3UjJyMmk4TWxtd0Y5V25Gd0RUUXJxN3E2VWE3eG9sd3RtU2pxWWVDOUtIdWF0MjVrZGYtOURUNkFhQ0hVREk5TEVubFBOZER6SUJ1dXJZa0F2UGhfZkNMTnpUbkV0TmxHSlRXUXhQdVRjUWNack1yMy00RGhjV3E4QjVVOWVzOS1kdllfN2tNNmxfbVoxTjl5WjlBVHA?oc=5",
+   "source": "데일리NK",
+   "country": "CN",
+   "published": "2026-11-10T00:04:47.000Z",
+   "fields": [],
+   "summary": "북한 주민들의 식탁에서 그릇이 사라지고, 밥도 사기 힘든 상황 - DailyNK Chinese"
+  },
+  {
    "id": "美전문가들미북회담가능성커졌지만보여주기식회담이태규의워싱턴플레이북",
    "title": "美전문가들 “미북회담 가능성 커졌지만 보여주기식 회담”[이태규의 워싱턴 플레이북]",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KUFM2NVhCYmhndWE2bFA4RjV5MXhqdjdwVDFmNzFnWnFUOHk3Z2FvclQwYlc2dWJSczhENW00VUVLSkh4eDI1ZHQ3dEdQSGhrVXfSAVNBVV95cUxQeWtrN0ZFeFJrREFDQ2hIeTF6OW1SMzI2eWNRc2UwSExIeUFFTlowV00ydXdyT1U2TlNTQVNHOVZkWGs0cGRuUHNlejVSSE9CVFluVQ?oc=5",
@@ -1499,6 +1947,16 @@
    "published": "2026-11-09T23:16:00.000Z",
    "fields": [],
    "summary": "북, 신형 어뢰 시험 2027년 초 배치 목표"
+  },
+  {
+   "id": "northkorealaundersbillionsstolenfrombinancethroughelonmuskthemedmemecoins",
+   "title": "North Korea Launders Billions Stolen From Binance Through Elon Musk-Themed Memecoins",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSVE2aWdNbFJGYU16SHNvUWtNQmpCb2JWYW5uZGZSUzVoYkNPQWZ4bDRPX1Q3SWVYd3JUMHRidG9wTENIbF80cVBYSE5mX1JWRWRvcDFqcmhyd2lhT0loanppWm9hMkFlWm16a3U4S0xjNDg0cEFpXzRXMEkybzB2UNIBhgFBVV95cUxONnJSNDNpX1M5VGZ6UndMOXBMdEFUSFFqOTNnSE1PX2tuWWxwNHl3aHhKQmtQOVZJaUFicVVTZVlSakpVa09QVzJKeU9ZRmNPYnRHeUx1MER4N2hvT0NCakZZZ25ZdmpMLUtGNTJEemZ2TDFqU3h6dlhLLTBPNGZaXzMzYUZ4dw?oc=5",
+   "source": "Mezha",
+   "country": "GB",
+   "published": "2026-11-09T23:05:00.000Z",
+   "fields": [],
+   "summary": "북한, 엘론 머스크 테마의 밈코인을 통해 바이낸스에서 수십억 달러를 도난당함"
   },
   {
    "id": "韓国金浦の展望台に10日間で1万3000人超対岸に北朝鮮の自走砲写真拡散で関心koreawave",
