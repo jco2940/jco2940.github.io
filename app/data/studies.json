@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07",
+ "updated": "2026-11-10",
  "items": [
   {
    "id": "doi:10.12987/9780300291841-013",
@@ -16,6 +16,28 @@
    "source": "crossref",
    "added": "2026-11-02",
    "titleKo": "부록 C: 북한의 인권, 거버넌스, 발전을 모니터링하고 발전시키는 주요 기관"
+  },
+  {
+   "id": "doi:10.1080/24761028.2026.2758007",
+   "title": "Transitional justice without transition: norm contestation and accountability in North Korea",
+   "authors": [
+    "Sarah A. Son"
+   ],
+   "date": "2026-11-09",
+   "venue": "Journal of Contemporary East Asia Studies",
+   "countries": [
+    "GB"
+   ],
+   "lang": "en",
+   "topics": [
+    "diaspora",
+    "humanrights",
+    "politics"
+   ],
+   "url": "https://doi.org/10.1080/24761028.2026.2758007",
+   "source": "openalex",
+   "added": "2026-11-10",
+   "titleKo": "전환 없는 전환적 정의: 북한의 규범 논쟁과 책임"
   },
   {
    "id": "doi:10.4324/9781003569831-15",
@@ -1489,6 +1511,24 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "국제제재에 따른 중국과 북한의 무역과 경제협력"
+  },
+  {
+   "id": "doi:10.3917/pe.263.0209",
+   "title": "Fallout: The inside story of America’s failure to disarm North Korea",
+   "authors": [
+    "Rémy Hémez"
+   ],
+   "date": "2026-09-08",
+   "venue": "Politique étrangère",
+   "countries": [],
+   "lang": "fr",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.3917/pe.263.0209",
+   "source": "openalex",
+   "added": "2026-11-10",
+   "titleKo": "낙진: 미국이 북한을 무장 해제하지 못한 내부 이야기"
   },
   {
    "id": "doi:10.1080/09512748.2026.2729314",
