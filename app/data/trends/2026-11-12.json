@@ -2,6 +2,380 @@
  "date": "2026-11-12",
  "items": [
   {
+   "id": "김정은동해해군기지건설현장방문현대화요새화강조",
+   "title": "김정은, 동해 해군기지 건설 현장 방문…\"현대화·요새화\" 강조",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tNkZEMkJ6aXRxbk5zRHJkTnpMbDhBcFU2eVFTelluZXBSQm1IYnlubnJlWnJfV0VERjhUT3BDcFphWnVHYW9FNjc2VGZheWc4WDRrV000WnhlVFVU?oc=5",
+   "source": "뉴스핌",
+   "country": "KR",
+   "published": "2026-11-11T22:15:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은, 동해 해군기지 건설 현장 방문…\"현대화·요새화\" 강조"
+  },
+  {
+   "id": "暗号資産窃取の精鋭バイナンス攻撃の北朝鮮ハッカー被害拡大日本企業も標的",
+   "title": "暗号資産窃取の「精鋭」 バイナンス攻撃の北朝鮮ハッカー―被害拡大、日本企業も標的",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLUUFIOXpVSGVONHdkek5xbEpDUTRRYkEyRTUzVTBld3hIOHg1akVrM1pvUV9HTjViMmVXWjU4YXdTQlVPWDVDYmxLU2hHWTZUNWlKcW03Q0U1aU5kWU1lSjFrYw?oc=5",
+   "source": "時事ドットコム",
+   "country": "JP",
+   "published": "2026-11-11T22:09:00.000Z",
+   "fields": [],
+   "summary": "암호화 자산 절취의 '정예' 바이넌스 공격의 북한 해커 - 피해 확대, 일본 기업도 표적"
+  },
+  {
+   "id": "暗号資産奪取核資金源の稼げるツール対策にハードル制裁難航北朝鮮",
+   "title": "暗号資産奪取、核資金源の「稼げるツール」 対策にハードル、制裁難航―北朝鮮",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KQXQ0SmUzWjNGM2pZQUo1Q3ppRU9VQWZWd1VfMmJ4T3FjMFRKRngycGIwWHFheEdsakNNdjlmcGF5Q2I4WkdUbmtPYkJXOUd6eXhXTVZrMFpNR1M4cjNJdjBzYw?oc=5",
+   "source": "時事ドットコム",
+   "country": "JP",
+   "published": "2026-11-11T22:09:00.000Z",
+   "fields": [
+    "security",
+    "economy"
+   ],
+   "summary": "암호자산 탈취, 핵자금원의 ‘벌 수 있는 툴’ 대책에 장애물, 제재 난항-북한"
+  },
+  {
+   "id": "김정은강원도해군기지건설현장시찰기지현대화다기능화요새화",
+   "title": "김정은, 강원도 해군기지 건설 현장 시찰...\"기지 현대화·다기능화·요새화\"",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBINm9OU3BCbmc0NW5fUFhMVFg0bFVlMVdFY1RibVhWU2NTX0M4X2sxU055QzRCVlFTWkpLTTQwcGxLRmhfMTEwRVd2UEZEdWdNRHIwcmNuellUT1hyS0V3dHE5UUhaWVUzdGJ3?oc=5",
+   "source": "SPN 서울평양뉴스",
+   "country": "KR",
+   "published": "2026-11-11T22:08:41.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은, 강원도 해군기지 건설 현장 시찰...\"기지 현대화·다기능화·요새화\""
+  },
+  {
+   "id": "g7condemnsnorthkoreasmilitarysupportforrussiademandswithdrawaloftroops",
+   "title": "G7 Condemns North Korea's Military Support for Russia, Demands Withdrawal of Troops",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DSmhVVTNjUFFoQjEtLWpYZGFtSVRZQ2dmb0xIWTdRQlJjMzNMMnZvMTY2QkN4dTVKbkNqZG8xekdtRTlIZEkteDZ4b1VGeXcyR3A3UmhEY2Jhdmo0bjFrSlc2dExMaWdERjRWMHVR?oc=5",
+   "source": "news.sbs.co.kr",
+   "country": "US",
+   "published": "2026-11-11T22:02:48.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "G7, 북한의 러시아 군사지원 비난, 병력 철수 요구"
+  },
+  {
+   "id": "북한자료db구축속도붙는다",
+   "title": "북한 자료 DB 구축 속도 붙는다",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SX1NSNmdkdHpSdnliZDFLZm82Q0tkcHBKcWhIR2xEdkVYZmpzNHhTcXJCRVBTTGpLcFc1MkZiOXRJYmtRZE1Yel9JSjREN1d6MUVlSGpvd1Ezc25VRUNXZ2hyYXJWREFnUmdKRXFabEtYeHBlclAzVNIBjAFBVV95cUxQcWhUd3VyWUd6WDFsaXFsNnVETlFGaS1XSEVhTV9ybjBuMjNhZjdaOXZTdkwydG5PaWVTbkRXSWpEajZWRERJQjFqMnBKN25hS0Juak5MLW1JTUNIckFtcmptc24xTktpbU5UaG5rc3c2Yk9sV0ZfUXI2dlhLaTNEQ0Jxb0NEa2xrYUxlVg?oc=5",
+   "source": "Chosunbiz",
+   "country": "KR",
+   "published": "2026-11-11T22:00:00.000Z",
+   "fields": [],
+   "summary": "북한 자료 DB 구축 속도 붙는다"
+  },
+  {
+   "id": "southkoreatoacceleratedigitizationofnorthkoreamaterialsanddbs",
+   "title": "South Korea to accelerate digitization of North Korea materials and DBs",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFFyS2R6UkszUEhKX19SQXlUQUlIZXo2ZkR0dWZJcnZVY3FNWnlaM0NPeGZUV1lEZE1PR3dlR1lqTDU2R00tS1pja2t6YV94bGZsQThWYTZLUmktTUlBMmtmeDdDc1N0dzUtN1RIQWdsVVpZTlNLTlE0V2llS3J3d9IBlAFBVV95cUxNdW9Hc2c3S05rYkZfZ1JLVTR0X19pU2hxZHBzTlVIX19YWWdRTTJTX2JVZS1LNlU1NUl2WGxmU29OeTJtcXdsNnplb2hoVWxIdkNnbERqTUxiaTRvOVE1MGRJdUJaY0FwNEY3aW1CWWMySFRhSk1UY1E1dk5NbFhWeHZfWUVJQVZSejhlUmFfQ19UXzY3?oc=5",
+   "source": "Chosunbiz",
+   "country": "US",
+   "published": "2026-11-11T22:00:00.000Z",
+   "fields": [],
+   "summary": "한국, 대북자료·DB 디지털화 가속화한다"
+  },
+  {
+   "id": "北朝鮮資料のデジタル化とdb構築加速",
+   "title": "北朝鮮資料のデジタル化とDB構築加速",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWkk4dUJkX3ExTkg2Wm5OSFV3Nzh3MEEyMG9SOFk1YV9XUk95ZlhkZEZmeEZUTEpraEJpV3VtQUFWZW1NOWNiM256SGRsdkVqS3AyNXktc09iS190aXh0NHNWV2FuODdFVWlkWHNzTjgwWXVkRWVHWC1hQWs3eGtBSNIBlAFBVV95cUxPXzFJc3NwVktnZ05FRTNhVTgtZXFyNGJnU1UyZ1pQTTRoXzcycnZPeDJhOHlvZFM5VF9UNkp0Nkk1VmEzV1gzeldKWC0tYXR6VGNWTGhUb1Q5REp2UmVoeTRUSUtBdWZPZnBFZ2F4SlJ2X3FSOGl6MEU0VVRhT3RvMXhuZUNEUlVIVmJkeEpud3Z5WW5L?oc=5",
+   "source": "Chosunbiz",
+   "country": "JP",
+   "published": "2026-11-11T22:00:00.000Z",
+   "fields": [],
+   "summary": "북한 자료의 디지털화와 DB 구축 가속"
+  },
+  {
+   "id": "북한날씨평안함남황해구름낀날씨함북은대체로맑음",
+   "title": "[북한날씨] 평안·함남·황해 구름 낀 날씨…함북은 대체로 맑음",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40Tmh2dmNxRHF2Z09LMl9WcVVjRDZXMm1Jb1k1Qi1rc1RGenJmRUtMR291SkVYZUx6NXZSNWtNcGRlZUswQmNtT0trQ25zUTk5bDRfMWVmZWtWejTSAWBBVV95cUxQYmxHWHVXb2N1RElweW9EUHFpNjdiN1Qwem5YaE05cnNyQXpaRHo5cVV5cnFVem0zeHl1Slk2RzlNLWdrR0V5RVNJcmpaSHNMeFpaeFk2UUQwZDR6QUU0WmM?oc=5",
+   "source": "연합뉴스",
+   "country": "KR",
+   "published": "2026-11-11T21:57:16.000Z",
+   "fields": [],
+   "summary": "[북한날씨] 평안·함남·황해 구름 낀 날씨…함북은 대체로 맑음"
+  },
+  {
+   "id": "김정은동해안해군기지건설현장시찰정해진기간내완결",
+   "title": "김정은, 동해안 해군기지 건설현장 시찰…\"정해진 기간내 완결\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16aUNQUGd3ODQwTlpidTFHaWZCS21UZlQ0UXRMZTFyX20xVkNUUnhKcmtHQ3hVbVdGMXYtNHRVdHY0UHBIVzV0SHNaNnllVXB0MDdPczFGMXE4SnfSAWBBVV95cUxPaGY0YXlVRElLMVZCaExTSkk5MVJEN1lTb2swVnVGVkFUR3Fod2ZtZkpkMHV4R1VieGpTR2IzeUtKMFZjSEJXQUNvOFRlRWdvZVJ5SFJxdDZQNUNoX3JwMFY?oc=5",
+   "source": "연합뉴스",
+   "country": "KR",
+   "published": "2026-11-11T21:56:56.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은, 동해안 해군기지 건설현장 시찰…\"정해진 기간내 완결\""
+  },
+  {
+   "id": "주중북한대사관확장수리북중고위급교류확대반영정치",
+   "title": "주중북한대사관 확장 수리…북중 고위급 교류 확대 반영 : 정치",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqYVdpS2RxdGRuLUhvTFlUMy1pYnhRaF9PZDI0b2tMUUlVV1RsWDdyWDI3bnZHQ0xzaVFwdHNWbDk3bm9HenFyZUNzYw?oc=5",
+   "source": "재경일보",
+   "country": "KR",
+   "published": "2026-11-11T21:46:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "주중북한대사관 확장 수리…북중 고위급 교류 확대 반영 : 정치"
+  },
+  {
+   "id": "dangoveryconcernedaboutussouthkoreatiestrumprespectsnorthkoreamorethansouthkorea",
+   "title": "Dan Go: “Very concerned about U.S.-South Korea ties... Trump respects North Korea more than South Korea”",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCcGw2X0RyR0czbjV4enBqQldQN2MtVDZoeGhKSE1aNURRR1dxMGkxLTZpc0VOeWVTZ1B5UUJQSzZvTGZEeE9CMjJVdDdOa3lQeGdJcl9mVmw?oc=5",
+   "source": "파이낸셜뉴스",
+   "country": "US",
+   "published": "2026-11-11T21:44:57.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "단고 “한미관계 매우 우려…트럼프, 한국보다 북한 더 존중”"
+  },
+  {
+   "id": "댄고美의원당선인트럼프한국보다북한더존중",
+   "title": "댄 고 美의원 당선인 \"트럼프, 한국보다 북한 더 존중\"",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MVVRsV0pPSnBidTMxaXBtVHo4WWVCNExyUlY0OS00QWYwMGJQYTFhWVJnT2JZMG5nV3hSNUJBbG05ZGhkMjkwOWZKdnZVWmYtQ3hlQjlnekU4dTZDVzJULVFXMWtOS29BU1ZDWjRB0gFzQVVfeXFMTUZnSFFGcHM3bzlPY0FvX3BxbXlaM0V6SkotaFdVQnZFcTRQN3Nzd1F3d2JoTGlzNXloeHppWjRJSTFBTGdjNWVTSThDRXlod21Bc3ZxNmlPNHFhUWVPdDJBT3Q1ejdnNU91SUZVeGEyMjhKOA?oc=5",
+   "source": "한국일보",
+   "country": "KR",
+   "published": "2026-11-11T21:44:00.000Z",
+   "fields": [],
+   "summary": "댄 고 美의원 당선인 \"트럼프, 한국보다 북한 더 존중\""
+  },
+  {
+   "id": "whydidnorthkoreagiveuponreunificationkimnowcallsthekoreastwohostilestates",
+   "title": "Why did North Korea give up on reunification? Kim now calls the Koreas two hostile states",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGdrbm5ONFluYXlPcUJiRVlyVHhWczZCV3Q1UFhSRXJoRS14LWJHZTV0OVRpdVFqSDB0bWlVN0hkOVJQdDl5RzctSERFSTBhc0ZXMmxlUzI4ME1zXzA5ejlncV9OLU04Vk15ODRJU2ZUX25DLUNJcXF4WmpZY1FZelN1eVlTWU1CM0Z1Tk1hR0thREY4VDNnRXJYZ1FaalhwUFNFLUM4Q2J6Z05lRzZoRlBzWnVFTEZ4aVhxcQ?oc=5",
+   "source": "Nacionale",
+   "country": "US",
+   "published": "2026-11-11T21:38:20.000Z",
+   "fields": [],
+   "summary": "북한은 왜 통일을 포기했나요? 김 위원장은 이제 한국을 두 개의 적대국이라고 부릅니다."
+  },
+  {
+   "id": "댄고한미관계매우우려트럼프한국보다북한존중",
+   "title": "댄 고 \"한미관계 매우 우려…트럼프, 한국보다 북한 존중\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHc3ZIY2xYX1lWZS1zV2JMTjhibXROUXI0ZjR5RDBTdUlXRXJtWjBNLUpiZV9XenJ1alozRjBFR2JqNExRSy1PS3NlOEppUzBEZHJEZk9GeUpHcTRHSGlZYXVZYzlyMjg?oc=5",
+   "source": "연합뉴스TV",
+   "country": "KR",
+   "published": "2026-11-11T21:34:00.000Z",
+   "fields": [],
+   "summary": "댄 고 \"한미관계 매우 우려…트럼프, 한국보다 북한 존중\""
+  },
+  {
+   "id": "逃げたら現場で処刑北朝鮮ハッカーたちの過酷な境遇",
+   "title": "「逃げたら現場で処刑」北朝鮮ハッカーたちの過酷な境遇",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAySmhQMm9wTFczLVJpTVpyd3hyNDZFbFp6bjVkekVmUHRVd3hqTURJcVBrQkJXU1hTUkt2NEVlTXlkVVVnY1BSZTBmamY0OHZwc3BSVlhkdFA0a2RJaTQ0M1ExUVBxeE55dGVCcGdHU3JtRnRJZTJV0gF8QVVfeXFMTnQ5Vmk5VldyYVBYcDlCMW5Fb21HZVFhSkdQemt5WHUwZ0FCUFk3S0FJR3g2bTRJVFQyRDZwbTROX0JhbUl0RGZTb2lLYTV4SzhrQW4xSF9rcTFCc29mbmFjbzNwY05aVDdLWHJ4UTRnS1BqRnRVRGtIWUd1Ug?oc=5",
+   "source": "ｄメニューニュース",
+   "country": "JP",
+   "published": "2026-11-11T21:09:54.000Z",
+   "fields": [],
+   "summary": "'도망치면 현장에서 처형' 북한 해커들의 가혹한 처지"
+  },
+  {
+   "id": "ellipticanalyticssaynorthkorealaundersstolenbinancefundsviahomemadememecoins",
+   "title": "Elliptic analytics say North Korea launders stolen Binance funds via homemade meme coins",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN2tldWxydGZ6RXZ4NldRNnZCeV92UDRqU0hoUnZyVW4yc1NZeFdlMVpDa3BOLXJ0blotTm5jdy00aXdTc0hkeGV5dXl4ZTd2WmFSUjA5S19MZVU0YkJKMlBTbUY0UGZCZFdlUmNUTWlqUjc4VkVjS0ZzemZqSmFabXBvT0RVRFpJTTVnRkQ3MjBIaTZDX01XQWtJVFdZWFhjUndHSEo3UllBc2VEbmRkVFoxOUhHcHFMT0VMQlRURXQ5RzU3THfSAcgBQVVfeXFMTVBPMmJxZmpfQ2tZR3lZZTdHVFFDaldqV2FNLXZ1aFllZlA2TnZXeDVKUGMzd2RlcXVsUlJ4dUhMVEx4cjhXRjRwaWg1cDlBcVNUVzA4dElOV3lENGItc2sydmtxYWVRZVM5LVJTaVppcWstX2JRNy1OdDN5M21lV1ZlN3VWM1FvWHJnR3JvNnFpOGh6YTIwd2tYUVFwNlBBdjJJRHdxb2xzOUlYa09vRzViME1acXAtN19INzN2MVF5bHYtMkZTbzA?oc=5",
+   "source": "VOA - Voice of America English News",
+   "country": "US",
+   "published": "2026-11-11T21:09:28.000Z",
+   "fields": [],
+   "summary": "Elliptic 분석에 따르면 북한은 수제 밈 코인을 통해 훔친 바이낸스 자금을 세탁하고 있습니다."
+  },
+  {
+   "id": "democraticpartyledspecialcounselprobespresidentleesguiltycases",
+   "title": "Democratic Party-Led Special Counsel Probes President Lee's Guilty Cases",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmcwR0hybHdSX3pZX0RBZmxwUDJqN3lPckJuajhTUEd6czRuejFjN3c1Q1ZWYks2TnB5bEtYb2ZjcVFDUjhvVTRKdS1sSjljYnJfSEtLaV82eUtMRGg0UmR3SGdDSDVSZHBlUVpWY1B0SDFwckxSNGloVlgyU0NlZjE1WHJuZDBJ?oc=5",
+   "source": "조선일보",
+   "country": "US",
+   "published": "2026-11-11T21:05:39.000Z",
+   "fields": [],
+   "summary": "민주당 주도 특검, 이 대통령 유죄 조사"
+  },
+  {
+   "id": "주중북한대사관확장수리공사정황북중교류확대반영추정",
+   "title": "주중북한대사관 확장·수리공사 정황…북중 교류확대 반영 추정",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OY2dOMWJma2xORmVwR1l0eEhOMjY4M2FkLXBMSjE3UTdfaHlmbHNiR2ZkbzRvRU50WnVGQ2pqSERsdVhyZzQ4ZWk0WmwzNGx0bVZTMWdOSjhnazjSAWBBVV95cUxPdXFPNS1OVEVraW5sWE56V0dDUUpSLThrYlBZcUNaTW93VTdWaDROZmotb2NROHBSU2kzVXVUYjRLbkMzSWxIUkxaZWtlOFpBNWp4RjdyYjVPamprZ2VmTWU?oc=5",
+   "source": "연합뉴스",
+   "country": "KR",
+   "published": "2026-11-11T21:00:01.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "주중북한대사관 확장·수리공사 정황…북중 교류확대 반영 추정"
+  },
+  {
+   "id": "다큐인사이트트럼프와김정은네번째만남가능성긴급진단한반도정세변화주목",
+   "title": "다큐인사이트, '트럼프와 김정은 네 번째 만남 가능성 긴급 진단' 한반도 정세 변화 주목",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EOFM0MS1ocnFUMGxRWHNycXFpd0p6S0xiLWYxUjRYWElnai1lQXRvcDMzWjZ1MnA1YXNhRm5UN3loYjJmRUVzaGc2eVV6ZTluQ3NhbUc2TTBIVFNSRFdVTkx2MmF6bEtTeWZLQTJwaFk?oc=5",
+   "source": "한국강사신문",
+   "country": "KR",
+   "published": "2026-11-11T21:00:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "다큐인사이트, '트럼프와 김정은 네 번째 만남 가능성 긴급 진단' 한반도 정세 변화 주목"
+  },
+  {
+   "id": "g7북한이란의러시아군사지원규탄",
+   "title": "G7, 북한·이란의 러시아 군사지원 규탄",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JM0ppNmpWd0pNaEc5UEJmWWxuTHZjbUpMV3dqVnIzSkhmLU9xLXdwNmM3TlZuR0VmUGdQaEhld0dRaGFVUjFKcW5LVXllYkV4cnpZcjJoVkpWMk5Ydm1MZllIelFwZG9VT2hwZ1RMdmZJdG02?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "country": "KR",
+   "published": "2026-11-11T20:51:46.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "G7, 북한·이란의 러시아 군사지원 규탄"
+  },
+  {
+   "id": "soaringcabbagepricespushhyesanfamiliestoskipkimjang",
+   "title": "Soaring cabbage prices push Hyesan families to skip kimjang",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0JhUFlBTEVrelhqWExnVW1PS3NYZTYyd01ISVFkaFItNGlQdlZXWDNyX25oRnpVTWNmN1VnU1dVVmlWa2lxbTNlWVVtVk5kQXZUMmgxZzBKVE52b1BZZTdSZWd1Vy1ZQzV5cEV5eWM5TjA1LTVyeUpnUFU0T3doRFRfRTB3SG1V?oc=5",
+   "source": "데일리NK",
+   "country": "US",
+   "published": "2026-11-11T20:48:59.000Z",
+   "fields": [],
+   "summary": "배추값 폭등으로 혜산가족 김장 생략"
+  },
+  {
+   "id": "댄고한미관계매우우려트럼프한국보다북한더존중",
+   "title": "댄 고 \"한미관계 매우 우려…트럼프, 한국보다 북한 더 존중\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wOWphc3hZYzRobThQZzk4eXZMWDdpWWZ5aFBjaGxXU3B1SWJDb0I5M1NGQTR5S29MRTZZdlhveGpvemVyUFE2T1c4MjAwcXFzeGpQT1h3RUJQam_SAWBBVV95cUxNeEdzTjhOb1JIZUpvNW14U3VxRTdiNlVlU3NtbFBCVnh6TE5GZ1RqdDNhMlNyNGFrWmF4MG9hSnBLTGlNeHBrRUlTaEhGSXVDaTE5X2JaY1ktUXV2WXdvQzk?oc=5",
+   "source": "연합뉴스",
+   "country": "KR",
+   "published": "2026-11-11T20:45:16.000Z",
+   "fields": [],
+   "summary": "댄 고 \"한미관계 매우 우려…트럼프, 한국보다 북한 더 존중\""
+  },
+  {
+   "id": "看看朝鲜如今的处境就能理解我们为什么不向大鹅提供致命性军",
+   "title": "看看朝鲜如今的处境，就能理解我们为什么不向大鹅提供致命性军",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VWVppZVJzcmktMU5yQ2pFTTltbXYxdTVNdVl6by1yYjRjNjlBS1M1ZnRDc2stNDhUUU83amVzcDNna2hIcktQQ2t4MTJOM2ctMXNFNg?oc=5",
+   "source": "手机网易网",
+   "country": "CN",
+   "published": "2026-11-11T20:41:43.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한의 현 상황을 보면 우리가 왜 거위에게 살상무기를 제공하지 않는지 이해할 수 있다."
+  },
+  {
+   "id": "northkoreapublishesitsnewconstitutionreunificationisgoneandkimjonguncommandsthen",
+   "title": "North Korea publishes its new constitution: reunification is gone and Kim Jong Un commands the nuclear forces",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPenNoWE9nNWJVT1pJWEV5Qml2WnoxYk1nNFk3eUQ2RGdGZVlLbzcyczZ2anhEX2V4WkZPSnZ4YnY0dHdlWEk4QU5zOHlzS1cyTENoZTQ3S2FPQ2lSbzNwY1lNT3d5dE9DVV9URnRQVElVSkdaQnFWaTJvVXhJQlJaeVZ0R0hoVUVOMFhnQU9lSGl5OHlZZzU4OTdFMW9nZE9lR2tVbTVGcjhtVDViY1JpRG1peGtGcHF6SU9PeTBudklUNmtoeXc?oc=5",
+   "source": "Nacionale",
+   "country": "US",
+   "published": "2026-11-11T20:41:12.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "북한, 새 헌법 발표: 통일은 사라졌고 김정은은 핵무력을 지휘한다"
+  },
+  {
+   "id": "북한선전매체에헌법전문공개두국가공식화",
+   "title": "북한, 선전매체에 헌법 전문 공개…’두 국가’ 공식화",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uUHR5UlJ3SjZWNUVLUlRITXdRcFAteVpiVm82cjVOS2ptaE93aVB4NHFvWElITnp5eWRZSkN6cTh4OFJSOFRuU1RMdndLMzlqLUx5WVo4bElmS0ttaVpEMkJVSUJqVDA?oc=5",
+   "source": "연합뉴스TV",
+   "country": "KR",
+   "published": "2026-11-11T20:33:00.000Z",
+   "fields": [],
+   "summary": "북한, 선전매체에 헌법 전문 공개…’두 국가’ 공식화"
+  },
+  {
+   "id": "apec의장국中의역할론에주목미중정상한반도문제논의할까",
+   "title": "APEC 의장국 中의 '역할론'에 주목…미·중 정상, '한반도 문제' 논의할까",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnSVVyZVNUbUN6WW9oTHpFc2lLbm5NOFN3bi0yMWdhbzN1LUdXRmNvRG5XR2tsOXdsU2lZbHJacXVYTXNOejFEQkxxWS1LUEFGTXQ0Y21xSE5FWTdidkpF?oc=5",
+   "source": "뉴스1",
+   "country": "KR",
+   "published": "2026-11-11T20:30:00.000Z",
+   "fields": [],
+   "summary": "APEC 의장국 中의 '역할론'에 주목…미·중 정상, '한반도 문제' 논의할까"
+  },
+  {
+   "id": "kimjongungivenfullcontrolofnorthkoreasnukesasmysterydocumentleaksonline",
+   "title": "Kim Jong-un given full control of North Korea's nukes as mystery document leaks online",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWDdfbm42WEQybE5qendhTFg3UHpfc0FZSVZmUlUyZTFhOC1RZzFkcVlaYXFzeTYwMHN3VzJiX3cxcVgzNTRCZXlXVHdkQTY3NHhHNzVvMll2ZHNZbnJNdFZ4djlackJMOHlRLVFEejJfQzczMlBpdW9YNEgtcTJ6RXYwNUpzM21LYlRjbmRaSGU1VDd0dEYxcmFDTF9OWVE4SUtrbTVPNG5SUQ?oc=5",
+   "source": "https://gnyouth.net/",
+   "country": "US",
+   "published": "2026-11-11T20:19:31.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "미스터리 문서가 온라인에 유출되면서 김정은에게 북한 핵에 대한 모든 통제권이 부여되었습니다"
+  },
+  {
+   "id": "100년전북한서잡힌물고기430마리국가과학자료됐다",
+   "title": "100년 전 북한서 잡힌 물고기 430마리…국가 과학자료 됐다",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Tc2xmam56LU9sc095cTdzblQ3X0NUOEQyOTRFbWtpdjctbzZVM3owd3lmcnkyM3gycEpvN21tcUJqZDIwSW12SmZFQ3I4SXI3dHR2d1ZmSnpNS2hHamZNclEwVnZHS0k?oc=5",
+   "source": "더쎈뉴스",
+   "country": "KR",
+   "published": "2026-11-11T20:10:12.000Z",
+   "fields": [],
+   "summary": "100년 전 북한서 잡힌 물고기 430마리…국가 과학자료 됐다"
+  },
+  {
+   "id": "eu대북제재노르웨이우크라이나등10개국동참",
+   "title": "EU ‘대북 제재’…노르웨이·우크라이나 등 10개국 동참",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbk5WZzJGWnpFcnJhMlZkZUQwOEdHa1J2enRTMTd5cDNjUUJfR0Rvd3V3cW9PZmJ5WC01ZF9OV3EzZDRjeXNpbVhac1Y3b0RlbWxpaW41NVltZUN0MTAtYWRKMm1UR0J6dElDQ3pqcEZ2UTk2ZWo4UzhaMUFvd3VyYUFvRU0xWWh1MVQ5clZR0gGQAUFVX3lxTE9VcWhzdGFKb3p6eGFORmVabGdhdUFZeVRDVEhibTZpUmlLMlBCZkIyLXdfRXd6YUY5RTZOcl9DcnVyR2s1V1VQMFpCWi1yTmI3cHd3b1Vubmc2Tm03TGk4TXVJSVNmMEF2OGNzTDBaakFzaEIya2NqUXQxWFl1QjRJdEptcUhJaktzcHFlcWQ3VA?oc=5",
+   "source": "VOA 한국어 홈페이지",
+   "country": "KR",
+   "published": "2026-11-11T20:09:57.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "EU ‘대북 제재’…노르웨이·우크라이나 등 10개국 동참"
+  },
+  {
+   "id": "congressmanelectkohexpressesconcernsoverskoreausallianceundertrumpadministration",
+   "title": "Congressman-elect Koh expresses concerns over S. Korea-U.S. alliance under Trump administration",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GQ1RHMzF1QTRSZktWdkRPcUt0ek11RWlJd084czdIYlJpVDViSlF2STRwd2lwSTRjOFBnQ2I5cnlCZHVUOGdKYXJsRlE3MHI0dEd1ZmdyTmROUQ?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "US",
+   "published": "2026-11-11T20:05:01.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "고 당선인, 한미동맹 우려 표명 트럼프 행정부 하의 동맹"
+  },
+  {
+   "id": "mb北200발쐈는데왜80발연평도뜬전투기황당진실",
+   "title": "MB “北 200발 쐈는데 왜 80발?”…연평도 뜬 전투기 황당 진실",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16TnpkbGtzTmg4bEcwUlpOaWZUTFFzNGE0M2tJTWJndE9DZjI2Um01WDBrY0JNYVhaOG04VFZlYVVyQldJY2JEZnNveVF5VGNmZEZGQmQ3MkZkWmxaUTlhcHVR?oc=5",
+   "source": "미주중앙일보",
+   "country": "KR",
+   "published": "2026-11-11T20:00:00.000Z",
+   "fields": [],
+   "summary": "MB “北 200발 쐈는데 왜 80발?”…연평도 뜬 전투기 황당 진실"
+  },
+  {
+   "id": "미국하원중소기업방어지침의무화법안북한등적대세력사이버위협대응",
+   "title": "미국 하원, ‘중소기업 방어 지침 의무화’ 법안…북한 등 적대세력 사이버 위협 대응",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjJ0TmZIR1FES0RlaTMyYThqV3VGSDg4WWdPYk95R1d0c0NtUjlsdFBkeEFIYld3MjA1c3Y4cTNGbFRuSTJXT1A3Yy1EYzZPOWpXRlU4M2ZaZnJWM0RBV2YyZzgwQzRtb2VIZ1RHN1prYVRuaUUwYndDbndNZmRuZDZFYXBjYUVMU1NGedIBjwFBVV95cUxOVGxLTnl2Nzh6eHo1cG9EdUxMU3R6ZHJkSzg0WUp0VjZxcURXek50MTJLWGpSNXliOGFFUVk4OVdRZHZBdURNV3RJemdGNG9oSm1PcmhQSnhwa29tblEzdUR4ZVJ0aVJySkZzbkxFWnU5TjA4REo2ZWJkNVhjYzBrZmVJdGstVGNOZXJpRWI5aw?oc=5",
+   "source": "VOA 한국어 홈페이지",
+   "country": "KR",
+   "published": "2026-11-11T19:49:40.000Z",
+   "fields": [],
+   "summary": "미국 하원, ‘중소기업 방어 지침 의무화’ 법안…북한 등 적대세력 사이버 위협 대응"
+  },
+  {
+   "id": "미한외교장관g7계기회담미중간선거후첫만남",
+   "title": "미한 외교장관, G7 계기 회담… 미 중간선거 후 첫 만남",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lZG10WkU0QXhIMzhXM2ZUSTh5XzREYjNQeDFjNGxrYlB3TXpTd1IweERNOEpjU1g0R0xNOVZkNFdrQjBWemJURlRkMGp0VXBBRzItS1dubFhJQ3p5akV0bW1HbHg2V01rNVIwQlhVZmtyZ2g0bU5V0gF6QVVfeXFMTmx6LWZLZDd6aFFLcGFveVdlbmNJeUJPdEVVNmFJNnh4ZUxzaE1QOFZTRTdrZkFVUlNMZTlEMFlWRFBsMktkWEM4R2plTGVVWWNENWMyclJxVHphdmVYNUI1TEhWaHEtbUpMWkdhUWRoY0dnLUdvREh1cWc?oc=5",
+   "source": "VOA 한국어 홈페이지",
+   "country": "KR",
+   "published": "2026-11-11T19:44:47.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "미한 외교장관, G7 계기 회담… 미 중간선거 후 첫 만남"
+  },
+  {
    "id": "hyesanstreetfoodvendorssqueezedbysoaringprices",
    "title": "Hyesan street food vendors squeezed by soaring prices",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FVTExSGdEQnJ6b0xwZF9LUEMwRWJPYkQyV3NKYzdkekdYUFQtUzg1NldpWm11SnloYVdVNXdLNnNmanE4RGJUVUtVU0xrOUdlcm93UEEta0NvbmNmdHlPRDVpSmhxbU5uVFVHNWxkcEI5M2ROZ3dQMl9vR0ludw?oc=5",
@@ -34,6 +408,16 @@
    "published": "2026-11-11T19:30:00.000Z",
    "fields": [],
    "summary": "北, ‘두 국가’ 헌법 공개… ‘남쪽 대한민국과 접경’ 못 박아"
+  },
+  {
+   "id": "81년생또는84년생미남fbi가8년째못잡은북한해커박진혁시애틀뉴스핫이슈",
+   "title": "\"81년생 또는 84년생 미남\"…FBI가 8년째 못 잡은 북한 해커 박진혁 > 시애틀 뉴스/핫이슈",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41ZXM4S2swWDJFRmdtWWdoUFVQQ09EenJ6NW1MY2puZk03Q0ZFQkkybEFyalByQ2wwMHpwS2FiU2VrX3l6SGhzVHZmbzZsWlRTa29rWEVuUWotQmdmTjRlX05oVDRTRGZBeVBkR0VtbGY?oc=5",
+   "source": "SeattleN",
+   "country": "KR",
+   "published": "2026-11-11T19:27:26.000Z",
+   "fields": [],
+   "summary": "\"81년생 또는 84년생 미남\"…FBI가 8년째 못 잡은 북한 해커 박진혁 > 시애틀 뉴스/핫이슈"
   },
   {
    "id": "eset북한라자루스유럽드론업계공격자체생산능력제고목적",
@@ -221,6 +605,16 @@
    "summary": "북한이 헌법을 개정하고 남한을 분리국가로 규정하고 통일목표를 철회했다."
   },
   {
+   "id": "кндропубликовалаобновлённуюконституциююжнаякореяпризнанаотдельнымгосударством",
+   "title": "КНДР опубликовала обновлённую конституцию: Южная Корея признана отдельным государством",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTk1bk9meTY5eTdwazNRYjFlOHBqUjR1MTlIZXR5bThnVUgzNndpLUVoTGFVUVgxNmpBYkxBS3BrMHZlRUlrdTdiQlRSeHF4NVVHcnY1cWp5X3V5c1pEd1BUQWpXSWpMaHVyTmItUXdsVnQzQ2hYMW5sXzVIbkJJQXEydFo0ejNOd0R3dmw2UE5YZnBT?oc=5",
+   "source": "infohub.kz",
+   "country": "RU",
+   "published": "2026-11-11T16:37:47.000Z",
+   "fields": [],
+   "summary": "북한이 개정헌법을 발표했다. 남한은 별도의 국가로 인정된다."
+  },
+  {
    "id": "g7외교장관北러시아파병군사지원강력규탄병력즉각철수하라",
    "title": "G7 외교장관, 北 러시아 파병·군사지원 강력 규탄…\"병력 즉각 철수하라\"",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wS0RkOHdUa2loYkg5T1BFb3E5MG0tN3Y0R2hzY253cVdxYkh3M29aUEN5OWc1eTRsMHk5c2t2WDFCc2g0OEhTeHJ0Y0Jvdkw1eV9lZEpoNGlnZw?oc=5",
@@ -245,6 +639,16 @@
     "security"
    ],
    "summary": "G7 외무장관들, 북한의 러시아 파병과 군사지원 강력 규탄 “즉각 철수하라”"
+  },
+  {
+   "id": "ohiomanchargedfedssayvideogamecompanyfunneled3milliontonorthkorea",
+   "title": "Ohio man charged, Feds say video game company funneled $3 million to North Korea",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUpNNHlReTRtcmlLemlTY09ScGhELTA3cHVqUnotWHpOaHBheGw5U21IdE40RmNRUkJBRjZyRXVBempCVG1EWWlSZHpQNERYaUNuV3FMSnhSa1paU0ZPeUVncEhKWlNMYW1vSGVURHljalQxbFg0ekVGMWVjejBlSVlVQWI0N2ZhSzRsZktwWUZqZU9UMlhEU2pwVUhKOFRlWU14Ym1YTUc?oc=5",
+   "source": "614NOW",
+   "country": "US",
+   "published": "2026-11-11T16:34:41.000Z",
+   "fields": [],
+   "summary": "오하이오주 남성 기소, 비디오 게임 회사가 북한에 300만 달러 자금 제공했다고 연준 발표"
   },
   {
    "id": "g7외교장관北러시아군사지원규탄병력철수촉구",
@@ -335,6 +739,18 @@
     "security"
    ],
    "summary": "개헌에 따라 김정은, 북핵통수권 직접 맡는다"
+  },
+  {
+   "id": "смивыясниличтокимченынготовитпередачувластисвоейдочери",
+   "title": "СМИ выяснили, что Ким Чен Ын готовит передачу власти своей дочери",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUi1jZmZNNUpCSHlsNDdBcXhzUGF6NnZCeHVsNFVGZC1jZDdTbWJjT3FKcDJkdUp2cDc3TFZlbnVXbnRLQ1NrWm41cTRUSEtkMkc5SmkzOEg2TmVGRjlWSTdadXBIc1NNUlR1NE9IMTdNYXc1YUlOSzNCWEJWOGNIT1Q0cnlTc0RlN1J0aWlPVkt6TngxVWxqU0FoQzR3cTh0VE9RejBB?oc=5",
+   "source": "https://saomos.news/",
+   "country": "RU",
+   "published": "2026-11-11T15:55:24.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "언론은 김정은이 딸에게 권력 이양을 준비하고 있다는 사실을 알아냈다."
   },
   {
    "id": "formerforeignministerwarnsofsouthkoreausalliancerisks",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "items": [
   {
    "id": "doi:10.12987/9780300291841-013",
@@ -16,6 +16,55 @@
    "source": "crossref",
    "added": "2026-11-02",
    "titleKo": "부록 C: 북한의 인권, 거버넌스, 발전을 모니터링하고 발전시키는 주요 기관"
+  },
+  {
+   "id": "doi:10.1007/s11192-026-05850-4",
+   "title": "Research leadership attribution, reference use, and journal placement in North Korea under prolonged constraints: a manually validated bibliometric analysis of Web of Science data (1976–2024)",
+   "authors": [
+    "Dae Un Hong",
+    "Eunbin An",
+    "Geonhui Lim",
+    "Seong-A Park"
+   ],
+   "date": "2026-11-10",
+   "venue": "Scientometrics",
+   "countries": [
+    "KR",
+    "US"
+   ],
+   "lang": "en",
+   "topics": [
+    "elderly",
+    "politics"
+   ],
+   "url": "https://doi.org/10.1007/s11192-026-05850-4",
+   "source": "openalex",
+   "added": "2026-11-11",
+   "titleKo": "장기간의 제약 하에 있는 북한의 연구 리더십 귀속, 참고 문헌 사용 및 저널 게재: Web of Science 데이터에 대한 수동으로 검증된 계량서지 분석(1976~2024)"
+  },
+  {
+   "id": "doi:10.1080/14616688.2026.2758214",
+   "title": "State-led debordering: driving mechanisms of the China–DPRK border tourism cooperation zones",
+   "authors": [
+    "Zhehao Cui",
+    "Xiao-xi Ma",
+    "Hai-yan Jin",
+    "Jin Young Chung"
+   ],
+   "date": "2026-11-10",
+   "venue": "Tourism Geographies",
+   "countries": [
+    "CN",
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "economy"
+   ],
+   "url": "https://doi.org/10.1080/14616688.2026.2758214",
+   "source": "openalex",
+   "added": "2026-11-11",
+   "titleKo": "국가 주도의 국경 해제: 북-중 국경 관광 협력 구역의 추진 메커니즘"
   },
   {
    "id": "doi:10.1080/24761028.2026.2758007",
