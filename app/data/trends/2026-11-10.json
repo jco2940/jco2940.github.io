@@ -42,7 +42,8 @@
    "source": "Mil.Press FLOT",
    "country": "RU",
    "published": "2026-11-10T14:14:07.000Z",
-   "fields": []
+   "fields": [],
+   "summary": "북한 잠수함, 신형 어뢰 시험"
   },
   {
    "id": "유엔대화촉구에김여정반발파렴치한한국비호",
@@ -140,6 +141,18 @@
     "security"
    ],
    "summary": "군용 드론이 한국에 추락했다."
+  },
+  {
+   "id": "хакерыизкндриспользуютмемкоинысилономмаскомдляотмыванияпохищенныхсредств",
+   "title": "Хакеры из КНДР используют мемкоины с Илоном Маском для отмывания похищенных средств",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOWdsTkRlRmUzenRCQndPUF9qdkQyU1NMT1A4d3JGcFNGTVp2R2RILWFTZ0dUUm0wQmQ1dzVYaU1kUFB1c2NyeDh4dlBEbzdtdTZaZUpQZUFiRXE1QU1qajBERHZPdU9yUW9FdlFWck40RlAzb2pWQXJaUS1lejJXbExmcURsd2NBVWtTVHZCLUhOVzBTNGhYYnpyNFRXZUU5ZUd4Wk95ZWdQTi1VTHZOR0Fmak9hM21zNXNCeTVvUURvaG5BSFlGQ0djVjJSdlBLRDRLdjQwcETSAdgBQVVfeXFMTzlnbE5EZUZlM3p0QkJ3T1BfanZEMlNTTE9QOHdyRnBTRk1adkdkSC1hU2dHVFJtMEJkNXc1WGlNZFBQdXNjcng4eHZQRG83bXU2WmVKUGVBYkVxNUFNamowRER2T3VPclFvRXZRVnJONEZQM29qVkFyWlEtZXoyV2xMZnFEbHdjQVVrU1R2Qi1ITlcwUzRoWGJ6cjRUV2VFOWVHeFpPeWVnUE4tVUx2TkdBZmpPYTNtczVzQnk1b1FEb2huQUhZRkNHY1YyUnZQS0Q0S3Y0MHBE?oc=5",
+   "source": "Апостроф",
+   "country": "RU",
+   "published": "2026-11-10T11:34:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "북한 해커들은 Elon Musk의 멤코인을 사용하여 훔친 자금을 세탁합니다."
   },
   {
    "id": "联合国呼吁朝韩对话金与正批偏袒韩国",
@@ -288,7 +301,8 @@
    "published": "2026-11-10T09:27:05.000Z",
    "fields": [
     "security"
-   ]
+   ],
+   "summary": "북한군, 신형 어뢰무기 시험발사, 2026년 11월 10일 07:52 - NEWSru.co.il"
   },
   {
    "id": "northkoreaslamsunchiefovercallfordialogue",
