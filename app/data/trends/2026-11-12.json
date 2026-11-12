@@ -2,6 +2,514 @@
  "date": "2026-11-12",
  "items": [
   {
+   "id": "北朝鮮統一条項を削除した改正憲法の全文を再公開韓国を南に接する国と明記",
+   "title": "北朝鮮、「統一」条項を削除した改正憲法の全文を再公開…韓国を南に接する国と明記",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUHFjZ04tNC1VZmFBUnd3REk3Rk1xV2t4eFAxbVpSZEZ0ckQ5TEg2U3hDODRhU2tPZzNoc3JqNFhTSXlqb3pwNGVJTVJidjBLVTRQcXd6X051aXNwWkRDbUlGWkhQdEhET1hZVm9mbDcwRGptYXI1amFqTDVGQkZXWdIBVEFVX3lxTE5pcHA0NHdPNDF3X01PSHhIQ2NtR2I2Z3pDQXFBQkVoT0V6VkxiVU9GNlk5dXNHa2tYbUw2dGhXUWM0OEVYamdWRHlOVWpjTWg0SGtlTA?oc=5",
+   "source": "AFPBB News",
+   "country": "JP",
+   "published": "2026-11-12T04:39:35.000Z",
+   "fields": [],
+   "summary": "북한 ‘통일’ 조항을 삭제한 개정헌법 전문을 재공개… 한국을 남쪽에 접하는 나라와 명기"
+  },
+  {
+   "id": "北朝鮮統一条項を削除した改正憲法の全文を再公開韓国を南に接する国と明記koreawave",
+   "title": "北朝鮮、「統一」条項を削除した改正憲法の全文を再公開…韓国を南に接する国と明記（KOREA WAVE）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pZW94ZmFqQzhGS0h1UmdETG10WE1rWE5WUklxSWJtc1dNMnpscGhnQTJiRWttWGdIeWFYRkpFZ3MzRTZNaFI3dlExSzhhYmhoUU5JUTkwUDhvYUwzSHV1cUNGNUZjbTY0Tnd3RzVOejJXbUd3UGEyczdwbW9uZ2M?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-12T04:33:14.000Z",
+   "fields": [],
+   "summary": "북한 ‘통일’ 조항을 삭제한 개정헌법 전문을 재공개… 한국을 남쪽에 접하는 나라와 명기(KOREA WAVE)"
+  },
+  {
+   "id": "yonhapnewssummary",
+   "title": "Yonhap News Summary",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CNVJ5c18xMU0xYnkwSDM3MFlFbDE5dEJvMG5qUmEzLW4yX1Nib2REeFpzUUZEaWxiczZkYWJyMDZtU3pldmFWOHEtLU1DQmxJc2lERkNTTDF4dw?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "US",
+   "published": "2026-11-12T04:30:00.000Z",
+   "fields": [],
+   "summary": "연합뉴스 요약"
+  },
+  {
+   "id": "韓国大統領府高官米朝首脳会談の可能性低い見通し示す",
+   "title": "韓国大統領府高官「米朝首脳会談の可能性低い」 見通し示す",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVcW9ZQ2dnTTM0ang2SDlmbnNOZXItMmRnb3BzWnp5eXNxUnFRZjdiYjhyMjZnNlVyWkxnS0JLRXN5M3pmRWlhMTJyeFUzUk53ZThTaU1OWQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "country": "JP",
+   "published": "2026-11-12T04:25:33.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "한국 청와대 고관 “미조 정상회담 가능성 낮다” 전망"
+  },
+  {
+   "id": "韓国大統領府高官米朝首脳会談の可能性低い見通し示すtbsnewsdigpoweredbyjnn",
+   "title": "韓国大統領府高官「米朝首脳会談の可能性低い」 見通し示す（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LNVQzTlBwUkEwWkxPbDN1V3l6aWc0czJHNHdkX2QwQlQwU3FfMFZjWFdNMy1MYzRZWTNJRFRoRWpJZ2k2UXc0dGUxN3B2ang3VmhabVVFVmlBcm00alExNGU3dS0xSFUyamxZRkRjRnZaWG1ZMENOZGtOYUtNOFE?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-12T04:24:18.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "한국 청와대 고관 “미조 정상회담 가능성 낮다” 전망(TBS NEWS DIG Powered by JNN)"
+  },
+  {
+   "id": "北朝鮮の新型駆逐艦崔賢核危機では出港だけで米韓に負担の可能性米専門サイト分析",
+   "title": "北朝鮮の新型駆逐艦「崔賢」、核危機では出港だけで米韓に負担の可能性…米専門サイト分析",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHdoTGFybmxhdlRYMThoZ25mNzgyYXhHNHg1SEZPTDhsajd6c09XSExBdnhaUjlwUnBjSDBJYWFzWGRmQVluOTctUXNaUFRhallWV2xEenowX2JHTmp2SzQ0dnQ1UGpZUXpBQTI4Y2RvUnJTOW1wMlJKN25zTENSSdIBVEFVX3lxTFB6Y1YwenRyTVZfRk1yeHFES1djSlpJNW84eVo2YV9SNWVXMENCZTZ5Y2pkRU9BUnBoLUtrN2trZ1h3NnluRGlDV3Zpb0ZQUy12RmlPeA?oc=5",
+   "source": "AFPBB News",
+   "country": "JP",
+   "published": "2026-11-12T04:23:30.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한의 신형 구축함 ‘최현’, 핵위기에서는 출항만으로 한미에 부담 가능성…미 전문 사이트 분석"
+  },
+  {
+   "id": "北朝鮮の新型駆逐艦崔賢核危機では出港だけで米韓に負担の可能性米専門サイト分析koreawave",
+   "title": "北朝鮮の新型駆逐艦「崔賢」、核危機では出港だけで米韓に負担の可能性…米専門サイト分析（KOREA WAVE）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfc2wycjNkS3NkV1FIQjE0OFRiTFVndE9FNWJMX0hqd2xNTHBkMk93ZDB1OWJjazV3SGw0ZGpZOWhtMU1teENWOXgzb1hYTFhYdU9VUFRSYll3cERFV0pPVGhUdDNKV0dLbWV4RHotWHJTWV9YMUFVbG16dE15dTg?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-12T04:21:17.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한의 신형 구축함 ‘최현’, 핵위기에서는 출항만으로 미한에 부담 가능성…미 전문 사이트 분석(KOREA WAVE)"
+  },
+  {
+   "id": "northkoreanstatecouncilorkimjongunvisitedtheconstructionsiteofanavalbaseontheeas",
+   "title": "North Korean State Councilor Kim Jong-un visited the construction site of a naval base on the east c..",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yWW1rZUktTEpsMGFpUmFvc0d5S1V2NG5KdW9KS0M1dkVNcEY2Y25lZVl4Z3FkNzRqd2xSNF8zQy1PNUxmQ3pkZG9rcjc4anRwUDlz?oc=5",
+   "source": "매일경제",
+   "country": "US",
+   "published": "2026-11-12T04:10:53.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 국무위원장이 동해안 해군기지 건설현장을 시찰했다."
+  },
+  {
+   "id": "北韩国务委员长金正恩访问东海岸海军基地建设现场指示在目标期限内完成现代化要塞化的基地这被解释为在致力于海军现代化核武装化的同时将毫无差池地运用陆续建造的新型舰艇",
+   "title": "北韩国务委员长金正恩访问东海岸海军基地建设现场,指示在目标期限内完成现代化、要塞化的基地。 这被解释为，在致力于海军现代化、核武装化的同时，将毫无差池地运用陆续建造的新型舰艇。12日，朝中社表示，金正..",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yWVRHbnVYcV95QkhCbkZsVmxrNWY1bWRWdHpUTDdLQUZvVk5fTlltS1laZmc4OEVXcG1PbkJuZHlKR0dPUUZRd1NwdkxrRDZfNV9r?oc=5",
+   "source": "매일경제",
+   "country": "CN",
+   "published": "2026-11-12T04:10:53.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은 북한 국무위원장이 동해안 해군기지 건설현장을 방문해 해군기지 현대화와 요새화를 목표기간 내에 완료하라고 지시했다. 이는 해군의 현대화와 핵무장에 전념하면서도 잇달아 건조되는 신형 함정을 차질 없이 활용하겠다는 뜻으로 풀이된다. 12일 조선중앙통신은 김정일이..."
+  },
+  {
+   "id": "海軍現代化核武装化速度戦に要塞化多目的化基地建設督励北朝鮮元山近隣の踏村港署工事推定",
+   "title": "海軍現代化·核武装化速度戦に要塞化·多目的化基地建設督励北朝鮮、元山近隣の踏村港署工事推定",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQVVvV1V5UXdKTEM4UkpMM3p1QVh4XzBVYV9Qdl9KNXJNdWtuQ2l6THpBOTUzWHRXRnJOZS1jbHpVaWdnYmlETk1qblZmVzhJOWZJ?oc=5",
+   "source": "매일경제",
+   "country": "JP",
+   "published": "2026-11-12T04:10:53.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "해군 현대화·핵무장화 속도전에 요새화·다목적화 기지 건설독려 북한, 원산 인근의 답촌항서 공사 추정"
+  },
+  {
+   "id": "如果牺牲在朝鲜战场她希望女儿知道照片中的人就是妈妈",
+   "title": "如果牺牲在朝鲜战场，她希望女儿知道，照片中的人就是妈妈",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHA0Z3otRFNQMHhiYllfNjZiMnhvUXpvV090VGFxMlF2N3BfUEFJeEhudE4xQmpkT25aMlFMYWl1WW8xOGEtVXlkalpHUEhsMjM2LXNKUW42QUVMVms3Z0FCdHVLSmRTZjZmYUJvX21GS1FDeG9JREw5bVBTRFZxUHhpT2V5VDN3NmZHNg?oc=5",
+   "source": "Sohu",
+   "country": "CN",
+   "published": "2026-11-12T04:10:21.000Z",
+   "fields": [],
+   "summary": "한국전에서 죽으면 사진 속 인물이 자신의 엄마라는 사실을 딸에게 알려주고 싶었다."
+  },
+  {
+   "id": "rivallawmakersclashovernorthkoreandefectorterminologytradingmocknames",
+   "title": "Rival Lawmakers Clash over North Korean Defector Terminology, Trading Mock Names",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwRW9MbURBWDJVRkM1WnMyYUplempEU3JlSlBFX3NROUE3R0owQm9ubkpqTjluY01Xc3E2aHhlZlpvcnI2TWV4NTlmaTV1NDNHZmZBX0JMbEtja3lZSkxhTk1SNVVvRXpTRVYtS3J3?oc=5",
+   "source": "news.sbs.co.kr",
+   "country": "US",
+   "published": "2026-11-12T04:08:07.000Z",
+   "fields": [
+    "humanRights"
+   ],
+   "summary": "탈북자 용어 사용, 모의매매 등 여야 의원들 충돌"
+  },
+  {
+   "id": "米ヘグセス国防長官無名戦士の墓で談笑衛兵から大声で注意静粛に",
+   "title": "米 ヘグセス国防長官 無名戦士の墓で談笑 衛兵から大声で注意「静粛に」",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNWdtN2FKTzFOS19DWU9pbFR0NnA1dldFZFU5NUVGd2I2LXNrcEV1d3A4Z3VyVy1UTEQ0aEMxMHpjbVo5S1dNUGRmTlYzUDJMbVQ4MUZIb05ReVZxcXd4UnF1R0hRSF8yUTNYZ1R0ZV9kSFdPY0VIemhSSWhKM3pHRkdBU3NmeE02YndrYVJldU00SFlsTjE1ZWxwX1hwdmlUQXBMXzVLNFJOSTdlYVF1U2F2Sm8?oc=5",
+   "source": "ABEMA",
+   "country": "JP",
+   "published": "2026-11-12T03:58:11.000Z",
+   "fields": [],
+   "summary": "미국 헤그세스 국방장관 무명 전사의 무덤으로 담소 위병으로부터 큰 소리로 주의 「정숙하게」"
+  },
+  {
+   "id": "justicedepartmentannouncescoordinatedactionstocombatnorthkoreanremoteitworkersch",
+   "title": "Justice Department announces coordinated actions to combat North Korean remote IT worker schemes affecting more than 70 US companies",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOVdGUjJKSUk3RjdvQ0VNYlIxUzdpUXZFUHQxRGdTaEZRVnI3c1l0SzlOVzFzQjkzWnlCNGNVMVJ1WkxNb0pQX2ZpbDdTUE56S1Bub3YxX2JUWnN6ek9uTTFfay1NNGoyRExiTUZNOS1vUzJZejZ5N3NROHRnS2lyWjdWYnZwTlUxMWVUSFVOWWpaUE8yaTJQWXFLT1FSUGpxN3J4T0xCRXBjamM5TEVRUHBpVnlFRFZJN2ZXWFVZSW5uM1FuRXc?oc=5",
+   "source": "The Highland County Press",
+   "country": "US",
+   "published": "2026-11-12T03:39:39.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "법무부는 70개 이상의 미국 기업에 영향을 미치는 북한의 원격 IT 직원 계획에 맞서기 위한 공동 조치를 발표했습니다."
+  },
+  {
+   "id": "skoreacloselywatchingpossibleuschinarussiasummitvicefm",
+   "title": "S. Korea closely watching possible U.S.-China-Russia summit: vice FM",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SMjhmTGhDZ09KZjYzT2F1Um44UllkY01kUzZVV1pGZGR2WmI1bnJ0R2VvdXYwcG80aWlFbnlOYzkydlc1bjJHY01KUHRKTlJqWXdjNUtPZ3BUZw?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "US",
+   "published": "2026-11-12T03:38:53.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "한국, 미·중·러 정상회담 예의주시…바이스 FM"
+  },
+  {
+   "id": "外洋活動はムリ金正恩の新型艦に重大な弱点米分析サイトが列挙脅威も指摘",
+   "title": "「外洋活動はムリ」金正恩の新型艦に”重大な弱点”…米分析サイトが列挙、脅威も指摘",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mV011aHlxaXYwX1g0dzRtbUdzX2xpdDBpYWR5cVI2R3A3UUNjTXZBTHV6Y0pCZ3pUWVIyeFhxU1RMcjZtQTF2Q3ZfUkZ1UUwyQjB2TnRkQk5sekQ4NDlN?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "country": "JP",
+   "published": "2026-11-12T03:26:15.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "‘외양 활동은 무리’ 김정은의 신형함에 ‘중대한 약점’…미 분석 사이트가 열거, 위협도 지적"
+  },
+  {
+   "id": "presidentleetoembarkonapectournextweeklowchanceofnorthkoreauscontact",
+   "title": "President Lee to Embark on APEC Tour Next Week; \"Low Chance of North Korea-US Contact\"",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1c25rVEFkNUNYa3VyUFBlTDViS3prdzNtX0JOazJGTGdxZXdqYk1mWXNGZmJ5ZUUtU2RZblp4VnMwcEFjU2VmT2FaNlFUV1BzeE5XZjJuZjl4TV9UQUE2Z1ljeVotZ2w5c1A1dnpR0gFmQVVfeXFMUDVzdlJzLXJLMmlCaXpYMTVYR2FGeHgxaVlGajBkUGNaQW1sZUxjYjlaQ3NKcnAxRG91aTNfckhJb2MwdXRNN09vLUw5bTdLbXVjeTRBb0U3Q3lUcWJBTy1KWDliY3NB?oc=5",
+   "source": "SBS 뉴스",
+   "country": "US",
+   "published": "2026-11-12T03:18:38.000Z",
+   "fields": [],
+   "summary": "이 대통령, 다음주 APEC 순방 나선다. \"북-미 접촉 가능성 낮아\""
+  },
+  {
+   "id": "米朝接触の可能性低いａｐｅｃ首脳会議巡り韓国大統領府ロイター",
+   "title": "米朝接触の可能性低い、ＡＰＥＣ首脳会議巡り＝韓国大統領府（ロイター）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBocEloV3Z1bC0wSzFBMWNZWFViM0xqbG0wUDBiWDB0NVNJMk5HMkNtZnhGakdyUkthZElHU2pVSjNqMVVZS1dtSHRyNkVZMkdCVGxfbXdIeWt4Y0ExQUtjZnRfODZZcWlRNVZmQmxFZmtQeGJwUENiLUNVQkdza0U?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-12T03:18:33.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "북·미 접촉 가능성 낮은, APEC 정상회의 순회=한국 청와대(로이터)"
+  },
+  {
+   "id": "米朝接触の可能性低いａｐｅｃ首脳会議巡り韓国大統領府",
+   "title": "米朝接触の可能性低い、ＡＰＥＣ首脳会議巡り＝韓国大統領府",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwMlJlOUEyQl9xTjBBQWZxek9KYzAyeGVia1UtZU9JYmF3S192NU5xYTFGNTFlS3l3eDhMb25VOHp3N2w2dzFpdWVuaFJWTG5ObXI5WWtOeC1uTnVkdVhYZGxEeWtaeXhBZXdLeHNB?oc=5",
+   "source": "Infoseek",
+   "country": "JP",
+   "published": "2026-11-12T03:18:33.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "북·미 접촉 가능성 낮음, APEC 정상회의 순회=한국 청와대"
+  },
+  {
+   "id": "kimpledgesadvancedwarshipsasnorthkoreaexpandsnavalcapabilities",
+   "title": "Kim pledges advanced warships as North Korea expands naval capabilities",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTE85RkN0TUh4NGJkY0kxVmdzcG8tdmllX0dBLV9ORW43MnAyZHhRcEtzRVJOM09oRlFOSmo0MjFWeVVKaWY0c2FYQmc5XzFULTlOaVJia1Q0UnowLXh0Y1VDM3dfb2UweUZzZlJSZmVScEMwRDBOSEJkU2I2VWV5VXY2eEVCakV2bjZqckpnYVBsd1liaU9YMzFfQQ?oc=5",
+   "source": "The Sun Malaysia",
+   "country": "GB",
+   "published": "2026-11-12T03:17:55.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "김 위원장, 북한 해군 능력 확대에 따라 첨단 군함 확보 약속"
+  },
+  {
+   "id": "northkoreandefectorsprotestproposedchangeinlegalterm",
+   "title": "North Korean defectors protest proposed change in legal term",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdU1MU2R0Vkpna0NNRENsaW5wck83N1FMNlNnUTBiSDdIaHNmbmdQeTFwUXA5OGRlU1Z3cFpoSTJPVTIyeW1oRjhOVXZKaWVJVHZDRGgwSWU5dHp1QnVnbnZOTExSUld2bHhwQ0ZlLUlFdTlHVFJOTktkLUU0cWY4YmxVTmpUc2NfcDhKRGtjYnNkNGt0aUt1QVJjanFHSjgxWGhUT2hsMDgyZVJjQVo4?oc=5",
+   "source": "Korea JoongAng Daily",
+   "country": "US",
+   "published": "2026-11-12T03:13:54.000Z",
+   "fields": [
+    "humanRights"
+   ],
+   "summary": "탈북자들, 법적 조항 변경 제안에 항의"
+  },
+  {
+   "id": "southkoreaseeslittleprospectofusnorthkoreacontactaroundapec",
+   "title": "South Korea sees little prospect of US-North Korea contact around APEC",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY1dJem9VN3E1VHNvRnloOEtZOTAwbW5zOHk4S0gzWVhIUlhHZGlzell5VThKbE9lYnhOc3FOdlVBbHB1MHY3dmEyUUQycGZjT3VIdUJqSmI2Tkc2bS1tX1dmRlpFVlBNUFNMMkpzNXp1WHRMa3F1Sk5ncXR3Rmx6VTJyLVV3N2dXdGtvcUM3ajB3SGdNSjgtOGtXenRiQ2pvZmp6Z05iWE5iVjhlVEh2djc2NjltOTd6RS00Rkx0TUExalQyUGhNbHotOGdSSTRvT3lIdnkzVVkzS1FVVDRhOWViRGlpRC1fX3hSZ1FEVFRENWlpeVHSAe8BQVVfeXFMTnNSRjBSa3phcTV2ek1FaEl0WUxqM2JGejFJN3BVTnIzTU1jTmhxakNPazZ0eWppQnczWVJadV9qY05PSmJPVGptZDBLM1NDX3BhTC1BMi1PX0xWUDZKQXJsLV9YSHE4Vl9wSW8yQ0FXdnhMd0RsTHVkU3FMdjZuSjRzSVNjTHB3YTIxVWRPWjBnd254a2FMcS1SVHhkZk15N0thUlRqRUQ1S2JFUnhfUkFha2VUbG8xS3JiUVdHZ3UtdWlzd3NFU1M0NjVUY2dpeU9ocllmM21rZ0hhZG1FbTV6a1VPeVh6djY4dldrN0U?oc=5",
+   "source": "The Economic Times",
+   "country": "GB",
+   "published": "2026-11-12T03:13:37.000Z",
+   "fields": [],
+   "summary": "한국은 APEC을 중심으로 미-북 접촉 가능성이 거의 없다고 본다"
+  },
+  {
+   "id": "northkoreanrefugeesopposebukhyangminnamechange",
+   "title": "North Korean Refugees Oppose 'Bukhyangmin' Name Change",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmdsWDlTR29VaGRPUmlUQXc1eUNfcndaUnhlUmJVdVlXcnVXQWsyaTFCRVk4UEJOY1p6M0g3bF9FZjU3MXlKUGJJdjZBVXZlbnc1MDBiTzhSUkpHOVNRVG95NjRxNFhyMWpSMDhTak5YX0YwVTE3TkktWlRRMEY4Rkdlb0NKd1puXzUwZA?oc=5",
+   "source": "조선일보",
+   "country": "US",
+   "published": "2026-11-12T02:52:04.000Z",
+   "fields": [
+    "humanRights"
+   ],
+   "summary": "탈북민, '북향민' 개명 반대"
+  },
+  {
+   "id": "金正恩氏建設中の海軍基地を視察海洋主権防衛の中核事業",
+   "title": "金正恩氏、建設中の海軍基地を視察 「海洋主権防衛の中核事業」",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jdFVkdmE3MjQ5QlJWQUhWWmdiWk80RkZBanFLbi14elZjVmY3NU85WEllVktpWWZvcU45enBTeUxqRm53MDFRUHdGZnpLQi1kQkHSAVRBVV95cUxQVGI2cWUzR3IzMnhYM0ZwYnVvRHZlNml2bDZTR0s4NGNoTVVyNFhGQ1AzN0M1SllNMEQ3S18wMVhMS2NHbTFZRUNnN0dtV183bEdHN1k?oc=5",
+   "source": "AFPBB News",
+   "country": "JP",
+   "published": "2026-11-12T02:49:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은씨, 건설중인 해군기지를 시찰 '해양주권방위의 핵심사업'"
+  },
+  {
+   "id": "韩国政府apec期间举行特金会前景渺茫",
+   "title": "韩国政府：APEC期间举行“特金会”前景渺茫",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TY2VQenlJZ0RiY0hkUU9ncHZrVE5KcF9aT3hQTzhzOUxpVThWdEtmNUhjeHdKRHJXNDNjSEEwVjl1QUpXa3VienZTQmtTbUNfa0ZxTHJweW5hSzgwYllLWHVfTUtQN2N5NVE?oc=5",
+   "source": "联合早报",
+   "country": "CN",
+   "published": "2026-11-12T02:38:06.000Z",
+   "fields": [],
+   "summary": "한국 정부: APEC에서 '트럼프-김 회담' 개최 가능성 희박"
+  },
+  {
+   "id": "leadnkoreaunlikelytoattendapecorholdtalkswithusofficial",
+   "title": "(LEAD) N. Korea unlikely to attend APEC or hold talks with U.S.: official",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42ekI3Q1oyUXZVNjNZWThkM3VWMm1nYzdkT2hla1Z3ZWg3QVpxSFRSNVZFeWdYM2Z0UVdoQ2tucEVOZmp1OGlHVTlZU21ZT2txNjRTd0FiUTN4dw?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "US",
+   "published": "2026-11-12T02:35:46.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "(리드) 북한, APEC 참석이나 미국과 회담 가능성 없을 것: 공식"
+  },
+  {
+   "id": "外洋活動はムリ金正恩の新型艦に重大な弱点米分析サイトが列挙脅威も指摘金賢エキスパート",
+   "title": "「外洋活動はムリ」金正恩の新型艦に\"重大な弱点\"…米分析サイトが列挙、脅威も指摘（金賢） - エキスパート",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTVpxOWh0aW12YUc2ZzNmek1uMExiRWVaUktiZnBvTUtvcGF3ZzFlMGFyV2RwMDhjNi0tLTlxdGdvT2NUeU1KdW80dFJzck5UZWZ5ckdrSGpwejJoMVo3aG5WVjlrQnZRdUtvc1JiVzJEbEJUYXNETXo4NXJBU09pRzRUbUZncXB6?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-12T02:34:53.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "‘외양 활동은 무리’ 김정은의 신형함에 ‘중대한 약점’…미 분석 사이트가 열거, 위협도 지적 (김현) - 전문가"
+  },
+  {
+   "id": "tv朝鲜续牌评分被篡改疑云hansanghyeok前广播通信委员会委员长一审被判无罪阿视亚经济",
+   "title": "“TV朝鲜续牌评分被篡改疑云” Han Sang-hyeok前广播通信委员会委员长一审被判无罪- 阿视亚经济",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51c0FicU54NUsyYzFMaU5FY0s2U29rSmhXNmNMalhtVWE1Zk45TWdHYkVKem9ZYXdCRFFOb05HMTR1UC04S2dlMmhfNWtKdF81YjdIQzZVSTFsZ1RTQURTR1lEbFk?oc=5",
+   "source": "아시아경제",
+   "country": "CN",
+   "published": "2026-11-12T02:34:21.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "“TV조선 면허갱신 점수 조작 의혹” 한상혁 전 방송통신위원장 1심에서 무죄 선고 - ATV경제"
+  },
+  {
+   "id": "金正恩视察东海岸在建海军基地强调加快推进军港现代化",
+   "title": "金正恩视察东海岸在建海军基地 强调加快推进军港现代化",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiVmhlSDNqWkZkVnUyaXJPYnRCVEpVMUV4cHFaWUZ5QVZmbjJubk1HRkN1Mjd3dElWUmFsVFBYdEljbXMtR0FOM0VRamR2bl9aLVVONGRyZFdjam44cFBPbTZKdjJaRTdRYmc?oc=5",
+   "source": "联合早报",
+   "country": "CN",
+   "published": "2026-11-12T02:28:14.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 동해안에 건설 중인 해군기지 시찰, 군항 현대화 가속화 강조"
+  },
+  {
+   "id": "кимченынпроинспектировалстроительствобазысеверокорейскихвмснаяпонскомморе",
+   "title": "Ким Чен Ын проинспектировал строительство базы северокорейских ВМС на Японском море",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByenJwR1c0UWluV3NQeU9LdXUwdmFmVjlIZFpENUZ0UEx4RE1LUXFVWkZ2QzJWY09EWTRhVUJ1X2FrYnJySEJMajRXckphQdIBS0FVX3lxTFBhUlZ5cDJ2OG9vUTZqYVVKUkNlajNodTI5WFM4TDFFc09tNGppcmpqSzRkR0lBcFhSZGxHbGRNWU52RFdkREFTVEVhcw?oc=5",
+   "source": "Интерфакс",
+   "country": "RU",
+   "published": "2026-11-12T02:28:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은이 동해에 있는 북한 해군기지 건설을 시찰했다."
+  },
+  {
+   "id": "半导体超级项目破土动工",
+   "title": "半导体“超级项目”破土动工",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BVkFpLTEwMmp4ZV9LNmo3YjM0WG54TE1CT3d2RUcwMjkwZmw2SlVKTW84eVlqZHF3RDMtbDd4TU41SzVEX2x0OTZDbzZJTEE3VTVhSnFDeWpnQUV2VGpHZi1GNWtFRWhDbVoxQlBNME5ya1M3VkE?oc=5",
+   "source": "韩联社",
+   "country": "CN",
+   "published": "2026-11-12T02:26:41.000Z",
+   "fields": [],
+   "summary": "반도체 '슈퍼 프로젝트' 착공"
+  },
+  {
+   "id": "nkoreandefectorsprotestchangeinlegaltermreferringtothem",
+   "title": "N. Korean defectors protest change in legal term referring to them",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ILWZubzNiSHUxcXRBTzFhU0hmXzZxN3JONFBhdEQ2cVlXTmw4RWVQMFpnUkdaSjNqN3pXaFMwTjFiUjR3VHRBczRRdFJXZ005V2E2LUNNcEZrZEgzb19wX2xoeWJRcFRNSlI0VWh4MnRLZUo4elVz?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "US",
+   "published": "2026-11-12T02:24:54.000Z",
+   "fields": [
+    "humanRights"
+   ],
+   "summary": "탈북자들, 자신을 지칭하는 법적 용어 변경에 항의"
+  },
+  {
+   "id": "金正恩视察在建海军基地称其为海上安全核心工程",
+   "title": "金正恩视察在建海军基地 称其为海上安全“核心工程”",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50b2pXbTNSSHpPOWJEZTZLbGQ5eFhJN3FCZXNRNTlFWWVULWtTSmo4LVhfYm5BUGZCaC1faVo2RW1TVFN1YlczUFlfNk1fYTBJdERXREJLSVloQUVBMExsMmNBSGp6MEhsRnZPNDBHSDdwTEFsMGJlQQ?oc=5",
+   "source": "马来西亚东方日报",
+   "country": "CN",
+   "published": "2026-11-12T02:23:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은, 건설 중인 해군기지 시찰…해양안보 핵심사업"
+  },
+  {
+   "id": "cheongwadaelowchanceofnorthkoreauscontactonmarginsofchinaapechardtoconcludeforbe",
+   "title": "Cheong Wa Dae: \"Low Chance of North Korea-US Contact on Margins of China APEC... Hard to Conclude for Before or After\"",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tZUxzV3Vob0NETkFfWFdoWE96Yk5QV0pRRHc2Y1g1OUY3MU10enhOOUV3TGhZQUVacG5raFNfSDhIcWt3SWN3QjQxQjVtUUZCWmhpX2VwenlNV3lZbk9BLVB2RDA3UEhmZ2VKXzd3?oc=5",
+   "source": "news.sbs.co.kr",
+   "country": "GB",
+   "published": "2026-11-12T02:19:27.000Z",
+   "fields": [],
+   "summary": "청와대 \"중국 APEC 주변부 북-미 접촉 가능성 낮아… 전후로 결론 내리기 어려워\""
+  },
+  {
+   "id": "trumptoflexmusclesonasiatouraftermidtermslosses",
+   "title": "Trump to flex muscles on Asia tour after midterms losses",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaFRHWTBRV3VmMVktZ1BxalZKVmVFeldjWWNvbzBCeTRWSEZ6bTRJZzN0NmxOdHExdWo4Y0dFc1V0bmp0MWZqYmt5LUhBckJmN1ZlQUwtRVRCM2tXd2tLT3BaQ21lU1pQSThKNU1hamM0LUtDOWxUTUZpMlZuMFVOakFJS1NmVFZHTGluVDVrZXUxanNsMUhlc2MwMG1IVXdpVGfSAacBQVVfeXFMT3doWHMzZW5iYVpyaXhqN3VtOEdWY1pWUTlqQ3VJUUd4UjQyTEgxWFhvU0llcHJmRzVyMDBmODhWQkp4ODlqRWhRbnhwVzRRaEREQV9JSWNpN2JJVTNEcmF6SVlfQ0lWZXd2bFZEYTNRMGQzWDNwaHFBNnk5UHd4WVk0NWdXLUJjM3QxX21oS3hSLS1IX1hoQUw5U3RUMWxTckR3R1l4LXM?oc=5",
+   "source": "The Korea Times",
+   "country": "GB",
+   "published": "2026-11-12T02:14:01.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프, 중간고사 패배 후 아시아 투어에서 근육 과시"
+  },
+  {
+   "id": "seoulsaidtothinknkoreaunlikelytotalkwithus",
+   "title": "Seoul said to think N. Korea unlikely to talk with US",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0pQcjBnX0JJZGVfbzU5dWQyR1N0eWF1WXE0ZlR1U2t3MkZNRjhYMDgxU1hGZGo5Y1NuVnNjMUEzMTZCNGtjMTVBRkFGVHN2dUFYeG5EenpvLTVTLW9ndElwZFVYbzZJOVlta3lTY0VQVThXTlNvQVFlLU55RjJyNFNUcXNSV0prNnVMbUc2RUltWS1obFFUV3NabG1MbkU?oc=5",
+   "source": "Breakingthenews.net",
+   "country": "GB",
+   "published": "2026-11-12T02:12:00.000Z",
+   "fields": [],
+   "summary": "한국 정부는 북한이 미국과 대화할 가능성이 없다고 생각한다고 밝혔다"
+  },
+  {
+   "id": "北郷民の呼称に反対脱北者団体が集会韓国統一相の辞任要求",
+   "title": "「北郷民」の呼称に反対 脱北者団体が集会＝韓国統一相の辞任要求",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yRTVPMmtHQmNSVjdfWl9iSHQwYVJidDg1MG9ManpPVEcwVFZjbjdLR3BDWDlLM0pGMllwNnZqNldINk1pT1AzbTdmYVFJc1Z3aTgwRGlWRjdOd21NZnJ5Z3dMcGg3d1d5Sm5KcmE5M1RSM25rUWpNd1M2eGxQWmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-12T02:10:49.000Z",
+   "fields": [
+    "humanRights"
+   ],
+   "summary": "「북향민」의 호칭에 반대 탈북자 단체가 집회=한국통일상의 사임 요구"
+  },
+  {
+   "id": "脱北民団体北郷民への呼称変更反対チョン長官辞任を",
+   "title": "脱北民団体「『北郷民』への呼称変更反対、チョン長官辞任を」",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcmxQUmNLQTJ0ZFlnZGMzMWx1MzVOTXlHd2t4UV9lQ1ZGTE9odURlTGQyR3dmRkk2UHlETEhKN3l5X3ZqQmV2Q2N2NGYxU09keDJpRnNrU3RieTBDWlN2TXVFbXZjTUFpNVpPOHJ4Zk1tVXdOMHVfbHZMc2YwdkkwZlFJY3JKdw?oc=5",
+   "source": "조선일보",
+   "country": "JP",
+   "published": "2026-11-12T02:09:00.000Z",
+   "fields": [
+    "humanRights"
+   ],
+   "summary": "탈북민 단체 ‘북향민’에 대한 호칭 변경 반대, 정장관 사임을"
+  },
+  {
+   "id": "aseanapecに合わせた米朝接触可能性低い韓国大統領府高官",
+   "title": "ASEAN・APECに合わせた米朝接触 「可能性低い」＝韓国大統領府高官",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xcDY4WmxpRTZhQVByX0dRTWVldXl1LUhGV1Rwa0JwVzRJWlhmMlFlY1I2VzJudHFHeW95WWxpVm5fTnBSdzhsZ3dfSlEtNzN1WlU4SmVaVzBZeHZ0OTVrS2ZWSENFRGtaUExzMW11clFtUTFlU29YWXltdnQtNXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-12T02:08:34.000Z",
+   "fields": [],
+   "summary": "ASEAN·APEC에 맞춘 북·미 접촉 “가능성 낮다” = 한국 청와대 고관"
+  },
+  {
+   "id": "朝中社金正恩现场指导东海岸重要海军基地建设",
+   "title": "朝中社：金正恩现场指导东海岸重要海军基地建设",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGZzZrWjk2TnI1Q04xaEtKUlBJb0dhVWxPa1NKV0hpQ1ppVkVkMGh5VGxiUmxCNk5FOEdIZzF5OGxQU2dfUFQ0aG9UTDRLRy11b3NuR1dOMzJKc1prV0E?oc=5",
+   "source": "京报网",
+   "country": "CN",
+   "published": "2026-11-12T02:05:36.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "조선중앙통신: 김정은동지께서 동해안의 중요해군기지건설을 현지지도하시였다"
+  },
+  {
+   "id": "chinesedriverslosetheirsidebusinessonthenewyalubridge",
+   "title": "Chinese drivers lose their side business on the new Yalu bridge",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVThYRU0tVXhxRWMwa01HOXVDYWVwR1R4UTc2ZDFnLXZHWXBwSXJ1N0czaXRpOGlwTjlFUG1Ba2d6eFhKTTl6cEJvSlVBMkFYT3ZPSnRSNXNGT3Ffcm5LbzNhX0pKeFFTWjF4R2w0UG1FdzEtTHZGdFZJcDl5cy1fbmZWem0tTk5Kc0I1ZmhNeGlLQQ?oc=5",
+   "source": "데일리NK",
+   "country": "GB",
+   "published": "2026-11-12T02:04:13.000Z",
+   "fields": [],
+   "summary": "중국 운전자들은 새로운 압록강 다리에서 부업을 잃었습니다"
+  },
+  {
+   "id": "金正恩氏建造進める海軍基地視察大型艦係留用初期段階か",
+   "title": "金正恩氏、建造進める海軍基地視察 大型艦係留用、初期段階か",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15dVRFTF9ZbGh2YVVQTEpVR2dIdXNEYmVJcFJTZW1sVlNLa3lBeGY4b2tPdHhSU0pTMW4wanpYQVZXUnRXYTNNTllBY3B3TUVMU1FuZDYycDZrUE93ZnV0UHprWTNQTzNfS0Nwa1RST0lReUV0LWc?oc=5",
+   "source": "産経ニュース",
+   "country": "JP",
+   "published": "2026-11-12T02:00:49.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은씨, 건조 진행하는 해군기지 시찰 대형함 계류용, 초기 단계인가"
+  },
+  {
+   "id": "trumprespectsnorthkoreamorethansouthkoreaveryconcernedaboutussouthkorearelations",
+   "title": "\"Trump Respects North Korea More Than South Korea... Very Concerned About U.S.-South Korea Relations\": U.S. House Member-Elect Blasts Trump",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xdzF2cDFkbXAwOVk2OU5GNmIxREtNZjBJSVIybVVNemRqRlpKRGIwaE5oRHcxYXdPZzF0TGRjSFNDWU9LOFNOUHo2ZUVRbHZLWXRFUFdFZXk0bnVIZHRFSlNMRVQ?oc=5",
+   "source": "아시아경제",
+   "country": "GB",
+   "published": "2026-11-12T01:58:33.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "\"트럼프, 한국보다 북한 더 존중…한-미 관계 매우 우려\": 미 하원 당선인, 트럼프 비난"
+  },
+  {
+   "id": "特朗普对朝鲜比对韩国更尊重韩美关系令人非常担忧美国众议员当选人直言批评阿视亚经济",
+   "title": "“特朗普对朝鲜比对韩国更尊重……韩美关系令人非常担忧”美国众议员当选人直言批评- 阿视亚经济",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82UURSbHdMLVZKLS1FX0lkU2E3NVV5YURCdmVVOUg5Wmwyc1J5VWU1NDdMLTFTS2l5QU1iTnpSQlQxTXJqNEdhZXI3ZnZrSnVBRV9nd193bHVzdW1GdUJ1cEtDd2Y?oc=5",
+   "source": "아시아경제",
+   "country": "CN",
+   "published": "2026-11-12T01:58:33.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "\"트럼프는 한국보다 북한을 더 존중한다…한미관계 매우 걱정스럽다\" 미국 하원 당선인, 노골적으로 비판 - ATV Economics"
+  },
+  {
    "id": "지상핵무력완성한김정은이젠바다로北동해안에핵잠수함전진기지구축하나",
    "title": "지상 핵무력 완성한 김정은, 이젠 바다로… 北 동해안에 ‘핵잠수함 전진기지’ 구축하나",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBseWlpa3luamJQaFdtTjcyc2lVN19CM1Ayemp6SWJHR0htRE9teERTYkY3QmNwZzRUd3d3WVNhMkNsZlhaYnpiSkhqa3hGS0M4SmVhb2ZIZ0V6d0M3Rk8yOXZ1N1h1ckd0dklYTQ?oc=5",
@@ -97,6 +605,18 @@
    "summary": "김태규 \"50만 대군 이끄는 장관, 싸움은 야당 아닌 북한과 해야\""
   },
   {
+   "id": "новостикндруважаемыйтоварищкимченыносмотрелновыеуютныежилыесекторывуездетхончхон",
+   "title": "Новости КНДР: Уважаемый товарищ Ким Чен Ын осмотрел новые уютные жилые секторы в уезде Тхончхон провинции Канвон — ДВ-РОСС",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE84bjhKVTUtRncwb0VLVWUwMS1IcVYyeGdQWWNmU0xoWjRvNVFaNjZuQkc0Q2xYai1VVkRUOVQzV0p0Zw?oc=5",
+   "source": "ДВ-РОСС",
+   "country": "RU",
+   "published": "2026-11-12T01:34:27.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "조선민주주의인민공화국 뉴스: 김정은 동지께서 강원도 동천군의 새로운 아늑한 주거지역을 시찰하셨다 - DV-ROSS"
+  },
+  {
    "id": "据悉北韩正在距离军事分界线mdl直线距离不过60公里的东海岸建设大规模海军基地据北韩劳动新闻和朝鲜中央电视台12日报道国务委员长金正恩11日访问了东海岸的重要海",
    "title": "据悉，北韩正在距离军事分界线（MDL）直线距离不过60公里的东海岸建设大规模海军基地。据《北韩劳动新闻》和朝鲜中央电视台12日报道,国务委员长金正恩11日访问了东海岸的重要海军基地建设现场,检查了工程..",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BLUxPZ0xoeHJmdC1yMnI3ZjJTbVpObllRYjZLWmJNM3cwT1M5c0ozWGJQaVpCU0NKdzBEZUEzQVM1N19pT3h2anljNGJnc0FsQk9F?oc=5",
@@ -145,6 +665,16 @@
     "politics"
    ],
    "summary": "김여정은 이를 부인했지만 총정찰국 간부들은 \"우리의 일이었다\"고 말했다."
+  },
+  {
+   "id": "cheongwadaelowusnorthkoreacontactchances",
+   "title": "Cheong Wa Dae: Low U.S.-North Korea Contact Chances",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZFA4NlFmWnlBbkdkM01nNFJZbGNKVGF6S1A5YzZBVzR2LXBMbENaT2dybEtncUNtQnl6dEdaT0lrMi1lZ1J3bk1HN3hLRzBWUnM5cnJnWXQxcGNrTXEwbU5qSDdGLUtmeWxNU0xVRFdCUndtbUJBRjdPeDNwcGpSc1p2TDYzLVAt?oc=5",
+   "source": "조선일보",
+   "country": "GB",
+   "published": "2026-11-12T01:29:55.000Z",
+   "fields": [],
+   "summary": "청와대: 북미 접촉 가능성 낮음"
   },
   {
    "id": "우린북향민아닌탈북민이다",
@@ -291,6 +821,16 @@
    "summary": "청와대, 회담에서 북미 접촉 가능성 낮다고 판단"
   },
   {
+   "id": "presidentleetovisitaseanandapecfromthe16thto19thcheongwadaesaysnorthkoreausconta",
+   "title": "President Lee to visit ASEAN and APEC from the 16th to 19th; Cheong Wa Dae says North Korea-U.S. contact unlikely",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KZVRXOEZHOEppUFBLb1BEZl85YlplckRWN2p6TUtHNmxrX0V2NVhaS0FEaUNDa0E0SW96UmhXOWNmeWhQVVliMVpoZ1B2Ym4wZWl3a0YwQ1k?oc=5",
+   "source": "파이낸셜뉴스",
+   "country": "GB",
+   "published": "2026-11-12T01:12:33.000Z",
+   "fields": [],
+   "summary": "이 대통령은 16일부터 19일까지 아세안과 APEC을 순방한다. 청와대 \"북미동맹\" 접촉 가능성 없음"
+  },
+  {
    "id": "美의회입성한국계댄고트럼프한국보다북한을더존중해",
    "title": "‘美의회 입성’ 한국계 댄 고 “트럼프, 한국보다 북한을 더 존중해”",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QWmVzQjY3blQtR1RIbVA3b1BwWEFkaXVUMHNtZnh1TnZ2cWJMdnpBYlYzVnJScl9ROU01ZmlLb1pNVnhrb3pjbm1XbVNzc0RwWHh5SU9xWmhnY0x3VXpOX0dQU19BUEFoLXRlVdIBYkFVX3lxTE9jc3dON0pRbl85QnVuTW1WblFtSkNnckhGa20xNVBCRzBnT2ZaNUt6empRMFAwRDd1eUNBa0VRODVXcS1tMXFZSkdPUGctNTRLMlUzMHdOOXBac0toRzN1UUV3?oc=5",
@@ -393,6 +933,16 @@
    "published": "2026-11-12T01:06:00.000Z",
    "fields": [],
    "summary": "靑 \"APEC에서 북미 접촉 가능성 작아\""
+  },
+  {
+   "id": "青瓦台apecでの米朝接触可能性低い",
+   "title": "青瓦台「APECでの米朝接触、可能性低い」",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzZ5M0ZFNkpFUVhreGpRRVV2dkN2T0Z3dExYaURoLUZUSC1TWXFscmRhS0JYbHMtTkxHa0t4d3ZQNGhQckpOMllEaGdRa0ZnLTNxeE54dWhNOXJZV0Z0elEzZDRPNFZwUEhoekZqV0ZUSTkzcmtkWEJBcVdqRlVXWkFZSEpRbTYzMXcycFBB?oc=5",
+   "source": "조선일보",
+   "country": "JP",
+   "published": "2026-11-12T01:06:00.000Z",
+   "fields": [],
+   "summary": "청와대 \"APEC에서의 북미 접촉, 가능성 낮은\""
   },
   {
    "id": "김정은강원도통천해군기지건설현지지도읍지구주택구도시찰",
@@ -759,6 +1309,16 @@
    "summary": "육군은 이제 북한 지뢰로부터 보호하기 시작했습니다. [양낙규 국방클럽]"
   },
   {
+   "id": "specialcounselprobesleejaemyungsconvictions",
+   "title": "Special Counsel Probes Lee Jae Myung's Convictions",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmcwR0hybHdSX3pZX0RBZmxwUDJqN3lPckJuajhTUEd6czRuejFjN3c1Q1ZWYks2TnB5bEtYb2ZjcVFDUjhvVTRKdS1sSjljYnJfSEtLaV82eUtMRGg0UmR3SGdDSDVSZHBlUVpWY1B0SDFwckxSNGloVlgyU0NlZjE1WHJuZDBJ?oc=5",
+   "source": "조선일보",
+   "country": "GB",
+   "published": "2026-11-11T23:46:04.000Z",
+   "fields": [],
+   "summary": "특검, 이재명 혐의 수사"
+  },
+  {
    "id": "northkoreapushesaheadwithnavalbaseconstructionontheeastseaabout60kmfromthemdlkim",
    "title": "North Korea pushes ahead with naval base construction on the East Sea, about 60 km from the MDL; Kim Jong Un visits the site",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lYXI3YVVhVXJDb0dObHdxT2FtRVlYeHY4c05jcG5scTRPNzdaV2lkU1plbjdpOEVjQXNTaEVnMFg1RTN6SHV3YTBhSkpyZ3RlTXlPU1FBNlU?oc=5",
@@ -839,6 +1399,18 @@
    "summary": "‘급료도 배급도 없다’ 일 쉬면 감옥 보내… 북한 ‘거짓 경제성장’ 실태"
   },
   {
+   "id": "northkoreawilltrumpkimtalkshappenanytimesoon",
+   "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjd1VEIzM051eUFBbjQtOHdaa3ZRSVFwWFd4MHFRWUhtX1hIWFltcVM0MnhFLVhxbzdSSXR5Rk9pS2hqZmpUclNkaVREOUFPS1VPSUpkd1htNlFVcnV2aEM4ak9jZjJHZkVhb05aNWdJQmFlblBJMVcyTkQwZnA5M1BHZXFtOTBzNXhhRy1CRG1EdWoyZWUzZnRKVEJ0QdIBngFBVV95cUxOcVdlQ0JjUUxVVHppMENVN2xfUkYwYzVDcFNiakw0ZzdfTlo5MDZacGt0Zk4yVUMyck9USXRraXlKRkltMEltYzJQQTVWVjQ4bmpPMUJQbVItUFVNeWhzcG5HWFUtOUNvVm0weDdudVQtTElVMjMtcVdVOGxCSkg1WGU4b1pSb3VNT2NKMmRMdll5QzRXeWJhTjNtRTJxQQ?oc=5",
+   "source": "DW.com",
+   "country": "GB",
+   "published": "2026-11-11T23:06:22.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "북한: 트럼프-김 회담이 조만간 성사될 것인가?"
+  },
+  {
    "id": "北朝鮮改正憲法全文を公表韓国との2国家を明記",
    "title": "北朝鮮、改正憲法全文を公表 韓国との「2国家」を明記",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HTkdQaWhkRkEzcy01MC1pOUhPUGswT2FyenRUNWV6WFdhWmVyUW9mb1Y0b05ZZ2lMOHNfcVRDNS1Wekh2SGlwQmhkNHBsX0R0djI1a0ZQQVFxX2hyek45ak9yNUl3ekx1?oc=5",
@@ -881,6 +1453,16 @@
     "politics"
    ],
    "summary": "북경과 북경의 접촉이 증가하는 가운데 북경 주재 북한 대사관에서 공사가 눈에 띄었습니다."
+  },
+  {
+   "id": "北朝鮮相次ぎ弾道弾を発射韓国の極超音速弾成功に対抗か",
+   "title": "北朝鮮、相次ぎ弾道弾を発射 韓国の極超音速弾成功に対抗か",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DaC1NejlPUjY5WmRRTlY3ZEVpbHJLVGd2MENySWRDMEJYSUh6dzVNcUdsVUVoajdRY0RKUWpnLW5DTFRvSUFCN0Q1a3ZMSWs1dG5GOU5aVm1rM3pVNnRSUE9aTQ?oc=5",
+   "source": "山陽新聞",
+   "country": "JP",
+   "published": "2026-11-11T22:46:16.000Z",
+   "fields": [],
+   "summary": "북한, 잇따라 탄도탄을 발사 한국의 극초음속탄 성공에 대항인가"
   },
   {
    "id": "nkleaderinspectsnavalbaseunderconstruction",
@@ -947,6 +1529,16 @@
     "politics"
    ],
    "summary": "댄 고 미 하원의원 당선인, 한미동맹에 깊은 우려 표명 관계, 트럼프는 한국보다 북한을 더 존중한다고 말했다"
+  },
+  {
+   "id": "暗号資産窃取の精鋭バイナンス攻撃の北朝鮮ハッカー被害拡大日本企業も標的時事通信",
+   "title": "暗号資産窃取の「精鋭」 バイナンス攻撃の北朝鮮ハッカー 被害拡大、日本企業も標的（時事通信）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00c2Jjcm5xamduekMxX3duazBMTlhIbDBBMmtrZ3pySVNubENFYkVQTzB1MjFGMmtPTDdlTm9Jd0N3Yk4wQjBSZGM3NnFDY1l0R3FaaEs3dFVEYl9xdk54eFZKOUE0UWVod1pDYXlKWFVCWHVxSjd6dzEzSjYyNGc?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-11T22:09:55.000Z",
+   "fields": [],
+   "summary": "암호화 자산 절취의 「정예」 바이넌스 공격의 북한 해커 피해 확대, 일본 기업도 표적(시사 통신)"
   },
   {
    "id": "暗号資産窃取の精鋭バイナンス攻撃の北朝鮮ハッカー被害拡大日本企業も標的",
@@ -1046,6 +1638,26 @@
    "summary": "북한 자료의 디지털화와 DB 정비 가속"
   },
   {
+   "id": "interviewtheoldamericaisgoneopcontransferiskoreasanswertochangingusmoonchunginsa",
+   "title": "[INTERVIEW] 'The old America is gone': OPCON transfer is Korea's answer to changing US, Moon Chung-in says",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQzlCN0diR3QtY0ZlcVlaSEYzNlBQMGFTTjJkOHhEWnhfajNWOHcxYmNsZHA0ajZKLUh5amZ6VWFiczhoRllQSXYzUHNtajkzcXBUSGJ6bFVLUmJCTVlXVWZHanJhZ2FaYl83cWtRMC1HUnRkYWx2WnVMb0VSanBNcHVwc2Fhc3ZzeEpzNGcyb3RFdmphSWtGTmx1TXJ2WjlqS0VlMG5MYkU0S2J5ZnROTVN2QVdMNEY1OERHOEtOT01peHBuaXRDMFBRdXc4NTJwYzA5c3dWNURCNlNpWFFN0gHkAUFVX3lxTE1GUThSRHVzOFhNOE5Sc243YmJqbDR2OG5PWnJZMWFRcFc3dDJiWFVsdVdNRE5sYmNtU0Q3R2JVMlk3RG1PcktnTkhEWDNYdG1pM05Mb25SZUNYZ09NbEZETTYxR3dZNzFRcnJzSUVNVkptaWNVUmJhRXVkUzBJcVdjbFFFMHhxd0p0eTdtVE1UWWVpbTAzLW5RMEd2bDNfTzAwR1dEN1VnVm01R0N4WEFkZUJKS05oWXVobG5rUExrQml6WkZsZnBNN3Y5dWJJeXFFNWJsenB2OVNyN3ZmUzlMNG1hdQ?oc=5",
+   "source": "The Korea Times",
+   "country": "GB",
+   "published": "2026-11-11T22:00:00.000Z",
+   "fields": [],
+   "summary": "[인터뷰] '옛 미국은 사라졌다': 전작권 전환은 미국 변화에 대한 한국의 대답이라고 문정인은 말했다"
+  },
+  {
+   "id": "southkoreatoacceleratedigitizationofnorthkoreamaterials",
+   "title": "South Korea to accelerate digitization of North Korea materials",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BVXpPd242eC1Na0RmOTZCemFyVE56eGRKbkwzWHNjSExvRzVhOGlPeHJBR2ZOdXZZSC1iX2oxdVNOZ0p0a1lCNVFDYjZWN1ZNYXc3YkFqSnFieExCaTdHbHZCSDNtdlRwblk5a2tVR19WUThuYmlXRVR30gGOAUFVX3lxTFBaSkJiRG44Rk51Wk9KX2k4ZVhlazRyZnk3Yk9RTmQxaC04bkpfOEFlUnZFR0dFeld2NzBNSXkyU2E0ZGhPdGZHRDM2Wlk5NjU2cW1DcUNfby1qNGlNTWhrLXdYdWFiYk9WWkU2MWt4NGdCcGRGMVNaem1BMmtocWhnQXFydlV6YzlNTVBlOVE?oc=5",
+   "source": "Chosunbiz",
+   "country": "GB",
+   "published": "2026-11-11T22:00:00.000Z",
+   "fields": [],
+   "summary": "한국, 대북 자료 디지털화 가속화"
+  },
+  {
    "id": "북한날씨평안함남황해구름낀날씨함북은대체로맑음",
    "title": "[북한날씨] 평안·함남·황해 구름 낀 날씨…함북은 대체로 맑음",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40Tmh2dmNxRHF2Z09LMl9WcVVjRDZXMm1Jb1k1Qi1rc1RGenJmRUtMR291SkVYZUx6NXZSNWtNcGRlZUswQmNtT0trQ25zUTk5bDRfMWVmZWtWejTSAWBBVV95cUxQYmxHWHVXb2N1RElweW9EUHFpNjdiN1Qwem5YaE05cnNyQXpaRHo5cVV5cnFVem0zeHl1Slk2RzlNLWdrR0V5RVNJcmpaSHNMeFpaeFk2UUQwZDR6QUU0WmM?oc=5",
@@ -1066,6 +1678,18 @@
     "politics"
    ],
    "summary": "김정은, 동해안 해군기지 건설현장 시찰…\"정해진 기간내 완결\""
+  },
+  {
+   "id": "zerion披露遭朝鲜黑客使用ai进行社交工程攻击盗取约10万美元",
+   "title": "Zerion披露遭朝鲜黑客使用AI进行社交工程攻击，盗取约10万美元",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MSDRZM2NXTnNSLUZCbTBSYWtqeWJKV210ck5tTFc3XzRGV2xmbUQ5eDNKODhwWHo3U2VINkZZR2htMFVFWFR2MHE3aUhQZ2hRR2VtNlhCczdKekl1dl8yUmtDbFp2dw?oc=5",
+   "source": "TradingView",
+   "country": "CN",
+   "published": "2026-11-11T21:51:29.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "Zerion은 북한 해커들이 AI를 사용하여 사회 공학 공격을 수행하고 약 US$100,000를 훔쳤다고 밝혔습니다."
   },
   {
    "id": "주중북한대사관확장수리북중고위급교류확대반영정치",
@@ -1120,6 +1744,16 @@
    "published": "2026-11-11T21:34:00.000Z",
    "fields": [],
    "summary": "댄 고 \"한미관계 매우 우려…트럼프, 한국보다 북한 존중\""
+  },
+  {
+   "id": "逃げたら現場で処刑北朝鮮ハッカーたちの過酷な境遇金賢エキスパート",
+   "title": "「逃げたら現場で処刑」北朝鮮ハッカーたちの過酷な境遇（金賢） - エキスパート",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNclYyZEJpa095aW1MdllZa1V4R2JTeWhJMEJadXNqLWdGcVl2RW51aTVRbGQ1WG5weEVDVDFiNFNsdy1DSmdKREtKTThWdDVTZ0NmMTVxZGlMOURwY2VhN2F6NC0xa3lleThmMWtuNU0tV0NCYjI5UF8wRldaTDR5NHJOZExzdWtf?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-11T21:10:43.000Z",
+   "fields": [],
+   "summary": "'도망치면 현장에서 처형' 북한 해커들의 가혹한 처지(김현) - 전문가"
   },
   {
    "id": "逃げたら現場で処刑北朝鮮ハッカーたちの過酷な境遇",
@@ -1362,6 +1996,18 @@
     "security"
    ],
    "summary": "전 외무장관, 한국이 한미동맹 체제에서 '마이너리그' 지위를 위협할 수 있다고 경고"
+  },
+  {
+   "id": "nscstatementsrisksouthkoreausalliance",
+   "title": "NSC Statements Risk South Korea-U.S. Alliance",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHJfa1BUNEUxaDNHSUFpOG5Xb1lnSFdvMmdRTUozQWlSVzVaN2Z4Z1FUTlBRaERyUGJPUm93YW8yNkFzdC1sVEN5OHBRUnIzdGtlS2dGUzNDTThSOGlxXzJOYjg2OExMbEd0ZzExZERyeGZFS0xxblhFLU1FVW56ZEhGbC1TMTdT?oc=5",
+   "source": "조선일보",
+   "country": "GB",
+   "published": "2026-11-11T19:39:45.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "NSC 성명서 한-미 위험 동맹"
   },
   {
    "id": "hyesanstreetfoodvendorssqueezedbysoaringprices",
@@ -1642,6 +2288,19 @@
    "summary": "G7 외무장관들, 북한의 러시아 파병과 군사지원 강력 규탄 “즉각 철수하라”"
   },
   {
+   "id": "g7foreignministersstronglycondemnnorthkoreastroopdeploymenttorussiaandmilitarysu",
+   "title": "G7 Foreign Ministers Strongly Condemn North Korea’s Troop Deployment to Russia and Military Support: “Withdraw the Troops Immediately”",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01QldyZk1IQnNjRVUwX0hPY2RWanJKWUZ1alJaaU4tQ0RTQVBCTGxiTFVGTTNNSV9DbldTS3lxOGZPdDREaVhJT2VhYUZIZ1hGMFFPQmNxdXc?oc=5",
+   "source": "파이낸셜뉴스",
+   "country": "GB",
+   "published": "2026-11-11T16:34:59.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "G7 외무장관, 북한의 러시아 파병과 군사지원 강력 규탄: “즉시 병력 철수”"
+  },
+  {
    "id": "ohiomanchargedfedssayvideogamecompanyfunneled3milliontonorthkorea",
    "title": "Ohio man charged, Feds say video game company funneled $3 million to North Korea",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUpNNHlReTRtcmlLemlTY09ScGhELTA3cHVqUnotWHpOaHBheGw5U21IdE40RmNRUkJBRjZyRXVBempCVG1EWWlSZHpQNERYaUNuV3FMSnhSa1paU0ZPeUVncEhKWlNMYW1vSGVURHljalQxbFg0ekVGMWVjejBlSVlVQWI0N2ZhSzRsZktwWUZqZU9UMlhEU2pwVUhKOFRlWU14Ym1YTUc?oc=5",
@@ -1777,6 +2436,18 @@
     "security"
    ],
    "summary": "G7, 북한·이란의 러시아 군사지원 규탄…\"北 핵무기 규탄\""
+  },
+  {
+   "id": "乌外长找补在经历小摩擦后乌韩关系正在改善",
+   "title": "乌外长找补：在经历小摩擦后，乌韩关系正在改善",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVFJHTTQ3WHFCRm9LME9tY1lMaFpkTVNfcG9sQXdnZm1QbHBNbDVFMUZaUlNiblFTUjMzdmFkSXdSeGVTTGZzXzVBbVlaZEtIRE52eXJBb0NMd1dwU29pcDhLeVhzU2k3cm50aFc2V3lwdUtlblM5UzU3aG9BVW93UUM2RlJlNzhwVnF4eDVKR2dEeWZpMjhjZDhsVFU0bG9zZXVmZHRZcjlqOExQRmNDczQ4U0RzMXhVVjJ1VDJ5YjJPUzFSU0ZXX3lLaTc1eFcxTkpybHFNaVVFaUpWaENpRFJFbUFyZkFuYlZuek1vREpnYWJJMS1RaDl2OEg1Tkd4bnc?oc=5",
+   "source": "新浪新闻_手机新浪网",
+   "country": "CN",
+   "published": "2026-11-11T15:45:58.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "우크라이나 외무장관 사과: 우크라이나와 한국의 관계는 사소한 마찰을 겪은 후 개선되고 있다"
   },
   {
    "id": "g7北러시아군사지원규탄파병병력철수하라",
