@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "items": [
   {
    "id": "doi:10.12987/9780300291841-013",
@@ -326,6 +326,24 @@
    "source": "openalex",
    "added": "2026-11-05",
    "titleKo": "탈북 중년여성의 안전한 내적 경험 표현 사례 연구: ‘양떼 보호’ 문제해결 인형치료 프로그램을 중심으로"
+  },
+  {
+   "id": "doi:10.15703/kjc.27.5.202610.459",
+   "title": "A Phenomenological Study on the Experiences of Loss and Delayed Grief Among North Korean Defectors",
+   "authors": [
+    "Yooji Seo"
+   ],
+   "date": "2026-10-31",
+   "venue": "Korea Journal of Counseling",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "diaspora"
+   ],
+   "url": "https://doi.org/10.15703/kjc.27.5.202610.459",
+   "source": "openalex",
+   "added": "2026-11-12",
+   "titleKo": "탈북민의 상실경험과 지연된 애도에 관한 현상학적 연구"
   },
   {
    "id": "doi:10.32355/oughtopia.2026.10.41.2.179",
