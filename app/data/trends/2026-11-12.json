@@ -2,6 +2,28 @@
  "date": "2026-11-12",
  "items": [
   {
+   "id": "чхунзолотыерукигражданинкндрнашёлприютвгавриловскомселепересыпкино2е",
+   "title": "Чхун — «золотые руки»: гражданин КНДР нашёл приют в гавриловском селе Пересыпкино 2-е",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNmVta2lrUTBEY3AxN0F3ai05Rk1tQXVwU2lNNFVGS2RJNHoxbUl2TENRcHMxd2hVbGJPSU9jc19heENhdUFyVHFnSTdmVmJNYThVOGxtM2Zxb3FyWG01dDY4VFZPWlhITndRRkY4dzJzRzlGUzJCSmJUd2dKOHNpZ2g5ZTViVWgwOGtZTElXcUc5dk11YjB0REozNnpRMDI2NG4wVGJKZkFzMDk2R3pjWExvSnlwTDBieHEtU3ZvTmNrNTlUN00xUk5DLVNQZG9oSWlGbndYOUtDZUl2NUp3RGJ3?oc=5",
+   "source": "Сельские новости 68",
+   "country": "RU",
+   "published": "2026-11-12T14:59:00.000Z",
+   "fields": [],
+   "summary": "춘(Chhun) - “황금의 손”: 북한 시민이 가브릴로프스키 마을 페레시프키노 2에서 피난처를 찾았습니다."
+  },
+  {
+   "id": "судсеулаприговорилтроихк34годамзапособничествохакерамкндр",
+   "title": "Суд Сеула приговорил троих к 3–4 годам за пособничество хакерам КНДР",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51cm1DZVd2RURWODBHcHpDZXF0N1hJb1dpVW5wSUIzTmQ4VmRTZ3NUYkVaaWkzSXlXUW1mVnFxcW5YR1pwMzVFdFQtdHdiQnN2MDBwTTRKNW4xSzkzSHdKbGdIUllLdjB6alVXWVd6QW5pMk85?oc=5",
+   "source": "Techora.ru",
+   "country": "RU",
+   "published": "2026-11-12T14:24:59.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "서울 법원, 북한 해커 방조 혐의로 징역 3~4년 선고"
+  },
+  {
    "id": "中国女足奥运亚预赛与朝鲜韩国菲律宾同组签运不差",
    "title": "中国女足奥运亚预赛与朝鲜、韩国、菲律宾同组 签运不差",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IamJaWmVoa2VHWWxGSlNXdEZlTkR4Z05ycXU1Z0RteHB5TnpVendySGgxZzBuU1ctNUVzcGZ5OUMtQ0k5TWtjMWNrN2dvMDJWcVl1M0Ryb2VXYy1weEE?oc=5",
@@ -239,6 +261,18 @@
     "security"
    ],
    "summary": "최선희 북한 외무상, G7 장관들의 '완전한 비핵화' 발언 비난"
+  },
+  {
+   "id": "кимченыноценилстроительствосекретнойбазывкндр",
+   "title": "Ким Чен Ын оценил строительство секретной базы в КНДР",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODFpRVU4dzFsRlNnSXNGTEFYVjR2V0hIOUlnLWdSSkNPWFlETU12NDZQem9TMHliN3ExUWowdnZodlN4R29FLWN3aUtVX1NFdUR3Z0ZROGF0UWtvOFQyV2JUZWhvRTlJVEp3YW55WUxiamxicThvb3VGZEM1bFA0ekxVSXVUci1VUHFyWWJKeDd2Nm5KYVV4c3h1bVhzS21TQnJ1YS1DZWRNU1E4am5obUFPaVg?oc=5",
+   "source": "Главный Региональный",
+   "country": "RU",
+   "published": "2026-11-12T09:33:46.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은, 북한 비밀기지 건설을 칭찬"
   },
   {
    "id": "кимченынпроинспектировалстроительствоновойвоенноморскойбазывкндр",
