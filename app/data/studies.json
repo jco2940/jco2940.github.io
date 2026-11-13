@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "items": [
   {
    "id": "doi:10.12987/9780300291841-013",
@@ -16,6 +16,28 @@
    "source": "crossref",
    "added": "2026-11-02",
    "titleKo": "부록 C: 북한의 인권, 거버넌스, 발전을 모니터링하고 발전시키는 주요 기관"
+  },
+  {
+   "id": "doi:10.1080/15570274.2026.2749347",
+   "title": "Christian Engagement with North Korea: Pluralism and Presence",
+   "authors": [
+    "Wondong Lee",
+    "Joseph E. Yi"
+   ],
+   "date": "2026-11-11",
+   "venue": "The Review of Faith & International Affairs",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "health",
+    "humanrights",
+    "politics"
+   ],
+   "url": "https://doi.org/10.1080/15570274.2026.2749347",
+   "source": "openalex",
+   "added": "2026-11-13",
+   "titleKo": "북한과의 기독교 관계: 다원주의와 현존"
   },
   {
    "id": "doi:10.1007/s11192-026-05850-4",
@@ -87,6 +109,27 @@
    "source": "openalex",
    "added": "2026-11-10",
    "titleKo": "전환 없는 전환적 정의: 북한의 규범 논쟁과 책임"
+  },
+  {
+   "id": "openalex:W7225958515",
+   "title": "The relationship between language ideologies and workplace bullying towards North Korean defectors",
+   "authors": [
+    "Dong geon Lee",
+    "Ana Sanz Vergel",
+    "Kevin Daniels"
+   ],
+   "date": "2026-11-08",
+   "venue": "UEA Digital Repository (University of East Anglia)",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "diaspora",
+    "politics"
+   ],
+   "url": "https://ueaeprints.uea.ac.uk/id/eprint/105038/1/Language_ideologies_for_repository.pdf",
+   "source": "openalex",
+   "added": "2026-11-13",
+   "titleKo": "탈북자에 대한 언어이념과 직장 내 괴롭힘의 관계"
   },
   {
    "id": "doi:10.4324/9781003569831-15",
