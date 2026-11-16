@@ -590,6 +590,10 @@ a.video-card:hover h3 { color: var(--accent); }
 .m1 { background: #eb6834; }
 .m2 { background: #1baf7a; }
 .m3 { background: #eda100; }
+.m4 { background: #8a5cd1; }
+.m5 { background: #d94f8a; }
+.m6 { background: #4b9bb3; }
+.m7 { background: #7a8a2e; }
 .rp-legend { display: flex; gap: 14px; margin: 0 0 10px; font-size: .7rem; color: var(--muted); }
 .rp-sw { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 5px; vertical-align: -1px; }
 .rp-pairs { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
@@ -612,6 +616,10 @@ a.video-card:hover h3 { color: var(--accent); }
   .m1 { background: #d95926; }
   .m2 { background: #199e70; }
   .m3 { background: #c98500; }
+  .m4 { background: #9b72e0; }
+  .m5 { background: #e0689c; }
+  .m6 { background: #5bb0c8; }
+  .m7 { background: #98a83f; }
 }
 @media (max-width: 760px) { .rp-kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 .ft-auto { display: inline-block; margin-right: 5px; padding: 0 5px; border-radius: 3px; background: #efe8dc; color: #7a5422; font-size: .6rem; font-weight: 650; vertical-align: 1px; }

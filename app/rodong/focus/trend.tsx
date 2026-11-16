@@ -6,16 +6,16 @@ export type Note = { head: string; body: string };
 export type Entry = { date: string; text: string; auto?: boolean };
 type RawTheme = { id: string; title: string; question: string; match: string; timeline: Entry[]; reading: Note[]; watch: string[] };
 export type Theme = Omit<RawTheme, "match">;
-type RawFocus = { slug: string; title: string; subtitle: string; lead: string; field: FieldId; curatedUntil: string; themes: RawTheme[]; synthesis: Note[]; caveats: string };
+type RawFocus = { slug: string; title: string; subtitle: string; lead: string; field: FieldId; curatedFrom?: string; curatedUntil: string; themes: RawTheme[]; synthesis: Note[]; caveats: string };
 export type Focus = Omit<RawFocus, "themes"> & { themes: Theme[]; latest: string };
 
 // 같은 분야는 어떤 항목이든, 다른 분야는 교육과 이어지는 말이 있을 때만 자동으로 넣는다
 const CONTEXT = /학교|교육|학생|교원|대학|교복|소년단|사범/;
 
-// 직접 정리한 보도 흐름(curatedUntil까지)에 그 뒤 브리핑에서 주제어가 맞는 항목을 자동으로 더한다.
+// 직접 정리한 보도 흐름(curatedFrom~curatedUntil)에 그 앞뒤 브리핑에서 주제어가 맞는 항목을 자동으로 더한다.
 // 새 브리핑을 올리면 추이표·보도 흐름·건수가 다시 빌드될 때 저절로 늘어난다
 function withAuto(f: RawFocus): Focus {
-  const later = DAYS.filter((d) => d.date > f.curatedUntil);
+  const later = DAYS.filter((d) => d.date > f.curatedUntil || (f.curatedFrom !== undefined && d.date < f.curatedFrom));
   const themes = f.themes.map(({ match, ...t }) => {
     const re = new RegExp(match);
     const auto: Entry[] = later.flatMap((d) =>

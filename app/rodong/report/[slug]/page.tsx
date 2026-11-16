@@ -234,7 +234,7 @@ export default async function RodongReportPage({ params }: { params: Promise<{ s
           <h2>
             <Link href={`/rodong/focus/${r.focus}`}>쟁점별 해석 →</Link>
           </h2>
-          <p className="mr-method" style={{ margin: "0 0 12px" }}>건수는 심층 해석의 쟁점별 보도 흐름에 정리한 날짜 수입니다. 한 날짜가 여러 쟁점에 들어갈 수 있습니다.</p>
+          <p className="mr-method" style={{ margin: "0 0 12px" }}>건수는 심층 해석의 쟁점별 보도 흐름에 정리한 날짜 수입니다. 한 날짜가 여러 쟁점에 들어갈 수 있습니다. 직접 정리한 기간 밖의 달은 주제어로 자동 분류해 건수가 크게 나오므로, 달 사이 건수를 그대로 비교하지 마십시오.</p>
           <div className="rp-issues">
             {r.issues.map((it) => {
               const t = s.themes.find((x) => x.title.startsWith(it.theme.split(" ")[0]));
