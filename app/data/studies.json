@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-17",
  "items": [
   {
    "id": "doi:10.12987/9780300291841-013",
@@ -16,6 +16,45 @@
    "source": "crossref",
    "added": "2026-11-02",
    "titleKo": "부록 C: 북한의 인권, 거버넌스, 발전을 모니터링하고 발전시키는 주요 기관"
+  },
+  {
+   "id": "doi:10.1093/9780198928140.003.0007",
+   "title": "Japan and North Korea: Domestic Politics and Narrative Change",
+   "authors": [
+    "Andrew I. Yeo"
+   ],
+   "date": "2026-11-16",
+   "venue": "Oxford University Press eBooks",
+   "countries": [
+    "US"
+   ],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.1093/9780198928140.003.0007",
+   "source": "openalex",
+   "added": "2026-11-17",
+   "titleKo": "일본과 북한: 국내정치와 서사변화"
+  },
+  {
+   "id": "doi:10.1080/03068374.2026.2746499",
+   "title": "SOCIOTECHNICAL PRACTICES UNDER NORTH KOREA’S MOBILE PANOPTICON: SMARTPHONE SURVEILLANCE, CIRCUMVENTION, AND THE NEGOTIATION OF YOUTH AGENCY",
+   "authors": [
+    "SungJoon Joung"
+   ],
+   "date": "2026-11-16",
+   "venue": "Asian Affairs",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "diaspora",
+    "youth"
+   ],
+   "url": "https://doi.org/10.1080/03068374.2026.2746499",
+   "source": "openalex",
+   "added": "2026-11-17",
+   "titleKo": "북한 모바일 감시망 하의 사회기술적 관행: 스마트폰 감시, 우회, 청년단체 협상"
   },
   {
    "id": "doi:10.1080/15570274.2026.2749347",
@@ -1314,6 +1353,26 @@
    "titleKo": "북한의 지역격차 확대와 김정은 시대의 지역개발 20×10 정책"
   },
   {
+   "id": "doi:10.15517/5tec3m64",
+   "title": "Comunicación estratégica, diplomacia pública y legitimidad internacional en Corea del Sur y Corea del Norte: una comparación heurística con implicaciones diferenciadas para América Latina",
+   "authors": [
+    "Talya İşcan"
+   ],
+   "date": "2026-09-25",
+   "venue": "Revista Reflexiones",
+   "countries": [
+    "MX"
+   ],
+   "lang": "es",
+   "topics": [
+    "economy"
+   ],
+   "url": "https://doi.org/10.15517/5tec3m64",
+   "source": "openalex",
+   "added": "2026-11-17",
+   "titleKo": "남한과 북한의 전략적 소통, 공공외교, 국제적 정당성: 라틴아메리카에 대한 차별화된 시사점과 경험적 비교"
+  },
+  {
    "id": "doi:10.54414/yglc3051",
    "title": "Sacred and Revolutionary: Propaganda Analysis of South Korean and North Korean Online News Articles on Mount Paektu",
    "authors": [
@@ -1619,6 +1678,25 @@
    "source": "openalex",
    "added": "2026-10-28",
    "titleKo": "조선민주주의인민공화국 미미카 사무국의 SIMAK을 통한 공식여행행정과 경제적 가치의 디지털화"
+  },
+  {
+   "id": "doi:10.56238/revgeov17n9-056",
+   "title": "FUGA E REFÚGIO: TRÁFICO DE MULHERES NORTE-COREANAS NA CHINA",
+   "authors": [
+    "Vitória Maria da Silva Barbosa",
+    "Emerson Francisco de Assis"
+   ],
+   "date": "2026-09-10",
+   "venue": "Revista de Geopolítica",
+   "countries": [],
+   "lang": "pt",
+   "topics": [
+    "women"
+   ],
+   "url": "https://doi.org/10.56238/revgeov17n9-056",
+   "source": "openalex",
+   "added": "2026-11-17",
+   "titleKo": "탈출과 피난: 중국 내 북한여성 인신매매"
   },
   {
    "id": "doi:10.48647/icca.2026.90.84.024",
@@ -2256,6 +2334,28 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "일제강점기 평양 관기학교 방문 기록에 관한 연구 - 선만지소견(1927)을 중심으로"
+  },
+  {
+   "id": "doi:10.15359/99-2.2",
+   "title": "Arte, política e ideología Juche: la construcción del cartel norcoreano asociado a su política exterior en el contexto de la Guerra Fría",
+   "authors": [
+    "Diego Gatgens Gutiérrez",
+    "Evelyn Patricia Gutiérrez Soto"
+   ],
+   "date": "2026-08-28",
+   "venue": "Relaciones Internacionales",
+   "countries": [
+    "CR"
+   ],
+   "lang": "es",
+   "topics": [
+    "education",
+    "politics"
+   ],
+   "url": "https://doi.org/10.15359/99-2.2",
+   "source": "openalex",
+   "added": "2026-11-17",
+   "titleKo": "예술, 정치, 주체사상: 냉전 시대 북한의 대외정책과 관련된 카르텔 구축"
   },
   {
    "id": "doi:10.1080/10670564.2026.2724054",
