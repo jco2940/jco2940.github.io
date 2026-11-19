@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-19",
  "items": [
   {
    "id": "doi:10.12987/9780300291841-013",
@@ -16,6 +16,81 @@
    "source": "crossref",
    "added": "2026-11-02",
    "titleKo": "부록 C: 북한의 인권, 거버넌스, 발전을 모니터링하고 발전시키는 주요 기관"
+  },
+  {
+   "id": "doi:10.4324/9781003775805",
+   "title": "China’s Engagement in the North Korean Nuclear Crisis",
+   "authors": [
+    "宋文志"
+   ],
+   "date": "2026-11-18",
+   "venue": "Routledge eBooks",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "education",
+    "politics"
+   ],
+   "url": "https://doi.org/10.4324/9781003775805",
+   "source": "openalex",
+   "added": "2026-11-19",
+   "titleKo": "북핵 위기에 대한 중국의 개입"
+  },
+  {
+   "id": "doi:10.4324/9781003775805-4",
+   "title": "China's Hard Engagement During the Third North Korean Nuclear Crisis",
+   "authors": [
+    "宋文志"
+   ],
+   "date": "2026-11-18",
+   "venue": "Routledge eBooks",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "politics"
+   ],
+   "url": "https://doi.org/10.4324/9781003775805-4",
+   "source": "openalex",
+   "added": "2026-11-19",
+   "titleKo": "3차 북핵 위기 당시 중국의 강경한 개입"
+  },
+  {
+   "id": "doi:10.4324/9781003775805-2",
+   "title": "China's Preventive Engagement During the Second North Korean Nuclear Crisis",
+   "authors": [
+    "宋文志"
+   ],
+   "date": "2026-11-18",
+   "venue": "Routledge eBooks",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy"
+   ],
+   "url": "https://doi.org/10.4324/9781003775805-2",
+   "source": "openalex",
+   "added": "2026-11-19",
+   "titleKo": "2차 북핵 위기 당시 중국의 예방적 개입"
+  },
+  {
+   "id": "doi:10.4324/9781003775805-3",
+   "title": "China's Soft Engagement After North Korea's Second Nuclear Test",
+   "authors": [
+    "宋文志"
+   ],
+   "date": "2026-11-18",
+   "venue": "Routledge eBooks",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "politics"
+   ],
+   "url": "https://doi.org/10.4324/9781003775805-3",
+   "source": "openalex",
+   "added": "2026-11-19",
+   "titleKo": "북한의 2차 핵실험 이후 중국의 약한 개입"
   },
   {
    "id": "doi:10.1093/9780198928140.003.0007",
@@ -1429,7 +1504,9 @@
    ],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "education",
+    "health"
    ],
    "url": "https://doi.org/10.3346/jkms.2027.42.e20",
    "source": "openalex",
