@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "items": [
   {
    "id": "doi:10.12987/9780300291841-013",
@@ -16,6 +16,50 @@
    "source": "crossref",
    "added": "2026-11-02",
    "titleKo": "부록 C: 북한의 인권, 거버넌스, 발전을 모니터링하고 발전시키는 주요 기관"
+  },
+  {
+   "id": "doi:10.4324/9781003628163-17",
+   "title": "North Korean Strategy in Africa, 1960–2020",
+   "authors": [
+    "Tycho van der Hoog"
+   ],
+   "date": "2026-11-19",
+   "venue": "Routledge eBooks",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "humanrights",
+    "politics"
+   ],
+   "url": "https://doi.org/10.4324/9781003628163-17",
+   "source": "openalex",
+   "added": "2026-11-20",
+   "titleKo": "아프리카에서의 북한 전략, 1960~2020"
+  },
+  {
+   "id": "doi:10.3390/healthcare14223974",
+   "title": "Recalled Premigration and Current Subjective Social Status and Somatic Symptoms Among North Korean Refugees in South Korea",
+   "authors": [
+    "Wonjung Ryu",
+    "Jinkyung Park",
+    "Daeyeon Jang"
+   ],
+   "date": "2026-11-19",
+   "venue": "Healthcare",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "diaspora",
+    "economy",
+    "education",
+    "health"
+   ],
+   "url": "https://doi.org/10.3390/healthcare14223974",
+   "source": "openalex",
+   "added": "2026-11-20",
+   "titleKo": "한국에 거주하는 북한이탈주민의 회상된 이주와 현재의 주관적 사회적 지위 및 신체증상"
   },
   {
    "id": "doi:10.4324/9781003775805",
@@ -723,6 +767,25 @@
    "source": "openalex",
    "added": "2026-10-27",
    "titleKo": "1962년 불가리아-북한 외교위기와 중국의 동유럽 정책 조정"
+  },
+  {
+   "id": "doi:10.35441/mnk.72.1.5.183",
+   "title": "The Formation of the Musical Field in North Korea, 1945~1950: The Organization of Music by the Party-State and Soviet Union as a Point of Reference",
+   "authors": [
+    "Eun-young Kim"
+   ],
+   "date": "2026-10-15",
+   "venue": "Music and Reality",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "politics"
+   ],
+   "url": "https://doi.org/10.35441/mnk.72.1.5.183",
+   "source": "openalex",
+   "added": "2026-11-20",
+   "titleKo": "북한 음악계의 형성, 1945~1950년: 당-국가와 소련의 음악 조직을 참고로"
   },
   {
    "id": "doi:10.1080/14781158.2026.2743740",
