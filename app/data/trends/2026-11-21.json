@@ -2,6 +2,935 @@
  "date": "2026-11-21",
  "items": [
   {
+   "id": "northkoreaskimvisitsfactorysitesafterapparenttrumpsnub",
+   "title": "North Korea's Kim visits factory sites after apparent Trump snub",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjhiU1BkMXdfblhqWkR2T3NIeURiSzlKOUMwTGhaMjJrckRzR0FFUDdmRWEwZXBXZmd2TEdpS3l1cGJUcThybHlhS0N1dVJudDMwa0xra3FMaWdXSEl1WUNPWW9GOVN1Tjkwb3ljV1VYTXdibGwxbjVGdDU1R20tZXRMWmY1Q21HNldENDE2eDhKZw?oc=5",
+   "source": "Yahoo",
+   "country": "US",
+   "published": "2026-11-21T01:45:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프의 명백한 무시 이후 북한의 김 위원장이 공장 현장을 방문"
+  },
+  {
+   "id": "민주평통해남군협의회북향민과함께하는통일콘서트성황리개최",
+   "title": "민주평통 해남군협의회, ‘북향민과 함께하는 통일콘서트’ 성황리 개최",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBOXlOV2FNb3d6dnlLQUNxdWhvSzdJRUdKX194XzhsVFZQY0wwYUJZT1ptc2l5QjZwOEpvYm12Y0ZydlNSeldRTmNoWmNDY2VQOHFaVS03VEtpTFNBUHRFbXFLTnJSSzZGbWQw?oc=5",
+   "source": "서울뉴스통신",
+   "country": "KR",
+   "published": "2026-11-21T01:42:27.000Z",
+   "fields": [],
+   "summary": "민주평통 해남군협의회, ‘북향민과 함께하는 통일콘서트’ 성황리 개최"
+  },
+  {
+   "id": "스위스도北송도원야영소제재우크라아동이송참여",
+   "title": "스위스도 北 송도원야영소 제재…\"우크라 아동 이송 참여\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIVVNIWFNoQ0lxTy1vRElKYlhHUS1PblN6UDBBazkxbmcyQlZUZkVua1Axak56SHRkNHdWdDAtYWxhVmNrMTVISGxOVUM2TVp6ZkFwdjVtcHFkT3hRM0FtaG5FMEJ1QzA?oc=5",
+   "source": "연합뉴스TV",
+   "country": "KR",
+   "published": "2026-11-21T01:40:00.000Z",
+   "fields": [
+    "economy",
+    "youth"
+   ],
+   "summary": "스위스도 北 송도원야영소 제재…\"우크라 아동 이송 참여\""
+  },
+  {
+   "id": "特朗普在美中俄首脑会晤上讨论应对朝鲜半岛风险",
+   "title": "特朗普：“在美中俄首脑会晤上讨论应对朝鲜半岛风险”",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RMWxUOE10emZzcWo3cDl5eGhPUHdSbWRSRm1MMnZ0VmFaQzF0WXFMc1huaEV5YkItd295M2FkT2hKXzVGV3c4UjVCZ3I5Ty1OYXBZanFLX0NBZ2VxY0lyQlV5WFA?oc=5",
+   "source": "아시아경제",
+   "country": "CN",
+   "published": "2026-11-21T01:38:59.000Z",
+   "fields": [],
+   "summary": "트럼프 “미·중·러 정상회담에서 한반도 위험 논의”"
+  },
+  {
+   "id": "트럼프미중러회담서한반도위험대응논의",
+   "title": "트럼프 \"미중러 회담서 한반도 위험 대응 논의\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CZU42QTB0a1NodFRjNW5Yd1pCZ0wtVFJ6bUhZTUJrYVdGZTNVclZ2MFFMdUEzUmFoX2NLdk1QZWFBYktoMUZNLXY0b3UxVUcwM3kzT2c1eTNiM3dfWUE5bjlhQ0NuSTQ?oc=5",
+   "source": "연합뉴스TV",
+   "country": "KR",
+   "published": "2026-11-21T01:37:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프 \"미중러 회담서 한반도 위험 대응 논의\""
+  },
+  {
+   "id": "北우크라점령지아동데려다반미친러체제교육",
+   "title": "北, 우크라 점령지 아동 데려다 반미·친러 체제교육",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZ1FjNFVqSUlTUVhXdktNQXVmMEhNSzU1YmtZS01Ob3ZhVFF3aE10NHQ4RWJoWDZYTWdTUERnUzFpbzgtQXhXbHNOTkdSSENpOV9pbld3?oc=5",
+   "source": "헤럴드경제",
+   "country": "KR",
+   "published": "2026-11-21T01:36:32.000Z",
+   "fields": [
+    "education",
+    "youth"
+   ],
+   "summary": "北, 우크라 점령지 아동 데려다 반미·친러 체제교육"
+  },
+  {
+   "id": "トランプ氏の本気度疑心か正恩氏また応じず時事通信",
+   "title": "トランプ氏の「本気度」疑心か 正恩氏、また応じず（時事通信）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yQ2wxY1poR21OZEdvWWZGYjBxbm43dmFRNDZsT2FnX2w3eTdPaUExU1dWTURQcXpoS2dYS0xac2JuQkJXMWpqMVB2b2E3UFdiR09tRVEwOWdtTlVxR1dGTEc1OGEyZ3VrNHJfWnNOZ1EwUHRtdl84SmlIb3d5aVk?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-21T01:32:16.000Z",
+   "fields": [],
+   "summary": "트럼프씨의 「진심도」의심인가 마사온씨, 또 응하지 않고(시사통신)"
+  },
+  {
+   "id": "김정은교육공장건설장시찰트럼프대화외면한채내치행보이어가",
+   "title": "김정은, 교육공장 건설장 시찰…트럼프 대화 외면한 채 내치 행보 이어가",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aaGIteEkwd2tLTGFkX3VzbVpfUGU1UTVCdXdkd3Q0RmI1QjhEMVJjd01BS0pLX1I0SW9xZE1nM2VGZGVNOHNHU05iMnlRcWM3S281UHAtOTFmWTFzNDBOeUFrN1MxSEdaVGlNck5xMA?oc=5",
+   "source": "위키리크스한국",
+   "country": "KR",
+   "published": "2026-11-21T01:28:40.000Z",
+   "fields": [
+    "politics",
+    "economy",
+    "education"
+   ],
+   "summary": "김정은, 교육공장 건설장 시찰…트럼프 대화 외면한 채 내치 행보 이어가"
+  },
+  {
+   "id": "新的卫星照片显示朝鲜铀浓缩工厂扩建",
+   "title": "新的卫星照片显示朝鲜铀浓缩工厂扩建",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnpHQkhYX0RoLUFjZ01xUkZSODhGQXJEZzdxckN0cjRyT3JwSFE1UHBRRkNMcTluWTNKWUxULWlCVF9OMHpfYUhNSTY1dlB2b0FZU2xmQTh6YWNwMVRuall1Z2pLTFNoZDVWS205bkNSbVp6MEE3WjlpNWtQWnFIQVU2U2kxVVRmUDNoSTNST3NDeDgzNlF2SkJ4ZUxVWkt3VW04Qk1YQnlKUDVYUVcyQUQyVQ?oc=5",
+   "source": "华尔街日报中文网",
+   "country": "CN",
+   "published": "2026-11-21T01:24:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한의 우라늄 농축공장 확장 모습이 담긴 새로운 위성 사진"
+  },
+  {
+   "id": "스위스북한송도원야영소대러제재명단에올려국제",
+   "title": "스위스, 북한 송도원야영소 대러 제재 명단에 올려 : 국제",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GaUJLRkl0NU9SUGd3TG9zSHc0bWdwSF9maHdkVkdPMG9QRFg4dTBRemcwQVNlaGtETWc5cUZ5TXpPVjJLWEFyeXhxUQ?oc=5",
+   "source": "재경일보",
+   "country": "KR",
+   "published": "2026-11-21T01:23:33.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "스위스, 북한 송도원야영소 대러 제재 명단에 올려 : 국제"
+  },
+  {
+   "id": "ukrainewarnsphofsecurityrisksfromrussianorthkoreamilitaryties",
+   "title": "Ukraine warns PH of security risks from Russia-North Korea military ties",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNlBIYUdGd3E4cWxWaWxXQjlrbzBFN2lXOW04dzFvN2ZHWURONUhjUWxCOFpWaF9MSjNuU3N0SFltSTBqMWFwUjNEc1U0b3hDYXdETmhrX2NmVEp3UWo5cHJrYTVNcTJSdW9tcE1oOGk2LXZVRjBKMnZhV01RM09lLW45eldfZFFFQXpHUGJQa3U1aldUYXZEU240eUJYUQ?oc=5",
+   "source": "Politiko.com.ph",
+   "country": "US",
+   "published": "2026-11-21T01:19:21.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "우크라이나, PH에게 러시아-북 군사 관계로 인한 안보 위험 경고"
+  },
+  {
+   "id": "trumpsaysconfrontingdangersonkoreanpeninsuladiscussedat3waysummitwithxiputin",
+   "title": "Trump says 'confronting dangers on Korean Peninsula' discussed at 3-way summit with Xi, Putin",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNVA1TUQwTUtWT25pS2J2NThyRG1GVXBiM01rdlhHMHZERnZza1g4SGxfdmgzejhENlFsenQxRXZGVmJib1pMZk5jQVBOQk9fODkzTzgwc2xnZTNWejI1aWxwbTFXUDNRejZERG5qd0JOZ1FLdHpkc29LU1BBeTM0d1RaZnROSmFTRUdQazFUTzB4dHhLN1FFUkphMExaM3ZGYWlYZUJiWGxILVVLY2RFWEhiV1dfYzhiOFlnZGxQUDBiMWZmUXJsLXBwTUlVOTdPS3dBOUhVRU1qQmhnTmF3UndNS1RIRUhEb1HSAe8BQVVfeXFMUHFfRnZZUjkyT2ljQTdvUk00MEZfbFpxcXI4MEVxY3lZcEVSNmYxVkdTVl9MdjFSdFBvTzRNOE9Fd3BBRnIyM28yX1FUZFJ4MFoyR0JFWjhMQzBXVmVydDJaLTF2b2NKQmxKal93cWZIazE5dzh1UWxFX3lBdzBvbFVyd3BSUnFNOTBiUGYxQVZMNjJ3d0tya3NmS2trRzR6OUUzb3RfdVZyb0tTVDUyYmpsRnl0M2FMNFR6SWNBcllMMldoRXRzOGV1QXZNeXp6akY1NkhwaHdRMm9fVklReVlGd3RzSjY0WmE0b1FBTTA?oc=5",
+   "source": "The Korea Times",
+   "country": "US",
+   "published": "2026-11-21T01:19:02.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프, 시진핑-푸틴 3자 정상회담에서 '한반도 위험 직면' 논의"
+  },
+  {
+   "id": "스위스도북한송도원야영소제재우크라이나아동이송참여",
+   "title": "스위스도 북한 송도원야영소 제재…“우크라이나 아동 이송 참여”",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4ME5vSGpJNmVtNkppdHktblFISG5wTzNrU1BYbDlQRU4yZTFzSnlobkhVT3JoTERUUVlwb0xzZ0dRa21kME1RS3RSMlNDcmc2TU9WVENoMnVnS00?oc=5",
+   "source": "KBS 뉴스",
+   "country": "KR",
+   "published": "2026-11-21T01:19:00.000Z",
+   "fields": [
+    "economy",
+    "youth"
+   ],
+   "summary": "스위스도 북한 송도원야영소 제재…“우크라이나 아동 이송 참여”"
+  },
+  {
+   "id": "trump",
+   "title": "Trump",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sZW1EU2FWLUpnbG1aUEtrUzJfaWFvZEZzYXJHdG9WRUI2ZWV4Ty1fZzNNRmtUTmxQWWRZYnhxZHVCbGdIZEVyaUhYcUlqWkR1aGExUjRMd0g?oc=5",
+   "source": "파이낸셜뉴스",
+   "country": "US",
+   "published": "2026-11-21T01:18:41.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "지우다"
+  },
+  {
+   "id": "北朝鮮通常兵器を相次ぎ公開戦略的露出の狙いは政治社会",
+   "title": "北朝鮮、通常兵器を相次ぎ公開…「戦略的露出」の狙いは : 政治•社会",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wUFk0d1huZEFGV2FHSXg3OVFPSzFTTjg1WTluVXRUVlluRHdXdEl2X2xUbE1zTE1pb1RjeGU4bXpKMGlXUnNydVJXWjViNVF2b2o3SDFqNkV4bUZzdGc?oc=5",
+   "source": "ハンギョレ新聞",
+   "country": "JP",
+   "published": "2026-11-21T01:14:00.000Z",
+   "fields": [
+    "society"
+   ],
+   "summary": "북한, 통상 무기를 잇따라 공개… 「전략적 노출」의 목적은 : 정치•사회"
+  },
+  {
+   "id": "keepingupwiththekangsasmalladditiontoyongbyonsoriginaluep",
+   "title": "Keeping up with the Kangs: A Small Addition to Yongbyon’s Original UEP",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzgzWHpSSXhIZ0lXcWMzR2dlMGI1RFNjRDNsMVR4dGJ1T2tLWWhvSnowQzFfbEI3Tmp4b1BCUXViWGtvVE9Pc3p6bGNheUN0VlVWYVBxaFY2cUtpUk9TMEYtZGhTYTBWNDA1VWdfSzkzNzluV2pjNHFsdUFaTHVkdjR1aHlpZHdZWDRtQVIyb3ZJb0FNUUdzeGdGMHBrZVJRN1lpSFRjb1hlZlhhSUpoenhSMXREclNm?oc=5",
+   "source": "Arms Control Wonk",
+   "country": "US",
+   "published": "2026-11-21T01:10:46.000Z",
+   "fields": [],
+   "summary": "강씨 따라가기: 영변의 원래 UEP에 작은 추가"
+  },
+  {
+   "id": "트럼프1기대북협상대표통일후북한에대통령직보장하자돌출발언",
+   "title": "트럼프 1기 대북협상 대표 \"통일 후 북한에 대통령직 보장하자\"...돌출 발언",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWbktmb3FoYzNxaVZxQW9SUGlvcE85RzRRSnozancxZ1JKMnZMdm5kWHJMS3VvV08yQzlwSFhxN3ZJSGN3QVVKVkRiMXFXYW5xZC1mWA?oc=5",
+   "source": "JTBC",
+   "country": "KR",
+   "published": "2026-11-21T01:09:00.000Z",
+   "fields": [],
+   "summary": "트럼프 1기 대북협상 대표 \"통일 후 북한에 대통령직 보장하자\"...돌출 발언"
+  },
+  {
+   "id": "세월호지원금110억원논란북한관련교육까지경찰수사결과는",
+   "title": "세월호 지원금 110억 원 논란… 북한 관련 교육까지? 경찰 수사 결과는",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Eb2JLRDJadWtsVDVPejV6R1h4WG4teHJILV91a3hNekZ6WFZtN3RrckhZOE9tcWFMbTJEUnd5cDRiX09INzhTUmJXMzFqWDBjMFBoUkg0LU41M0thRDRuckFxc2JTY1BzeXlTOVhZRdIBb0FVX3lxTE9Eb2JLRDJadWtsVDVPejV6R1h4WG4teHJILV91a3hNekZ6WFZtN3RrckhZOE9tcWFMbTJEUnd5cDRiX09INzhTUmJXMzFqWDBjMFBoUkg0LU41M0thRDRuckFxc2JTY1BzeXlTOVhZRQ?oc=5",
+   "source": "더퍼블릭",
+   "country": "KR",
+   "published": "2026-11-21T01:05:20.000Z",
+   "fields": [
+    "education"
+   ],
+   "summary": "세월호 지원금 110억 원 논란… 북한 관련 교육까지? 경찰 수사 결과는"
+  },
+  {
+   "id": "正恩氏トランプ氏本気度に疑心か",
+   "title": "正恩氏 トランプ氏本気度に疑心か",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTbkc3TjJ5WThWMjlTdk1UcVJWMkNXZ2l6SVZDdlRXbWxWd3huOU1FeEJKbVJwT2hoNll4YzJtM1hZS0RRTUFTZjVkWDJOcTcy?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-21T01:04:25.000Z",
+   "fields": [],
+   "summary": "마사온 씨 트럼프 씨 진심으로 의심?"
+  },
+  {
+   "id": "kimjongunshunstrumpsdialogueoffertovisiteducationalfactoriescontinuingfocusondom",
+   "title": "Kim Jong-un Shuns Trump's Dialogue Offer to Visit Educational Factories, Continuing Focus on Domestic Affairs",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByWUpESmNpRUZoanRxZ21tVURwdkl2WGxxem52MHdMZ210T1JMNVIwOEhEaUx6WVRUZHZhV0d1dG1NTGloLUZxMHNDcEdNblEwejAwNjBtcFVKN2pnR0czZ205cFU4c0dQR2lEWXFR?oc=5",
+   "source": "news.sbs.co.kr",
+   "country": "US",
+   "published": "2026-11-21T01:02:21.000Z",
+   "fields": [
+    "politics",
+    "education"
+   ],
+   "summary": "김정은, 트럼프 대화 제의에 교육공장 방문 거부, 내정에 계속 집중"
+  },
+  {
+   "id": "트럼프대화제의외면한김정은교육공장으로민생행보지속머니투데이",
+   "title": "트럼프 대화제의 외면한 김정은, 교육 공장으로…민생 행보 지속 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NTDNVWWVRSEJ3QUEwTkRUY1FiMEtZdGxmNmtvU1BFbDF1Z09KRHc5cExHeThsY3FCUWFyZHF5bk9SUTlFLXZhdXRBNmlBemswc2tBZVlJLXpuVmt3R2hXaWVGczdUOXg1M2pSb05OdXJZZ9IBckFVX3lxTE5NTDNVWWVRSEJ3QUEwTkRUY1FiMEtZdGxmNmtvU1BFbDF1Z09KRHc5cExHeThsY3FCUWFyZHF5bk9SUTlFLXZhdXRBNmlBemswc2tBZVlJLXpuVmt3R2hXaWVGczdUOXg1M2pSb05OdXJZZw?oc=5",
+   "source": "머니투데이",
+   "country": "KR",
+   "published": "2026-11-21T01:01:01.000Z",
+   "fields": [
+    "politics",
+    "economy",
+    "education"
+   ],
+   "summary": "트럼프 대화제의 외면한 김정은, 교육 공장으로…민생 행보 지속 - 머니투데이"
+  },
+  {
+   "id": "trumpdiscusseskoreanpeninsularisksattrilateralsummit",
+   "title": "Trump Discusses Korean Peninsula Risks at Trilateral Summit",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcDhPcHM5eExCcjlBSmp5ZEJadGVSTld4YnBTRFVuZjU0TkFZYktNTkg0S0tMTHVkNTJsQ3RpaTNTR1V5ZWdqMUxrcmJXaHF1WmlGWnJ6eE96UFc0RW5Oa1NTNE16ME04MWN5M2o4bHBGTXZQUXV0aGc1S1hqcUVpNXZYRDk?oc=5",
+   "source": "조선일보",
+   "country": "US",
+   "published": "2026-11-21T00:57:02.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프, 3국 정상회담에서 한반도 위험 논의"
+  },
+  {
+   "id": "트럼프미중러정상한반도위험논의북핵문제다뤘나",
+   "title": "트럼프 \"미·중·러 정상, 한반도 위험 논의\"…북핵 문제 다뤘나",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96TGZNcnJ5QnRQNkNMUGtiNXhJczlBZC1qNXg2LTVTdExwZ19OMW5EVDJ6TnpLUkdIOVdXN21Oel9ER1NEeWlaaTZJdlpfM0hiZF9SVklFUGFpcHpRWk5kQmwyUmdzamQzYmc?oc=5",
+   "source": "www.hidomin.com",
+   "country": "KR",
+   "published": "2026-11-21T00:54:01.000Z",
+   "fields": [],
+   "summary": "트럼프 \"미·중·러 정상, 한반도 위험 논의\"…북핵 문제 다뤘나"
+  },
+  {
+   "id": "トランプ氏米中ロ首脳会談で朝鮮半島の危険対応を協議",
+   "title": "トランプ氏「米中ロ首脳会談で朝鮮半島の危険対応を協議」",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXZqWWZkUHhId1JlWUhYdElUSXZpbHp1dEJBaHVwNVVDenI2SmxrSVVVN2gxMzMwZmdsemtzZzhiYXctRzZhWWxneWFtdllhYWxfd1pYQzRRLVhEV3d6VTUzZlljdFczQWxpckV0Yi1NR1V4TGdWdkJCS2JuaFBYajVldWVFSGhD?oc=5",
+   "source": "조선일보",
+   "country": "JP",
+   "published": "2026-11-21T00:54:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프씨 “미나카로 정상회담으로 한반도의 위험 대응을 협의”"
+  },
+  {
+   "id": "트럼프손짓외면한김정은잇단현장행보내치집중",
+   "title": "'트럼프 손짓' 외면한 김정은…잇단 현장 행보 '내치 집중'",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcUR4UXI3Vk9ncU4zUWV2akJmVmNURS1wNHVTSGRUa0ZlUzlVRVJRcWhjaVpPZHFYUkg2QTBwc0prSmRmeDI4RFZBblJJSGo4bldhb181Tk9yeUhtNmllU0xxWU1qUTAwdldEOXgtYkh0Ul9MMGpHLV9fT0owc19CUg?oc=5",
+   "source": "m.edaily.co.kr",
+   "country": "KR",
+   "published": "2026-11-21T00:52:10.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "'트럼프 손짓' 외면한 김정은…잇단 현장 행보 '내치 집중'"
+  },
+  {
+   "id": "ukadmitscyberattacksonrussiachinairaninresponsetoonlineassaults",
+   "title": "UK admits cyber-attacks on Russia, China & Iran in response to online assaults",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTlVqVXhfeUsxeDhZU0dUb0EyM3pPT3I4ek9Gakt6Z251X1kwRUpjekFsNS1WcVhzRjhMR2tQa1ZrQlpLcC15ckkzTG9EdTEwN0RITnpVOXlOR3FBMmZ5ZFd2X0xyMm9pZnNxdzVEcDdZRlJNa2phRjFfYmhrRW1DQ1ltZWR5QQ?oc=5",
+   "source": "The Sun",
+   "country": "US",
+   "published": "2026-11-21T00:30:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "영국, 온라인 공격에 대한 대응으로 러시아, 중국, 이란에 대한 사이버 공격 인정"
+  },
+  {
+   "id": "韓国ｉｔ企業に偽装就職北朝鮮工作員中露でリモートワークか",
+   "title": "韓国ＩＴ企業に偽装就職―北朝鮮工作員 中露でリモートワークか",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pNzlNM1d6SHY4aVhpMWNCYW1Eel9XenNZZmNnMGxBWUlRM3FUb2tEUjdwRWRGSkdZSUFtQ29ZM1Q4dkRuMVZQZjY0OXJSdktJdmhsdlluOGc1MXlJSHNBS2hYc3BmLXJmN0ZqZVVkZUNCdw?oc=5",
+   "source": "世界日報DIGITAL",
+   "country": "JP",
+   "published": "2026-11-21T00:27:32.000Z",
+   "fields": [],
+   "summary": "한국 IT 기업에 위장 취직-북한 공작원 중로로 원격 작업인가"
+  },
+  {
+   "id": "김정은북미대화불발속교구비품공장시찰내치집중",
+   "title": "김정은, 북미대화 불발 속 교구비품공장 시찰…내치 집중",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NVEF1TjNsdGFGb013T1F0TFhPb1lEU3JhU3lhMkxrdW9aWmRVY3dhek4xYngwVHhyQ0dGbXZ6ODBmVnZHaUo1TTU4X2NkNWM2MzVhbFlYU294MkZ0U3BiQUo3OU1ueERmWm1GS1NkZTNrdWI2TWhJetIBeEFVX3lxTE9NVEF1TjNsdGFGb013T1F0TFhPb1lEU3JhU3lhMkxrdW9aWmRVY3dhek4xYngwVHhyQ0dGbXZ6ODBmVnZHaUo1TTU4X2NkNWM2MzVhbFlYU294MkZ0U3BiQUo3OU1ueERmWm1GS1NkZTNrdWI2TWhJeg?oc=5",
+   "source": "뉴시스",
+   "country": "KR",
+   "published": "2026-11-21T00:16:00.000Z",
+   "fields": [
+    "politics",
+    "economy"
+   ],
+   "summary": "김정은, 북미대화 불발 속 교구비품공장 시찰…내치 집중"
+  },
+  {
+   "id": "스티븐비건한미동맹세미나에서남북통일국가연합제안의의미는",
+   "title": "스티븐 비건, 한미 동맹 세미나에서 남북 통일 '국가연합' 제안의 의미는?",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QTGxhR09NQlk3eHhocFc0UzZOMlhhMnFPODNGUWFtNXRuamgzY1lMSjc2REJDRl9TakcwU0xTR0w4RXJLSUxYWFlUX3JTdkREWllFbTVnYWVxUFloSlZ5YmxnUFhVMDVw?oc=5",
+   "source": "공감신문",
+   "country": "KR",
+   "published": "2026-11-21T00:15:30.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "스티븐 비건, 한미 동맹 세미나에서 남북 통일 '국가연합' 제안의 의미는?"
+  },
+  {
+   "id": "학국법학원웜비어배상판결에기한북한선박강제집행의가능성과한계",
+   "title": "학국법학원 '웜비어 배상판결에 기한 북한 선박 강제집행의 가능성과 한계'",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zeWFzY29RZzd3SGMxNlpiUkd6cFZsQVFaTDYyelphNjhQd2h4RzA0TnBUR3lXSExVT2JnaEdHc3FxQ1dzei1TUURWaTRVZ3AtRTFGOF9CSDEzT1V0TWF5ZkdMT2JBMmQ3NUtN?oc=5",
+   "source": "SPN 서울평양뉴스",
+   "country": "KR",
+   "published": "2026-11-21T00:12:52.000Z",
+   "fields": [],
+   "summary": "학국법학원 '웜비어 배상판결에 기한 북한 선박 강제집행의 가능성과 한계'"
+  },
+  {
+   "id": "マンジャロでも使ったのか金ジュエ激変韓国で飛び出した仰天説高英起エキスパート",
+   "title": "「マンジャロでも使ったのか？」金ジュエ“激変”…韓国で飛び出した仰天説（高英起） - エキスパート",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVNDZGszZ1U0ODlmMUFmMVlkMEJvS0RvenJIOXpKVDhXWUljMXFJZGNvdDE2dW1sZTljTGt5T24yX3VxaGx2Sno1WmZpWE9fUS14bDhiMGdOY0ZyOVNaZVQ2UWhnamtpd2R3VXpmMFF6QmtiYVRaMnVtTHp6Z0F0OE5yeVR3dVZr?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-21T00:05:34.000Z",
+   "fields": [],
+   "summary": "'만자로에서도 사용했는가?' 김쥬에 “격변”… 한국에서 튀어나온 앙천설(고영기)"
+  },
+  {
+   "id": "米中ロ首脳朝鮮半島問題とウクライナ情勢を協議",
+   "title": "米中ロ首脳、朝鮮半島問題とウクライナ情勢を協議",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFY1UmZJc2dnUHo2ZlVzcGhic2ZSdlhPWndva09MRjEyRHAwa3B6TFh2Zk1RdzRDMHgxdExUb0J3YlgtQkpzbVdJRWQ4U19Sd2dhMUlyUXdBRTRNSks5TzRha0FMUTB6X2g3QlFJanR1dWlwQjlXbUQ4LTVPUlJaS1lTeGhaMTBB0gGcAUFVX3lxTE12OUJ6S1B3emNIOFZzREVjbXpPWmk2ZVBDRjRZemd6UmdpZ3FUUmdfVnJueVFDQTdzWTF4cEdaNDJyMmwtYUhmeHVndVNzNFlibk0weFV3RjZKSUxrYkZPTGFiVEFIYk9BRm9FYkxVRV9keS1PemNJVHRsczZTa09GdHhxdkFXZHUtaC00cjJ1Ukh0U0FJMUxnVlU5OQ?oc=5",
+   "source": "Chosunbiz",
+   "country": "JP",
+   "published": "2026-11-21T00:05:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "미·중·로 정상, 한반도 문제와 우크라이나 정세를 협의"
+  },
+  {
+   "id": "trumpsayshediscussedkoreanpeninsularisksandukrainewithxiandputin",
+   "title": "Trump says he discussed Korean Peninsula risks and Ukraine with Xi and Putin",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHJEam9ZOUM5LVlFNG1YUkxoMnBlcGNQME9HdDFGQ3RZTTlYV2xrSVRqajllYkppV2FELU5HSGVKQUFuUzNXWUZpeWZlZDM2WGozdm5VejBGbjlKTjMzV25sRnQzLUNRZ1VYQjNpUE9seVIzVTZBTXdHMFlzb1hJeGVKMWNtcWp00gGcAUFVX3lxTE9BbHZRVm5iYm1RbHNxaEtGWDRwZkxjeU14dDZvQ2dDa1h3V01LNHVPa0pUQXJmNno5WmZjWGp3UEN1N3h0NjZKNzR0Vl9pZUd3QW14TDh1Z1JMT0VhNWp6RFdUTTZjWEVMeVgtUTVFa3JJWG1CVVhCZ1VsbnNQR0EwRE1aUVFVcGtSSVNaSGlIS0RuMzhxSFYzeGlFVg?oc=5",
+   "source": "Chosunbiz",
+   "country": "US",
+   "published": "2026-11-21T00:04:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프 \"시·푸틴 대통령과 한반도 위험 및 우크라이나 문제 논의했다\""
+  },
+  {
+   "id": "止められなかった北朝鮮の核開発日本はどう備える非核三原則の見直しをと韓国元高官初の核実験から２０年",
+   "title": "止められなかった北朝鮮の核開発、日本はどう備える？ 「非核三原則の見直しを」と韓国元高官、初の核実験から２０年",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QM2ZZMU53X3R4TWhUeVc5SDdvZkpYWmFNOWFLLXEwTC1pazNNbHprYl94a3FucEV5MEhCZkl4MEpmNV9XWjhZNE1ZWGdzSjZwb28zX1FTNXhzeXhVZXZzd2NWcldBZ3lVOFdYNGROd2FmX2FTLUVHYy0xSldaeFU?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-21T00:02:21.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "멈출 수 없었던 북한의 핵개발, 일본은 어떻게 준비? \"비핵 삼원칙의 재검토를\"라고 한국 전 고관, 첫 핵실험으로부터 20년"
+  },
+  {
+   "id": "트럼프대화제의외면한김정은교육기자재공장건설시찰",
+   "title": "트럼프 대화제의 외면한 김정은…교육기자재 공장 건설 시찰",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QcU5HM3BxdnBJdmFucGJDR3JPdkt5eXB4Q3N4eDYzVDdGeG5iV3VmQWx0RmdTYngtVklaQ3pidDVfdngyYWt6ZkROdE8temhPbE5fVGlFMGVOTk5aZzhQRWxDUnk4Z2k4ZElKemRyS0psclFv?oc=5",
+   "source": "한겨레",
+   "country": "KR",
+   "published": "2026-11-21T00:00:00.000Z",
+   "fields": [
+    "politics",
+    "economy",
+    "education"
+   ],
+   "summary": "트럼프 대화제의 외면한 김정은…교육기자재 공장 건설 시찰"
+  },
+  {
+   "id": "историческаявстречатрёхлидеровизоляцияяпонииивыходgta6главноевмире",
+   "title": "Историческая встреча трёх лидеров, изоляция Японии и выход GTA 6 — главное в мире",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sQ0RVdGpvWkFMeGR5ZkJ4Y2p5cWYyZmhGcWdsQVJ1V2l1bmRwQnlocGlPcjIwRlN6bnNYNGZid2NXMmNuMngtNWtBVQ?oc=5",
+   "source": "PrimaMedia.ru",
+   "country": "RU",
+   "published": "2026-11-21T00:00:00.000Z",
+   "fields": [],
+   "summary": "세 지도자의 역사적 만남, 일본의 고립, GTA 6의 출시가 세계의 주요 사건이다"
+  },
+  {
+   "id": "対話で北朝鮮の核開発阻止なぜ夢に終わったのか",
+   "title": "対話で北朝鮮の核開発阻止、なぜ夢に終わったのか",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TMVFad2libWljZ0tsVkcyOVZORC1OTXN3RHFoVW9ZRHhQOVN2ckF5bjNqb0FxUWRObnozN01xaFZyOEtyTFhXclpIeHBYYjFzUV9tWHVFcnM1QktQLU4tRl9UZ1ZHUQ?oc=5",
+   "source": "동아일보",
+   "country": "JP",
+   "published": "2026-11-20T23:55:13.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "대화로 북한의 핵개발 저지, 왜 꿈에 끝났는가"
+  },
+  {
+   "id": "北朝鮮でマイカー広がる1世帯1台個人間の売買は禁止",
+   "title": "北朝鮮で「マイカー」広がる…1世帯1台、個人間の売買は禁止",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ET1lLV3hlLTNBZUJOSDV1RVE2MmhHY3ZXV2VfbFQ0ZFNYNktwWmw3TjJ0MlNmZDJpSmU3d2hBcTJKdEFMYjh4aTFFNmt0ZnJ0eU52Wk5PNXVYUXFOTWZPOVlkRk1GMERQMWNlTk9kSDdkQdIBVEFVX3lxTE9zRUZQcE9BNnBuNnR6OUJ4bUoxanZHbko5b2FBd1ZiZzEtbHY3VEVWdWtLNjZhQk16ZWtNTDVpRkVyWC1LMnlaNDNteXlmR085c3dqLQ?oc=5",
+   "source": "AFPBB News",
+   "country": "JP",
+   "published": "2026-11-20T23:50:08.000Z",
+   "fields": [],
+   "summary": "북한에서 '마이커' 확산… 1세대 1대, 개인간 매매는 금지"
+  },
+  {
+   "id": "unificationministermeetsusofficialsamiddiscord",
+   "title": "Unification Minister Meets U.S. Officials Amid Discord",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd2FZb2czOUhxakJuQVVkamJBQXY2bl9pS0ZPMDdjRWZRcnRET3c0OUxLaDZfWkpwS0dyVVFTRXpRdTB1U2szdnhSOWJjQXR3dE00czhZOTZIeHVoYk15MURiajB3cG14U2dacFBmOF9EOV95bm1DTnZQclRrNjhZWUJkc0lKME5uTmM1Rw?oc=5",
+   "source": "조선일보",
+   "country": "US",
+   "published": "2026-11-20T23:50:03.000Z",
+   "fields": [],
+   "summary": "통일부 장관, 불화 속에 미국 관리들과 만나"
+  },
+  {
+   "id": "chinaskoreanpeninsuladiplomacyoped",
+   "title": "China’s Korean Peninsula Diplomacy – OpEd",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUXVNS2lNRk9OZlV4ZE40emVUQTJ4YVFKZV9XbmZ6VVhoVzRwcGtFdDVrRGVHSlhfWThqZUNpY1luRkhzTmRWTjVNc2RYT0tnUldKOUV2bFh6Vld2Y25HWXFMYXlpcVpzYUJZOHFidFY4My1nVlNCT21UTVJHOFhmQmh3RGw?oc=5",
+   "source": "Eurasia Review",
+   "country": "US",
+   "published": "2026-11-20T23:41:57.000Z",
+   "fields": [],
+   "summary": "중국의 한반도 외교 – OpEd"
+  },
+  {
+   "id": "北朝鮮ミサイル監視も担う情報収集衛星h3ロケット11号機で来年1月打ち上げ打ち上げ業務がjaxaから三菱重工へコスト削減と商業衛星の受注拡大がねらい",
+   "title": "北朝鮮ミサイル監視も担う情報収集衛星 H3ロケット11号機で来年1月打ち上げ 打ち上げ業務がJAXAから三菱重工へ コスト削減と商業衛星の受注拡大がねらい",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HbWt4VlFCaE82M1ViX29ETC1DcFVKWDB0eXNhMlVNWmxwcHZFMlQyLWpHRTlOdDFLaUNNVWZtS2lxR0ZMYzNnNzBWMmhPQWl6R3FMdE90S1ljN3hPellwVmtqTk1fV21sV053Y1RFUQ?oc=5",
+   "source": "Excite エキサイト",
+   "country": "JP",
+   "published": "2026-11-20T23:37:30.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한 미사일 감시도 담당하는 정보 수집 위성 H3 로켓 11호기로 내년 1월 발사 업무가 JAXA에서 미쓰비시 중공에 비용 절감과 상업 위성의 수주 확대가 목적"
+  },
+  {
+   "id": "trumpsaysuschinarussiadiscussedkoreanpeninsuladidtheyaddressnorthkoreasnuclearpr",
+   "title": "Trump Says U.S., China, Russia Discussed 'Korean Peninsula'... Did They Address North Korea's Nuclear Program?",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGM29yU0ZmOW9TaTV3c2piYjFZdWdRcFdyQTlkR0xGQnEzUTJmLThDZzN4eGZIVld1M3NmZFoxSHpTZDFKeFpUdkJzdXZYQkpsZ09XemR1Y1QxMDBNclh2amRhcDZzRGtqbTE1eHln?oc=5",
+   "source": "news.sbs.co.kr",
+   "country": "US",
+   "published": "2026-11-20T23:31:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "트럼프 \"미·중·러, '한반도' 논의했다\"…북핵 문제 언급했나?"
+  },
+  {
+   "id": "北朝鮮ミサイル監視も担う情報収集衛星h3ロケット11号機で来年1月打ち上げ打ち上げ業務がjaxaから三菱重工へコスト削減と商業衛星の受注拡大がねらいfnnプライ",
+   "title": "北朝鮮ミサイル監視も担う情報収集衛星 H3ロケット11号機で来年1月打ち上げ 打ち上げ業務がJAXAから三菱重工へ コスト削減と商業衛星の受注拡大がねらい（FNNプライムオンライン）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvSXNoMFZlWEc1Sm1TTmpnSWZYMFpucjBWZnp2bTFocWZDa0JHRFNwdkxFdG1VMDhIclpZU2tkSUsweWVtNGEtOTVaaTU5VzAybXZ3OW1DSzRfdHJKaC1kLU5oeXR4STN2a3lBclMzYVJNc0dCelE0YWMtZEpMS28?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-20T23:30:43.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "북한 미사일 감시도 담당하는 정보 수집 위성 H3 로켓 11호기로 내년 1월 발사 업무가 JAXA에서 미쓰비시 중공에 비용 절감과 상업 위성의 수주 확대가 목적(FNN 프라임 온라인)"
+  },
+  {
+   "id": "北朝鮮でマイカー広がる1世帯1台個人間の売買は禁止koreawave",
+   "title": "北朝鮮で「マイカー」広がる…1世帯1台、個人間の売買は禁止（KOREA WAVE）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRd3RSdkVFNmhHeEVJTDJfVFRBcmNIb0JKQUFkdThCTUtfSG85WVZVelZCQ0pPaHRQc0w4WXI0NTRBLWhlU2tnMDRIbnRNQTBpbjJ4Q3RZNTF1X3BPN2M3SjMxVHJjLW5YangtWllGbHMwQ2c2S3dfWnpCT2UyaU0?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-20T23:27:24.000Z",
+   "fields": [],
+   "summary": "북한에서 ‘마이커’ 퍼지는… 1세대 1대, 개인간 매매는 금지 (KOREA WAVE)"
+  },
+  {
+   "id": "김정은북미회동불발뒤교육공장으로내정집중",
+   "title": "김정은, 북·미 회동 불발 뒤 교육공장으로…내정 집중",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBia0lSckJad1I2MDdCUDFwYjBsTjVUazFUbVRERmFkN3BKaEE3dXJXSVRWMWluMUdBZERYOE45YXgwZVJ2WEFEbV8yRkpraUdpekRMVGtGZTh6QWgwRjg40gFfQVVfeXFMUGJrSVJyQlp3UjYwN0JQMXBiMGxONVRrMVRtVERGYWQ3cEpoQTd1cldJVFYxaW4xR0FkRFg4TjlheDBlUnZYQURtXzJGSmtpR2l6RExUa0ZlOHpBaDBGODg?oc=5",
+   "source": "경향신문",
+   "country": "KR",
+   "published": "2026-11-20T23:27:00.000Z",
+   "fields": [
+    "politics",
+    "economy",
+    "education"
+   ],
+   "summary": "김정은, 북·미 회동 불발 뒤 교육공장으로…내정 집중"
+  },
+  {
+   "id": "专栏试图通过对话阻止朝核开发的梦想为何破灭",
+   "title": "《专栏》试图通过对话阻止朝核开发的梦想，为何破灭？",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pWjVrdG5mbXpreWZUNldJZ1lRanZhMFNUQm5FelhyZWVLR2dYcHRpQnA0SVFidUUwNWNnbnRiM1l2UDJ4bUktRk85UWJ0TXZBa3NraFFVeXdyX200OHd5QlY1YUZsUQ?oc=5",
+   "source": "동아일보",
+   "country": "CN",
+   "published": "2026-11-20T23:22:12.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "칼럼은 왜 대화 파탄을 통해 북핵을 막으려는 꿈을 꾸었을까."
+  },
+  {
+   "id": "northkoreaexpandsuraniumenrichmentplant",
+   "title": "North Korea Expands Uranium-Enrichment Plant",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEhZS2MzN1FwanVxb1M2YUpNOHNneXBFSktVY3NIOWxVaHZkMkI3Y1lTTmRtM05nRVJEclFDd0hNMk1MWU5sZmlTVXhFWEo0WVhCZ2RHUGNTRzB2R3NhOWhfQ3FkZWwtUmJ0dTk5YlBXbzd2VmV2ZUZveFZtM1VpaUVhdFFQSjdPYnc?oc=5",
+   "source": "Political Wire",
+   "country": "US",
+   "published": "2026-11-20T23:21:00.000Z",
+   "fields": [],
+   "summary": "북한, 우라늄 농축공장 확장"
+  },
+  {
+   "id": "thehardlessonsofnorthkoreadiplomac",
+   "title": "The hard lessons of North Korea diplomac",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NOEdIMjB0UlQ0M29TV1ltMWN3eDF1WmJIWk1FQW5IRklqaWsxLXlGSlpxVlhBa2tsTHFsdmc4TUF0TU9YaVlxUDUzcDlVMUM1UzhlV2g4LVZjNDVpVjZ0bmQzT184Zw?oc=5",
+   "source": "동아일보",
+   "country": "US",
+   "published": "2026-11-20T23:20:19.000Z",
+   "fields": [],
+   "summary": "북한 외교관의 어려운 교훈"
+  },
+  {
+   "id": "金正恩氏教育工場を視察米の対話要請に応じず内政重視",
+   "title": "金正恩氏、教育工場を視察　米の対話要請に応じず内政重視",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUEVFOTQ1X3k5LUVTbFRqS0xGOU9yUTZ0U21UMzhlRnZqeTl2WGF6WExDakV5TndxRmpoT2EwTjAzcnpaWXpDNnJGcGNlaXJsNVdWdEhzRUF2S0JVNjRJTUJac1g2enFoaWRaUkJQd0ZzUlRLOEw4TDZXcVFoTE1IOVpWWUdlX1Rn0gGcAUFVX3lxTE9yQUJvN2dQaDd5T19POWJiQjZLVVVuZ1FwYmcya3IyaTdsSXQ5MVZBSDZ6eWtuaThicjN5V2NfbnNtbWx0SVBfM2ZISjBlN1ZQZ0JjcGJWbkVwS2VDN2hLY1hPS2tianZXelFfN0RrN2RLdllQeHg3aEd6dHBlQTY3TzRfMmZBa1B3UkQ2bU84UlNtMDRxWDMxdGMyYQ?oc=5",
+   "source": "Chosunbiz",
+   "country": "JP",
+   "published": "2026-11-20T23:20:00.000Z",
+   "fields": [
+    "politics",
+    "education"
+   ],
+   "summary": "김정은씨, 교육공장을 시찰 미국의 대화 요청에 응하지 않고 내정중시"
+  },
+  {
+   "id": "김정은트럼프러브콜외면하고교육공장시찰내정행보이어가",
+   "title": "김정은, 트럼프 러브콜 외면하고 교육공장 시찰…내정 행보 이어가",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUxRejBFdExFX2RSbFFoTDJaOGROdThRQ2JNOF95UV9NcnZQSnNyWmkwSF9YS2lSMVYtaFlwUmw5R0xmV29nVVFEdEp4UDAxOC1yVnBhaUNfUHNyNlRzY0hNbEpKbnZ2UXRfbDVYY0lFdjNEZG9GLUlmUGZhdGxkaUl5dVVyNXFQd21UVlR0QXJnWE4zU0xBblN0VjlfM1dvY1hIZmp0eE5jMTNjRjlod2JB0gGyAUFVX3lxTE1NTFF6MEV0TEVfZFJsUWhMMlo4ZE51OFFDYk04X3lRX01ydlBKc3JaaTBIX1hLaVIxVi1oWXBSbDlHTGZXb2dVUUR0SnhQMDE4LXJWcGFpQ19Qc3I2VHNjSE1sSkpudnZRdF9sNVhjSUV2M0Rkb0YtSWZQZmF0bGRpSXl1VXI1cVB3bVRWVHRBcmdYTjNTTEFuU3RWOV8zV29jWEhmanR4TmMxM2NGOWh3YkE?oc=5",
+   "source": "Chosunbiz",
+   "country": "KR",
+   "published": "2026-11-20T23:19:00.000Z",
+   "fields": [
+    "politics",
+    "economy",
+    "education"
+   ],
+   "summary": "김정은, 트럼프 러브콜 외면하고 교육공장 시찰…내정 행보 이어가"
+  },
+  {
+   "id": "kimjongunfocusesondomesticaffairsastrumpseekstalks",
+   "title": "Kim Jong-un focuses on domestic affairs as Trump seeks talks",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeWxKS1IyNjRXaEF4T3dnaWJ0RU85VHFsX0d1TTZTVFV6NS1nTWR6STFocTY5azNYaTY2bDd5dEplcnhPcG03dTNWTTVIQTBxeTZWMGRHQmRlbnZ0bVpSVjhPRGpXX3RONkJHWVVkQWNZbW9GbzFXWEdPZXBiSXByQnRRT1Y4dWZG0gGcAUFVX3lxTE5QNi03TWREWXN2YTBwSlBINHlTODF6amlqbHk3ZUE3dFlKMVFaVHFJVEFGTXdmcE1TVkxEM3hJYzNzM1BJeFlvWjlwcTh1dmJkWHNPbnNISDZqLWFVRXd4RVlXRGVLWmM2aF9QQWg3UlBFTllUd2M5eDFHZm11V2ZjNVhPYVlaYTVTbWJDZ09laVlIdGZkbVZwWjd3TA?oc=5",
+   "source": "Chosunbiz",
+   "country": "US",
+   "published": "2026-11-20T23:19:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프 \"대화 모색, 김정은은 국내 문제에 집중\""
+  },
+  {
+   "id": "스키타는주애선전북관광산업공들이지만클로즈업북한",
+   "title": "‘스키 타는 주애’ 선전…북, 관광산업 공들이지만 [클로즈업 북한]",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fSXdmck1FT0hZUEdFVWpRdzNYRDBXczFTSmN1Q3M4ZTFmVEJNNGdPQjBGVU9QTjMwTUgxeVl1cDNMMTVzd0E2aUNLYWx0aTBDRVhUUC15MGxiQlk?oc=5",
+   "source": "KBS 뉴스",
+   "country": "KR",
+   "published": "2026-11-20T23:17:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "via": "program",
+   "summary": "‘스키 타는 주애’ 선전…북, 관광산업 공들이지만 [클로즈업 북한]"
+  },
+  {
+   "id": "比根在南北国家联合之后可以向朝鲜提供总统职位保障政治财经日报",
+   "title": "比根：在南北国家联合之后，可以向朝鲜提供总统职位保障: 政治 : 财经日报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MTWRTUTdQMWtianNoa1hINjJpY0ZsOEdRbGxVcE5scTVsSUlpNEhNbmhST0NyUnpvcUQ4enpVSEJvVk0xNEtIWHp3eUVqTjlidFU0bnlqMGpPdTV0dUw2dVRn?oc=5",
+   "source": "재경일보",
+   "country": "CN",
+   "published": "2026-11-20T23:10:00.000Z",
+   "fields": [],
+   "summary": "비건: 남북통일하면 북한은 대통령직 보장될 수 있다: 정치 : 파이낸셜데일리"
+  },
+  {
+   "id": "биганпослесозданияконфедерацииюгаисевераможногарантироватьпостпрезидентакндр",
+   "title": "Биган: \"После создания конфедерации Юга и Севера можно гарантировать пост президента КНДР\"",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0RTJwQjlzZ2doQ1h3NDhOT1FWX1ZZdXJ6d2xvTnB1Z0NBN1g0Y0FUek1Cc2Y2ZVlmd0lQbGVNSTNENlBldlNDVjctbjQwbUd0YTJRRnp2QjNmVFZJbUZtcWFR?oc=5",
+   "source": "재경일보",
+   "country": "RU",
+   "published": "2026-11-20T23:10:00.000Z",
+   "fields": [],
+   "summary": "비건 “남과 북이 연맹 창설 이후에 우리 공화국의 대통령 자리는 보장될 수 있다”"
+  },
+  {
+   "id": "ビーガン氏南北国家連合移行後北朝鮮に大統領職を保障する可能性も政治財経日報",
+   "title": "ビーガン氏「南北国家連合移行後、北朝鮮に大統領職を保障する可能性も」 : 政治 : 財経日報",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pUGZ5SmlFRXByRXhLVDAxZU1aaE1xN3VTTkVOYkxvM2lzSTE0bUxjU01paTBSSk1iS0FibTF3OVRSazZLQjROYmxTeFdvQU53bU1vR3ZsMl9kcWpERGM3OVZ4dw?oc=5",
+   "source": "재경일보",
+   "country": "JP",
+   "published": "2026-11-20T23:10:00.000Z",
+   "fields": [],
+   "summary": "비건 씨 “남북 국가연합 이행 후 북한에 대통령직을 보장할 가능성도” : 정치 : 재경일보"
+  },
+  {
+   "id": "北중앙간부학교참관하는라오스대표단",
+   "title": "北 중앙간부학교 참관하는 라오스 대표단",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9icHhuczlxTTFvakVUdnE1TzRiSEZXM3ZsWktsN3pEVUhMNFo3UVlHcklTelNGc1oteGVRM2I0VEJ2QVYybngxRERWSQ?oc=5",
+   "source": "뉴스1",
+   "country": "KR",
+   "published": "2026-11-20T23:07:50.000Z",
+   "fields": [
+    "education"
+   ],
+   "summary": "北 중앙간부학교 참관하는 라오스 대표단"
+  },
+  {
+   "id": "analysisnorthkoreasnuclearexpansionraisesthestakesforwashington",
+   "title": "Analysis: North Korea’s nuclear expansion raises the stakes for Washington",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnpqeDZyNUhiRkFLNlV4RG5ZNFMzemdJMGtiQzJqSElKa3hoZHR0VFRzYllhNFdOS3ViUHhCUmlmQUNRNFFHOEZ2VV9VNnpDb2E2b0JXYWxEZk1BNDZ3Q1FmLS13RXNJa1IwX0QtdWRzSllnWEtyNTJtazBITVZ6LTBtRHZEb01XRnFMdlpSRkEtZ1NXUkFNeV9BaE04Mm5hZEVnRkxKb1MwWjdUVy1xR1lqYzJMNHZZbkVETDR6Q1Y4Vnc?oc=5",
+   "source": "WTOP News",
+   "country": "US",
+   "published": "2026-11-20T23:06:31.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "분석: 북한의 핵 확장은 워싱턴의 이해관계를 높인다"
+  },
+  {
+   "id": "김정은트럼프대화제의에무응답교육공장시찰하며내치집중미중러정상회담파장",
+   "title": "김정은, 트럼프 대화 제의에 '무응답'⋯교육공장 시찰하며 내치 집중 [미중러 정상회담 파장]",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtOUU0Q01keUdac0ZMS014elZJS0hPUTdraGxCNTVlbUxmT292cEd6eFlvRy1zbXZyOFk3NXM2aXRFUFR2YlZHeUNVcy1oZ3JOYjF1bg?oc=5",
+   "source": "이투데이",
+   "country": "KR",
+   "published": "2026-11-20T23:04:00.000Z",
+   "fields": [
+    "politics",
+    "economy",
+    "education"
+   ],
+   "summary": "김정은, 트럼프 대화 제의에 '무응답'⋯교육공장 시찰하며 내치 집중 [미중러 정상회담 파장]"
+  },
+  {
+   "id": "国連の北朝鮮人権決議案サイバー脅威活動を初めて非難第3委員会で採択",
+   "title": "国連の北朝鮮人権決議案、「サイバー脅威活動」を初めて非難…第3委員会で採択",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WNXpGT3h5Q0s3TnVPczFXVktkRXBCbnJHT0RDYXBpR3NGd1VacjF0TFVVaDhVa1hHeDR4NU42SnJhTDFUX1hIWFhrWlRZSFAwTDNNU9IBVEFVX3lxTE5WNXpGT3h5Q0s3TnVPczFXVktkRXBCbnJHT0RDYXBpR3NGd1VacjF0TFVVaDhVa1hHeDR4NU42SnJhTDFUX1hIWFhrWlRZSFAwTDNNUw?oc=5",
+   "source": "AFPBB News",
+   "country": "JP",
+   "published": "2026-11-20T23:03:26.000Z",
+   "fields": [
+    "politics",
+    "humanRights"
+   ],
+   "summary": "유엔의 북한 인권 결의안, ‘사이버 위협 활동’을 처음으로 비난… 제3위원회에서 채택"
+  },
+  {
+   "id": "비건북한이대가원해선전접촉불발4차회담가능성열려있어",
+   "title": "비건 “북한이 대가 원해 선전 접촉 불발…4차 회담 가능성 열려 있어”",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9leS0yaTVhc1ZOYWdoUE9aOUJmTGt2UVFYalB0RW90SEI2UHBPS19LY0VzZ2VvQ2dtUFZPWmxHLVFGUFltQkdkOWY3RUg5b19f0gFTQVVfeXFMTnhSSEYyOUNqQm5HTUFnbWduc1RMd0pEQUxmR1pNdG4xcGlDdGFPLWRrc3JDTk9OdVFkMkJMOUFuWTc1dnN2SGc5bEN2Y004SmQ1anc?oc=5",
+   "source": "VOA 한국어 홈페이지",
+   "country": "KR",
+   "published": "2026-11-20T23:01:12.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "비건 “북한이 대가 원해 선전 접촉 불발…4차 회담 가능성 열려 있어”"
+  },
+  {
+   "id": "아프리카인물열전47첫아프리카출신유엔수장부트로스갈리",
+   "title": "[아프리카인물열전](47) 첫 아프리카 출신 유엔 수장 부트로스 갈리",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtT2dNYlhHNnVvWkRvODl0cVpnM2dqZWZ2WDVJYTRwbjctNVQtOXhwSWRub2oweF9VeGw1d3Q4QmpfWVpLNktIWS1qMlJXRTBIU3dtN00teENXVHczeVNwWnVvb2Z2UWxxenNBZ3ZxQnQ5UVFv?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "country": "KR",
+   "published": "2026-11-20T23:00:07.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "[아프리카인물열전](47) 첫 아프리카 출신 유엔 수장 부트로스 갈리"
+  },
+  {
+   "id": "반도앨리스트럼프집요한구애에도이벤트성회담거부한김정은다시만날기회있을까",
+   "title": "[반도 앨리스] 트럼프 집요한 구애에도 ‘이벤트성 회담’ 거부한 김정은…다시 만날 기회 있을까",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tU0RMVWVCY3c0WjhyUjlzUHR3YXpfNzJIQWFwMC1oXzFJdGN4T2V0TVA2bGdLVlBlYnVXZVFRX1ZiZnNqRUhlajFZWDMzREZQRExSYThOcDJDM2ZyaFFr0gFfQVVfeXFMTS1TRExVZUJjdzRaOHJSOXNQdHdhel83MkhBYXAwLWhfMUl0Y3hPZXRNUDZsZ0tWUGVidVdlUVFfVmJmc2pFSGVqMVlYMzNERlBETFJhOE5wMkMzZnJoUWs?oc=5",
+   "source": "경향신문",
+   "country": "KR",
+   "published": "2026-11-20T23:00:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "[반도 앨리스] 트럼프 집요한 구애에도 ‘이벤트성 회담’ 거부한 김정은…다시 만날 기회 있을까"
+  },
+  {
+   "id": "사격부터전차스키까지주애후계자이미지띄우는北",
+   "title": "사격부터 전차·스키까지…주애 ‘후계자 이미지’ 띄우는 北",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2WVBvc3lrNG5SSnUwOWp0em9NcnFtUGIzZ2o5NldqZkhCdlhGQThjd09BSVR4UUYzcEV1WHZsSmc4WllPVXZJM0d5X18wMTNrMUtQblJR?oc=5",
+   "source": "중앙일보",
+   "country": "KR",
+   "published": "2026-11-20T23:00:00.000Z",
+   "fields": [],
+   "summary": "사격부터 전차·스키까지…주애 ‘후계자 이미지’ 띄우는 北"
+  },
+  {
+   "id": "일본북한과차원이다르다현무5뒤숨겨둔진짜무기",
+   "title": "\"일본·북한과 차원이 다르다!\" 현무-5 뒤 숨겨둔 진짜무기",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRREI3Sm95Wk9RMmEyRUVBX1MwOWxma0hzZGM3UE1wNWJmVFA2OTh5VVNmNlFFVHhvbUh5TS1DM3VVLVpfRU5lWTNUSHJKcTRmYllJVktPeWI5T29hakFkUFhxdDhoLTROclM1WEhFZkM?oc=5",
+   "source": "연합인포맥스",
+   "country": "KR",
+   "published": "2026-11-20T22:50:25.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "\"일본·북한과 차원이 다르다!\" 현무-5 뒤 숨겨둔 진짜무기"
+  },
+  {
+   "id": "朝鲜金与正地位上升晋升长官级党部长",
+   "title": "朝鲜金与正地位上升，晋升长官级“党部长”",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGhxVVZsWEpkY2lKenc1UnBmOUVIMzI1ZEV3c0pUU3BrV2JBODRwTDJQMVlmVjBsSThodEszTDZwd0NqY0ozeEsxQjRTeVRpNGUxbkNxd0U4TEN5MlNHSExpU2twRDJmeW1qR1RReXBFYXRnQWZsZ1NGQ2tiMnVRVjY1S0c3b01xSHdCdTZzZzcteTZWVUF6R1lLcS1PbHFw?oc=5",
+   "source": "朝鮮日報中文版",
+   "country": "CN",
+   "published": "2026-11-20T22:46:43.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "북한 김여정, 고위급 '당상'으로 승진"
+  },
+  {
+   "id": "북한날씨전지역대체로맑음",
+   "title": "[북한날씨] 전 지역 대체로 맑음",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yR3dUU2VaNFFrTmx4ZGs1QzZHRE56WFJYbm1vOTRNTmh4UjB3SEpxSFhST0k2b2NDZi1IYzZMeUtCSmJZOW5Hd0pXMnNTdzdFR0hBVWgxWk94SlXSAWBBVV95cUxOZVBEYW9qS2xkY0JoV2d6TVlNbm9vTW5oOU15U2N0RDRMRDRDYzJZMmlDVE4zWTZPQ3FNVU40QXhxeEVWRERxdkE2LUh4b0FtZWQ1RzltZTRZaTQ5eGp6NVQ?oc=5",
+   "source": "연합뉴스",
+   "country": "KR",
+   "published": "2026-11-20T22:44:41.000Z",
+   "fields": [],
+   "summary": "[북한날씨] 전 지역 대체로 맑음"
+  },
+  {
+   "id": "김정은중국안가나함경남도서군사경제행보",
+   "title": "김정은 중국 안 가나···함경남도서 군사·경제 행보",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CYkp0Nm9JTk9UM0szakJidmhxWUF4Zk92aEZnZlZmSjFPdVJxb0gyT2VSZFVTdmREdDlmVnEyQ0FRUFpyc0hXWGVRUllkcXNQZzFRWGRuSy1aNU84WWV6YzFBR0VjZVJOS0lwQw?oc=5",
+   "source": "시사주간",
+   "country": "KR",
+   "published": "2026-11-20T22:38:44.000Z",
+   "fields": [
+    "politics",
+    "security",
+    "economy"
+   ],
+   "summary": "김정은 중국 안 가나···함경남도서 군사·경제 행보"
+  },
+  {
+   "id": "ukconfirmsoffensivecyberoperationsagainstrussiachinairanandnorthkorea",
+   "title": "UK confirms offensive cyber operations against Russia, China, Iran and North Korea",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOUFMVEpLQVFMbm1OcnB2REtlUTFYZUpFXzlrM1p2LUFjRXBTaC1mMHhzbE42SkJxWHN3RGZmb2ZkM0dZdDJrT1ZmSDk4RmFRemQwOVdCelo2a2hwN2IwMlJaVFBJb25hVkJ6RmY4bU1MRDZIbDlhb0h5WE8tT1hWMktzVkw0UGdTdzJTaVF5SWcwZ0xFME10Mm84YkNDbk1UcXhQSlNiOFRNQlVXT1Y4VHdONDllOVlwX1V1dTJHSlg?oc=5",
+   "source": "Türkiye Today",
+   "country": "US",
+   "published": "2026-11-20T22:36:56.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "영국, 러시아, 중국, 이란, 북한에 대한 공격적인 사이버 작전 확인"
+  },
+  {
+   "id": "세계로뻗은한국태권도의기상무형유산가치까지조명하려면",
+   "title": "세계로 뻗은 한국 태권도의 기상, 무형유산 가치까지 조명하려면",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUzdlT2lFNndyQWpjbVVmR3BxTm8yZm45UEd1a0s5UmF6WlZpbDZFTmlBakZXSG5MYXZLNGszRU5IZGp4dk1rT1FQQ0sycDhCM210cGVoMXF1U3kySkJ2ajByYlA1dVY1ZWc?oc=5",
+   "source": "고대신문",
+   "country": "KR",
+   "published": "2026-11-20T22:35:16.000Z",
+   "fields": [],
+   "summary": "세계로 뻗은 한국 태권도의 기상, 무형유산 가치까지 조명하려면"
+  },
+  {
+   "id": "北각도건재전시회2026개막1만6천여제품출품종합",
+   "title": "北 '각 도 건재전시회-2026' 개막...1만6천여 제품 출품 (종합)",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10RGdpOG1ZYmluelRZelJlSHJPUnBxeW11YkVEbmJfU01XQ1RBa0ZhV0NYQmFjWV9zNFgzeEdYaklKLUsybnYwd1ZvbVBOWG5KWDdWMktEa3g0c01IWERNZTQxVWxURmo2VWdJ?oc=5",
+   "source": "SPN 서울평양뉴스",
+   "country": "KR",
+   "published": "2026-11-20T22:32:33.000Z",
+   "fields": [],
+   "summary": "北 '각 도 건재전시회-2026' 개막...1만6천여 제품 출품 (종합)"
+  },
+  {
+   "id": "britainconfirmscyberoperationsagainstrussiachinairanandnorthkoreaforfirsttimeana",
+   "title": "Britain confirms cyber operations against Russia, China, Iran and North Korea for first time — Anadolu Agency",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN20wRWc5OTZHUWRCdUh5enYxaEtRNGx2elZtX3RSLU1IdjNrVUd2R2FaWk5qUlVKSGczT1JXSGxoSTVqUHZ6ZTJldk1fc0o4Ukk0c0w2QWtjN2VRRE01UDQ0SU53cHNzX1BrVzZrN3gtTGtZdGxEaS0yMWlpdVpZM2dqck1fOTFUWkZfS3FPZmFoSHVtVGh0LXpobERvd1VTUTdUcjhuNkJ5bkRpR0I5T2xuVFA2Y2RORlZ4UFN5cGNEcEFR?oc=5",
+   "source": "UA.NEWS",
+   "country": "US",
+   "published": "2026-11-20T22:30:20.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "영국, 러시아, 중국, 이란, 북한에 대한 사이버 작전을 처음으로 확인 - Anadolu Agency"
+  },
+  {
+   "id": "김정은트럼프대화제의외면하고교육공장으로내치행보지속",
+   "title": "김정은, 트럼프 대화제의 외면하고 교육공장으로…내치행보 지속",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3WGgyVmdBcTZVcTNxTXJIR1JFOVE3akNLZWV2c3NTMUpyVjN0V21CUHQzcXRQVUhSWTBJUC1NWkkwTUllR0xqT0RoT29odjhwYWdnNVU4NTg1NUxobGdPMtIBYEFVX3lxTFA3WGgyVmdBcTZVcTNxTXJIR1JFOVE3akNLZWV2c3NTMUpyVjN0V21CUHQzcXRQVUhSWTBJUC1NWkkwTUllR0xqT0RoT29odjhwYWdnNVU4NTg1NUxobGdPMg?oc=5",
+   "source": "연합뉴스",
+   "country": "KR",
+   "published": "2026-11-20T22:29:28.000Z",
+   "fields": [
+    "politics",
+    "economy",
+    "education"
+   ],
+   "summary": "김정은, 트럼프 대화제의 외면하고 교육공장으로…내치행보 지속"
+  },
+  {
+   "id": "британиявпервыеподтвердилакибероперациипротивроссиикитаяиранаикндрanadoluagency",
+   "title": "Британия впервые подтвердила кибероперации против России, Китая, Ирана и КНДР — Anadolu Agency",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeFljQWpMMy1OZWZHaklGSTA5Tld6bzdtMFJGYm13OVNvaWZRYktCU0ludnh6NFR1TWstUW5QTVN2X3VSZTc1U0c5aVJHanVrUzdmZ1VEc1NFRjRlM1RJMTgxZVRJby1Tb25MUWJYVGU2R2pldkx5LUxnTzhZaHhadzlhRlhNVnBpLUl5bnVGMHFRM2k4dDFUbE52am1Zdk5zV0VSZmIxMEhiSVN5c21hQy1Idk0zMU9DRV9sZm80V1VSaDVr?oc=5",
+   "source": "UA.NEWS",
+   "country": "RU",
+   "published": "2026-11-20T22:28:16.000Z",
+   "fields": [],
+   "summary": "영국, 러시아, 중국, 이란, 북한에 대한 사이버 작전을 처음으로 확인 - Anadolu Agency"
+  },
+  {
+   "id": "비건전대북대표남북통일후북측에일정기간대통령직보장",
+   "title": "비건 전 대북대표 \"남북통일 후 북측에 일정 기간 대통령직 보장\"",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uWG5WemJfbHBpd1dkanZvQkxoajRKWkc2M2hnamtUeF9SQ2pmYmhrQ0lyX2dqelRPVHpiX1pjVjBVa2VzWFpqTm56dTZSbzlUNjhPeFlwUG9Ra01HZ2Z4QW5HcllObnFnamVMOGVBRFl1QlFqdWc?oc=5",
+   "source": "YTN",
+   "country": "KR",
+   "published": "2026-11-20T22:25:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "비건 전 대북대표 \"남북통일 후 북측에 일정 기간 대통령직 보장\""
+  },
+  {
+   "id": "北대동강과수종합농장새살림집입사모임진행",
+   "title": "北, 대동강과수종합농장 새 살림집 입사 모임 진행",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3ZkY5YTNkdzQ0ZElDME5WTHRHcTBBS3FVRkVBRVA5M2R5aXhrd0NQX0FqSkJPOEE1dVBxVE5QWDhMV2NfYnRTdHJtVGdJNGRNc3E5QU5ONE1vT1h6V3hCdDROUE5ob05YS0o4?oc=5",
+   "source": "SPN 서울평양뉴스",
+   "country": "KR",
+   "published": "2026-11-20T22:24:32.000Z",
+   "fields": [],
+   "summary": "北, 대동강과수종합농장 새 살림집 입사 모임 진행"
+  },
+  {
+   "id": "британияподтвердилакибероперациипротивроссиикитаяиранаикндр",
+   "title": "Британия подтвердила кибероперации против России, Китая, Ирана и КНДР",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMi1rUXdka3hiM2VFVzdHTHV6VmxpbFo4SzhZTGdSRHAxVmVnXzA3ZDhERnVnSS1oNnNsYVJSRGNwMXlyeEFGWER6NjlfOC00eV9pN1JlX0Y3TzBKSHJrVkhYM1AwNVE2U3N1bzRFamRUcTBXbzJnb2RWR3Y4ODAyVnVVTnZRX09wUFlwLXNmR25xZ3dxd09pVlhjWXNyLXR1bXM3MVQwQ2VlQQ?oc=5",
+   "source": "Operativ Məlumat Mərkəzi",
+   "country": "RU",
+   "published": "2026-11-20T22:23:31.000Z",
+   "fields": [],
+   "summary": "영국, 러시아, 중국, 이란, 북한에 대한 사이버 작전 확인"
+  },
+  {
+   "id": "라오스인민혁명당대표단北당중앙간부학교등참관",
+   "title": "라오스 인민혁명당 대표단, 北 당 중앙간부학교 등 참관",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mdU5IdU9HdnBLR2ZnX0xJeFZFeEw4UkZFT0FfQUIyU043OExrd2hVOUFDNWp5MFBXQ2dBdTdmT2F6ckx6cFVBaVI1R05iRUQ4Tl9QU2k1dUd1ZjZCZVlINnFXNEJUX05KaXpF?oc=5",
+   "source": "SPN 서울평양뉴스",
+   "country": "KR",
+   "published": "2026-11-20T22:22:50.000Z",
+   "fields": [
+    "education"
+   ],
+   "summary": "라오스 인민혁명당 대표단, 北 당 중앙간부학교 등 참관"
+  },
+  {
+   "id": "トランプ氏レガシー外交本格化米中ロ歴史的会談も成果乏しく",
+   "title": "トランプ氏、「レガシー外交」本格化 米中ロ、歴史的会談も成果乏しく",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JbUhqUllUM1RUMnd6WUt2VXQyMFdaNGp3ekpPSzZHbThCOV9QanRjaXNERVRWSHNUdk5xdWV5anpFdVZod1hueGg1UEFnOURYdFE4dEY3cmxvQ0g1SWpEWmI4aw?oc=5",
+   "source": "時事ドットコム",
+   "country": "JP",
+   "published": "2026-11-20T22:08:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프 씨, 「레거시 외교」본격화 미나카로, 역사적 회담도 성과 부족"
+  },
+  {
+   "id": "트럼프미중러3자회담서한반도위험대응논의",
+   "title": "트럼프 “미중러 3자 회담서 한반도 위험 대응 논의”",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZZDUxLWVyaUpfdElKZTYtNXFHRU9hUTQ3T2otakNwRVd2bFZEZDBFTm9kdENxOXJGMkpSNEJ3azcteVJXdmhVaDVnTHBSR2dUd3lOYk1pZXk4VHFaRkQ3NmdVazVSdUk2Snc?oc=5",
+   "source": "천지일보",
+   "country": "KR",
+   "published": "2026-11-20T22:04:39.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프 “미중러 3자 회담서 한반도 위험 대응 논의”"
+  },
+  {
+   "id": "kbs는안되고한국방송공사는괜찮다고하는데",
+   "title": "\"KBS는 안되고 한국방송공사는 괜찮다고 하는데\"",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWm1RV3VwV2pQQnFRd2tneE52NWVYQ2lLSzI3ZDBjQ2VRQTNjUC1BRFA3cC1ZX0NrX01JY0Q4c1NyaFFLYlp6ZWdabnc0N0RqUnRobDdmNVBsYjVSRjRoY2N3YmtwcnBIUUFCeUgxaWRBOVdBM3I2aHUyNUQzMzBIVkxrSWZnUS1YY1hXTjFMRVJEb3diZHNfRTF1MGI1OWN5S0ZFcUdfbHpqVnU2LVdTR3pXM2UzdG5JRkY0R0hDeU1FNGdILThTLW5aeGl2VWhtdHNaTW80M1BINjg4TW15WTNPNk41VHF3Q0VRcHdrSTNzbS1ZODBEaFNSNlpvQWFZeHc?oc=5",
+   "source": "데일리안",
+   "country": "KR",
+   "published": "2026-11-20T22:01:00.000Z",
+   "fields": [],
+   "summary": "\"KBS는 안되고 한국방송공사는 괜찮다고 하는데\""
+  },
+  {
    "id": "북한우라늄고농축시설추가로확장wsj",
    "title": "북한 우라늄 고농축 시설 추가로 확장-WSJ",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuS2t0ZXg3WGVyX2hReHRyZnBMT2lXQjhkU3BkeV8yM1ZtbE1ld1JFRGh1bmZ5S3JXYkp5MmxEbmY2N214a0F4dlBONjlmeHA0Vl9QaEdMUzl0LWFXNkpDUdIBeEFVX3lxTFA1V1U3djRlekI4OFZEZy0xUXhLRXllclBnT3EwdF9XcUNfcjkzQUI5U0s2MGRsVy1ySUc1dVVUZlJicUZRdE5Cc0Z3d043LUxvdGtoSEdQVjhaU2xTamRhTGFHaWVEeUhCcElvdTV1V3ktdUhPSnQ2Nw?oc=5",
@@ -72,6 +1001,30 @@
    "summary": "트럼프 \"미중러 회담서 한반도 관련 논의\""
   },
   {
+   "id": "тишиначистотаипустыепроспектычемудивляеткндртуристовизприморья",
+   "title": "Тишина, чистота и пустые проспекты: чем удивляет КНДР туристов из Приморья",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNSFhFcEFUVlRRWlM2LUp0a0g0dUFkQ2VSMnpBaTNxeHkwU0xzN0QzaXkyaDB5U084QlNXSHNiNzhNZXM2d1JOTExYRnl5TTM1UXl0UkZ6emhzZVAzXzRpTVBoSWzSAWpBVV95cUxPbW5kVTRpZURjQzM2MWw4Zk9kZDZKRFBPOGE0SmtoODZ0dVVvSWdaN0hkRUoyR3BwYTJUYWl0UGpsTWVEd2ZicUVKNVBoOEg4S3EwbGRQSG9ZcE5SZ196a25BajcydXlibUxn?oc=5",
+   "source": "VladNews",
+   "country": "RU",
+   "published": "2026-11-20T21:24:59.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "고요함, 깨끗함, 텅 빈 거리: 연해주에서 온 북한 관광객들을 놀라게 하는 것"
+  },
+  {
+   "id": "비건남북국가연합뒤북한에대통령직보장할수도정치",
+   "title": "비건 “남북 국가연합 뒤 북한에 대통령직 보장할 수도” : 정치",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91QVY1QnNaamRmN2NSRTlZZUZzNy01NzJZODBXSEJXTkg1MmVXRnJwWDNkRGZXdkhMcEx0d1NTWmctbkRVSUdtMjI3RQ?oc=5",
+   "source": "재경일보",
+   "country": "KR",
+   "published": "2026-11-20T21:23:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "비건 “남북 국가연합 뒤 북한에 대통령직 보장할 수도” : 정치"
+  },
+  {
    "id": "娘のスキーにご満悦トランプ米朝空振りで金正恩が手にした独裁の青信号高英起エキスパート",
    "title": "娘のスキーにご満悦…トランプ“米朝空振り”で金正恩が手にした「独裁の青信号」（高英起） - エキスパート",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVE9CV1hmcG5ZbFpJZ05jVXdMS3VkOW1WaS1LU1h2aER1bXU2Y24zeUtIV184QVBMTTdkV2FfN0hrN2kxNUt1T0J0bjdTMW9lSlJLNUZSbmdUdjZzQjlhRDJwaGhJM2hEbHdJOUFpR2lrVVgyeElyM2R1RnV6VDd6dnRJMUEwRzNO?oc=5",
@@ -121,6 +1074,18 @@
    "summary": "북한, 유엔 전자정부 평가 190위·온라인 주민 참여 0점…한국 1위"
   },
   {
+   "id": "북한유엔전자정부평가190위한국1위",
+   "title": "북한, 유엔 '전자정부 평가' 190위…한국 1위",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQmg5UEpvUkNGV05pMUF3ei0wNlJIdEVZWVBsWjFxdEJfaWFJUjZ6c0ZYS3dHNGZzTVc5aVc3MDIyVGZCbFdzS0Rsd0xCR1RXRWlhbUhyN1BPeVptd1gxTlEwZmhYSlhaUzRKdFBJVVp1Sm9NUzAwZXhDYjdZMERJZUJRSHVteDhQUlVyLdIBjwFBVV95cUxPS0ViTEtNRTJEckloQnNsYVpmRC01QTBkMVZHdTZKQnZkQi1BT0poR1ZzM1NWNVRTWV8zZV82cGRWcFdwU2diNzFEVzd0bjZHXzF5VnNadkZzVUNhN21iME96dkZqNHNwT1Juem5EcnhYbnUzVnVNQXRPVnQza0lab01jZ1RFSHdIVU1mTGdNcw?oc=5",
+   "source": "VOA 한국어 홈페이지",
+   "country": "KR",
+   "published": "2026-11-20T20:55:33.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "북한, 유엔 '전자정부 평가' 190위…한국 1위"
+  },
+  {
    "id": "영국eu이어스위스도북한송도원야영소제재",
    "title": "영국·EU 이어 스위스도 북한 송도원야영소 제재",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VV0lQd3MwY3owd3pOYVNBR2xObmctXzJvVHNjejZnTTh2YTFfSEdKbHlfTFJ3akVTQS1KdUpjMnZaQ0RLVDhxYlluRGM0RllTUzRaekc0Tkoxa1FwMEZQVNIBeEFVX3lxTFAwNjloZE9qakxaay1CUTh0ZU5SdTJaYzFIMHBxdWYzamZ5OVVFQVRJZzFIZWJLVWVqUlhJaDFVb1hielU5NlVUVjlXRUVhOEh1eHc1QUpjMU5NdS1iNHZBT044VHdobWJrLV9tTW9oSHBhbGdMS0lQRg?oc=5",
@@ -133,6 +1098,16 @@
    "summary": "영국·EU 이어 스위스도 북한 송도원야영소 제재"
   },
   {
+   "id": "北朝鮮の党代表団が訪中金成男書記関係強化か",
+   "title": "北朝鮮の党代表団が訪中 金成男書記、関係強化か",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWN09sVUtWTWZ5YU55V2syTXFDc2I3dnJJNFJDbEdISzRDUjdndW9ZUS1lLVNEV1kzdTRTdzJ1WVVhSTJOS1k5bnZCZkFlZTFjVUE?oc=5",
+   "source": "山陽新聞",
+   "country": "JP",
+   "published": "2026-11-20T20:45:48.000Z",
+   "fields": [],
+   "summary": "북한의 당 대표단이 방중 김성남 서기, 관계 강화인가"
+  },
+  {
    "id": "김주애스키에유럽브랜드로고제조사들북한과거래없어",
    "title": "김주애 스키에 유럽 브랜드 로고…제조사들 “북한과 거래 없어”",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNEhSaHFaT0VsY09NbWtvSExzMXNRdnQ0X2F2ODdZUmhYa25PWmFTNHJIbWJUSXJaWm5vV2lQSVU3b0xRT0JqbXlrOWdZamJ4bU9VaXRNX3hRUzB4OWtmMzF5c20yUk43ajM2ei1Fc3lHdklZb3JvaEJ5UkRwa21qb2Zwa3XSAYQBQVVfeXFMTzRIUmhxWk9FbGNPTW1rb0hMczFzUXZ0NF9hdjg3WVJoWGtuT1phUzRySG1iVElyWlpub1dpUElVN29MUU9Cam15azlnWWpieG1PVWl0TV94UVMweDlrZjMxeXNtMlJON2ozNnotRXN5R3ZJWW9yb2hCeVJEcGttam9mcGt1?oc=5",
@@ -141,6 +1116,16 @@
    "published": "2026-11-20T20:45:12.000Z",
    "fields": [],
    "summary": "김주애 스키에 유럽 브랜드 로고…제조사들 “북한과 거래 없어”"
+  },
+  {
+   "id": "김주애스키에고가유럽브랜드로고제조사들북한과거래없어",
+   "title": "김주애 스키에 '고가' 유럽 브랜드 로고…제조사들 “북한과 거래 없어”",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1JXd2w0ODlmTy15WXYwWW5JUC1FTlJ5RDdUZ3hRVWM1UVA5cDlGaEliT2JpeTA0b0I1NDFwc2lGMkZMSnN5OFVOMXVIVWJXVWFQLWJSUkt6MTNHOS1UTjZXYzRkblNkMnQwVWVFUjk2bFpaYmhtWlB6cUd1WFp3c0930gGEAUFVX3lxTE80SFJocVpPRWxjT01ta29ITHMxc1F2dDRfYXY4N1lSaFhrbk9aYVM0ckhtYlRJclpabm9XaVBJVTdvTFFPQmpteWs5Z1lqYnhtT1VpdE1feFFTMHg5a2YzMXlzbTJSTjdqMzZ6LUVzeUd2SVlvcm9oQnlSRHBrbWpvZnBrdQ?oc=5",
+   "source": "VOA 한국어 홈페이지",
+   "country": "KR",
+   "published": "2026-11-20T20:45:12.000Z",
+   "fields": [],
+   "summary": "김주애 스키에 '고가' 유럽 브랜드 로고…제조사들 “북한과 거래 없어”"
   },
   {
    "id": "華麗な生活後継者ジュエの足下で水を汲み薪を集める欠席児童たち",
@@ -178,6 +1163,19 @@
     "humanRights"
    ],
    "summary": "탈북민, 김정은 상대로 역사적인 승리"
+  },
+  {
+   "id": "northkoreandefectorwinshistoriclawsuitagainstkimjongun",
+   "title": "North Korean Defector Wins Historic Lawsuit Against Kim Jong-un",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYXBmQjliWExqcUxVMktOaXVrdnlhb0ZWNXY2NEEyMEtoNms1SmpvcTFTdElNMmdNTWVHRXVsMFF4VjUxNHlfb2JsX0hkQmlyUFdYX3UtSTVhOEFRTjAwODFQcGFROHhvU09nMWVyd25CdGRJcUpwS1E3MXNBWmE5Slk3NTAzMk15?oc=5",
+   "source": "조선일보",
+   "country": "US",
+   "published": "2026-11-20T20:25:16.000Z",
+   "fields": [
+    "politics",
+    "humanRights"
+   ],
+   "summary": "탈북자가 김정은을 상대로 한 역사적 소송에서 승소했다"
   },
   {
    "id": "northkorealinkedhackerslaundermorethan149millioninbitcoinstolenfrombinance",
@@ -224,6 +1222,16 @@
     "economy"
    ],
    "summary": "혜산역에서 상인을 두고 경찰과 충돌"
+  },
+  {
+   "id": "あすからイカゲームカンハヌル北朝鮮から来た偽りの孫に韓国ドラマカーテンコールテレビ放送キャストあらすじ",
+   "title": "【あすから】『イカゲーム』カン・ハヌル、“北朝鮮から来た偽りの孫”に 韓国ドラマ『カーテンコール』、テレビ放送＜キャスト・あらすじ＞",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GYjBkcjdVRmlJODFxTW95ZW9IamRvQXpuaC16Rm1mSHdRTHBray1GVVN6dnV3cXk4V29heUxfY2xCRzNldzJHQXN4OTA3Si1pVEtGWlpXdDZ5OVE1?oc=5",
+   "source": "山陽新聞",
+   "country": "JP",
+   "published": "2026-11-20T19:22:57.000Z",
+   "fields": [],
+   "summary": "【내일부터】 ‘오징어 게임’ 강하늘, ‘북한에서 온 거짓 손자’에 한국 드라마 ‘커튼콜’, TV방송 <캐스트·소식>"
   },
   {
    "id": "ukcyberforcetargetingrussiachinairanandnorthkoreatopcommanderreveals",
@@ -430,6 +1438,18 @@
    "summary": "러시아와 조선의 자유형레슬링대표팀이 평양에서 합동훈련을 진행했다."
   },
   {
+   "id": "werenotatpeaceukadmitsoffensivecyberopsagainstrussiachinairanandnorthkorea",
+   "title": "\"We're not at peace\": UK admits offensive cyber ops against Russia, China, Iran and North Korea",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3F1V1pSb1g3TmpqNmkwM01EbTBkajVUZHFHaVBpY053Y0tUQXI5TExlS2JMck1kVGZqeEQ5RDRWMzE0RHB2V3FBNXVFdGVCaXBaSTVqWmhsY1JZTXhwSHl2NkFwSHQ2NlZJVVdUSlhyT0ZXWkRRcFN4OFM1WHBCNmk1U05NZ0N4TkNiSUpWdDU4dw?oc=5",
+   "source": "Il Politico Web",
+   "country": "US",
+   "published": "2026-11-20T16:35:03.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "\"우리는 평화롭지 않다\": 영국, 러시아, 중국, 이란, 북한에 대한 공격적 사이버 작전 인정"
+  },
+  {
    "id": "historicrulingkimjongunorderedtopaynorthkoreandefector",
    "title": "Historic Ruling: Kim Jong-un Ordered to Pay North Korean Defector",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYXBmQjliWExqcUxVMktOaXVrdnlhb0ZWNXY2NEEyMEtoNms1SmpvcTFTdElNMmdNTWVHRXVsMFF4VjUxNHlfb2JsX0hkQmlyUFdYX3UtSTVhOEFRTjAwODFQcGFROHhvU09nMWVyd25CdGRJcUpwS1E3MXNBWmE5Slk3NTAzMk15?oc=5",
@@ -441,6 +1461,16 @@
     "humanRights"
    ],
    "summary": "역사적인 판결: 김정은에게 탈북자에게 돈을 지급하라고 명령하다"
+  },
+  {
+   "id": "英国首次证实对俄罗斯中国伊朗和朝鲜开展网络行动阿纳多卢通讯社",
+   "title": "英国首次证实对俄罗斯、中国、伊朗和朝鲜开展网络行动—— 阿纳多卢通讯社",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQWYzNGJmdzFRZWt2OVU1cEVPT0RScTlHRmhRQzE3SEpNUzhkaVpRdDJGSkduVU1HRXdlb1pudjVlQmRyZjZocE16WFJiOU5oRUJuV05XaTFaa2ZtY0JXdGNpMDdra0sxeW9OVlRxZHFmc1BNb3ROZU40X0IzZ2FlaEdRUXRuaV9EcWZwdTRucFJwY0RENWZNVW5LNjFtQ2JUWkRYVEVfdFptQUNtVUE0RHJwdncxWmNGb1Qxem5DdTFYdkJp?oc=5",
+   "source": "UA.NEWS",
+   "country": "CN",
+   "published": "2026-11-20T16:22:00.000Z",
+   "fields": [],
+   "summary": "영국, 러시아, 중국, 이란, 북한에 대한 사이버 작전을 처음으로 확인 - Anadolu Agency"
   },
   {
    "id": "북한여성의날에세상이여조선여성을부러워하라",
@@ -569,6 +1599,18 @@
    "summary": "한반도에 밀려온 중공군 포로 75%는 왜 본국 귀환을 거부했는가"
   },
   {
+   "id": "trumpsaidtoobusytomeetagainwithnkoreaskimnbc",
+   "title": "Trump said too busy to meet again with N Korea’s Kim: NBC",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDVweUI1T0lsN0lKWEdqbUlnYUV6bzJ6bWVCNnhWbVh2UnYxVkdTNUJYNzYzR05XN3Q2MHl5amF6NTZReVpnQTh5VHpEdlZFSHRyWV9sQUJaVncwOWFuQ2tydmxqMUtvc191UzdmNjc2U0V1WkloMzlyMlBQcURsRFFZRnE0NEluR0FtUEJPZHItdERQZnBFRl9oNUJwUTNJLWVOYzJyV2kwQQ?oc=5",
+   "source": "New Age BD",
+   "country": "US",
+   "published": "2026-11-20T15:27:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "NBC \"트럼프, 너무 바빠서 김 위원장과 다시 만날 수 없다\""
+  },
+  {
    "id": "northkoreafiresprojectilesafternewunsanctions",
    "title": "North Korea fires projectiles after new UN sanctions",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczc0MnVXSnJqaGFld2dSbm53dWdDM19KUDdFNlB2RjRHNnZ5bDFTN3ZwMWRMc0FoaEE0OFBKUEljWF8zc0JUbHQwSGlOWkM3RW1iMDd4Mkd4eVhvdkRkaTd4emw4SlZUODRnYnRtM0pXN09tWHBvQVlxNmhpYTBWbkk5ZGZhQXc4TG8xaTk2V2ZtOEhvcFE?oc=5",
@@ -601,6 +1643,16 @@
     "politics"
    ],
    "summary": "트럼프 \"김정은과 좋은 관계, 이번엔 회담 성사 안돼\" - 머니투데이"
+  },
+  {
+   "id": "presidentleejaemyunghopesdialoguewithnorthkoreareopensforpeace",
+   "title": "President Lee Jae Myung Hopes Dialogue with North Korea Reopens for Peace",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2hQaE8zMWc4TFZvQWtHWGw5bElkdDJPQnlLMDUzaExlNWVWUFFlRURJU2RiTEJ0SEJsZEwwR3p6NTQ3blIwc1pjaFpUOUhVbXpZUjV5OFBHZEdiWHg3d05OUkw1eHc1RjJrQVNhR1VaeFFka29TRlRQQ3VjNXF3T3drLUdUZ0dX?oc=5",
+   "source": "조선일보",
+   "country": "US",
+   "published": "2026-11-20T15:11:15.000Z",
+   "fields": [],
+   "summary": "이재명 대통령, 평화를 위한 남북대화 재개 희망"
   },
   {
    "id": "영국eu이어스위스도북한송도원야영소제재우크라아동이송관여",
