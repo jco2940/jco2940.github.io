@@ -2,6 +2,1270 @@
  "date": "2026-11-23",
  "items": [
   {
+   "id": "kimjongunpersonallyacceptsforeignambassadorscredentialsforfirsttime",
+   "title": "Kim Jong Un personally accepts foreign ambassadors’ credentials for first time",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPamw3emxKdmNoLTZNZF9rRkFhd0lmLWNjb005RDR2YUU1dkVXUVBYdmxuUnpTcHRBMWtLR2NTWkZNNUZwRjJfamZzZEtTTG1MNEpTdkVMMjU0c3lRdFd0cU45MlRRQVpidDNMUjJJNnNRTFZwLXlZX0tHMnVHVmJZZHkyVWMwUVYtMkdQbVJrNWR6QjUwSmg1MDF1RjRsTVdFYW41SDhtSTd1a0lOV1E?oc=5",
+   "source": "NK News",
+   "country": "US",
+   "published": "2026-11-23T08:14:45.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은, 처음으로 외국대사 신임장 직접 수령"
+  },
+  {
+   "id": "ussenatorwarnsnorthkoreagrowingmorelethalduetoukrainewar",
+   "title": "US senator warns North Korea growing ‘more lethal’ due to Ukraine war",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMnBzQ2kybk5kYTQzWjlqQzRfdWU1Z1hWLWZfbVlVVlNyUUg3NWJoUk1VWGZSNEFjY2hUS3dhMklTZTFKajFqMnJDUXM4dkxnQXE0UVNRT1hmQ3h0WjQ4TmRmQVRCdmNoelN5TkZUOXB2b051aGhrS2k1OHdKOHhLcnROczZQS1JScW5SMEpsV0ZBaTQxQldVa19rajYyOU1m?oc=5",
+   "source": "NK News",
+   "country": "US",
+   "published": "2026-11-23T08:09:43.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "미국 상원 의원, 우크라이나 전쟁으로 인해 북한이 '더 치명적'해지고 있다고 경고"
+  },
+  {
+   "id": "kimjongunhighlightssovereigntyinforeignties",
+   "title": "Kim Jong Un highlights 'sovereignty' in foreign ties",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CMzNTMmtGbnI5LURfVjNoOE1KT2RscENQb3ZBZmFqSGxIMFJZRzRmYkVBcG5uUkJNcjEtUXhFN3RxemRVeXhCZA?oc=5",
+   "source": "Roya News",
+   "country": "US",
+   "published": "2026-11-23T08:08:21.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은, 대외관계 '주권' 강조"
+  },
+  {
+   "id": "kimjongunsaysnorthkoreaseeksnohegemonyorexpansion",
+   "title": "Kim Jong Un Says North Korea Seeks No Hegemony or Expansion",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSVRTMU1vQ0o1eXg0cXNjTWl0LU5qN3AxWjA0YWJjN0hZS0ZjR3JzU3pGdy1ZWTJKQl9SeXBtZkRWTUR5bURYc0JKSkNkS3pEMVFaVGJKNzJqUHFKOTFENElHdzdzcHhIRm1fR05DNHRPX2hGNzJyZXNGellqTmxJOTBNQjRoUnM1MkJ3QzVYNUlYaG1sUGR3?oc=5",
+   "source": "Tempo.co English",
+   "country": "US",
+   "published": "2026-11-23T08:03:40.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 “북한은 패권이나 확장 추구하지 않는다”"
+  },
+  {
+   "id": "southmarks16yearssinceyeonpyeongshellingvictoryovernorth",
+   "title": "South marks 16 years since Yeonpyeong shelling victory over North",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2NObmRYeUgxMjB3dnRucjljQTRQcXYwcjlJdzBLWDc0R0I2SVA2Tk91Mk5hb3dTLW9pR19hUFJRRnN4MlBIaTBGM1huaVhXc0dRV3BZaU95UEZBMnRVOFZNdkVUQVBPd0xaZlFRMThFQVZtenp1RDRNNE5WdENMUHBUSjBORjNuQW5hYkR4VFEydnM2Y3UxSkJvNnBZNzBMbTVjMnh1V3I5V3NKTHk4bTVGd3ZVQQ?oc=5",
+   "source": "Korea JoongAng Daily",
+   "country": "GB",
+   "published": "2026-11-23T08:03:14.000Z",
+   "fields": [],
+   "summary": "남한이 연평도 포격으로 북을 이긴 지 16주년이 되었습니다."
+  },
+  {
+   "id": "northkoreanleaderkimjongunsluxuryfleetappearstogrowdespitesanctionsreport",
+   "title": "North Korean leader Kim Jong Un’s luxury fleet appears to grow despite sanctions: Report",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLXpqbEpVSGFMeTU0R05SR0RhMW1OYjF3Mkh5TGVZWHFxQkh4SFEyUldQZE0wTm1pVDNIcjRlMmZZU2ZOdlpGQkRfZnE1bWdzUlQ5eTB2cVR1cXhHQ255NHUtN1BVc1dmWkVHMVIzOWhvbE1wZklmbmdkN3ozZ2Q0LW9IeFNPN1JqOFpWem9WSUVhSllsMFNVelBoZlItTUo3eGFUOUJfYlVweFJrWG92MVRFd19RTWE0TzQwQTR5MkhPaTNKYlVlR2VzeXo0aXRXX0QxUlRyVVJPNDlSR3lrcWh5Yw?oc=5",
+   "source": "The Star",
+   "country": "GB",
+   "published": "2026-11-23T07:59:00.000Z",
+   "fields": [
+    "politics",
+    "economy"
+   ],
+   "summary": "제재에도 불구하고 김정은의 호화 선박이 증가하는 것으로 보인다 : 보고서"
+  },
+  {
+   "id": "正恩氏友好国と協力強化時事通信",
+   "title": "正恩氏「友好国と協力強化」（時事通信）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CRFlCQ0RNOTItME5OM01mb2JHcDBHcmRKU1RmVUtmTmdycGl0Z1BXamUxUkdLc2pKZUZWRUxGOWU1eFg1cllhQVMxTTRwcWRZWWYxX0hvOVdUajVnd1hkcEh1OExpX0FlZEJqTVF5bVVYTVd2MDZOVHBVZEFOYVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-23T07:58:43.000Z",
+   "fields": [],
+   "summary": "마사온씨 「우호국과 협력 강화」(시사 통신)"
+  },
+  {
+   "id": "рфкитайираникндрсоздаливоеннуюсетьtheeconomistраскрылееугрожающиемасштабы",
+   "title": "РФ, Китай, Иран и КНДР создали военную сеть: The Economist раскрыл ее угрожающие масштабы",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWVlRGdvVlRJNV9palJVckV2a3VCUTlYaXhBSTdITVZBMThpTS15WnpUY21sOHVYY0tncVotdF9hME0xUXNBZ3lQN0MyTHFzSnFna2RsZHgxS0VWeE5SNGx0bndUdzRYSXZ5MHVFeGNMOFY0c3VqcldPWHM2eG1QOTdFUngxbmxPV3RhNi05UnVJNGZCNzNkd0JyVTRrWFAtbDdGQXUwTTNnb05hODR4UUg2Qm9EOXVLVjNCaDI4TQ?oc=5",
+   "source": "Today.ua",
+   "country": "RU",
+   "published": "2026-11-23T07:58:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "러시아, 중국, 이란, 북한이 군사 네트워크를 구축했습니다. 이코노미스트는 그 규모가 놀라운 수준이라고 밝혔습니다."
+  },
+  {
+   "id": "покаестьтектоставитсвоиинтересывышедругихспокойствиянебудеткимченын",
+   "title": "Пока есть те, кто ставит свои интересы выше других, спокойствия не будет — Ким Чен Ын",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV3FWSDJ5eWx1ZUE4UGRIbU55RDRaRFVIOFd2NE5fUTd3aktjMFJ1YV9CMVA5VHNDb2piaXViaVFhb2tRWk45YjFpYVh3MkxzWlBuYVRIdVpiN19FcC1aNXNOOXZTcVhCYUx4YzhjOHNZM1BoV2RxdVRzMmpUV1VZdU1vSGN4NU9wMHAzcnNmYjNoM1E4X3NXTzZQdWhqWUF2aFRWQWhGanZZTEFXaU9GS2FIbmZJNjhzV005RFdGRdIBwwFBVV95cUxQTmctNFJZRjJPcXpROVd3eUNYX0FVZFdLSmtyd20xVmlEYkNhZmU1cEpJMGdxUUZjTjJmOVVjMWNmVjhCTmRqWVRONEhPUnA3R1RIeDJ6ZEtjNzhvU1EtbGNXQUxHYzJnVExHUzhZVlB2LXJhNG1mdkJ3NlFYd2x5QWI3cVVZRnNfclM2M1NsMEZBR3BRTVk1SVBCZURRdW5fVWN2QmlSZ2RJUUo4NU0ybnBXeU0xbXVtWmduNDdSbnAyUHc?oc=5",
+   "source": "EADaily",
+   "country": "RU",
+   "published": "2026-11-23T07:55:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "남보다 자기 이익을 앞세우는 자들이 있는 한 평화는 없다 - 김정은"
+  },
+  {
+   "id": "whykimsentjoyongwontoputinnotxi",
+   "title": "Why Kim sent Jo Yong Won to Putin, not Xi",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LTFZWZ0xXMFB3YXFEQk5OZndOclVhVk9yVnAtOEJZNjZqUGlvc1JCdkdRY09DenYwV05tOE1WRW5FWWhfdE9iMUN0eW44VmlNeS1CWVZwZkVUQXg2SWZfcWZxVmdCS0xnT1dmTU1sa0VSWFFhSXhGNlVsT1Q3LU0?oc=5",
+   "source": "데일리NK",
+   "country": "GB",
+   "published": "2026-11-23T07:49:33.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김 위원장이 시진핑이 아닌 조용원을 푸틴에게 보낸 이유"
+  },
+  {
+   "id": "northkoreanleaderclaimsarmsbuildupforselfdefensenotregionalsupremacy",
+   "title": "North Korean leader claims arms build-up for self-defense, not regional supremacy",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGllbHljMWpCT0pBTk9UN2YwSHBuSFE0YWxodVFnV0tKSFo0bHpRZFlIN0ZyV254SVdaZzRUS3JJUExtVHoybV94ZkVSWUVYZHptOGRfMWJIRWhsOUZ4ZDdINmxnejBXTHVmbzZnc2ZIalMwNTZwaTJ4MXA0TVl6aWFPVEJDbURSVWlDQ1dkOUNwclpUZDdnNVd5b095QkJ5TFVpb19wYkdFQQ?oc=5",
+   "source": "Stars and Stripes",
+   "country": "GB",
+   "published": "2026-11-23T07:45:16.000Z",
+   "fields": [],
+   "summary": "북한 지도자, 지역 패권이 아닌 자위를 위한 무기 증강 주장"
+  },
+  {
+   "id": "profile3termlawmakerwithnkoreaexpertisetappedasunificationminister",
+   "title": "(profile) 3-term lawmaker with N. Korea expertise tapped as unification minister",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHR1ZoSFBZb1ptVU9Mc1lBUUdRaHQ1NlhrREpoR2tzeTUxbUNBdTVBcUFhVjdqclBDMEpMbFV0SVd4U0FLc0NWeGJ5MkhCM1RHd2todGJyeThrUQ?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "GB",
+   "published": "2026-11-23T07:44:49.000Z",
+   "fields": [],
+   "summary": "(프로필) 3선 대북 전문 의원, 통일부 장관에 내정"
+  },
+  {
+   "id": "whykimjongunkeepssnubbingdonaldtrump",
+   "title": "Why Kim Jong Un keeps snubbing Donald Trump",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmUEJ6NHlVeFduMXpwTnJlV3JCd3BRTGdMajBUQW9kTDB1RTVUWVZLOC1yV0FheGtaRnE3bWUxX3VnMFp3WEJHRnJwX3UzQ3JOWHNvdUcxN21wRVZIWWlTMU5ySFYzcHdGRWI3ZzFGdEpRUkhCUXpyX2wtRQ?oc=5",
+   "source": "NK News",
+   "country": "GB",
+   "published": "2026-11-23T07:44:29.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은이 도널드 트럼프를 계속 무시하는 이유"
+  },
+  {
+   "id": "кимченынпроигнорировалпопыткитрампасвязатьсяснимивернулегописьмонераспечатанным",
+   "title": "Ким Чен Ын проигнорировал попытки Трампа связаться с ним и вернул его письмо нераспечатанным",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX0Y1VGNhclFVR3V3Q2lMNlRtOUtGdTI1ZUJfc1hlNlIxZjVFZ3hqenJ1SDRSLUdzeVRRZ0psWlU4Z091aWlERVk0V2toSjFvQVZtT2NnQ0ZadGpwNVZsd01IRnQ3SHc5WkJ5UFBQSkVZSXN2M0hKUWlWeE9UTTJMWEZ3RnNMbFJHRUNOaTgtNDB0a0VzczZqaGZHNk9Jb3BpSkxJSlZSb01hSDdhRGc1clVLWkhZVkpKOS1WQzk1UVhkLWRk?oc=5",
+   "source": "Портал РЕПОСТ",
+   "country": "RU",
+   "published": "2026-11-23T07:42:43.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은은 트럼프의 접촉 시도를 무시하고 편지를 열지 않은 채 돌려보냈다."
+  },
+  {
+   "id": "profileexdiplomatwellversedinusnkoreatappedasforeignminister",
+   "title": "(profile) Ex-diplomat well versed in U.S., N. Korea tapped as foreign minister",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93UjVKSzJfX0tkUUdqR2ZlWThtaFMtYVVwX0h4eUFodGRiZDBkTkdYLVVEa1pDWmhfc09CMTZJWWhDUVNPNkY1RFBpeUtlb2o0eDNoVVRIeE90dw?oc=5",
+   "source": "Yonhap News Agency",
+   "country": "GB",
+   "published": "2026-11-23T07:41:24.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "(프로필) 미·북에 정통한 전직 외교관, 외무장관에 내정"
+  },
+  {
+   "id": "美媒特朗普亲笔信被退回朝美首脑会晤因朝方所提条件未能成行中国国际",
+   "title": "美媒：特朗普亲笔信被退回，朝美首脑会晤因朝方所提条件未能成行: 中国·国际",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44MDZQWV8wOWNVV0hTU0kxdnViM3o0c256em9ZREUzSS16TXlzMmRMblNsaWgySFgyZld4ZW1tWG5yMjJMd1Z6cm1VbHdYQWplQ2JTeTRTX0htaktwSHZUZHRHdG4?oc=5",
+   "source": "韩民族日报",
+   "country": "CN",
+   "published": "2026-11-23T07:40:00.000Z",
+   "fields": [],
+   "summary": "美 언론: 트럼프 친필 친서 반송됐고, 북한이 내놓은 조건으로 북-미 정상회담 무산 : 중국·국제"
+  },
+  {
+   "id": "正恩氏友好国と協力強化北朝鮮外交多極化に意欲",
+   "title": "正恩氏「友好国と協力強化」＝北朝鮮、外交多極化に意欲",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92VDJDa3VEa3JvSVFta2VOaHlDZHcydFVWbnBUVDRjQnVVZ2ZfMjE0UnJnTUx2cDctaGdZR1Rna296ZVVhM1lIRXVFVGlXNlRjaElkNk5XTUpfd3VvRkc4UG1TSXZTclBsWHl6VE55ZTZJOTg3TGxLTNIBfkFVX3lxTE0yMzlOVXZVTkpBVEhvOUNPV0ZoN21sYU9vTll4WF9MS0VHckZ6aU15akhrNFVOeDdqYV9zem1qWmxNci1SUldBU08yX3BqS1QwQ2ZWMlJIeGJvc1VPN3dxVV9Ubi1oenBmX2hpLUx0Vnlqbl9wb0RObUZ4cl8tUQ?oc=5",
+   "source": "ｄメニューニュース",
+   "country": "JP",
+   "published": "2026-11-23T07:35:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "정은씨 “우호국과 협력 강화” = 북한, 외교 다극화에 의욕"
+  },
+  {
+   "id": "германияпровелапервыеиспытаниябеспилотниковкамикадзе",
+   "title": "Германия провела первые испытания беспилотников-камикадзе",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORC1oUm9qLVRIbnl3Q2ZxVDI4QkJvYnlWSm5Yd0ZtNnRObmVLYWEyckRlSUVHaUJ6VXJlTDluNUhneFNrVnl0TUhDSkpfcW85b0taXzZrbG40R3FNNVdHRmt1QmhHd0V1VXdlWDN1Vk1zUHN5Y0lnWlpMWXpDUEhKN2QxR3poYUdFVEVyY25hNXV3YzlTbDRMZHpqSUVSYXdxcEE?oc=5",
+   "source": "prospect.com.ru",
+   "country": "RU",
+   "published": "2026-11-23T07:23:11.000Z",
+   "fields": [],
+   "summary": "독일, 가미카제 드론의 첫 번째 테스트 실시"
+  },
+  {
+   "id": "кимченынзаявилоботсутствииукндрэкспансионистскихамбиций",
+   "title": "Ким Чен Ын заявил об отсутствии у КНДР экспансионистских амбиций",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY185dXZTZVlZbnVNNVRTenZmVGZoUXl5Wnc2a3pTQVRiMWY1dHp4MjRBTW5MT3ZuWmZKc2FYbVdlMkZiNzEzM2xEenFPMVNqMXFfWktmMDBfMFB2RFZUZkQ3QU9SNDRWRlpIMVFIMmh3NlJjNmdxYlVEcmZVdjd2RUVEY2tVdk96QVpMNzQwVVYtMzVhNkswYzUzS2w?oc=5",
+   "source": "Бакинский рабочий",
+   "country": "RU",
+   "published": "2026-11-23T07:22:16.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 \"북한은 확장주의적 야망 없다\""
+  },
+  {
+   "id": "кндрменяетвнешнююполитикуиотвергаетинициативысша",
+   "title": "КНДР меняет внешнюю политику и отвергает инициативы США",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZHg3bG50VEM2V01Ua2UzZFhoUlJTX1FGbHVEZFNjNnZiQ1BjN0RHZ0dQODI5NXl5cWU3U0RaUjRNRWZMYjNLTlVUdVRlejBZT01ESHFEMElHd1NRcGxZZTYxa0VDR2FKMFRrOUpmN1QwWXNBWmdabW11dEJ6ZUhVSFZDMG5iYmRVcFZoVWJsYWxEQWRWYkVXaS1rdw?oc=5",
+   "source": "Euronews",
+   "country": "RU",
+   "published": "2026-11-23T07:21:04.000Z",
+   "fields": [],
+   "summary": "북한은 외교 정책을 바꾸고 미국의 제안을 거부"
+  },
+  {
+   "id": "northkoreaignoredtrumpscallsandadiplomattossedhislettertokimjongunbackunopenedat",
+   "title": "North Korea Ignored Trump's Calls and a Diplomat Tossed His Letter to Kim Jong Un Back Unopened at a UN Meeting, WSJ Reports — the White House Denies Any Push to Arrange a Summit and Says Its Demand That Pyongyang Give Up Its Nuclear Weapo",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1TSTFvTW1EWEFBWE81aWMxOE1tNmRmaDRUSGpGZV9xNTBQcXAwUnlyb01TNkVScFdzQUFB?oc=5",
+   "source": "Howl.Link",
+   "country": "GB",
+   "published": "2026-11-23T07:19:05.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "북한은 트럼프의 요구를 무시했고 외교관은 UN 회의에서 공개되지 않은 채 김정은에게 보낸 편지를 던졌다고 WSJ 보도 - 백악관은 정상회담 주선 추진을 거부하고 북한이 핵무기를 포기해야 한다고 요구했다고 밝혔습니다."
+  },
+  {
+   "id": "intelligenceriftwithuscouldbecomesecuritycrisisifnotresolvedquicklylawmakerwarns",
+   "title": "Intelligence rift with US could become security crisis if not resolved quickly, lawmaker warns",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd3NBbVo3RVdwU08wQXpBTnZwSDAtR3FWLXIwSzVaVUFycTg2WFB0MFE3N3I5M0lkNjhwZTZFU2dHckJyQ3V5a2pXRmdyNi1yX2llNVlEQXd0NWJha2tWb0RaeTJxMHdWZUMyREhyTDZRQ0hKZnZGOEh3cURoaXlhS3Z6RVY1SkNnRkxYMjh4MUIwS0tjczByNXNaVnFkUDg1QXN0VlNDVXkySk5ZWTN1WURBUGRKZlRwRExhbS00S1M0a0FtWVRxWnVJN1UxY3ludjhVc2Q5UEVjU2ZMN3pF0gHkAUFVX3lxTFAtUDRCTkFkdFJranJ0UEdLcVFtMGpnejhEQno4Tk5xTkZWWmNWY2xEbW1yMVpNVGhBVUdzSTVnN0N1eUZxbzNpUWFwUFkxdUpWYVFqMkZZWTgwS00wS0NZdl9MOUxLTnF4cUlGYjh2LVRBNTJBSy05a0FaZnJKeVBnQUpiaVlRQkJ4VzFfN0F5THpuTDdmWnlLVksyNUFrMVd3U3J0RFVOV0JMeGQ5b25XbzBrcHFpXzBNOERhd2VSdXBUU1I2aEJMWXpsMy1GandZUnJRUUliaG5LaXVzaXkwNUpYeA?oc=5",
+   "source": "The Korea Times",
+   "country": "GB",
+   "published": "2026-11-23T07:18:03.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "미국과의 정보 갈등, 빨리 해결되지 않으면 안보 위기가 될 수 있다고 국회의원 경고"
+  },
+  {
+   "id": "金正恩朝鲜将增强自身实力和能力但不追求霸权与扩张",
+   "title": "金正恩：朝鲜将增强自身实力和能力 但“不追求霸权与扩张”",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1ZESVBIMXZSN3ljXzdXYWdQaEJJMktGSExJWFZaNE5pUmdSUFRmM3ozQlpuUmI1dkJvRFVKN3lKek13UU43ajVIX0cwaWZPQWZudTBzSWZnY0lhYWVKMEJKRjhsUzVlTjFUVHRVeXRkQWd1ODdvOTlKNUFBa25oWEpxSUpkLVB6UkQ0RQ?oc=5",
+   "source": "Sohu",
+   "country": "CN",
+   "published": "2026-11-23T07:08:12.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 “북한, 힘·능력 강화할 것” “패권과 확장 추구하지 않을 것”"
+  },
+  {
+   "id": "southkoreanpresidentnominatescandidatesforthreekeysecurityposts",
+   "title": "South Korean president nominates candidates for three key security posts",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaeFZSLUkxbnFkMHllU19teHBRaXVoUXRoOEpsT2NtTmthQzJpVldEczBsekNtSnpJeHBIamFLcW9zeGNNeFQ2LXVLSU13VzR2MUpURW5zZC1QSndua0tCaDNSYUNNakNnWkl3eElFWC1FZWdpaUg1LQ?oc=5",
+   "source": "Mezha.net",
+   "country": "GB",
+   "published": "2026-11-23T07:07:04.000Z",
+   "fields": [],
+   "summary": "한국 대통령, 안보 핵심 직책 3곳에 후보자 지명"
+  },
+  {
+   "id": "назападеопятьзаговорилиотомчтоноваяосьзлаугрожаетмировомупорядку",
+   "title": "На Западе опять заговорили о том, что «новая ось зла угрожает мировому порядку»",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDVtdEM5c3V3Z3NkTnVWODFUbWpjY1RnUHhRWVJ1Q2xVdC1sdlA2QWpWRjl4OGNuRUM3YWFUSHpaRmdZMktaZU1HR1hlMDFFMU83M0tFRDhPa0pLODQ5N3g5Q1hObTlVS0gyb1daSVM4MWowbldJYmItM292bVYxRkQ2aVh5VEFpT21ZTWkzYndhM0huZTNIdVY2aGJ3RWhGWHV4S1I0VmxCdE90bGVhVw?oc=5",
+   "source": "enovosty.com",
+   "country": "RU",
+   "published": "2026-11-23T07:05:12.000Z",
+   "fields": [],
+   "summary": "서구에서는 “새로운 악의 축이 세계 질서를 위협한다”고 다시 말하고 있다."
+  },
+  {
+   "id": "onthe23rdthe16thanniversaryoftheshellingofyeonpyeongislandthepeoplespowerrenewed",
+   "title": "On the 23rd, the 16th anniversary of the shelling of Yeonpyeong Island, the People's Power renewed t..",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GTVdiaW1yczNIU2Z2NWgzVFpzM1k2NFlzTnJPUWMzc3dNZmtJTmQ0aXNJdlJLamIwNGNhd28zZVVSYXpEWXBaLXh0Tzc4R2hUT2NR?oc=5",
+   "source": "매일경제",
+   "country": "GB",
+   "published": "2026-11-23T07:01:34.000Z",
+   "fields": [],
+   "summary": "연평도 포격 16주년인 23일 국민의힘이 재계약을 체결했다."
+  },
+  {
+   "id": "лидеркндрвпервыеза30летпринялверительныеграмотыотпослов",
+   "title": "Лидер КНДР впервые за 30 лет принял верительные грамоты от послов",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSjBzdHk1MElOd2syUDdxeEVMMDRUUV9IZml0S084d0FSd3dpTkZzRGtnamJ2LWl5N282dWJTUGJTR0NjeDYwMEU4Zjc5N1dtdi0xeHFIR2cyQlR1dVdpTmZvSjZyQzBrY0RncnJycGNfVVgwSXcyWTQ3MXZEZG9mUHVacmJsbHdMTWFTMWtmNTJ5dEhKMGJZVWFZTk1vSUtTd1pYZTRfLWVwNDDSAbABQVVfeXFMTVMtM3dodGJQSkxoeVZSVzRfNGd5dUFpVm5oVnV6dVZsam9LSTRJbHRhWm9KMUtOSDZjUG5fSzM0WnpDYXQyU3NUUGdqaDdWLWprNFdSTkRORWJnS0x2bXk5ZzVZUk9BZlNyQ1BmSlB6TkpYVWFMcWVvQjIxdVZldjJGNERZWWxiN2sxV2RBOEIzb01kZlJxc081cGx2R0tfMTFQUEllMklvc1lMdTBoWUc?oc=5",
+   "source": "24.kz",
+   "country": "RU",
+   "published": "2026-11-23T07:00:41.000Z",
+   "fields": [],
+   "summary": "북한 지도자가 30년 만에 대사로부터 신임장을 받았다."
+  },
+  {
+   "id": "kimjongunsaysnorthkoreaseeksstrongerdefencesnotsupremacy",
+   "title": "Kim Jong-Un Says North Korea Seeks Stronger Defences, Not Supremacy",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkpxRnJnVmJyTlJaVG9ZM0hMXzhNcnk3akVMYXRSUjBzNzBtenVlNmxvTF9lc0hWZXBlVUFaWW5yRnlvbEE4U1JtVzhpN096VldJblNmd0UzTEVBTy1FakVCRVdlMWdIaDBYVDlvSkdxMjh6LVczU0tTd2dWVGhxQnR1bzUtRzQ5X0FmaVZnc3VPZ01GdGdFMTNPb3VoRlRINlJXYk12NDhVU2FqajNoT2lXWFV3UFRVZTJN0gHAAUFVX3lxTE5Jb1hVVXRZaUNReHZ0ellJM05CV2FlX0JXQV9weVcyNExxNDE2UE9HX0tUUFJzZEpOczNHRldzeHVvcDBELTlEY0hBaGM3U0lScXRLVlQwRVpFTjhrMTU2eXpVU0ZzV2RjamFWNUo5ZGNJWk40TmNuVVd3QmNKN01NTkhFdUdJNXFiT3JTNF9sdDZxQzJCNmtJbnp5MFBfTXpzdnBYWVhQX1UzMTZxd05lNlgxUENrMTFZV2tlRXpIbQ?oc=5",
+   "source": "تسنیم",
+   "country": "GB",
+   "published": "2026-11-23T06:55:37.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 “북한은 패권이 아닌 방어력 강화를 원한다”"
+  },
+  {
+   "id": "сшапытаютсяналадитьконтактскндрнокимченынигнорируеттрампаwsj",
+   "title": "США пытаются наладить контакт с КНДР, но Ким Чен Ын игнорирует Трампа — WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNl91c0NXYmtWcXRqcmgxdnRQTFQwUEt4bjRsem5SM3A5RU5Zalc2djMyTGFiVTllRC1hLUp2ZjdaOUdrTHdLeE5kaFQ2UGlucDhXS1I5cVM5dEVoTlMzT2xjcVN2NjBadTJMU0FrTHRMd1NrbEpLYndoUFVrY0JFb1JOdTN0YWdrQlRkblBMV0Q5djVrM01uUDA4VDJPbDJoMUFSd1Q2R3B5MDdzNnpjZFpjcHFKNVBi0gG4AUFVX3lxTE02X3VzQ1dia1ZxdGpyaDF2dFBMVDBQS3huNGx6blIzcDlFTllqVzZ2MzJMYWJVOWVELWEtSnZmN1o5R2tMd0t4TmRoVDZQaW5wOFdLUjlxUzl0RWhOUzNPbGNxU3Y2MFp1MkxTQWtMdEx3U2tsSktid2hQVWtjQkVvUk51M3RhZ2tCVGRuUExXRDl2NWszTW5QMDhUMk9sMmgxQVJ3VDZHcHkwN3M2emNkWmNwcUo1UGI?oc=5",
+   "source": "EADaily",
+   "country": "RU",
+   "published": "2026-11-23T06:55:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "미국, 북한과 접촉 시도하지만 김정은은 트럼프 무시 - WSJ"
+  },
+  {
+   "id": "金正恩総書記自主権を尊重友好国とは協力関係強化ロシアなどの大使から信任状",
+   "title": "金正恩総書記「自主権を尊重…“友好国”とは協力関係強化」ロシアなどの大使から信任状",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CSktyUE5lS2JGTUttR1QyTXNwSFVnbkxoWTJaMHdZV3otYm9mX0wwdnRoX3RGajlVblViVHB3azNyckg4YVZSdDNRVGRlZmFCS0tESmRlb1ZySUF4NkZFai1zXzdWZGM?oc=5",
+   "source": "Infoseek",
+   "country": "JP",
+   "published": "2026-11-23T06:53:15.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 총서기 “자주권을 존중…“우호국”과는 협력 관계 강화” 러시아 등의 대사로부터 신임장"
+  },
+  {
+   "id": "southkoreanominatesnewforeignandunificationministers",
+   "title": "South Korea nominates new foreign and unification ministers",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdDM4R2dESTRpNGliUENNZ0h5RW5jOGV5YW1GSFhESXJaU3VOeWlQOUdLVTRIRDJvaG1qWm9qY0dUaWp2bzhYUGhiS2I1WXN1TWViR1VBSzdKZ3NHM3UxUDF1dEdJYzRsXzF1STRJcWVPWFhaekpYOElfbHlhclc4MFJ5U0hkSktPTGVxdHg5RWJ2T3JsU0FUbWx1NXl5TjZ6?oc=5",
+   "source": "The Japan Times",
+   "country": "GB",
+   "published": "2026-11-23T06:49:00.000Z",
+   "fields": [],
+   "summary": "한국, 새 외교·통일 장관 지명"
+  },
+  {
+   "id": "southkoreanominatesnewforeignunificationministersspychief",
+   "title": "South Korea nominates new foreign, unification ministers, spy chief",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmpKN3hzT3Ftdk1tVnJFSmVCOFZEM1JIZV8tcXY2NHhGcDlmY1ljd2I0c3MweU56cTFXUjdyb2kzbHF0Z25KVjV6RnYwcDZFbkdpNUdtQTJjNnBWS3AyUEIxelhQSDVRWURJX2dRT2RTQXR0TTh1SE5Mc2NXNmMwR3A2b1dJbXhUajF5ZE9uT1ZreDh1MjFsbUNLMTVacEtIZG4wSzRFUVZSN2otMFE?oc=5",
+   "source": "The Straits Times",
+   "country": "GB",
+   "published": "2026-11-23T06:47:00.000Z",
+   "fields": [],
+   "summary": "한국, 새 외교·통일장관·국정원장 지명"
+  },
+  {
+   "id": "northkorealeaderhighlightssecurityaftertrumptalksnoshow",
+   "title": "North Korea leader highlights security after Trump talks no-show",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmVZUmdDYm5vM2ZBYTlIT1NoSzFyYXduS2FNNURBbjE3MHRySkJacW5SUV9vMXdSYndzaWtzVHByQllFYVl0R1lHMEh2d19IaWI3MjhudzR1Y1hSQTJHR0F2emx2Mk1UcFo3SEF1WHhNTHZyUEMtNmh2Ymo0T1loS3ByamEwbUduMkc0N1Y4M2JrMW9NLUI1eWNZSktYMlpra0FhNGZWQThteE1hTW5NN01wbWNJb1U?oc=5",
+   "source": "Euronews",
+   "country": "GB",
+   "published": "2026-11-23T06:45:53.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프가 불참을 말한 후 북한 지도자는 안보를 강조했다."
+  },
+  {
+   "id": "кимченынзаявилчтокндрнепретендуетнинагегемониюнинаэкспансию",
+   "title": "Ким Чен Ын заявил, что КНДР не претендует ни на гегемонию, ни на экспансию",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUlNT1Nwd011QzQ2dEh0SmVWNTJ1d3RQUEM3bWdEdTBJeVluaWJKVnpBa2cwdGxPVnZuWnR2QTFUUHludnhKaWVMeTdieFhhZlNjc2ExeU1QRFNfcU15YldBaHRSN3NYem5SQUNNaGxKcTUtWWhqbGxsTUo0SWNYcFVyb1Q5WDNXaXdvV1ptYXBrUl9nbkd0SFRucDBJUjdyTTB3MmRpWTVveEd6TlpYWHNKdXFRUnE1dU9V?oc=5",
+   "source": "prospect.com.ru",
+   "country": "RU",
+   "published": "2026-11-23T06:32:42.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 “북한은 패권도 확장도 주장하지 않는다”"
+  },
+  {
+   "id": "kimhighlightssovereigntyintiesaftertrumpnoshow",
+   "title": "Kim highlights 'sovereignty' in ties after Trump no-show",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzbGY3VmdtRzJDdzdRR091eDd3VnpLaU1pQk4wZjBPQUd5SzBQak1SY3Vlc0pacUNiOGpqR1dnS0pSdEJ4UklEaWhiWVpoaThwRnhqNUVpWEhSNzgtcjItRFpZeUg?oc=5",
+   "source": "RTE.ie",
+   "country": "GB",
+   "published": "2026-11-23T06:32:28.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김 위원장, 트럼프 불참 이후 관계 '주권' 강조"
+  },
+  {
+   "id": "oppositionon16thanniversaryofyeonpyeongbombardmentrestoremilitarydisciplinestren",
+   "title": "Opposition on 16th Anniversary of Yeonpyeong Bombardment: \"Restore Military Discipline, Strengthen Security\"",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BNVc0bUhmM05GdXZfeXVsakVRMlB2MlUtaTJ3Yk55WlppZl9ESU4wZVBOUXhaNHk4c24za2VURWlrU2UwSHVlWTFqeXR1dmhXNXJHajBoNU1uZExheGxQUEhadTh2ZWhuMk5mTGl3?oc=5",
+   "source": "news.sbs.co.kr",
+   "country": "GB",
+   "published": "2026-11-23T06:28:51.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "연평도 포격 16주기 반대 \"군기강 회복, 안보강화\""
+  },
+  {
+   "id": "кимченынличновручилверительныеграмотыновымпосламкндр",
+   "title": "Ким Чен Ын лично вручил верительные грамоты новым послам КНДР",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQako1Q3dMdzBrcnd3VkRzRWdSUUI2UWtXVnpiZzRpWVJBbWxNNDJuRDhrdEFvRW5oZnI1SHFRNEZ1djRkMG9FemVfOXJGaEt6TXMtYlJsbzdlZExGWUc5dlNDZVB6SVN3TGlaMS1qY3F1Q0lLOGl3VWpSNjVPaGp6b0dfaTc2RklMUFRkVC1WTGRmYWFpaUR1dGYxTTZTN0V2ZE5TV2RhblhvVEYtMS1tY2MwNGhyQU9H?oc=5",
+   "source": "Daily Beirut",
+   "country": "RU",
+   "published": "2026-11-23T06:20:10.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 위원장이 새 북한 대사들에게 직접 신임장을 수여했습니다."
+  },
+  {
+   "id": "金正恩総書記価値観を押しつける勢力が存在する限り真の平和は訪れないアメリカの敵視政策撤回求める狙いか",
+   "title": "金正恩総書記「価値観を押しつける勢力が存在する限り真の平和は訪れない」 アメリカの敵視政策撤回求める狙いか",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xOVlrd1h5UlVyY3J6ZW9adDREcUJlRXVDYzVGU2p6RF9FeXFDTTZqdEw2cnQzal9LU0o4TXBhSVFGWkhpQTlSQ2ZxelNtN0UtVjc5MXNHZHFma181d2hIUEJpeHdYZ0stZUJJMjNvYmVfQ3RtNHM2cDAxaE51eEk?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-23T06:19:21.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 총서기 「가치관을 밀어붙이는 세력이 존재하는 한 진정한 평화는 찾아오지 않는다」 미국의 적시 정책 철회 요구하는 목적"
+  },
+  {
+   "id": "canseoulavoidbeingsidelinedintrumpsgreatpowerdiplomacy",
+   "title": "Can Seoul avoid being sidelined in Trump's great-power diplomacy?",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SY0IycW1XWkUyNXVfRHotQWZxeS16YkZ5LV9USjc2TFRjMUFJbEIyR055TE9Jc2dqaVRVdzNkVkNQQUNaeG1iRlJPU1Utd0VvUnAwOTZzMA?oc=5",
+   "source": "The Korea Herald",
+   "country": "GB",
+   "published": "2026-11-23T06:16:27.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "한국은 트럼프의 대국 외교에서 소외되는 것을 피할 수 있을까?"
+  },
+  {
+   "id": "northkoreahasrecentlyraisedthepossibilityofinstallingadditionalcentrifugesatitse",
+   "title": "North Korea has recently raised the possibility of installing additional centrifuges at its expanded..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qVHR1VnhtaWtzMjNFOGVjNVU3OGoyd3RCelpVc0dEX25HU2RaelhublBsS2VFWGNOWEgtX2NpNDJ3UXZ6eTVaVnhZSGk2SW8?oc=5",
+   "source": "매일경제",
+   "country": "GB",
+   "published": "2026-11-23T06:13:59.000Z",
+   "fields": [],
+   "summary": "북한이 최근 증축된 원심분리기 추가 설치 가능성을 제기했다."
+  },
+  {
+   "id": "wsj衛星写真で増築建物を捕捉高濃縮ウランを年間37追加生産",
+   "title": "WSJ「衛星写真で増築建物を捕捉」 高濃縮ウランを年間37㎏追加生産",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wV0hjMHBTSEF4TE41VDY5MjVNZDBiSlJiOFdOcFFVSktaTklFekMzT0Q0S2x2LU9ZMDNobTFoTDIxcTFrbi1BdkRqelN0UVE?oc=5",
+   "source": "매일경제",
+   "country": "JP",
+   "published": "2026-11-23T06:13:59.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "WSJ「위성사진으로 증축건물 포착」 고농축 우라늄을 연간 37㎏ 추가 생산"
+  },
+  {
+   "id": "россиякитайираникндрусиливаютвоенныйсоюзугрозазападу",
+   "title": "Россия, Китай, Иран и КНДР усиливают военный союз: угроза Западу",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM2tiT2g3OTdJRTJ3VUVTVWV6dEJveUx3U1V1RnpwNzRYSjlJVEpLRmRLQldmZXlLTEx5TThJZlBWRVVXTDNpUGZPTHoxVTNDN3MtRVVqalExYTFFWHUwdlNiVml4UWpPa2RvS28xRHhBOGMyZ2JuclZBbVFpNjVya0tZcGRxeEpUeGNPd0ludXpPc0tBZzlCRTRTeV9vZ0xOc1o3czVUNmdtT1U4dkg0UXlma1dpS1U3clNNYWY0VVJsZF9HODlCUg?oc=5",
+   "source": "Коментарі",
+   "country": "RU",
+   "published": "2026-11-23T06:11:00.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "러시아, 중국, 이란, 북한이 군사동맹을 강화하고 있다. 이는 서방에 대한 위협이다."
+  },
+  {
+   "id": "кндрнестремитсяникгегемонииникэкспансиикимченын",
+   "title": "«КНДР не стремится ни к гегемонии, ни к экспансии» — Ким Чен Ын",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2NGNQeGFQcmphdkJHMklsd3JoTE0tNGlSZnZXWHYzeVZzRDEybVpzdGdERjl4b3lScDE1QUpaTjR1b1BrNlRUX1pmekVYdw?oc=5",
+   "source": "Repost.uz",
+   "country": "RU",
+   "published": "2026-11-23T06:10:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "“북한은 패권도 확장도 추구하지 않는다” - 김정은"
+  },
+  {
+   "id": "北朝鮮が困難な条件で会談見送りかトランプ大統領土壇場で模索も",
+   "title": "北朝鮮が困難な条件で会談見送りか トランプ大統領 土壇場で模索も…",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IWVBiMU0xUEdCRmluSXd1Qm54WkhpTWtvSDZHalVLalV5TFBaX1M3eGg0a01iSGF4MXlFanFSLTB4V2RWZS1OaGE3N3RCQksxdExfT0toVndfVlBUM0JiQnB1STVlc2tvU2FRNHZn?oc=5",
+   "source": "Excite エキサイト",
+   "country": "JP",
+   "published": "2026-11-23T06:02:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "북한이 어려운 조건에서 회담 배웅인가 트럼프 대통령 토단장에서 모색도…"
+  },
+  {
+   "id": "延坪島砲撃戦から16年韓国で式典永遠に忘れない",
+   "title": "延坪島砲撃戦から16年 韓国で式典「永遠に忘れない」",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UQUkxaW5ZVTU4Y0lBaXFwYkYwWkFsRGtBSWl3ZVFlX0VsVzg2Q2I4T1NlbVJwOFpDWWFIa2pQVDVUWEJHTWNhSEpobXRSM3R1bXRFOGhVTUI0dw?oc=5",
+   "source": "聯合ニュース",
+   "country": "JP",
+   "published": "2026-11-23T06:01:34.000Z",
+   "fields": [],
+   "summary": "연평도 포격전으로부터 16년 한국에서 식전 「영원히 잊지 않는다」"
+  },
+  {
+   "id": "кимченынкндрнепретендуетнагегемониюиэкспансию",
+   "title": "Ким Чен Ын: КНДР не претендует на гегемонию и экспансию",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GUElNLUJWZ3pYOFdjeDhiTnpLWV9FWnlna3hncGtWZXhDTnYtc1lWNjhXbmhmcEZtTmQwcV9hWkVIa2V5X09TREVkTmItcWgxWFVWc1dqaEdibGNmUnd5T21oZmM4VU9qcDJDZkVXMHNSQlg1?oc=5",
+   "source": "Ведомости",
+   "country": "RU",
+   "published": "2026-11-23T05:53:40.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 “북한은 패권이나 확장 주장하지 않는다”"
+  },
+  {
+   "id": "トランプ大統領のアジア歴訪後北朝鮮は外交政策において主権を強調する姿勢を示した",
+   "title": "トランプ大統領のアジア歴訪後、北朝鮮は外交政策において主権を強調する姿勢を示した。",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaTJfbm80c2lkZFpFSVo5OHNKRXVwek10N2k3ZXZOcWtUQTE1WXNKb1pwbElGTHc3dUZpY2NzbUhIamd6VDFvM0V3ZWhSd05MdXh2VTN3M21qUUtMZzBGRVhsS0p3d25sSFdvQzkya3FoNG0wTFFTWmZpcXItYWJlQXdxd3Y2N3paYi16WFpsLXV2WFlxTzM2aWxlaUExVlQ4cllmbnp5U1F0R2E0X2oyT2xrOTdSU0xZV25TVlFNNVNuV1J4ZVFkcGhB?oc=5",
+   "source": "Vietnam.vn",
+   "country": "JP",
+   "published": "2026-11-23T05:52:40.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프 대통령의 아시아 역방 후 북한은 외교 정책에서 주권을 강조하는 자세를 보였다."
+  },
+  {
+   "id": "kimjongundeadagain",
+   "title": "Kim Jong-un, dead again",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94Ym1sT0RHUDVyemYycVpzVEd6aTRnX0E0V2dlQWpTdElGQXlzanNKalNmbFhZNVlFRGxLMXhHN1Z5Zkk1eVJHbDdoaXRWbjBZZzhxWnZYdzhIZUZpS3pZdUZvVEtRejUyMWxGNFNiRFg0cWdqYklPZ1FmN2nSAXxBVV95cUxPeGJtbE9ER1A1cnpmMnFac1RHemk0Z19BNFdnZUFqU3RJRkF5c2pzSmpTZmxYWTVZRURsSzF4RzdWeWZJNXlSR2w3aGl0Vm4wWWc4cVp2WHc4SGVGaUt6WXVGb1RLUXo1MjFsRjRTYkRYNHFnamJJT2dRZjdp?oc=5",
+   "source": "The Korea Times",
+   "country": "GB",
+   "published": "2026-11-23T05:50:03.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은, 또 죽었다"
+  },
+  {
+   "id": "朝鲜舰艇印有海洋警察标记引关注",
+   "title": "朝鲜舰艇印有“海洋警察”标记引关注",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCaW4yZzhfM05NU2F2R21ULVFhRHVrWl8xUEQxOWYyUzlsR0JQVjdiNHBvTnZXVXpIUVU0OTQ3REl1R3BOeFdHbjJ6MFV4dmtsTjJ0c2FhTXREZw?oc=5",
+   "source": "韩联社",
+   "country": "CN",
+   "published": "2026-11-23T05:49:22.000Z",
+   "fields": [],
+   "summary": "'해양경찰' 표시가 인쇄된 북한 선박이 눈길을 끈다."
+  },
+  {
+   "id": "northkoreanvesselmarkedmaritimepolicespottedinyellowseahintingatshifttowardpolic",
+   "title": "North Korean Vessel Marked 'Maritime Police' Spotted in Yellow Sea, Hinting at Shift Toward Police System",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TQU1IdFVkSHhjcjVOZ3N5ZExjZUVSVlNCOVM3S0twWHJaeXdSd2NUbWxpd1hYOS1PbG1OVzVfX0treVQxdkZPa2NWdExjUTJZc1h2VDBiN1g4V2dnOFJ2OF9RR0swNDBoTGE2NkRn?oc=5",
+   "source": "news.sbs.co.kr",
+   "country": "GB",
+   "published": "2026-11-23T05:47:34.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "'해경'이라고 표시된 북한 선박이 서해에서 발견돼 경찰 체제로의 전환을 암시"
+  },
+  {
+   "id": "美朝首脑峰会告吹金正恩外交表态提主权",
+   "title": "美朝首脑峰会告吹 金正恩外交表态提主权",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMzUwd3o3aU1TWVNmdFRoT2dTSmZIdzhxQko1RTUwZXpKaVg0dkhlTVdISEtyb05MWG1ZYlRlTDBIUDZZS0pVQ0hnRlZqTW9rTG5WUHZ6a1I5R1pEQ0RUQ3JjVTFBN2hKN1EyN1hIaVN5b0RyMG9QTGdPWUtPZ0JaTzBIZk95QTlZTHI1V0NXbWJYOENZUWdSVUNsdkJETjNaSlI1OWNqdw?oc=5",
+   "source": "八度空间8TV",
+   "country": "CN",
+   "published": "2026-11-23T05:43:48.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "북-미 정상회담 무산, 김정은, 주권 주장 외교적 입장 표명"
+  },
+  {
+   "id": "朝鮮オペラ団チェスンウ代表駐韓スロバキア大使から国際交流協力表彰状",
+   "title": "朝鮮オペラ団チェ・スンウ代表、駐韓スロバキア大使から国際交流協力表彰状",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmZzemNGcXVNb0M0OEZNLU9WaGFQTjRHLXdGSzFsaXhOVGloWF9zbUZ1NElobWtCNk5yU2d0TVhQV1gwOExseklYN0lwMkxOQUhLSkNSazdPX3RXUm1yYjd1R3czQWlvY1R3NVZGd0RyMVROUzdPY2g2NU95MFY3Z3Zac25vSGVwTlhWOHZn?oc=5",
+   "source": "조선일보",
+   "country": "JP",
+   "published": "2026-11-23T05:35:00.000Z",
+   "fields": [],
+   "summary": "조선 오페라단 최승우 대표, 주한 슬로바키아 대사로부터 국제교류협력 표창장"
+  },
+  {
+   "id": "кндрнаращиваетядерныйарсеналинеидётнапереговорыстрампом",
+   "title": "КНДР наращивает ядерный арсенал и не идёт на переговоры с Трампом",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX3FnUi13cllEbkJmV3FST2ttYk1LeGQzakQxMWdQeVhRdXF0VkdnNll4bENGVldpdUpocnJRVUVNSnRtWGxIWC16OWdQaGszeFVzRnVYT0ZaQUZ3T0NQSm9DV3U3cXo4dUVwLVpNLXJPSFVQek9EWDNHUEltM0N0NHM4QlJqQnI2SGk1SjgxZ0U3Nmc2a3c?oc=5",
+   "source": "Подоляка",
+   "country": "RU",
+   "published": "2026-11-23T05:34:02.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "북한은 핵무기를 강화하고 있으며 트럼프와 협상하지 않을 것입니다"
+  },
+  {
+   "id": "northkoreadelaysinternationalmarathonuntiloctober2027saystouragency",
+   "title": "North Korea Delays International Marathon Until October 2027, Says Tour Agency",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGJmTFViZnhRbFgxS1dfaDVzd0VkT0ZLY0ptN3BOYVJPNnhlSEl1SGVJQm9pZHpjb1RZNndTcVp6WDUyS3F2NWZRTEFncTRjWlppM1AySElLVzFnVk1OUGFYRDloZGd5OWhFaFhDTENKYUdPcm9pM1pLRHNhZU5BX0kzWTlRREZKc3d3RVVET0xnZGQzb2F4MHp5bzNidTRscFJZ?oc=5",
+   "source": "TVC News",
+   "country": "GB",
+   "published": "2026-11-23T05:30:00.000Z",
+   "fields": [],
+   "summary": "북한, 국제마라톤 개최 2027년 10월로 연기"
+  },
+  {
+   "id": "金正恩朝鲜须增强实力维护主权但不寻求霸权或扩张",
+   "title": "金正恩：朝鲜须增强实力维护主权 但不寻求霸权或扩张",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0JzdzlOQ1NGYmpWUmtZN29WQlZBQmJGRDJCSjVYYURIVjlxREhlS2I4QVhoVTFLblBVendSRjdnTU5DZU5LVTQyNWdoSzFMSVB2U0lZSWphM0E3SkhYQTVVSnZoX2RjTzZFVjUwMVFsV1pBMW1iV3dfYzViak5OWDh0OEk3R3pZZUQxajlkcVlTSmhfMktxUzNRaXFHNEltRnNJcy1hOA?oc=5",
+   "source": "8world",
+   "country": "CN",
+   "published": "2026-11-23T05:24:29.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 \"북한, 주권 수호 위해 힘 강화해야 하지만 패권이나 확장 추구해서는 안돼\""
+  },
+  {
+   "id": "米朝首脳会談北朝鮮側の条件提示が原因で見送りか米紙報道米側は核兵器開発計画の廃棄を求めないことなども検討",
+   "title": "【米朝首脳会談】北朝鮮側の条件提示が原因で見送りか 米紙報道 米側は核兵器開発計画の廃棄を求めないことなども検討",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9iVW1IczFWdFkwbWZWUGkyTkx2bkR0bVBWWlBZckNUdnhqaHFqd1RpVWhkWmhLenl6UVhR?oc=5",
+   "source": "Howl.Link",
+   "country": "JP",
+   "published": "2026-11-23T05:22:09.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "【미조 정상회담】북한 측의 조건 제시가 원인으로 배송인가 미지 보도 미측은 핵무기 개발 계획의 폐기를 요구하지 않는 것 등도 검토"
+  },
+  {
+   "id": "金正恩氏が演説友好的な国と協力トランプ氏の対話要請念頭か",
+   "title": "金正恩氏が演説「友好的な国と協力」 トランプ氏の対話要請念頭か",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83WkVJMmZUaWE3WVJQeDc2SWlwTjFpcC1Vamx1SmpGellIci1Ka1hfMlI2YWoyXzRsQVp1RHVvZ1VVZER4cEIyeHF5eHIyQktodFp3TVcxWU9wczJZUzBxZDRjRnJhMkRXZXZJUw?oc=5",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-23T05:20:44.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은씨가 연설 '친절한 나라와 협력' 트럼프씨의 대화요청 염두인가"
+  },
+  {
+   "id": "militarywatchingnorthkoreanmovementsaftervesselspottednearnll",
+   "title": "Military watching North Korean movements after vessel spotted near NLL",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbDdUZDFtM3U1LUdHOFMtN3liMzA5U2ZJTlhKandEdHl2R2N3cFJZdTNkaG9vNnhKcVhnM2pXUzBwODBSeVRuYnZfYy1SODhkLTU5WXFtRmQ2cjZtcU9ZbGc1aC1VR0dxUURPekdtZ1RyMnFQc0RGRGY1eVE5TWVtMXJFbGZnUTFmTG1rZklKLW42N0JJalV1b1AyVHprc1g4NEMwNmFIRzF5N2U2UDF2OWEtQlViNXNBdkF4Tg?oc=5",
+   "source": "Korea JoongAng Daily",
+   "country": "GB",
+   "published": "2026-11-23T05:19:15.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "NLL 근처에서 선박이 발견된 후 군이 북한 동향을 감시하고 있다"
+  },
+  {
+   "id": "кимченынкндрнестремитсякгегемониииэкспансии",
+   "title": "Ким Чен Ын: КНДР не стремится к гегемонии и экспансии",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9LbVJ1TFRBbHN2N1UyMWFaN29ia283a0xha1I2VUtqV0QwaTdhTUhWXzFidHJRSHpHeDdJOWNQMzlyM2VuSGc?oc=5",
+   "source": "NEWS.am",
+   "country": "RU",
+   "published": "2026-11-23T05:19:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 “북한은 패권이나 확장 추구하지 않는다”"
+  },
+  {
+   "id": "northkoreareadytodeepentieswithcountriesrespectingitssovereigntykimsays",
+   "title": "North Korea ready to deepen ties with countries respecting its sovereignty, Kim says",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMm1SN0FNY3hpaUwwRlZ4c2FiUkxzMVRhZm5yZmVDOFBFVk50UTNtQ0R2TEFpeTFkcThJRUFMRGlXVXBua3BaREJ1OUdFUzA5LU5Tb3JseEJOTDZWVHF3NXlzLVdGT3M2cmhhaHFhdlByTGVSN1h4RlJOSWsxZXJEZklYRDdDa0UwOGJBdEcySk9tUFVQWm5CeE5KN1hFWUQ1N2Z2Y1NuSFUwSkRjRDRzNW1lejRxNUFJaXJBbUM3Wl91UQ?oc=5",
+   "source": "Awani International",
+   "country": "GB",
+   "published": "2026-11-23T05:12:50.000Z",
+   "fields": [],
+   "summary": "김 위원장 \"북한, 주권 존중하는 국가들과 관계 강화할 준비 돼 있다\""
+  },
+  {
+   "id": "朝鲜将提升实力金正恩追求安全非霸权",
+   "title": "朝鲜将提升实力 金正恩：追求安全非霸权",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUk53LWppTlNtRFdrM0ZqaWt1YndtemJpSnJOU0VMZm9pRENSOHVlUlE5ZW9aQ3pLR3JQTzVUeThmMFpBbzB4Qng3c1o5eUw4QjlkUk14eEtlMVhvMkV6M0N4RzhTN0c1Q3BHSU90UXRoRWNEdnZJQS0tN295VGJ5cXNidkFkRnlwaTk4QmI4ZGVDS3RVSWktSDZHMUotZmUwQkNfT0FsdGZ2MHppMlpHcEllUUE0Q0dIZjlKbmc2VDNIbTJKMjRuT3N6cm1lWGRtU1hmbF9lRUhwMjBrc2IzMGV1SzNMZkhvd3dDX1pPTExuMnVmM3E4dVk2YW90d2tnZHNmc3VHMTZxdjBEc1VpbWRxamp6UkZNT2o4TGxadXMwWEZZOTFGei1LYw?oc=5",
+   "source": "China Press",
+   "country": "CN",
+   "published": "2026-11-23T05:10:13.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "북한은 전력을 강화할 것이다. 김정은 “패권 아닌 안보 추구”"
+  },
+  {
+   "id": "northkoreapostponesnextyearspyongyanginternationalmarathontooctober",
+   "title": "North Korea postpones next year’s Pyongyang International Marathon to October",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT0dFT05kUWtySVlONU4xMVRIcE9iZ2RPOEpIWlZCbHI5NVpKU29SNzJ1UkY2Nllabk5ZbXljVzNKWjgzaDBZU0daYld5MHZaYkFBRWxXWUYwTWliNEk5LUhSQ1FZOTJZc21DVFp4WGYyNlVUcldYTlR0MGpWckl6MmJRTmM1S0hxODNIMkZ0OU9XSGRvZ2E0YVpyRUM3cFB1M0swSWs2TDdoRVNV?oc=5",
+   "source": "NK News",
+   "country": "GB",
+   "published": "2026-11-23T05:08:59.000Z",
+   "fields": [],
+   "summary": "북한, 내년 평양국제마라톤 대회 10월로 연기"
+  },
+  {
+   "id": "金正恩接受俄罗斯大使递交国书",
+   "title": "金正恩接受俄罗斯大使递交国书",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91RGdEZkROdGV2M1czcnRrS1pRUGQyRmU3OXgzZUtNZnhaRHdiTklaZ2hIbHRPOC0wN2NHcGJnckE2dEVoRmRhSjdkREg1MjYwcEtuTmw4U0ktMmE1WnU1eWNabW9wbGRBYUZXY2I4azFDS3B0NFE?oc=5",
+   "source": "韩联社",
+   "country": "CN",
+   "published": "2026-11-23T05:08:58.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은, 러시아 대사로부터 신임장 받아"
+  },
+  {
+   "id": "ukacknowledgesoffensivecyberoperationsagainstrussiachinairanandnorthkorea",
+   "title": "UK acknowledges offensive cyber operations against Russia, China, Iran and North Korea",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTF83aVJRMVNlWmwxRjI2Rk14eXFydW5sVkFmUlhKYzFpRjI4R1ZmWWZnTnlIaTVLTnZfRVZrUE13b3pmbzY5YTF4c29aQWdiVk82S0VseTlja0Q3NTZYWWNwcTVNRl83dkNFajdrOWNQUmJZU0VBbWt6U2pyeV95VGkxVld6NVFZRXBac1laXzhtWS1id2JPUFBpUGZPOWdwTFpoejRmQUVXN3ZWM0pORkZpei01Q3Ewem1ZS1lmd1VlUnlvTU14WVR2OV9sRlR4NFE?oc=5",
+   "source": "Escudo Digital",
+   "country": "GB",
+   "published": "2026-11-23T05:05:01.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "영국, 러시아, 중국, 이란, 북한에 대한 공격적인 사이버 작전 인정"
+  },
+  {
+   "id": "トランプ大統領金正恩総書記と会うため終戦宣言北朝鮮の核廃棄を求めない声明検討朝鮮日報日本語版",
+   "title": "トランプ大統領、金正恩総書記と会うため「終戦宣言」「北朝鮮の核廃棄を求めない声明」検討（朝鮮日報日本語版）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmb1d1TlNUaWEteklZdzh4WVlDTEF6d2RqTjRBeW16dU9zVFFrLXdyM3Fud2tZbG5hMjlkNXQ4cXRmQndaWllIaEdaZkFEcnF1eVNUNE9jUzYzUV85TF9PVVNfcEd1MTl3Q3V0UWVFck1hTU9uejZiQl9hN2xvdEk?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-23T05:05:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "트럼프 대통령, 김정은 총서기를 만나기 위해 '종전선언' '북한의 핵폐기를 요구하지 않는 성명' 검토(조선일보 일본어판)"
+  },
+  {
+   "id": "北朝鮮2027年平壌国際マラソンを10月に延期シンガポールメディア2026年11月23日掲載",
+   "title": "北朝鮮、2027年平壌国際マラソンを10月に延期―シンガポールメディア (2026年11月23日掲載)",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13d01ELW1MZ1l4blFvNFhvcVlNTmhPczZ2VUdXdHEyakFqYzBRS1BWRS1Ga3VmNnJkZlI5UTNxNERURzZTcldnYVNYVGtUYU9yX08wVnotQnlhZmhYc2c?oc=5",
+   "source": "ライブドアニュース",
+   "country": "JP",
+   "published": "2026-11-23T05:00:01.000Z",
+   "fields": [],
+   "summary": "북한, 2027년 평양국제마라톤을 10월 연기 - 싱가포르 미디어 (2026년 11월 23일 게재)"
+  },
+  {
+   "id": "国际震惊川普宁可不见金正恩也不松口中共背后动手脚",
+   "title": "国际震惊！川普宁可不见金正恩也不松口 中共背后动手脚",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBac2JyRTFFTE1sQS1jMlBqQ0t2NVlCb3NKb2RDZ1pGUWI4RFlVUEZOdFRDSWlkZ1Z6YTZOLXdtQ2poTW00WnZtUHBJOExzUHRPS1dYZXBpZWRwSXF3N1E?oc=5",
+   "source": "阿波罗新闻网",
+   "country": "CN",
+   "published": "2026-11-23T04:56:46.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "국제 충격! 트럼프는 중국 공산당의 등 뒤에서 공작을 놔주느니 차라리 김정은을 만나지 않는 편이 낫다."
+  },
+  {
+   "id": "トランプ政権会談実現へ戦争終結検討か正恩氏が条件不発",
+   "title": "トランプ政権、会談実現へ「戦争終結」検討か 正恩氏が条件、不発",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9najBUdzlOMmxxd2xoalJxWWkyTnZjM1RZVWdhQl9aYm5kbUV6WXBFaHdOYjVYVVNHbDVTXzdNQ0VHc3dvSUFiSWg0enRFMFN5Tk9PRy1RM25MSFI2UnhxMFdibw?oc=5",
+   "source": "時事ドットコム",
+   "country": "JP",
+   "published": "2026-11-23T04:55:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프 정권, 회담 실현에 「전쟁 종결」검토인가 정은씨가 조건, 불발"
+  },
+  {
+   "id": "延坪島砲撃事件から16年",
+   "title": "延坪島砲撃事件から16年",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tZ0E4WVFjR3hQQ2pna2toekc2WkUtdEMzTnBSQjlhNUVkbVFWd3R5bF90R1U3V29wZndrc2RrUHI3eUJFOVg4TlZzLVpycHVuYVFJaVVYQ3hsLUVQbXFfS240eHZsbjNEV04wVlpjN3dOVDdudWc?oc=5",
+   "source": "聯合ニュース",
+   "country": "JP",
+   "published": "2026-11-23T04:35:22.000Z",
+   "fields": [],
+   "summary": "연평도 포격 사건으로부터 16년"
+  },
+  {
+   "id": "edwasseoulinthedarkovertrumpkimsummitbid",
+   "title": "[ED] Was Seoul in the dark over Trump-Kim summit bid?",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHRfLWc3ZmZyMUxldXpnWkoxYm1adEU0Q2c1WUdXN0tQbnQteDYydVMxN3d1cFl2aTB2QlZsbnN5S0FQXzhSZE5lYmlPdkpEbkRSODh5bnBJb25tWkVrYTNaUnVnRF8zdXZLUFNZRXRXcEU3Zjg5WmRlY3pPXzFydDBzUF9rNWlNWmhGTVF5bF9XajJLaGJUdjJMVFFqdDdEeVFHdllGb21GQdIBrwFBVV95cUxQS0piTDdNVTBzVlFWMUMwOS1rd1Y1MFR3cHpnanhmNHZkMjRCSE1iOFRma2VBYkFjSzk4b1FJVExrSlNKUTdLdkJhZk1YbXpZTEhrVVg5UVJkODBfbUlibWdlaW5DVGdfUEJ1Ti1YY0lZbFJUNXZoeVhSQUZLV0xFbE1sd1YwMkhBWURua0d0ZDd1Mlh0ZVk0NzllOXoxTkYyclF6OG5wb0g3NkNSV2xr?oc=5",
+   "source": "The Korea Times",
+   "country": "GB",
+   "published": "2026-11-23T04:35:03.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "[ED] 트럼프-김 정상회담에 한국은 어둠에 빠졌나?"
+  },
+  {
+   "id": "横田めぐみさんら北朝鮮による拉致被害者の救出を求める署名活動サガン鳥栖ホーム戦に合わせ読売新聞オンライン",
+   "title": "横田めぐみさんら北朝鮮による拉致被害者の救出を求める署名活動…サガン鳥栖ホーム戦に合わせ（読売新聞オンライン）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGVEh6Qm1DbzNqd1E0M3RfZU1oTEJWckJSSWtqZ3l1bWktUHU1YlYzZXVrVVhaTmVrVjRDdllDM0tOS2FKaU1jR2pDNjhrVm5TTzJzUVliN1RDNnltSWFDUjRjbGkyYzlQLXRybG00aENVVjVfUzlTdmJkdkVIb00?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-23T04:33:35.000Z",
+   "fields": [
+    "humanRights"
+   ],
+   "summary": "요코타 메구미씨 등 북한에 의한 납치 피해자의 구출을 요구하는 서명 활동… 사간 토스 홈전에 맞추기(요미우리 신문 온라인)"
+  },
+  {
+   "id": "northkoreaunveilsfirstaichatbotspringofwisdominterfaceresembleschatgpt",
+   "title": "North Korea Unveils First AI Chatbot \"Spring of Wisdom\", Interface Resembles ChatGPT",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCVHdLdkYyTzRwb2FvakNOVlBNT1NzOHR3Tzc3TFJjcmpqTTFJUnZRZGxlYWI4bXJ1N0tYU3hhYVVYa0Y0c1NZdjVuZ0FJQ09aakJtVlExOXdDdFhfQjBGb2l3?oc=5",
+   "source": "深潮TechFlow",
+   "country": "GB",
+   "published": "2026-11-23T04:33:01.000Z",
+   "fields": [],
+   "summary": "북한, 최초의 AI 챗봇 '지혜의 봄' 공개, 인터페이스는 ChatGPT와 유사"
+  },
+  {
+   "id": "britainconfirmsoffensivecyberoperationsagainstrussiachinairanandnorthkorea",
+   "title": "Britain Confirms Offensive Cyber Operations Against Russia, China, Iran and North Korea",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVViMWFNbmlOUmQ5cjVrRnFBYWU4Z3BYWTl6Sm9Qc0hMWEkzLWtwQ25MUjdoR2ZiXzBFWFlXc0tBRWFjN2NXeHFVazB3aThyS1Y0Yk14cHhnNmIwVnlsQm54aUpQNUg1THlsdzRpU3RudW5UUm9NQmpLRlBVdWZkMHE0bEtkd3hLbzdGeGZEbm9RRlNHOHpyNjdONzBQczNJdFdubUFKZ25QcEk?oc=5",
+   "source": "The SOFX Report",
+   "country": "GB",
+   "published": "2026-11-23T04:25:18.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "영국, 러시아, 중국, 이란, 북한에 대한 공격적인 사이버 작전 확인"
+  },
+  {
+   "id": "米朝会談土壇場で実現せずか2026年11月23日掲載",
+   "title": "米朝会談 土壇場で実現せずか (2026年11月23日掲載)",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xZFZ4VGotNFZMazM1eFMzd25saE1Wb2NVYU1wRUZ0S2ljbkd2RVM5SENmWkRud0IzOXhnZW5CQmRMVDRSa3hpOFF3QmpvRzNiWmtwdTBGdTREMTljZHc?oc=5",
+   "source": "ライブドアニュース",
+   "country": "JP",
+   "published": "2026-11-23T04:15:49.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "미조 회담 토단장에서 실현되지 않는가 (2026년 11월 23일 게재)"
+  },
+  {
+   "id": "金正恩朝鲜捍卫国家主权也致力扩展对外关系",
+   "title": "金正恩：朝鲜捍卫国家主权 也致力扩展对外关系",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Rc3ZBY1hxNXhoaERqMTQwX0Qwdjhra1gyNFhxSV9PYWFiY0p5THlWNkxtTzZqd2VWN3RjY3lzbnRMWUNreGZYTzZ5T3BFQQ?oc=5",
+   "source": "诗华日报",
+   "country": "CN",
+   "published": "2026-11-23T04:06:02.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 \"북한은 주권 수호하고 대외관계 확대도 의지\""
+  },
+  {
+   "id": "northkoreapostponesnextyearspyongyangmarathontouragency",
+   "title": "North Korea postpones next year's Pyongyang marathon: tour agency",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnNnU3lhY1pVRHhSX3l5aDNXa2dhU3Q5YnI3dzBBSm1fVkVZcVpRVlh1dUJSS2diVHNuMVczOHdLV1QxNmdGd3htUmI3ekxvWVBjOW40WFhZU2twNHdseGMwcnJaNzV3azg5cEpmZy1ET2RXbkJuT3NTSVRXUWxZcHI1UWoxeTAtaFkweU5aWDVicFJDbHJzNTh3ZzJGVEE5Y3BaT1doLW9xakVveFBUcUVWWFU1QWR5Q0V3R2NyVGRlTnd1clR2Qg?oc=5",
+   "source": "The Star",
+   "country": "GB",
+   "published": "2026-11-23T04:06:00.000Z",
+   "fields": [],
+   "summary": "북한, 내년 평양 마라톤 연기 : 여행사"
+  },
+  {
+   "id": "осьзланабираетоборотыроссиякитайираникндрсоздаютвоеннуюсеть",
+   "title": "«Ось зла» набирает обороты: Россия, Китай, Иран и КНДР создают военную сеть",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdnllNmlJaEMxeG1MamZMRFFVSkFwaDhLQW5UWnNCdGk5V2Ryc29QZmNhaXg4aGVHY1Qyc2tLZzByWFFrSVdEVjZOX3lKY2R1MW5iclVTR2t2azcwOUdPTFNOazlqY3NkeU9PUEd6b3YwZWE1QzV2bW10ZjRYVURGUkNVb3hjbXNWZTlnV3F2Nkt2WHozVDdaRHZoOEFzdFJkZ3Q3T3FDamt1SGPSAbABQVVfeXFMUHJ4WHFTMDNxaVBQcU40UHpwRng4YkNIbkZ6LVk5MTA0c1BWdVlLSEJSa1lPeVJjNDdJTTRDYUVBREJlamttYnRMa01DbkxpTVowWjlEa0U2VW1yQTJOeXhoa1k0emJkYnE2eE1TRHlPQTg4NUx2RExqVXludGdFOUJvdWU5MWJleUtVX0p5blhtWU9aS19obU1Oam5Qa3I2QldJVlVpamN2d3RYZ19qRWw?oc=5",
+   "source": "ТСН",
+   "country": "RU",
+   "published": "2026-11-23T03:59:06.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "'악의 축'이 탄력을 받고 있다: 러시아, 중국, 이란, 북한이 군사 네트워크를 구축하고 있다"
+  },
+  {
+   "id": "skoreamonitoringtroopactivitiesafterspottingnkoreanvesselnearnllmilitary",
+   "title": "S. Korea monitoring troop activities after spotting N. Korean vessel near NLL: military",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVVg4MHljek1mVkZ0YkZ1al9qZklaaWl0U0JQOUVDbE9iSlJoY0FWRVlhQjRXN0hBUjRXMnduWVBsQmtOVDRib1NnLVpvbnRjMzBnMDVkbU1xLVVVRzdBOEQyYXFuRXRXTVFIcVM2eHBVcUtyaWFfbXVHTTJrcXBFeE12Mm9OeHd6NlBQM01FLV9DcWdBZE5HelRJY2JzNGEydW5RQU9UMkxsa3N1YzBmMzVvQUpkWlQxVXJWSWxhbFE2MGtldmh1WEFmOEFxWGRiUDVVckNUNUFjZDdPRWlGM1Zn0gHnAUFVX3lxTE5zX0otTWNCWEluX2phcFprb2JsTkZsdUNNUDVmbF9TVXE5bU5IdEw5MWFUb0tERU1rTlpJaG9WaHhRUUtMcERZQUNPWldldDBFdjBpVmZVTlBGWDAya0tUWGpkZkZ6ejNxUDYwaXBBVUUzNC13VklWeVp0OVRYTEVHWmw4NGJtR0NnNUlPVXktX3R0WFdJbkI4Yzg1dFRQUEpacFc5SGt0ajRYX3JTOWVqT2VqN183bkxvdDRxejI0Yl9CU3p6bVcwSVgtdGtBelZtZmdDLTRzUXlnTlk4YUVVOVh2T0t1aw?oc=5",
+   "source": "The Korea Times",
+   "country": "GB",
+   "published": "2026-11-23T03:54:02.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "정부, NLL 인근 북함 발견 후 병력 감시 : 군"
+  },
+  {
+   "id": "skoreamonitoringtroopactivitiesafternkoreanvesselmarkedcoastguardspottednearnll",
+   "title": "S. Korea monitoring troop activities after N. Korean vessel marked 'coast guard' spotted near NLL",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaElGZDFmYUd6NE5CcFhQMEVoVjRJaXdVZmZCV3hxZmZCSk0wWTZnbklQdUZVMHlleHZVR1FfTWtPUW1yM2NQb0pyMzEyQk1OeldQTlNmdGdNSzJncnFDZEhCZGNCSjJNRW9xVEhkaVBTeTkzRWNzT3N1a05fTHdxYlpEbE81cjhySTFUNk1CaEZ3R3NKUzAxTUhPNTJGOGwzN3ZkN19fV0ZxVFB4YnE3NEVlb193SkwyTDVfNllDN085MU5FN3NQSkxlb08zaXBmLWpZTjgwdWxybUg4R1E5RUxETjRaSFNmTUNoeEhn0gHzAUFVX3lxTE5FQkU3Yi1XRVpWc3lHQjZhYjJPTTMwdW9HdnpuRzZzSGg5VnJVWFU3eXBQdFZiaURweDVtT3l4SDFyVDAzUHZyUDZFN1UyMUxFVS02NTFUSnprT0JNYlI3NUxMX1FVRmk2RUZYYkVIcUVGMEFrU3VrbjJkajVGOS0xUk02cmE3aWxneXZ2YVZyaDZkMmd1NmpRZnZ2bExQcTRaQTFnem5aLWR1aUhDZEhTVDhwUUVLMWNyRHV2dU1IVlpTSGhOdmhaSHBmaldIdnRIdy1wY0dacHlxdjh4Z29tMDh2T09SV1E5b2FpeXpsUVdNdw?oc=5",
+   "source": "The Korea Times",
+   "country": "GB",
+   "published": "2026-11-23T03:54:02.000Z",
+   "fields": [],
+   "summary": "NLL 근처에서 '해경' 표시 북 선박 발견 후 한국군 활동 감시"
+  },
+  {
+   "id": "金正恩接受十国新任大使递交国书",
+   "title": "金正恩接受十国新任大使递交国书",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLVBZWDVVdGFhX3B1Y19LTkRreUQybFZrMWx0cV90NkRSb2Zaa1NfMU9PTjlzZllQeTdQQU1vMExLV0J5Y19ENWh3LUY1N2JLclo5X0FEVWRxNkl4Mi04U003dHhkbEtlZ2toX21XcnFOV3NQNWpfZklYTnV3cXdJTXR5TXc3a3dwdkkw?oc=5",
+   "source": "Sohu",
+   "country": "CN",
+   "published": "2026-11-23T03:50:24.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은, 10개국 신임대사 신임장 수령"
+  },
+  {
+   "id": "特朗普多次接触金正恩不果纽约街头向朝鲜官员交信件遭原封退回",
+   "title": "特朗普多次接触金正恩不果 纽约街头向朝鲜官员交信件遭原封退回",
+   "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOcHU0MWt6endiT1pQX0F1RlU3Q1ZvaUpXUWZqaGJLMGZPSDlpWTJ2d2wyQmEySTF5VDhvZHpjTGtQSHVVWUw2VkFyMHhQM2ZtN0RtT1JMSnRqN1VxM3BIemNoMkNwa18yY0RFVGpnem5kSmpSVlBOcmM1YlYtNTZlcUFObGFHa2pxRGpKR2dneU9uMTNNRk1MLW5CVVNzenY0TkpXb3NvakZ4SWR6cE9xQTBaVnFFN005ZERzTEhhdFBlV1l2ZVR1YU9paWdoOUhaR2RyLUpoV0tWTVVpVzgxVG9OS3V4X1p3cVN6RnRfNzFZQ3Rhb3pVT09pdG1DcGtCckl2N0dmcUlqVzYyRU9heEJfQ3ozWjNfMFlBb3dtMnJpY0xHamZzX0ZjQVNWMXlLdzZOVGIzWndHOElpV281c2tEblJfelhmTFJtNWJydVBJYm1BcDY3dUZqS1Z6VlZzM2o3anVVX2s3b1RwbmJyQTZmVmhibTRMWndrX1l0RHB5U0xlTWs3Sk1yOTNZYW9WS0pTMGo5cUswMk0zSXN0UXpWNG9lSmU4R3RmRG92OXNZTm9hSHdOOEtaTjJpUW55X05HcVA0RG5YWF9abDRTWTdMWjhSUFk?oc=5",
+   "source": "香港01",
+   "country": "CN",
+   "published": "2026-11-23T03:45:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프의 거듭된 김정은 접촉 시도는 실패했고, 뉴욕 거리에서 북한 관리들에게 보낸 편지는 고스란히 돌아왔다."
+  },
+  {
+   "id": "кимченынкндрнестремитсяникгегемонииникэкспансии",
+   "title": "Ким Чен Ын: КНДР не стремится ни к гегемонии, ни к экспансии",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMEQtMjZIMXRIY3pqM3ZHczBwQnozWXRMRkNHUU5QOHRveGxfMUduNm1raWJzZ2UzcjF2M3lZU3hRQmJqVEtMc3BNekhGQzFRVXNXUjV0WmFQcDlxWFpPN2hJbERFOFl4MHBvWWFIaUxIblQ1dmpEN0toYkV6ZVJqT2IyaDFORnM1TmVqMWU2UXFySUxQeDFodFlHS1doNmJ2TW9VMC1yNkU3MnRnZ2xwMUd3S1Q1UQ?oc=5",
+   "source": "Дзен",
+   "country": "RU",
+   "published": "2026-11-23T03:44:30.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 “북한은 패권도 확장도 추구하지 않는다”"
+  },
+  {
+   "id": "trumpgettingghostedbydictatorwhostolehisheartreport",
+   "title": "Trump Getting Ghosted By Dictator Who Stole His Heart: Report",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ2VPRWVUQjlzTGZ0Q3lmQmNRZTd2N0JjR2NoSGxxdWtBbzA3Q05lZWVDb1pqU3NOZnUtaEtuUnBuZjJ1RHdOWWdZX0g3WnV0QnZ1Y0JqLXZEXzhJODZ6bTVUSExqeWt1Yk9wWUc3UU5DYU90M1J5RmprZmtuNkxoQUl5QUdrT0FmZ0RWYkc5TWJJOWkxMjNWN0dIOVZORTBKMUHSAacBQVVfeXFMT2s5VlkyMFFkeXo0bEtURUdnUk1nbGlRVkQ3bzhPNFNvcnFnV1d1X0hHSWJOekd2UTdpa1NJVzNoaTI4R25iZ2tIVWZ3UlkxalZJWElSSXdGMHBhR1BnaVgwcWhPaFBHcEJWdUtHM3hrRnpSUEVUZFRWMG1IUmlid3M5UGk3d2FWNkVjakotNUpJQ3pZd0swOUp3VEFWYXZqM3l2Zmo5MEE?oc=5",
+   "source": "HuffPost",
+   "country": "GB",
+   "published": "2026-11-23T03:42:31.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "마음을 훔친 독재자에게 유령이 된 트럼프: 보고서"
+  },
+  {
+   "id": "リビアのロシア船へ長距離攻撃かゼレンスキー大統領ロ軍のミサイルに北朝鮮製",
+   "title": "リビアのロシア船へ長距離攻撃か ゼレンスキー大統領“ロ軍のミサイルに北朝鮮製”",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEeTlHOGdsYTlDVVJPd0tycWRqVTFUdzhuY2taVmltd1A5RWxiSXR4MVhMbF9wWlp1YW1pRWVQSTNnUjUxY19OTGRKNURBZm91SjZTbnhwVWpyUGJSbm1FbmxaYTZtRlh3T3ZnVktabGl3MzBod1l2UVNR?oc=5",
+   "source": "テレ朝NEWS",
+   "country": "JP",
+   "published": "2026-11-23T03:37:44.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "리비아의 러시아선에 장거리 공격인가 젤렌스키 대통령 “로군의 미사일에 북한제”"
+  },
+  {
+   "id": "リビアのロシア船へ長距離攻撃かゼレンスキー大統領ロ軍のミサイルに北朝鮮製テレビ朝日系ann",
+   "title": "リビアのロシア船へ長距離攻撃か ゼレンスキー大統領“ロ軍のミサイルに北朝鮮製”（テレビ朝日系（ANN））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sMHpacFVrNk01UXJtRmNXSTQxbmVZOVE3QXg1SHh5bHd2S3Y5OUFkeG1NOGFtbXJZZ3Vpd1FRcktVR3JKdkplb183WXFNeXlFcjVlTW5QSGtwX1ZIVEJVclFBWGpDQ0RBWXlwYnR5SElTYWJhaU12clF0NXZ0R1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "country": "JP",
+   "published": "2026-11-23T03:37:44.000Z",
+   "fields": [
+    "security"
+   ],
+   "summary": "리비아의 러시아선에 장거리 공격인가 젤렌스키 대통령 “로군의 미사일에 북한제”(TV 아사히계(ANN))"
+  },
+  {
+   "id": "トランプ氏2期目も金正恩氏との接触不調書簡は未開封で返却wsj報道",
+   "title": "トランプ氏、2期目も金正恩氏との接触不調―書簡は未開封で返却、WSJ報道",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82QklFNG9WUnp2UWJyUXppdTZhck5abzRYTk55NkEzME1lb1piY1RUWG5HUlJiUG5BbmlNSFRBS181X1lyc0NWTXJXYXBDOFpWRUd2d2otTzNoek84MWRFMjkyNNIBaEFVX3lxTE55UVF0NktYb3FRQlJUQ3RNLWg4b3lnRHlPcmhGSTdXVlBMTnlsY0NxLTRPdl93akpoNzJFc3R3dFh3N2d0UWE5NHFueXNqbWREU1lRWVJPaHVRMkNhTmlJbGJCTWppeG9U?oc=5",
+   "source": "財経新聞",
+   "country": "JP",
+   "published": "2026-11-23T03:37:12.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "트럼프씨, 2기째도 김정은씨와의 접촉 부조-서간은 미개봉으로 반환, WSJ보도"
+  },
+  {
+   "id": "последниеземлетрясенияhwasongс1970года",
+   "title": "Последние землетрясения, Hwasong, с 1970 года",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmctUFp3b0dtVlFPaklmajdoaUpKdEF2NnAtMUhHR3JOSXlwMHlhQVdORDZUM250dkIyYnk5T0xPZmxBemdKTW9nNklFWUNxNVhaeUNDeHM2X0UwMlA4NndUaHJPaVVERWNmXzdON1ZaR0ZtSElmUVlHNnQ4dTFiTmt4MA?oc=5",
+   "source": "Volcano Discovery",
+   "country": "RU",
+   "published": "2026-11-23T03:33:19.000Z",
+   "fields": [],
+   "summary": "최근 지진, 화성, 1970년 이후"
+  },
+  {
+   "id": "北労働者海外に最大10万人超中露に集中賃金の大半没収1270億円の外貨収入に",
+   "title": "北労働者、海外に最大10万人超 中露に集中 賃金の大半没収、1270億円の外貨収入に",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRVlJ6NFRnMjBZM0R1VWdlcnR5NF9SbThiVU5EUFlJSEJKakdKbW5CQ0w2WWtmTVNycENvYkpRUUJkVEl1VGRFOHdVbEowU1NmU2dLYl9RRnd6N0NhS3RLdjdQb0phdzRUOEhfXzJOWnFpNk02THc?oc=5",
+   "source": "産経ニュース",
+   "country": "JP",
+   "published": "2026-11-23T03:27:53.000Z",
+   "fields": [],
+   "summary": "북노동자, 해외에 최대 10만명 초중노출에 집중 임금의 대부분 몰수, 1270억엔의 외화수입"
+  },
+  {
+   "id": "金正恩称朝鲜不追求霸权与扩张当前国际形势和东亚政治军事环境要求我们增强实力",
+   "title": "金正恩称朝鲜不追求霸权与扩张 ：当前国际形势和东亚政治军事环境要求我们增强实力。",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa2tIb0RvUTBFV0Fud0hxOUZheEtjcGZBMnBUS19lVDA1dWdHc2FrXzZmQml5R3U3dVZCbGlBWVB2QlVrWG1NT01ZdUxLWGdiNlhxYjBnTktWZTlpLXVxYnZ1RnlGSS1jbEVNam1JYlRNekI5d1NYdUFGajJRa2pPLURyb0U4cWo0N1BxVQ?oc=5",
+   "source": "Sohu",
+   "country": "CN",
+   "published": "2026-11-23T03:27:38.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은은 북한은 패권과 확장을 추구하지 않는다고 말했다. 현재의 국제정세와 동아시아의 정치군사적 환경은 우리에게 힘을 키워야 한다고 말했다."
+  },
+  {
+   "id": "北朝鮮の指導者は平壌は地域覇権を求めていないと主張した",
+   "title": "北朝鮮の指導者は、平壌は地域覇権を求めていないと主張した。",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWFRVmJ2RDZGbHVWSVFEelJIYm9KMDk3N1lIb0FabFA5Z0dyT2p6UDg5U01uaXppR0pWZkpvZmZLX0pXalBtNU1MM2N2NnIybENUYmZ6X1BPbWJ6d0d4V3F1QjFUOXB1RXlwV01LdjY5SXVLOWNjTFoyZEdRMUVVNlQ4aXNmQlNNR1pLcDRSWXQxTmJmY3ptTmhVMHdscFRIR2FYNGY3cmQ5RmM4b0FreGdR?oc=5",
+   "source": "Vietnam.vn",
+   "country": "JP",
+   "published": "2026-11-23T03:26:42.000Z",
+   "fields": [],
+   "summary": "북한 지도자는 평양이 지역 패권을 요구하지 않는다고 주장했다."
+  },
+  {
+   "id": "金正恩最新表态朝鲜既不追求霸权也不寻求扩张",
+   "title": "金正恩最新表态：朝鲜既不追求霸权，也不寻求扩张",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WYXRnanpzdVBReFhpMzJNaEpMcmstVHU0d1N3cEdRXzBRMUhfRjJ4RmoxbFd1VUI3UXV2RVozQk5kOFlwemN0c1l0UU1RYmVMN05IYjJFelpXbHkyb3hlR3Vjc2k?oc=5",
+   "source": "星岛环球网",
+   "country": "CN",
+   "published": "2026-11-23T03:21:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 최근 담화: 북한은 패권도 확장도 추구하지 않는다"
+  },
+  {
+   "id": "usproposedwarendingdeclarationnondemandingdenuclearizationforsummit",
+   "title": "U.S. Proposed War-Ending Declaration, Non-Demanding Denuclearization for Summit",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdUlMMGZ2MU1mRzZNZ2FIY3lzb3BKYVRTc2RBTm80SUVnSVh0aFQ4eUtfNUxkUEhvOUVZV3F4TWhZSVo0VVNOdzRkLXg5U0JNb3lqVTg5X29jYlJhalNYWnZVdllpRWZxRG1fd1lLUVhKUWVLa0FkN0VHLVdkSmVuUHBTSnU?oc=5",
+   "source": "조선일보",
+   "country": "GB",
+   "published": "2026-11-23T03:20:42.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "美, 정상회담 위해 종전선언·무강제 비핵화 제안"
+  },
+  {
+   "id": "朝鲜南侧与韩接壤新设领土条款删除统一",
+   "title": "朝鲜“南侧与韩接壤”…新设领土条款，删除统一",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVg1cFU3b0dPanZKOU9MeDJROGZlaFBuaVJub3dteVlWR0o0SFgxU0NBSVFVa0tqZWQ0WWljN2s1b3hlaTVBZjYzcW5mbjlzVUdvLUdsYlBCeWtPcGo3ckdrTlRMR1VfaldDZWtTX0VKRUNwRHRIUk9VMGc1UDFpNXl2am1JQ2Q0OHVKMk53?oc=5",
+   "source": "朝鮮日報中文版",
+   "country": "CN",
+   "published": "2026-11-23T03:18:35.000Z",
+   "fields": [],
+   "summary": "북 \"남쪽은 남한과 접경\"…영토 조항 새로 추가, 통일 삭제"
+  },
+  {
+   "id": "社论dmz地雷惨案当真与朝鲜近期动向无关",
+   "title": "[社论]DMZ地雷惨案，当真与朝鲜近期动向无关？",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT0pYNnAwVUpkWHk2Z3FLVWhTVllfdHdzSVgtbmhMbWZacGRSVVFIeEhlU0toYThDdWpmVjRMcFItODBfeF9ndm1iOTc5VHVwNEpOUmVxTldfcFRZU3F2LXNKS1B6bm53dUdNVjN5MEFvb0lDXzJpQ1ZhWmxmekN6NG42bHpVcUdpSTZ4TDBRUDdRbUliX3VWSGZNWGxuTDlY?oc=5",
+   "source": "朝鮮日報中文版",
+   "country": "CN",
+   "published": "2026-11-23T03:18:27.000Z",
+   "fields": [],
+   "summary": "[사설] DMZ 지뢰 참사는 과연 북한의 최근 동향과 관련이 없는 것인가?"
+  },
+  {
+   "id": "美国拒绝国情院长访问朝鲜监视机构",
+   "title": "美国拒绝国情院长访问“朝鲜监视机构”",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGF5Q2wxYzRFR0JkRWhOOWpoa2s4anMxWVc1MGF1bnpoN3F6UGk0WjB3YWFwRWhIMEZyQlpkMjJmNzZHdlRNczFuMmlxeVVldE1kNXBrdVlpNkFsYXJidHVWc3Jfd1ZXTWZwdVd1SW9iU0lqdXJsTWsyUUhMX2JvU0pMODdLa0E?oc=5",
+   "source": "朝鮮日報中文版",
+   "country": "CN",
+   "published": "2026-11-23T03:16:38.000Z",
+   "fields": [],
+   "summary": "미국, 국정원장 '북감시국' 방문 부인"
+  },
+  {
+   "id": "习近平今日访问朝鲜朝鲜无论谁承认与否拥核国地位都绝不会退让",
+   "title": "习近平今日访问朝鲜…朝鲜：“无论谁承认与否，拥核国地位都绝不会退让”",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR0FvUkRwc213eGNsVE1ualE4SndHVldfbWFPaks5ZGR6eDUtdXpWVzdoUDQybG1Gck1XZkRZSmxwVWF5cDlSWW1TOEZOUEppWnUyak1mV3pjVzJFbTl5UGY5NHd6WE5TQkhPdFpZWWFkbmRSdjVxZnZvSXdDWEdIaXp6ZGlOeTI1Nmw2M21laU0xZw?oc=5",
+   "source": "朝鮮日報中文版",
+   "country": "CN",
+   "published": "2026-11-23T03:16:24.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "시진핑 오늘 방북…북 \"누가 인정하든 안 하든 핵보유국 지위는 결코 타협하지 않을 것\""
+  },
+  {
+   "id": "нестремитсякимченынобъяснилполитическуюстратегиюкндр",
+   "title": "«Не стремится»: Ким Чен Ын объяснил политическую стратегию КНДР",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNanFDZ3BGM1J0TU5KQ0RuNkRPbU94U0JTYnR6VzAyNzNWMExRcWVrY0Q5N0F0OE5wZF9ERlBvSG04N045dkJVdExpWTkxQWxLcWdOYm1RdTg3NE5jcEpoT3E2MVNHRGxNR3pSYTJqVEUxWGxNZXVJQ3FpU2NFZXdOZjVWbmlQel94T0hFR01sWdIBlAFBVV95cUxPYjJyT2xXbE9qOV9IVS05UHk2X0E0azBpcGtsbkpIMXhkSDhUbGhpbVFrOUI1ZGIxUVhwenRmME5vajNhckl2YjNJNWJhYUFoRV9QVW13MTB5MVc1Yks2LXRORkI2QzhyQlRVYTFfQXhzalJiejRGV3lic0k5bExNQ0pZdEJuUnVEZUtlZW1uS3pERjBD?oc=5",
+   "source": "NEWS.ru",
+   "country": "RU",
+   "published": "2026-11-23T03:15:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "“노력하지 않는다”: 김정은, 북한의 정치 전략 설명"
+  },
+  {
+   "id": "金正恩罕见亲自接见10国大使强调朝鲜不追求霸权国际20261123",
+   "title": "金正恩罕见亲自接见10国大使强调朝鲜不追求霸权| 国际 | 2026-11-23",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQV25hUkJnYTZHVkM4VUltdzhyVGU0M3lrdkJza1lMYUZIQXN4Tk51VUd5ZkJIR3RsQXd3b1NRdTh3REV1bDMtN21NR2t1TkdFRy02Q2gyaDhMY25xMWx3X2ZTMDExWUR0OWFmWnpiV3g0U3YwdExtSzE4c3hXaEdEbUVSZFlGaVFWUkswN0hpY1REaDBJdC1odTBZeHpvSWQzVE1sQzRHa01HMm9DUzhsQWtZYmEzSDhHTFpmLVc5QzlPUV9yeVVwc3prVG1ObWh4UU0xVjZ0U1RNLXVwTVpvSDhiTkRUVXFIVXRJX2haWEhPenpCeVZQSEFTMDFGdlRjN1Z0bGU1Z3BUb0RvYVhOOEhGZFZ6NVFmWVRiQnlsUEpvd0VVTTNDMHVyNk9aWnMxUHhIQXdFYURqTGpobnc?oc=5",
+   "source": "光明日报",
+   "country": "CN",
+   "published": "2026-11-23T03:10:27.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은, 10개국 대사들과 거의 직접 만나지 않고 북한 패권 추구하지 않음 강조 | 국제 | 2026-11-23"
+  },
+  {
+   "id": "金正恩接受10国大使递交国书谈及当前国际局势",
+   "title": "金正恩接受10国大使递交国书，谈及当前国际局势",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85NEhUUmxyTVRhX09CcWVWNmpHcGVQaHByWFlXWEpSc1ZMMkN4YnBOeDhGbTNaUHdvUlVRVjJ0YlB6cGh5MTVaNklzaXlNSXVPWFE?oc=5",
+   "source": "凤凰网",
+   "country": "CN",
+   "published": "2026-11-23T03:07:01.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 위원장은 10개국 대사들이 제출한 신임장을 받고 국제정세를 설명했습니다."
+  },
+  {
+   "id": "northkoreanleaderkimjongunreceivescredentialsfromindianenvoysanjeevjain",
+   "title": "North Korean leader Kim Jong Un receives credentials from Indian envoy Sanjeev Jain",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV05qdTBzQ2dlODhKUVZWQTNRNjFZSF9UN2xnWDdZMW1LS3I3YVZORUprczJwY0RabU5YU080b3huOE5EU0M2UThRT0ljeUItX0VmZndhenBNV3hmTm5jVDVTR3d1UUZpRlVIeXB1WXRnbENSeEhGM1J4MjFOb1BSRGNPMFd6eDJHc0JpTW5QYjZ4bWQ2dWo3cGhhY0JxMGhYeHVVLTdkajc5bjNSMUVIZlE1dTc4a2pYWS1kWTg4bmduaXlrQ3c?oc=5",
+   "source": "https://www.indiagazette.com/",
+   "country": "GB",
+   "published": "2026-11-23T03:04:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 북한 국무위원장이 산지브 자인 인도 특사로부터 신임장을 받았다."
+  },
+  {
+   "id": "luxuryfortheelitehardshipforthemassesnorthkoreaseconomicdivide",
+   "title": "Luxury for the elite, hardship for the masses: North Korea’s economic divide",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHR3eUJiMFcySGMyTlVpVm54S0g1MGt6LXFPVDRJV3NMRXk1U0dGV013OFlHUmZBbVgwWkRLQnZlYk9WRUM4VFZXSlJfdUpWLWxidUV4THJaTWlacldiMWlYcWduNER5SU9RSjdWd0RCbWxSVDI0ZXVYdU1vVktxSFNhZDRYVEszdllXRU5JX3FhcXJSUlRhU2Uzb2Rrdm5L?oc=5",
+   "source": "Asia News Network",
+   "country": "GB",
+   "published": "2026-11-23T03:01:09.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "엘리트의 사치, 서민의 고난: 북한의 경제적 양극화"
+  },
+  {
+   "id": "金正恩亲自接受10国大使递交国书朝鲜不追求霸权与扩张国际即时国际",
+   "title": "金正恩亲自接受10国大使递交国书：朝鲜不追求霸权与扩张 - 国际 - 即时国际",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzZnJZeWtIc0loZHVzOTBHdF9tRGhpeEk0WWhkV0sxNElhMHdqUTgxcUZ0ZTJOVGI0YWlMMEw0SWh4MExnRUVMLWg3dkVVcjRoZmo5VWxuQVZnbExWUHQ4MjhvdGhDUWxUOHIyU0JIUQ?oc=5",
+   "source": "Sin Chew Daily",
+   "country": "CN",
+   "published": "2026-11-23T02:53:53.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은, 10개국 대사가 제출한 신임장 직접 받아 : 북한은 패권과 팽창 추구하지 않는다 - 국제 - Instant International"
+  },
+  {
+   "id": "northkoreaskimvowstostrengthensecurity",
+   "title": "North Korea’s Kim Vows to Strengthen Security",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1JRmgtNmRMRFhkblJhQkFHdU9kRmNmVVc4VlN3dy1BeXRGNkhnYVhZZVpxV2c2NTZVRklB?oc=5",
+   "source": "Howl.Link",
+   "country": "GB",
+   "published": "2026-11-23T02:47:54.000Z",
+   "fields": [],
+   "summary": "북한 김 위원장, 안보 강화 다짐"
+  },
+  {
+   "id": "北朝鮮がトランプ米大統領を無視した事例",
+   "title": "北朝鮮がトランプ米大統領を無視した事例。",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlJtNmlpMEY5T25kQy11UUZRMDdia29STXlfRm45ejQwRXEtSjRZOUZnYXEwUEE3UTBfVzhsUW9teUpUMWdEVkwwcEo1NlE2enk0RldVRlhuUU0xemRPVWtXM2YtYjBZMzJ3eERNYWMyWUlveE0yVUFiaGVjTmE1cWlLbw?oc=5",
+   "source": "Vietnam.vn",
+   "country": "JP",
+   "published": "2026-11-23T02:26:21.000Z",
+   "fields": [],
+   "summary": "북한이 트럼프 미국 대통령을 무시한 사례."
+  },
+  {
+   "id": "金正恩委員長北朝鮮は覇権を追求しない",
+   "title": "金正恩委員長：北朝鮮は「覇権」を追求しない",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbW03ZDZFZEZ2LW85eExZUTdiRmNRNTRPanJnMHc2dGJvb2xtUTQ2TS1HRDlxYWk2eUY4SUpaOGtweU1KZmNTSzFzWUk0UTBOOEdMblFjZFZieHFfd0ZKWEFac2dkTTdNMUFGV3NmV0tISVA0eUlzcmJyc19XX0MyUVJyWDV0VHA2eEs2WWpnWQ?oc=5",
+   "source": "Vietnam.vn",
+   "country": "JP",
+   "published": "2026-11-23T02:19:48.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 위원장: 북한은 '패권'을 추구하지 않는다"
+  },
+  {
+   "id": "金正恩发展核武器并冷落特朗普为何仍能安然无事",
+   "title": "金正恩发展核武器并冷落特朗普，为何仍能安然无事",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9URHpoYlBwdktQNlJ1Vld5S01RbHowOWdXS2xlMnZYQm9sTFpaUFlETjFFSHVrUVhsdHJUZkE0T0NjeUcyVkNrWEVJdm52V2pLbGV3dVRtbFY4WVd1N2ZaQnV4MTM?oc=5",
+   "source": "华尔街日报中文网",
+   "country": "CN",
+   "published": "2026-11-23T02:14:00.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "김정은이 핵무기를 개발하고 트럼프를 무시한다. 왜 그는 여전히 안전합니까?"
+  },
+  {
+   "id": "朝媒画面现疑似奔驰儿童电动车",
+   "title": "朝媒画面现疑似奔驰儿童电动车",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KNlh6SWFRNk9kaDd5QjlqdXVlMWlSaXRpTHlJaXc0d1lha1FJUU1sUlZjZXNVS05fOUhBWEpCbkJNS0ZSeVdianlseGI5NUYwek9CaW9pR0QxRE8xeXdFZ0ppbF9rcEZVSHc1YmtXV216YkRpaFE?oc=5",
+   "source": "韩联社",
+   "country": "CN",
+   "published": "2026-11-23T02:11:57.000Z",
+   "fields": [
+    "youth"
+   ],
+   "summary": "북한 언론 영상에는 메르세데스-벤츠 어린이용 전기차로 보이는 것이 담겨 있다."
+  },
+  {
+   "id": "特朗普为了和金正恩见面曾考虑发表停战宣言和不要求朝鲜弃核的声明",
+   "title": "“特朗普为了和金正恩见面，曾考虑发表‘停战宣言’和‘不要求朝鲜弃核的声明’”",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnFwQTR4LS03dVJwLWNVOXl2RnVDMFZ3NkpJZ2M4STQ2TVJMNDVsT29qREw4RTg5Q1gzbVF0Wk5PRnYwOF9wR2JBMDZnSnRiREpaRERuMjJ3cFNtamlDcmlWOXduaVNEU0JGV2loVjBtXzhYcmNaTmxidmJJWUg4Q3Axdm1saE0?oc=5",
+   "source": "朝鮮日報中文版",
+   "country": "CN",
+   "published": "2026-11-23T01:59:27.000Z",
+   "fields": [
+    "politics",
+    "security"
+   ],
+   "summary": "트럼프 대통령은 \"트럼프 대통령은 김정은을 만나기 위해 '정전선언'과 '북한의 핵 포기를 요구하지 않는 성명' 발표를 고려했다\"고 밝혔다."
+  },
+  {
+   "id": "金正恩接受十国新任大使递交国书称朝鲜将提升实力追求安全而非霸权",
+   "title": "金正恩接受十国新任大使递交国书，称朝鲜将提升实力，追求安全而非霸权",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOay1qVmRXNy1TcXR1aS1MR3BwNk1YT2VXU3ZoeWEwcVVwYWhQYkFRRno3UFhqd1dTWjl3TVZOd1h0UlFRMWFYRGZ0bDkwTklqdjQtOUtRTjc4TXhIWlFDZ0hkdjltMkc5a1hWbzB0bmZuaWVEc2dISkZrWHA3YmtWSEV3VUltY01nUGlpYg?oc=5",
+   "source": "Sohu",
+   "country": "CN",
+   "published": "2026-11-23T01:56:36.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은은 10개국 신임대사로부터 신임장을 받고 북한이 패권보다는 힘을 키우고 안보를 추구하겠다고 밝혔다."
+  },
+  {
+   "id": "кимченынзаявилоботстутствииусевернойкореистремлениякгегемонииилиэкспансию",
+   "title": "Ким Чен Ын заявил об отстутствии у Северной Кореи стремления к гегемонии или экспансию",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PVTBfOVQycXFzUVh3d3dJOV9pZmRDWUJvWFdJU1pMXzNKTk9XckNBM01xUVdvMnI4VEFoWERCYjFQZ25YV1ZIWTVQdHYzekQ0Sjl6dVp2S0dwczBYci00TUp3cDd3dWh5Z2xYSTNDRS1RX3FIVm800gF3QVVfeXFMT09VMF85VDJxcXNRWHd3d0k5X2lmZENZQm9YV0lTWkxfM0pOT1dyQ0EzTXFRV28ycjhUQWhYREJiMVBnblhXVkhZNVB0djN6RDRKOXp1WnZLR3BzMFhyLTRNSndwN3d1aHlnbFhJM0NFLVFfcUhWbzQ?oc=5",
+   "source": "Газета",
+   "country": "RU",
+   "published": "2026-11-23T01:49:57.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은 “북한은 패권이나 확장을 원하지 않는다”"
+  },
+  {
    "id": "northkoreaseekspowerforsecuritynotsupremacykimsays",
    "title": "North Korea seeks power for security, not supremacy, Kim says",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0diVWZmOEhXYUw2SGFGeUVCT2p0YlFlQmR1aUpuMC02bk5YcDVXMWVEblZYNHNLa0VYaUNJck1ONW9SYnJGLW5teGpsa3BpQk1FRnctX1c5eFRKdW11TGdFSDg3S0p1d2thZGwwQ0dYVmx5elVSWmVfMHdaTE4ydEt2WW95T0R4czJ6cnd5UmlDR0NlWHBnQlBIUjduVXVFZGZDRlRSQnJ0ZlJzcG1zb0p30gGyAUFVX3lxTE1sakYxN3pZMWx5UDBWbjVyb19jSnY5NlFwVGliS19fVWpJYmxDbGxFVnlPZnJTNHhrbjUxLTVMTmV6UXJVeXJxWEtzd3ZtMTE5ckJzcHVZTW9kbmFjcU9LX3Z1c2pVWUlmYUhYd0xfZnhvRUZkN0ZFT2FGcnBCVnJ6X0Q4XzlQbUhDajhLUkpLenRDU2Qzak9fTklfWHNfbi1wcmlWRkFIWU05X3loT1dyaEE?oc=5",
@@ -131,6 +1395,16 @@
    "summary": "김정은, 10개국 대사로부터 직접 신임장 받아...\"조선의 대외정책은 평화·발전·번영'"
   },
   {
+   "id": "韩综股指开盘价跌破4800",
+   "title": "韩综股指开盘价跌破4800",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmUy1WNTA4ZXBCd25vemZUbXFXbGhuTXhaTU05WERQOS1PSmNfRFE0U1BrVmNvbUF2WjFpSWRSM0I5eG9BVlA1cWZpMWc5SU95Vml4UGtudFQtbVZyb1hZazl6bnRxZHpYck1SWjlIMm5XaTBOMEE?oc=5",
+   "source": "韩联社",
+   "country": "CN",
+   "published": "2026-11-23T01:15:09.000Z",
+   "fields": [],
+   "summary": "한국종합지수는 4,800 이하로 출발"
+  },
+  {
    "id": "金正恩氏安全と平和確保へ力と能力追求覇権は求めずａｆｐ時事",
    "title": "金正恩氏、安全と平和確保へ「力と能力」追求 覇権は求めず（ＡＦＰ＝時事）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VSDN5NG00a3VhQVBpSUtWN3AyQmRyUnFZVmhlT0Z2aWpEeGlwRUFEZjB0VXI0R0lyZG80M0JqVF9MbXVtYnFzOV9YNmR6R0pxR0hoVnVQeG56SHdxaXVjVndRUFpVeXNuUjloZTNSYkFnMVJYeTNPLUoweS1DcVU?oc=5",
@@ -235,6 +1509,16 @@
    "summary": "새로운 '악의 축': 중국, 러시아, 이란, 북한이 관계를 심화시켜 세계 질서를 위협하고 있다"
   },
   {
+   "id": "韩国总统提名三名安全要职人选拟修复对美合作并改善对朝关系",
+   "title": "韩国总统提名三名安全要职人选，拟修复对美合作并改善对朝关系",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pNDlfd00yaVVPY2hvZHRqTDJpbE1OWl9odnM5d2hGYkJXbGtHTWQyYkJOR3FOVVpCbDAxcWUyeXZJWThXZ1gxUDNHNDk1aHFFRXlVT0hFdjUyUEhnaXFlRG9Lam9ZTG16ZHg4elJkLXNnRUM3TFVn?oc=5",
+   "source": "Mezha.net",
+   "country": "CN",
+   "published": "2026-11-23T01:03:00.000Z",
+   "fields": [],
+   "summary": "한국 대통령은 미국과의 협력을 회복하고 북한과의 관계를 개선하기 위해 안보 핵심 직책에 3명의 후보자를 지명했습니다."
+  },
+  {
    "id": "なぜ米国はイランを攻撃し北朝鮮には動かないのか核抑止と中国の影から読み解く軍事行動の損益分岐点",
    "title": "なぜ米国はイランを攻撃し北朝鮮には動かないのか？「核抑止」と「中国の影」から読み解く軍事行動の“損益分岐点”",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0lWbFFRN0FnclZxaGU1LXdhUU5HQ2QyR0h1M0JXYlBQaE1sWHJkUmtUaG01ZktlMmViVmRHTWlvWU1MR2RaejJOR1l1SG1uT0IzTzF1VHE2RG1Cc0djOG9ud2o5Zm03LWdDeWZvajJTTkRpV0hJRkRxSjkyOFVtZHRxVkwzd3phR2Zpb3pQRjRoMUpDbGFTQTUtY2lPOFV5ZTFnRGt0VTdqNWlTQnc?oc=5",
@@ -245,6 +1529,18 @@
     "security"
    ],
    "summary": "왜 미국은 이란을 공격하고 북한으로는 움직이지 않는가? '핵억지'와 '중국의 그림자'에서 읽는 군사행동의 '손익분기점'"
+  },
+  {
+   "id": "金正恩朝鲜寻求国家安全而非称霸国际",
+   "title": "金正恩：朝鲜寻求国家安全 而非称霸 | 国际",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0NEdsTXRyM0NQUUtzVktXdFI0WmtxamhnNmZIdVdGRXd3dGR4cTRDdHF4RTdPTEwwaXI3ZFRld3BoZnMzX01iYlJPbzU4RU9FY2h0Z0xHU2VhRkl5Q2pvNFNKUXoxOGtYa3lZU0RTc0JoNlNxY0R3Zg?oc=5",
+   "source": "马来西亚东方日报",
+   "country": "CN",
+   "published": "2026-11-23T01:00:00.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "김정은: 북한은 패권이 아니라 국가안보를 추구한다 | 국제적인"
   },
   {
    "id": "behindsinuijusshowcasepoorfamiliesgocoldandhungry",
@@ -307,6 +1603,18 @@
    "summary": "WSJ “김정은, 트럼프에 답장 안하고 친서 돌려줬다” - 인디펜던트"
   },
   {
+   "id": "uspresidenttrumpnorthkoreanleaderkimsummitstillpossibledespiteapecsetbackbutmajo",
+   "title": "US President Trump-North Korean leader Kim summit still possible despite APEC setback, but major hurdles persist: analysts",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUmQzRjRfMlJQdGsxWmlHbXhuVEdyYnVNQ3B2Ui1iZkJST3NvLUtPaENTaWR3TEVqU3RWRF8yRzdxVTNNMGtaQnQxRkxOZW9KVXBwcWtGSGUxRkFqQ1o0Zms1RVZKUlFpZHZYMjVDeERnZEdEVkNKY2VCUUNCWmpYZTluX2h5R3BRa2U3R0kzWjg1Q1ZwTUtfejNIQW45M3pmUjE3QTFNWm16RXZaN3VaUDFhVDhnRVdBbmJvcUhPVGJpMUUwRjlId25PSWtyMXJVY241OW1SOXRlQ1BrNW9Z?oc=5",
+   "source": "Asia News Network",
+   "country": "GB",
+   "published": "2026-11-23T00:46:04.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "APEC의 차질에도 불구하고 트럼프 미국 대통령과 김 위원장의 정상회담은 여전히 ​​가능하지만 큰 장애물은 여전히 ​​남아있다: 분석가들"
+  },
+  {
    "id": "外部接触避けるアマゾンの先住民と歴史的接触食料を求め違法採掘業者の侵入に脅威",
    "title": "外部接触避けるアマゾンの先住民と歴史的接触 食料を求め 違法採掘業者の侵入に脅威",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaklESEJjZFFOMEhtQ3FWSDJTd05WOU5wV3pFRWZsdFZtb2VuOGZhYVhrNXhpRFJ4TFUwV3lESHozX01oYXVMenV6Q0dyY251Yk4waHpxSGRIN0N2elA5RkZ0bndxSFhFcEhCVkdRRGlTNk1UT083dDVOSTlDa1FnMDJXZFZpYnFvOFhwdTdZN2xCOXpqd0k5NWZKNEJBQUhRalJLYkNaWlJfdDFtbktTNkNmUEo?oc=5",
@@ -327,6 +1635,16 @@
     "politics"
    ],
    "summary": "김정은 “북한은 패권이나 확장 추구하지 않는다”"
+  },
+  {
+   "id": "рфсовместносещетремястранамиформируетосьзлаавторитарныхгосударствчтоугрожаетмиру",
+   "title": "РФ совместно с еще тремя странами формирует \"ось зла\" авторитарных государств, что угрожает миру – СМИ",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd0NIUHA2TXJsNHFjRnhGN2NKNlRJNXBPbW1QZFpoWEVLNHR1emY3empjOUFMcnRoM0p3Sk5wSnBmNlNxQ1J2MDFoRVUtOUNjRXlNQURhMEhRMTBDUXRualh3T2ppWEpUeUVkU1NtVEdVWkxTYm52M2lYaHNPT1VyRmtZRTJpWjcydS1ld2drZGVDZnN6VUZvN2tmN1piUmpLWkV2bk5aM0I2cVpjcXJzX2xpOU8wRURCazdyTzl6WG9fZFZTX3UzVENyRUplbjdFdlVMUkF1QnlqY0N1c2FpdGlfN0Iybjc40gHsAUFVX3lxTE5DcXgzaW1MV05hcXpoVWZBX0N4aXlvX2lTSTktQzJnSHZ2WWRxYWR4eTg5bVhNSUhuZWU0bkFRakRXeURkaFUzU2liWnJUN0NrM2F3VlVmYVVIX192S1pISUl0NnZGazZTWGJoejZNM2duWTBpbnNRemZ5c0t6M0p1NzNyV3VOX2VuTXNrWWJ4VjNLSkVUV2kzUmt0V3dVVVRPWnNYZkNsZ0hKVHdmN2xDLU1uTmdtX01meWt6b1p3eUJ5b3pyUzBfQ0MxWjFMMmJYZzlvYUNfcGFEUU5FaURiYnZzZy1HYm5zQzNN?oc=5",
+   "source": "Гордон",
+   "country": "RU",
+   "published": "2026-11-23T00:38:21.000Z",
+   "fields": [],
+   "summary": "러시아 연방은 다른 3개국과 함께 세계를 위협하는 권위주의 국가 '악의 축'을 형성하고 있다."
   },
   {
    "id": "金氏友好的な国と協力米国の敵視政策念頭か",
@@ -1149,6 +2467,16 @@
    "summary": "서해 접경지역에서 북한 '해안경비대' 선박이 처음으로 포착됐다."
   },
   {
+   "id": "былшокотчернойикрыифуаграроссиянепобываливгастротуревсевернойкорее",
+   "title": "«Был шок от черной икры и фуа-гра». Россияне побывали в гастротуре в Северной Корее",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHBlTVItTlU2WW9KNnlhdEpyV25ZSGRNQlVrMHZlZkxVNUZJQVRFb1g2UjMwZ3pXR2dsZnZqNVR3RUlSblN1WWp0YWtlMGZtbC10QV9tQ0lqM0hNbjQweEJ6aV9pcTdxVk81LWJCOXNka09hYy1kZlRJVndiaDhmN3lOSjN6SzdsOTNaeU4wZWpVaVJ3TkRsV2JIcG02ckxleVFXWnZSTEgyMDk5T0E?oc=5",
+   "source": "adi19.ru",
+   "country": "RU",
+   "published": "2026-11-22T22:01:42.000Z",
+   "fields": [],
+   "summary": "“블랙 캐비어와 푸아그라에 충격이 있었어요.” 러시아인들이 북한으로 미식여행을 떠났다."
+  },
+  {
    "id": "북한제7차세포비서대회참가자들평양도착",
    "title": "북한, 제7차 세포비서대회 참가자들 평양 도착",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uNE42d29aRXZBUHdCbWJETWpSbWVJNlczcnJXMk5Mdmpnc0dSRFZVOUVwRGhzSmk2cjFkQk4tbW9RcTZGQ3EyVnZPYmM2NzNtQ0h6NDNzZl9YRDVMUmZrM9IBYEFVX3lxTE9uNE42d29aRXZBUHdCbWJETWpSbWVJNlczcnJXMk5Mdmpnc0dSRFZVOUVwRGhzSmk2cjFkQk4tbW9RcTZGQ3EyVnZPYmM2NzNtQ0h6NDNzZl9YRDVMUmZrMw?oc=5",
@@ -1448,6 +2776,16 @@
     "politics"
    ],
    "summary": "트럼프 친서도 거절한 김정은…'몸값' 올리기 성공"
+  },
+  {
+   "id": "opiniedeepercollusionbetweenhostilepowersthreatensthewest",
+   "title": "Opinie | Deeper collusion between hostile powers threatens the West",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkUtREVidmU5b09uLW5Xd2J2X1p5UDVjd0R1azlKSW5pcHpUNWIyYWwwcGdlaHRuNHVfUlE3M29kaTF5a1ZINHRTZERmZDVUV2tqMFhpNm01dE1UU2RXNkp6TVl5YU1xaXV6aVJacXFhSFBvWHFGQ2wwZHlOa1JqZWZHRjcxV0Rjb1JCQkxhamhoR21KX0lJZlRyVUlZWTZCeW1LRFk1TQ?oc=5",
+   "source": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+   "country": "GB",
+   "published": "2026-11-22T21:00:00.000Z",
+   "fields": [],
+   "summary": "오피니 | 적대 세력 간의 더 깊은 공모가 서방을 위협하고 있습니다."
   },
   {
    "id": "trumpweighedendofwardeclarationtomeetkimbutnorthkoreawentsilent",
@@ -1937,6 +3275,18 @@
    "summary": "북한, 쌀에 조건 제시 수락할 수 없어 정상회담 배송인가"
   },
   {
+   "id": "блескинищетастранычучхеоткровенныйрассказтуристкиопутешествиивсевернуюкорею",
+   "title": "Блеск и нищета страны чучхе. Откровенный рассказ туристки о путешествии в Северную Корею",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lRndsODZMM0NfVGx1ZksydXA1TENaenhtcWg0MnVQeWZqVkZUbHYyTlB2TE96V2gxNXpKamlfNnc3Q2l3Q19pQWxPems4UWFsVS1ob1hrWS0?oc=5",
+   "source": "29.ru",
+   "country": "RU",
+   "published": "2026-11-22T16:30:00.000Z",
+   "fields": [
+    "economy"
+   ],
+   "summary": "주체조국의 영광과 빈곤. 북한 여행에 대한 관광객의 솔직한 이야기"
+  },
+  {
    "id": "howkimjongungetsawaywithbuildingnukesandghostingtrump",
    "title": "How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hWHMyLURHX3hOZjhTbW5pRC0zWTduOWJpQS1hME9uSGhoZkF2MTFTcFZjYXhzejVkWTlmaWNHWjAyNURsTFJLcEFBdEk0UDhuRnJQT1BWOWQwMjl3VVcyT0NWTS1ORm1HVVQ0ZHk1OWVGZTlyVjVCSA?oc=5",
@@ -1984,6 +3334,18 @@
     "security"
    ],
    "summary": "북한의 핵무기는 60개로 늘어났고, 김정은은 트럼프의 협상 재개 시도를 무시했다."
+  },
+  {
+   "id": "northkorearulesoutmoretalkswithus",
+   "title": "North Korea rules out more talks with US",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOendGLV9IOTdyMGEtakFNLVB0c3ZMOUk1VHlKNVA5c1hOcjVOSEZUbU9ONVJ6R09TWTR0SnZDcEl6X1NqSVZ6a3htYlZpbTR5anR1MUdpRGR3ZkVzaWFEM2ZTVFlMcEJrcGZoOXVXX2Z2Tm10S1FvMVdqeEdRTE5LR0R2STVvUQ?oc=5",
+   "source": "Yeni Safak English",
+   "country": "GB",
+   "published": "2026-11-22T16:19:33.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "북한, 미국과 추가 회담 가능성 배제"
   },
   {
    "id": "白宫特朗普有意不预设条件与金正恩对话",
@@ -2134,6 +3496,18 @@
     "politics"
    ],
    "summary": "김정은, 러시아 대사로부터 신임장을 받았다"
+  },
+  {
+   "id": "2026年首访选择平壤习近平如何延续中朝友谊",
+   "title": "2026年首访选择平壤 习近平如何延续“中朝友谊”",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObGZ3LVdKeHczamY1RHhlSjhfUGJjSjlNWVNMR3IxTVpuR3V4NTMtMFpQeDVaZlZjbnpScG11SEw3a3JJWDF6MnBtMjZEaGN2YlJ5R2NzWXgyMjRQYVNNcGswek45NXRZYVFtOTRTTm4zQnM4MDQzLWFyZ01WY3pXQmJwYjJhWUpIWVZXOG42aW9LOGhNaU93Q2VEU0l0SU04c05FWG1yd1RfUnJFZGtVWS1LX0l6R254Z0ZreTRlN3hNNWZtRnJzb0FhY3k2RV9wVDJXNnF1NXI2c1F1emhkN2hobUY5elQ3Zm00UkhlOXFadWxKNEZxOXNSdllPZElzd1l5eU94WWk2R051YVZuS0xPbURNZlBtZ1dKN1BSVzIya2hHc1c0?oc=5",
+   "source": "DW.com",
+   "country": "CN",
+   "published": "2026-11-22T15:17:01.000Z",
+   "fields": [
+    "politics"
+   ],
+   "summary": "2026년 첫 방문지로 평양 선택: 시진핑은 어떻게 '중조 우호'를 이어갈 것인가"
   },
   {
    "id": "кимченындваждыотказалтрампуибольшенехочетвстречатьсясним",
