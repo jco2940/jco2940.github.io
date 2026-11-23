@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-23",
  "items": [
   {
    "id": "doi:10.12987/9780300291841-013",
@@ -570,6 +570,26 @@
    "titleKo": "탈북민의 상실경험과 지연된 애도에 관한 현상학적 연구"
   },
   {
+   "id": "doi:10.36527/kcsss.24.4.16",
+   "title": "Deepening Russia-DPRK Cooperation and North Korea’s Bargaining Space with China -An Analysis of China-Russia-DPRK Relations, 2024-2026-",
+   "authors": [
+    "Yi-heng Dou",
+    "Young-hwa So"
+   ],
+   "date": "2026-10-31",
+   "venue": "Korean-Chinese Social Science Studies",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "politics"
+   ],
+   "url": "https://doi.org/10.36527/kcsss.24.4.16",
+   "source": "openalex",
+   "added": "2026-11-23",
+   "titleKo": "러·북 협력 심화와 북한의 중국과의 협상 공간 -중·러·북 관계 분석, 2024~2026-"
+  },
+  {
    "id": "doi:10.32355/oughtopia.2026.10.41.2.179",
    "title": "The Introduction of the Health Insurance Fund-Based Medical Security System in North Korea: Background and Policy Implications",
    "authors": [
@@ -617,7 +637,9 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "economy"
+    "economy",
+    "education",
+    "health"
    ],
    "url": "https://doi.org/10.36527/kcsss.24.4.2",
    "source": "openalex",
@@ -1192,6 +1214,28 @@
    "titleKo": "북한의 초상 휘장 정책과 인민 초상 휘장에 대한 인식 변화에 관한 연구"
   },
   {
+   "id": "doi:10.31818/jknst.2026.9.9.3.934",
+   "title": "An Inclusive Deterrence-Based Phased Denuclearization Approach in Response to North Korea’s Advancing Nuclear Threat",
+   "authors": [
+    "Eun-Sung Lee",
+    "Hye-Woo Kim"
+   ],
+   "date": "2026-09-30",
+   "venue": "Journal of the KNST",
+   "countries": [
+    "KR",
+    "US"
+   ],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.31818/jknst.2026.9.9.3.934",
+   "source": "openalex",
+   "added": "2026-11-23",
+   "titleKo": "북한의 핵 위협 심화에 대응하는 포괄적 억제 기반의 단계적 비핵화 접근 방식"
+  },
+  {
    "id": "doi:10.14328/mes.2026.9.30.505",
    "title": "Changes in Student Composition and Emerging Educational Challenges in Alternative Schools for North Korean Refugee Youth: Focusing on Third-Country-Born Students",
    "authors": [
@@ -1248,6 +1292,24 @@
    "source": "openalex",
    "added": "2026-10-27",
    "titleKo": "탈북자 정착지원 정책의 지속가능성 평가와 개선방향: 사회통합과 정신건강 측면을 중심으로"
+  },
+  {
+   "id": "doi:10.18704/kjjll.2026.09.110.323",
+   "title": "Family Time after the North Korean Repatriation Project -A Study of Sona, the Other Myself-",
+   "authors": [
+    "소정 신"
+   ],
+   "date": "2026-09-30",
+   "venue": "Korean Journal of Japanese Language and Literature",
+   "countries": [],
+   "lang": "ja",
+   "topics": [
+    "elderly"
+   ],
+   "url": "https://doi.org/10.18704/kjjll.2026.09.110.323",
+   "source": "openalex",
+   "added": "2026-11-23",
+   "titleKo": "북송사업 이후 가족과의 시간 -타인의 나, 소나에 대한 고찰-"
   },
   {
    "id": "doi:10.21185/jhu.2026.9.107.387",
@@ -1392,8 +1454,11 @@
    "countries": [],
    "lang": "en",
    "topics": [
+    "diaspora",
+    "economy",
     "education",
-    "politics"
+    "politics",
+    "youth"
    ],
    "url": "https://doi.org/10.31147/iall.110.09",
    "source": "openalex",
@@ -1506,6 +1571,7 @@
    "countries": [],
    "lang": "",
    "topics": [
+    "economy",
     "politics"
    ],
    "url": "https://doi.org/10.29398/kjsq.2026.10.3.27",
@@ -1630,7 +1696,9 @@
    "countries": [],
    "lang": "en",
    "topics": [
-    "diaspora"
+    "diaspora",
+    "economy",
+    "humanrights"
    ],
    "url": "https://doi.org/10.14731/kjir.2026.09.66.3.87",
    "source": "openalex",
@@ -2256,6 +2324,24 @@
    "titleKo": "남북한의 의료행정법 비교연구와 입법통합 방안"
   },
   {
+   "id": "doi:10.62783/shss.8.4.45",
+   "title": "A Study on Lee Myung-bak’s Denuclearization and Openess 3000: Focusing on the Search of New North Korea Policy",
+   "authors": [
+    "Jinhyeon Park"
+   ],
+   "date": "2026-08-31",
+   "venue": "Studies on humanities and social sciences",
+   "countries": [],
+   "lang": "ko",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.62783/shss.8.4.45",
+   "source": "openalex",
+   "added": "2026-11-23",
+   "titleKo": "이명박의 비핵화와 개방 3000에 관한 연구: 신북정책 모색을 중심으로"
+  },
+  {
    "id": "doi:10.55793/jkhc.2026.33.7",
    "title": "A Study on the Location of the Capital in the Early and Middle Periods of Baekje, the Ruins around Pyongyang, and the Owner of An-ak No. 3 Tomb",
    "authors": [
@@ -2274,6 +2360,25 @@
    "titleKo": "백제 전기·중기 수도의 위치와 평양 주변 유적, 안악 3호 무덤 주인에 관한 연구"
   },
   {
+   "id": "doi:10.22273/smlt.102.1",
+   "title": "A Study on the Narrative Aspects of North Korean Literary History on Park Se-young’s Poetic World ― Focused on the Traditions of KAPF Literature and Anti-Japanese Revolutionary Literature ―",
+   "authors": [
+    "Seung-yi Lee"
+   ],
+   "date": "2026-08-31",
+   "venue": "THE JOURNAL OF MODERN LITERARY THEORY",
+   "countries": [],
+   "lang": "ko",
+   "topics": [
+    "diaspora",
+    "politics"
+   ],
+   "url": "https://doi.org/10.22273/smlt.102.1",
+   "source": "openalex",
+   "added": "2026-11-23",
+   "titleKo": "박세영 시세계의 북한문학사의 서사적 양상에 관한 연구 ― 카프문학의 전통과 항일혁명문학을 중심으로 ―"
+  },
+  {
    "id": "doi:10.62783/shss.8.4.86",
    "title": "A Study on the Political Mechanisms of North Korea’s Flood Response in 2020",
    "authors": [
@@ -2290,6 +2395,24 @@
    "source": "openalex",
    "added": "2026-10-28",
    "titleKo": "2020년 북한 홍수 대응의 정치적 메커니즘에 관한 연구"
+  },
+  {
+   "id": "doi:10.35773/jgp.2026.19.2.233",
+   "title": "An Analysis of Progressive Administrations Policy towards North Korea through the Structural Policy Menu Model: Focusing on the Roh Moo-hyun and Moon Jae-in Administrations",
+   "authors": [
+    "TaeHyeon Cho"
+   ],
+   "date": "2026-08-31",
+   "venue": "Journal of Global Politics",
+   "countries": [],
+   "lang": "ko",
+   "topics": [
+    "economy"
+   ],
+   "url": "https://doi.org/10.35773/jgp.2026.19.2.233",
+   "source": "openalex",
+   "added": "2026-11-23",
+   "titleKo": "구조적 정책 메뉴 모델을 통한 진보정부의 대북정책 분석: 노무현·문재인 정부를 중심으로"
   },
   {
    "id": "doi:10.37060/kjee.33.2.1",
