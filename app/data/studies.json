@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-26",
  "items": [
   {
    "id": "doi:10.12987/9780300291841-013",
@@ -645,6 +645,24 @@
    "source": "openalex",
    "added": "2026-11-06",
    "titleKo": "북-중 경제협력의 전환점과 향후 방향 -2018∼2019년과 2025∼2026년을 중심으로-"
+  },
+  {
+   "id": "doi:10.37736/kjlr.2026.10.17.5.24",
+   "title": "An Analysis of Narrative Variation Patterns in Chinese Korean Stylistics and North Korean Stylistics －Focusing on Kim Kwang-su et al. (2010) and Ri Jeong-yong (2005)",
+   "authors": [
+    "Hyeon-ah Oh"
+   ],
+   "date": "2026-10-30",
+   "venue": "",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "education"
+   ],
+   "url": "https://doi.org/10.37736/kjlr.2026.10.17.5.24",
+   "source": "openalex",
+   "added": "2026-11-26",
+   "titleKo": "중국 조선어 문체와 북한 문체의 서사 변이 양상 분석 －김광수 외. (2010), 리정용(2005)"
   },
   {
    "id": "doi:10.1080/09557571.2026.2752955",
