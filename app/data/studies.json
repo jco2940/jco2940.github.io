@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "items": [
   {
    "id": "doi:10.12987/9780300291841-013",
@@ -16,6 +16,24 @@
    "source": "crossref",
    "added": "2026-11-02",
    "titleKo": "부록 C: 북한의 인권, 거버넌스, 발전을 모니터링하고 발전시키는 주요 기관"
+  },
+  {
+   "id": "doi:10.7488/era/8096",
+   "title": "CIA’s analysis of Chinese and North Korean politics during the Cold War: forgotten and set up for failure",
+   "authors": [
+    "Nick J. S. Miller"
+   ],
+   "date": "2026-11-25",
+   "venue": "University of Edinburgh",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "politics"
+   ],
+   "url": "https://doi.org/10.7488/era/8096",
+   "source": "openalex",
+   "added": "2026-11-27",
+   "titleKo": "냉전 시기 중국과 북한 정치에 대한 CIA의 분석: 잊혀지고 실패하도록 설정됨"
   },
   {
    "id": "doi:10.1080/09585192.2026.2762372",
@@ -2601,6 +2619,28 @@
    "source": "openalex",
    "added": "2026-10-22",
    "titleKo": "북한 단편소설에 나타난 여성과 공간정치의 재현 : 김정은 시대 '조선문학'에 대한 연구"
+  },
+  {
+   "id": "doi:10.35303/spf.2026.08.48.109",
+   "title": "The Exhibition of North Korean Folklore and the Reconstruction of Space – Focusing on Folk Streets and Folk Parks -",
+   "authors": [
+    "Hyeokhui Kwom"
+   ],
+   "date": "2026-08-31",
+   "venue": "실천민속학연구",
+   "countries": [
+    "KR"
+   ],
+   "lang": "en",
+   "topics": [
+    "economy",
+    "education",
+    "politics"
+   ],
+   "url": "https://doi.org/10.35303/spf.2026.08.48.109",
+   "source": "openalex",
+   "added": "2026-11-27",
+   "titleKo": "북한민속전시와 공간의 재구성 - 민속거리와 민속공원을 중심으로 -"
   },
   {
    "id": "doi:10.56022/ceas.2026.32.2.125",
