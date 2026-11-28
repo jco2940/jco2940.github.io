@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "items": [
   {
    "id": "doi:10.12987/9780300291841-013",
@@ -16,6 +16,28 @@
    "source": "crossref",
    "added": "2026-11-02",
    "titleKo": "부록 C: 북한의 인권, 거버넌스, 발전을 모니터링하고 발전시키는 주요 기관"
+  },
+  {
+   "id": "doi:10.60602/130m-xf92",
+   "title": "Review: Politics of the North Korean Diaspora",
+   "authors": [
+    "Anqi Gao",
+    "Cathcart Adam"
+   ],
+   "date": "2026-11-26",
+   "venue": "Leiden Repository (Leiden University)",
+   "countries": [
+    "GB"
+   ],
+   "lang": "en",
+   "topics": [
+    "diaspora",
+    "politics"
+   ],
+   "url": "https://doi.org/10.60602/130m-xf92",
+   "source": "openalex",
+   "added": "2026-11-28",
+   "titleKo": "리뷰: 북한 디아스포라의 정치"
   },
   {
    "id": "doi:10.7488/era/8096",
@@ -547,6 +569,25 @@
    "source": "openalex",
    "added": "2026-11-06",
    "titleKo": "2026년 의학저널에 실린 북한의 건강혁명"
+  },
+  {
+   "id": "doi:10.47116/apjcri.2026.11.18",
+   "title": "North Korean Security Risk and Korean Stock Market Responses: A Comparative Analysis of Global Uncertainty and Market Conditions",
+   "authors": [
+    "Byungchae Kim",
+    "Hanjun Lee"
+   ],
+   "date": "2026-11-01",
+   "venue": "Asia-pacific Journal of Convergent Research Interchange",
+   "countries": [],
+   "lang": "en",
+   "topics": [
+    "economy"
+   ],
+   "url": "https://doi.org/10.47116/apjcri.2026.11.18",
+   "source": "openalex",
+   "added": "2026-11-28",
+   "titleKo": "북한 안보위험과 한국 증시 대응: 글로벌 불확실성과 시장상황 비교 분석"
   },
   {
    "id": "doi:10.64725/kjft.2026.12.2.51",
